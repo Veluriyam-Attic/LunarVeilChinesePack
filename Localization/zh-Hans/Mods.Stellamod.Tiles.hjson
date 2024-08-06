@@ -1,0 +1,155 @@
+VeriplantGrass.MapEntry: 殆绿草
+VeriplantDirt.MapEntry: 殆绿土
+VerianoreTile.MapEntry: 琥影矿纹片
+VeilScripture.MapEntry: 殆绿经笈*我没有找到这个在哪出现，如果您发现了请微信告我，非常谢谢
+SunAlter.MapEntry: 辉映耀坛*我没有找到这个在哪出现，如果您发现了请微信告我，非常谢谢
+wall7.MapEntry: 墙7
+wall6.MapEntry: 墙6
+wall5.MapEntry: 墙5
+wall4.MapEntry: 墙4
+wall3.MapEntry: 墙3
+wall2.MapEntry: 墙2
+wall1.MapEntry: 墙1
+UnstableRift.MapEntry: 黑渊影隙*我没有找到这个在哪出现，如果您发现了请微信告我，非常谢谢
+StoneChest.MapEntry: 石心箱
+stand.MapEntry: 架N
+SpikeS.MapEntry: 木刺S
+SmallShroomS.MapEntry: 小蘑菇S
+PotmedS.MapEntry: 花瓶S
+MushroomBigS.MapEntry: 大蘑菇S
+MorrowStoneS.MapEntry: 幽曦石S
+MorrowDeathS.MapEntry: 锈影剑骨S
+MorrowDeath2S.MapEntry: 锈影剑骨2S
+MorrowChest.MapEntry: 幽曦箱
+LogS.MapEntry: 木桩S
+GrassMossS.MapEntry: 草苔藓S
+GrassBigS.MapEntry: 石苔S
+VerliasShrine.MapEntry: 薇莉亚月华圣坛*我没有找到这个在哪出现，如果您发现了请微信告我，非常谢谢
+Orb1.MapEntry: 晶月辉体*我没有找到这个在哪出现，如果您发现了请微信告我，非常谢谢
+FlowerMulti.MapEntry: 棱花石堆*我没有找到这个在哪出现，如果您发现了请微信告我，非常谢谢
+Crystal2.MapEntry: 月夜晶棘2
+Crystal1.MapEntry: 月夜晶棘1
+CathedralChest.MapEntry: 穹月仪殿宝箱
+BenchS.MapEntry: 荒芜长椅S
+BarS.MapEntry: 架S
+Zebi.MapEntry: Zebi
+VheilCurtainRight.MapEntry: Vheil Curtain Right
+VheilCurtainLeft.MapEntry: Vheil Curtain Left
+RestingGrounds.MapEntry: Resting Grounds
+MasistRight.MapEntry: Masist Right
+MasistLeft.MapEntry: Masist Left
+JackPost.MapEntry: Jack Post
+GovheilWei.MapEntry: Govheil Wei
+GovheilWall.MapEntry: Govheil Wall
+GovheilHall.MapEntry: Govheil Hall
+GovheilBore.MapEntry: Govheil Bore
+GothivDoorClosed.MapEntry: Gothiv Door Closed
+Gothiv.MapEntry: Gothiv
+CurtainRight.MapEntry: Curtain Right
+CurtainLeft.MapEntry: Curtain Left
+StarbloomDirt.MapEntry: Starbloom Dirt
+ShrineBridgetC.MapEntry: Shrine Bridget C
+ShrineSolMothC.MapEntry: Shrine Sol Moth C
+ShrineLights.MapEntry: Shrine Lights
+ShrineLifeC.MapEntry: Shrine Life C
+ShrineHalhurishC.MapEntry: Shrine Halhurish C
+ShrineGardenWreckerC.MapEntry: Shrine Garden Wrecker C
+ShrineBUAN.MapEntry: Shrine B U A N
+ShrineAlcaPowderC.MapEntry: Shrine Alca Powder C
+RunicTableT.MapEntry: Runic Table T
+Skullpile.MapEntry: Skullpile
+Rectite.MapEntry: Rectite
+CurtainTop.MapEntry: Curtain Top
+CurtainRightRC.MapEntry: Curtain Right R C
+CurtainLeftRC.MapEntry: Curtain Left R C
+AowerTop.MapEntry: Aower Top
+AowerBottom.MapEntry: Aower Bottom
+Alcite.MapEntry: Alcite
+MossyStone.MapEntry: Mossy Stone
+LostScrapT.MapEntry: Lost Scrap T
+HuntiacTile.MapEntry: Huntiac Tile
+GovheilTile.MapEntry: Govheil Tile
+FrileOreTile.MapEntry: Frile Ore Tile
+MechanicS.MapEntry: Mechanic S
+DrakonSileS.MapEntry: Drakon Sile S
+DrakonHallS.MapEntry: Drakon Hall S
+DrakonCageS.MapEntry: Drakon Cage S
+DiminishedMetal.MapEntry: Diminished Metal
+CoreGemT.MapEntry: Core Gem T
+CinderChest.MapEntry: Cinder Chest
+ChiseledStone.MapEntry: Chiseled Stone
+CellConverter.MapEntry: Cell Converter
+CatacombsSummon.MapEntry: Catacombs Summon
+CatacombsDoorClosed.MapEntry: Catacombs Door Closed
+BroochesTable.MapEntry: Brooches Table
+AstrasilkOreTile.MapEntry: Astrasilk Ore Tile
+Arnchar.MapEntry: Arnchar
+TreeOver2.MapEntry: Tree Over2
+TreeOver1.MapEntry: Tree Over1
+Stalagmite4.MapEntry: Stalagmite4
+Stalagmite3.MapEntry: Stalagmite3
+Stalagmite2.MapEntry: Stalagmite2
+Stalagmite1.MapEntry: Stalagmite1
+OwlTrunck3.MapEntry: Owl Trunck3
+OwlTrunck2.MapEntry: Owl Trunck2
+OwlTrunck1.MapEntry: Owl Trunck1
+BigRock4.MapEntry: Big Rock4
+BigRock3.MapEntry: Big Rock3
+BigRock2.MapEntry: Big Rock2
+BigRock1.MapEntry: Big Rock1
+AlcaologyTable.MapEntry: Alcaology Table
+AcidStone.MapEntry: Acid Stone
+AcidMush3.MapEntry: Acid Mush3
+AcidMush2.MapEntry: Acid Mush2
+AcidMush1.MapEntry: Acid Mush1
+AcidialDirt.MapEntry: Acidial Dirt
+AcidBush3.MapEntry: Acid Bush3
+AcidBush2.MapEntry: Acid Bush2
+AcidBush1.MapEntry: Acid Bush1
+AcidBrick.MapEntry: Acid Brick
+TealBulb3.MapEntry: Teal Bulb3
+TealBulb2.MapEntry: Teal Bulb2
+TealBulb.MapEntry: Teal Bulb
+SoulOre.MapEntry: Soul Ore
+Rallad.MapEntry: Rallad
+BlueFlower2.MapEntry: Blue Flower2
+BlueFlower.MapEntry: Blue Flower
+AurelusSummon.MapEntry: Aurelus Summon
+AurelusPost.MapEntry: Aurelus Post
+AurelusDoorClosed.MapEntry: Aurelus Door Closed
+AurelusChest.MapEntry: Aurelus Chest
+AurelusBorderS.MapEntry: Aurelus Border S
+AbyssalStone.MapEntry: Abyssal Stone
+LabCrystal.MapEntry: Lab Crystal
+LabsS.MapEntry: Labs S
+IlluriaLeafTile.MapEntry: Illuria Leaf Tile
+IlluriaTreesmall.MapEntry: Illuria Treesmall
+IlluriaTreeBig.MapEntry: Illuria Tree Big
+IlluriaBranch.MapEntry: Illuria Branch
+IlluriaChest.MapEntry: Illuria Chest
+Mushroom1.MapEntry: Mushroom1
+Mushroom2.MapEntry: Mushroom2
+Mushroom3.MapEntry: Mushroom3
+AzurerinPainting.MapEntry: Azurerin Painting
+GothiviaPainting.MapEntry: Gothivia Painting
+LunarPot.MapEntry: Lunar Pot
+SigfriedPainting.MapEntry: Sigfried Painting
+VeilBanner1.MapEntry: Veil Banner1
+VeilBanner2.MapEntry: Veil Banner2
+CozmirePainting.MapEntry: Cozmire Painting
+IshtarChest.MapEntry: Ishtar Chest
+IshtarCandles.MapEntry: Ishtar Candles
+BushyWebss.MapEntry: Bushy Webss
+BushySticks.MapEntry: Bushy Sticks
+BushyEyes.MapEntry: Bushy Eyes
+IshtarDoorClosed.MapEntry: Ishtar Door Closed
+IshtarMoss.MapEntry: Ishtar Moss
+IshtarWeb1.MapEntry: Ishtar Web1
+IshtarWeb2.MapEntry: Ishtar Web2
+IshtarWeb3.MapEntry: Ishtar Web3
+IshtarWeb4.MapEntry: Ishtar Web4
+Robic.MapEntry: Robic
+SpiderIdol.MapEntry: Spider Idol
+TreeOver3.MapEntry: Tree Over3
+SmallVeilPot.MapEntry: Small Veil Pot
+LumiPainting.MapEntry: Lumi Painting

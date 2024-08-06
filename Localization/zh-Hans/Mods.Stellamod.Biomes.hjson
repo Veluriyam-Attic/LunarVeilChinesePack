@@ -1,0 +1,119 @@
+XixVillage: {
+	TownNPCDialogueName: 希克斯村
+	DisplayName: 希克斯村
+}
+
+VeriplantUndergroundBiome: {
+	TownNPCDialogueName: 地下殆绿之地
+	DisplayName: 地下殆绿之地
+}
+
+StarbloomBiome: {
+	TownNPCDialogueName: 星绽之地
+	DisplayName: 星绽之地
+}
+
+SeaTemple: {
+	TownNPCDialogueName: 渊海秘殿
+	DisplayName: 渊海秘殿
+}
+
+NaxtrinTemple: {
+	TownNPCDialogueName: the Naxtrin Temple
+	DisplayName: Naxtrin Temple
+}
+
+MorrowUndergroundBiome: {
+	TownNPCDialogueName: 地下幽曦之地
+	DisplayName: 地下幽曦之地
+}
+
+MarrowSurfaceBiome: {
+	TownNPCDialogueName: 地表幽曦之地
+	DisplayName: 地表幽曦之地
+}
+
+GovheilCastle: {
+	TownNPCDialogueName: 歌维赫堡
+	DisplayName: 歌维赫堡
+}
+
+FableBiome: {
+	TownNPCDialogueName: the Fable Biome
+	DisplayName: Fable Biome
+}
+
+EngineerShop: {
+	TownNPCDialogueName: The Engineer Shop
+	DisplayName: Engineer Shop
+}
+
+DrakonicManor: {
+	TownNPCDialogueName: the Drakonic Manor
+	DisplayName: Drakonic Manor
+}
+
+CindersparkBiome: {
+	TownNPCDialogueName: the Cinderspark Biome
+	DisplayName: Cinderspark Biome
+}
+
+CathedralBiome: {
+	TownNPCDialogueName: 穹月仪殿
+	DisplayName: 穹月仪殿
+}
+
+CatacombWater: {
+	TownNPCDialogueName: the Catacomb Water
+	DisplayName: Catacomb Water
+}
+
+CatacombTrap: {
+	TownNPCDialogueName: the Catacomb Trap
+	DisplayName: Catacomb Trap
+}
+
+CatacombFlames: {
+	TownNPCDialogueName: the Catacomb Flames
+	DisplayName: Catacomb Flames
+}
+
+AurelusBiome: {
+	TownNPCDialogueName: the Aurelus Biome
+	DisplayName: Aurelus Biome
+}
+
+AlcadziaBiome: {
+	TownNPCDialogueName: the Alcadzia Biome
+	DisplayName: Alcadzia Biome
+}
+
+AcidBiome: {
+	TownNPCDialogueName: the Acid Biome
+	DisplayName: Acid Biome
+}
+
+AbyssBiome: {
+	TownNPCDialogueName: the Abyss Biome
+	DisplayName: Abyss Biome
+}
+
+Laboratory: {
+	DisplayName: Laboratory
+	TownNPCDialogueName: the Laboratory
+}
+
+IlluriaBiome: {
+	TownNPCDialogueName: the Illuria Biome
+	DisplayName: Illuria Biome
+}
+
+IshtarBiome: {
+	TownNPCDialogueName: the Ishtar Biome
+	DisplayName: Ishtar Biome
+}
+
+VeilBiome: {
+	TownNPCDialogueName: the Veil Biome
+	DisplayName: Veil Biome
+}
