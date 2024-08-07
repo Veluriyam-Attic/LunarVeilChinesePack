@@ -6,6 +6,7 @@ Aimacra 安魅凯拉
 #B
 
 #C
+Cinderspark 炽星烬土
 Cozmire 堕悼者
 #D
 Daedus 代达罗斯
@@ -15,7 +16,8 @@ Dread Mire 绛渊恶巫
 
 #F
 Fable / Fable Biome古谕遗境 
-Fenix  凤涅克丝#G
+Fenix  凤涅克丝
+#G
 Gintzia 金戈亚
 Gothivia歌瑟梵
 Govheil 歌维赫
