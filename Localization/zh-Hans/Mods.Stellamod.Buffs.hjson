@@ -1,21 +1,21 @@
 VoidMinionBuff: {
-	Description: OAJSIODJASIODJISA
-	DisplayName: Void Minion Buff
+	Description: 嗡嗡嗡.........
+	DisplayName: 虚空仆从
 }
 
 TheBurningRodMinionBuff: {
-	Description: It burns with passion
-	DisplayName: The Burning Rod Buff
+	Description: 它燃烧着激情
+	DisplayName: 炽焰火棍
 }
 
 SwarmerMinionBuff: {
-	Description: Getting swarmed
-	DisplayName: Swarmer Minion Buff
+	Description: 蜂拥而至
+	DisplayName: 蜂群
 }
 
 SolMothMinionBuff: {
-	Description: Ooo a moth!~
-	DisplayName: Sol Moth Buff
+	Description: 哦~一只飞蛾！
+	DisplayName: 光之蛾
 }
 
 ProbeMinionBuff: {
