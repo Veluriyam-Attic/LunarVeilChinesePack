@@ -2,13 +2,13 @@ AmethystBrooch.DisplayName: 紫晶饰符
 AurelusBlightBrooch.DisplayName: 匿影饰符
 BearBrooch.DisplayName: 蛮熊饰符
 BonedBrooch.DisplayName: 掷骨手饰符
-BurningGBrooch.DisplayName: Burning G Brooch
+BurningGBrooch.DisplayName: 遗忘卫视饰符
 DiariBrooch.DisplayName: Diari饰符
 DreadBrooch.DisplayName: 恐惧恶巫之饰符
 FlyfishBrooch.DisplayName: 飞鱼饰符
 FrileBrooch.DisplayName: 月冰饰符
 FrileBroochP.DisplayName: 月冰饰符
-GintzlBrooch.DisplayName: Gintzl Brooch
+GintzlBrooch.DisplayName: 古玄铁饰符
 GovheilHolsterBrooch.DisplayName: 歌维赫的蕴魔饰符
 JellyBrooch.DisplayName: 水母饰符
 LuckyWinnerBrooch.DisplayName: 赌神饰符
@@ -18,17 +18,17 @@ MorrowedBrooch.DisplayName: 幽曦饰符
 RoseBrooch.DisplayName: 玫瑰饰符
 SandyBrooch.DisplayName: 沙漠风符
 SlimeBrooch.DisplayName: 萌萌史莱姆饰符
-SpragaldBrooch.DisplayName: Spragald Brooch
+SpragaldBrooch.DisplayName: 蜘蛛饰符
 Spragald.DisplayName: Spragald
 StoneBrooch.DisplayName: 顽石饰符
 VerliaBrooch.DisplayName: 薇莉亚饰符
-VerliaBroochP.DisplayName: 薇莉亚饰符P
-VerliaBroochP2.DisplayName: 薇莉亚饰符P2
-VerliaBroochP3.DisplayName: 薇莉亚饰符P3
-VixedBrooch.DisplayName: Vixed Brooch
+VerliaBroochP.DisplayName: 薇莉亚饰符
+VerliaBroochP2.DisplayName: 薇莉亚饰符
+VerliaBroochP3.DisplayName: 薇莉亚饰符
+VixedBrooch.DisplayName: 威克斯饰符
 SmileForCamera.DisplayName: 对镜头微笑
 DetonationBomb.DisplayName: 爆破
-WindeffectGintzl.DisplayName: 刮风效果Gintzl
+WindeffectGintzl.DisplayName: 刮风效果
 Windeffect.DisplayName: 刮风效果
 MasteryofMagic.DisplayName: 魔法掌控
 Artbar.DisplayName: 灵感条
@@ -38,7 +38,7 @@ GovheilBows.DisplayName: 歌维赫之弓
 GovheilBowsProj.DisplayName: 歌维赫之箭
 GovheilSwords.DisplayName: 歌维赫之剑
 LovestruckP.DisplayName: 坠入爱河
-Noti.DisplayName: Noti
+Noti.DisplayName: 诺提
 EpsidonInsourceProj.DisplayName: 内容增益
 FloweredInsourceProj.DisplayName: 内容鲜花
 HealthyInsourceProj.DisplayName: 内容生命
@@ -54,222 +54,222 @@ CloudMinion.DisplayName: 云随从
 Drippler.DisplayName: 滴滴怪
 FCMinion.DisplayName: F C随从
 FireflyMinion.DisplayName: 萤火虫随从
-HMArncharMinionLeft.DisplayName: H M赤铁随从左
-HMArncharMinionRight.DisplayName: H M赤铁随从右
-IceboundMinion.DisplayName: 
-IrradiatedCreeper2.DisplayName: Irradiated Creeper2
-Ivyaken.DisplayName: Ivyaken
-JacksonPollockMinion.DisplayName: Jackson Pollock Minion
-JellyMinion.DisplayName: Jelly Minion
-MushroomStaveMinion.DisplayName: Mushroom Stave Minion
-MushroomStaveMinionProg.DisplayName: Mushroom Stave Minion Prog
-PotOfGreedMinion.DisplayName: Pot Of Greed Minion
-SolMothMinion.DisplayName: Sol Moth Minion
-SwarmerMinion.DisplayName: Swarmer Minion
-TheBurningRodMinion.DisplayName: The Burning Rod Minion
-ToxicHornetMinion.DisplayName: Toxic Hornet Minion
-VampireTorchMinion.DisplayName: Vampire Torch Minion
-VehementMinion.DisplayName: Vehement Minion
-VoidMinion.DisplayName: Void Minion
-ProbeMinion.DisplayName: Probe Minion
-XScissorMinion.DisplayName: X Scissor Minion
-CaevaBubble.DisplayName: Caeva Bubble
-CaevaSpawnEffect.DisplayName: Caeva Spawn Effect
-TidalWave.DisplayName: Tidal Wave
-BouncySword.DisplayName: Bouncy Sword
-FlameTornado.DisplayName: Flame Tornado
-LanturnSpear.DisplayName: Lanturn Spear
-LanturnSpear2.DisplayName: Lanturn Spear2
-SummonSpawnEffect.DisplayName: Summon Spawn Effect
-VoidBomb.DisplayName: Void Bomb
-DaedusBombExplosion.DisplayName: Daedus Bomb Explosion
-DLantern.DisplayName: D Lantern
-DreadBone.DisplayName: Dread Bone
-DreadFire.DisplayName: Dread Fire
-DreadHand.DisplayName: Dread Hand
-Dreadlighting.DisplayName: Dreadlighting
-DreadlightingBig.DisplayName: Dreadlighting Big
-DreadMireDash.DisplayName: Dread Mire Dash
-DreadMireMagic.DisplayName: Dread Mire Magic
-DreadSkull.DisplayName: Dread Skull
-DreadSpawnEffect.DisplayName: Dread Spawn Effect
-DreadSpawnEffectSmol.DisplayName: Dread Spawn Effect Smol
-FinalBeam.DisplayName: Final Beam
-DreadMiresHeartEye.DisplayName: Dread Mires Heart Eye
-DreadMiresHeartVomit1.DisplayName: Dread Mires Heart Vomit1
-RedSkull.DisplayName: Red Skull
-TerrorBeam.DisplayName: Terror Beam
-BLACKHOLE.DisplayName: B L A C K H O L E
-FoxRusher.DisplayName: Fox Rusher
-AlcShot.DisplayName: Alc Shot
-Aldox.DisplayName: Aldox
-Angelu.DisplayName: Angelu
-CrileShot.DisplayName: Crile Shot
-FenixBlade1.DisplayName: Fenix Blade
-FenixBlade2.DisplayName: Fenix Blade
-FenixBlade4.DisplayName: Fenix Blade
-FenixBlade5.DisplayName: Fenix Blade
-FenixBlade6.DisplayName: Fenix Blade
-FenixHold.DisplayName: Fenix Hold
-NekoNeko.DisplayName: Neko Neko
-NiceBuster.DisplayName: Nice Buster
-Slashers.DisplayName: Slashers
-SpawnFen.DisplayName: Spawn Fenix
-Yumikoo.DisplayName: Yumiko
-FlameArrow.DisplayName: Flame Arrow
-FlameBlast.DisplayName: Flame Blast
-Helios.DisplayName: Helios
-LaserShooterFirstPhase.DisplayName: Laser Shooter
-Music1.DisplayName: Music
-Music2.DisplayName: Music
-Speechbubble.DisplayName: Speechbubble
-RekEye2.DisplayName: Rek Eye
-RekGreek1.DisplayName: Rek Greek
-RekLava3.DisplayName: Rek Lava
-AcidicZap.DisplayName: Acidic Zap
-AEgg.DisplayName: A Egg
-CommunicationRay.DisplayName: Communication Ray
-DesperationRay.DisplayName: Desperation Ray
-AcidBlast.DisplayName: Acid Blast
-AcidBolt.DisplayName: Acid Bolt
-AcidFlame.DisplayName: Acid Flame
-ToxicMissile.DisplayName: Toxic Missile
-ToxicNuke.DisplayName: Toxic Nuke
-FallingHay.DisplayName: Falling Hay
-JackFire.DisplayName: Jack Fire
-JackFire2.DisplayName: Jack Fire2
-JackoBall.DisplayName: Jacko Ball
-JackSpawnEffect.DisplayName: Jack Spawn Effect
-JackSpawnRay.DisplayName: Jack Spawn Ray
-JackWarning.DisplayName: Jack Warning
-JackWarning2.DisplayName: Jack Warning2
-MossBall.DisplayName: Moss Ball
-AbyssalChargeProjectile.DisplayName: Abyssal Charge Projectile
-AbyssalChargeProjectile2.DisplayName: Abyssal Charge Projectile2
-AbyssWave.DisplayName: Abyss Wave
-PulsarBeam.DisplayName: Pulsar Beam
-RuneSpawnEffect.DisplayName: Rune Spawn Effect
-RuneSpawnEffect2.DisplayName: Rune Spawn Effect2
-SoulBeam.DisplayName: Soul Beam
-SoulBlast.DisplayName: Soul Blast
-VoidBeam.DisplayName: Void Beam
-VoidBeamIN.DisplayName: Void Beam I N
-VoidFlame.DisplayName: Void Flame
-BULLET.DisplayName: B U L L E T
-SINESTAR.DisplayName: S I N E S T A R
-SMALLBOMB.DisplayName: S M A L L B O M B
-STARBEAM.DisplayName: S T A R B E A M
-STARDREAM.DisplayName: S T A R D R E A M
-STARRAY.DisplayName: S T A R R A Y
-STARSHOTT.DisplayName: S T A R S H O T T
-STARSPAWNEFFECT.DisplayName: S T A R S P A W N E F F E C T
-STRIKEBULLET.DisplayName: S T R I K E B U L L E T
-STRIKEBULLET2.DisplayName: S T R I K E B U L L E T
-STARBOMBERGUN2.DisplayName: S T A R B O M B E R G U N
-BigRock.DisplayName: Big Rock
-CosButterfly.DisplayName: Cos Butterfly
-Flowder.DisplayName: Flowder
-Flowing.DisplayName: Flowing
-GroundSpike.DisplayName: Ground Spike
-Rock.DisplayName: Rock
-Rock2.DisplayName: Rock2
-SineButterfly.DisplayName: Sine Butterfly
-SineButterflyfriendly.DisplayName: Sine Butterflyfriendly
-SmallRock.DisplayName: Small Rock
-SmallRock2.DisplayName: Small Rock
-SpikeBullet.DisplayName: Spike Bullet
-StarBullet.DisplayName: Star Bullet
-StarSpike.DisplayName: Star Spike
-SunBomb.DisplayName: Sun Bomb
-SunDeath.DisplayName: Sun Death
-SunFeather.DisplayName: Sun Feather
-SunRock.DisplayName: Sun Rock
-SyliaScissor.DisplayName: Sylia Scissor
-SyliaScissorSmall.DisplayName: Sylia Scissor Small
-SyliaScissorSmall2.DisplayName: Sylia Scissor Small
-VoidBall.DisplayName: Void Ball
-VoidBolt.DisplayName: Void Bolt
-VoidDrip.DisplayName: Void Drip
-VoidHorizontalRift.DisplayName: Void Horizontal Rift
-VoidSlash.DisplayName: Void Slash
-VoidVortex.DisplayName: Void Vortex
-VoidWallEater.DisplayName: Void Wall Eater
-VoidWallEaterMini.DisplayName: Void Wall Eater Mini
-VeiizalBeam.DisplayName: Veiizal Beam
-VeiizalBullet.DisplayName: Veiizal Bullet
-Veiizallighting.DisplayName: Veiizallighting
-BackgroundOrb.DisplayName: Background Orb
-FrostShot.DisplayName: Frost Shot
-FrostShot2.DisplayName: Frost Shot2
-FrostShotIN.DisplayName: Frost Shot I N
-MoonBladeTrail.DisplayName: Moon Blade Trail
-MoonOut.DisplayName: Moon Out
-Notia.DisplayName: Notia
-Sigil.DisplayName: Sigil
-SineSword.DisplayName: Sine Sword
-SlashHold.DisplayName: Slash Hold
-SlashLeft.DisplayName: Slash Left
-SlashRight.DisplayName: Slash Right
-Strummer.DisplayName: Strummer
-AltideSword.DisplayName: Altide Sword
-Sword1F.DisplayName: Sword1 F
-Sword2F.DisplayName: Sword2 F
-Sword3F.DisplayName: Sword3 F
-TheMoon.DisplayName: The Moon
-VerliaBlade.DisplayName: Verlia Blade
-VerliaHeadScreen.DisplayName: Verlia Head Screen
-VerliaText1.DisplayName: Verlia Text1
-VerliaText2.DisplayName: Verlia Text2
-HeatBeam.DisplayName: Heat Beam
-IronNail.DisplayName: Iron Nail
-IronNailLodged.DisplayName: Iron Nail Lodged
-IronNeedle.DisplayName: Iron Needle
-SpikeBall.DisplayName: Spike Ball
-SparnCageNode.DisplayName: Sparn Cage Node
-SparnSkull.DisplayName: Sparn Skull
-WaterBolt.DisplayName: Water Bolt
-WaterBomb.DisplayName: Water Bomb
-WaterSplitBomb.DisplayName: Water Split Bomb
+HMArncharMinionLeft.DisplayName: 赤铁随从左
+HMArncharMinionRight.DisplayName: 赤铁随从右
+IceboundMinion.DisplayName: 冰缚随从
+IrradiatedCreeper2.DisplayName: 辐射蜘蛛
+Ivyaken.DisplayName: 常春藤灵
+JacksonPollockMinion.DisplayName: 杰克逊·波洛克随从
+JellyMinion.DisplayName: 水母随从
+MushroomStaveMinion.DisplayName: 蘑菇随从
+MushroomStaveMinionProg.DisplayName: 蘑菇随从弹幕
+PotOfGreedMinion.DisplayName: 贪婪鼎镬随从
+SolMothMinion.DisplayName: 日能飞蛾随从
+SwarmerMinion.DisplayName: 蚁狮蜂随从
+TheBurningRodMinion.DisplayName: 烬焰杖随从
+ToxicHornetMinion.DisplayName: 剧毒黄蜂随从
+VampireTorchMinion.DisplayName: 吸血火炬随从
+VehementMinion.DisplayName: 激放狂想曲随从
+VoidMinion.DisplayName: 虚空随从
+ProbeMinion.DisplayName: 探针随从
+XScissorMinion.DisplayName: X剪刀随从
+CaevaBubble.DisplayName: 凯瓦泡泡
+CaevaSpawnEffect.DisplayName: 凯瓦生成特效
+TidalWave.DisplayName: 巨浪
+BouncySword.DisplayName: 弹跳剑X
+FlameTornado.DisplayName: 火焰旋风
+LanturnSpear.DisplayName: 兰顿矛
+LanturnSpear2.DisplayName: 兰顿矛
+SummonSpawnEffect.DisplayName: 召唤特效
+VoidBomb.DisplayName: 虚无爆弹
+DaedusBombExplosion.DisplayName: 代达斯爆炸
+DLantern.DisplayName: 恐惧之灯
+DreadBone.DisplayName: 恐惧之骨
+DreadFire.DisplayName: 恐惧之火
+DreadHand.DisplayName: 恐惧之手
+Dreadlighting.DisplayName: 恐惧闪电
+DreadlightingBig.DisplayName: 大型恐惧闪电
+DreadMireDash.DisplayName: 绛渊恶巫冲刺
+DreadMireMagic.DisplayName: 绛渊恶巫之魔法
+DreadSkull.DisplayName: 恐惧骷髅
+DreadSpawnEffect.DisplayName: 恐惧生成特效
+DreadSpawnEffectSmol.DisplayName: 小型恐惧生成特效
+FinalBeam.DisplayName: 最终光束
+DreadMiresHeartEye.DisplayName: 绛渊恶巫心脏眼
+DreadMiresHeartVomit1.DisplayName: 绛渊恶巫心脏喷吐
+RedSkull.DisplayName: 红色骷髅
+TerrorBeam.DisplayName: 恐惧射线
+BLACKHOLE.DisplayName: 黑 洞
+FoxRusher.DisplayName: 冲锋狐
+AlcShot.DisplayName: 阿尔卡弹
+Aldox.DisplayName: 阿尔多斯
+Angelu.DisplayName: 安格鲁
+CrileShot.DisplayName: 陨坑弹
+FenixBlade1.DisplayName: 凤涅克丝之刃
+FenixBlade2.DisplayName: 凤涅克丝之刃
+FenixBlade4.DisplayName: 凤涅克丝之刃
+FenixBlade5.DisplayName: 凤涅克丝之刃
+FenixBlade6.DisplayName: 凤涅克丝之刃
+FenixHold.DisplayName: 凤涅克丝之爪
+NekoNeko.DisplayName: 喵喵
+NiceBuster.DisplayName: 破坏者
+Slashers.DisplayName: 利刃
+SpawnFen.DisplayName: 凤涅克丝召唤
+Yumikoo.DisplayName: 由美子
+FlameArrow.DisplayName: 火焰箭
+FlameBlast.DisplayName: 火炎爆
+Helios.DisplayName: 泰坦烈日
+LaserShooterFirstPhase.DisplayName: 激光发射器
+Music1.DisplayName: 音乐
+Music2.DisplayName: 音乐
+Speechbubble.DisplayName: 对话框
+RekEye2.DisplayName: 莱克之眼
+RekGreek1.DisplayName: 莱克希腊
+RekLava3.DisplayName: 莱克熔岩
+AcidicZap.DisplayName: 酸液束
+AEgg.DisplayName: 卵
+CommunicationRay.DisplayName: 通讯光束
+DesperationRay.DisplayName: 终极射线
+AcidBlast.DisplayName: 酸液弹
+AcidBolt.DisplayName: 酸液击
+AcidFlame.DisplayName: 酸蚀火焰
+ToxicMissile.DisplayName: 剧毒飞弹
+ToxicNuke.DisplayName: 剧毒核弹
+FallingHay.DisplayName: 掉落干草
+JackFire.DisplayName: 杰克灯笼火
+JackFire2.DisplayName: 杰克灯笼火
+JackoBall.DisplayName: 杰克球
+JackSpawnEffect.DisplayName: 杰克生成特效
+JackSpawnRay.DisplayName: 杰克生成光束
+JackWarning.DisplayName: 杰克预警线1
+JackWarning2.DisplayName: 杰克预警线2
+MossBall.DisplayName: 苔藓球
+AbyssalChargeProjectile.DisplayName: 深渊飞弹
+AbyssalChargeProjectile2.DisplayName: 深渊飞弹
+AbyssWave.DisplayName: 深渊涌动波
+PulsarBeam.DisplayName: 脉冲射线
+RuneSpawnEffect.DisplayName: 符文生成特效
+RuneSpawnEffect2.DisplayName: 符文生成特效
+SoulBeam.DisplayName: 灵魂射线
+SoulBlast.DisplayName: 灵魂爆弹
+VoidBeam.DisplayName: 深渊射线
+VoidBeamIN.DisplayName: 深渊射线
+VoidFlame.DisplayName: 深渊烈火
+BULLET.DisplayName: 飞 弹
+SINESTAR.DisplayName: 波 动 之 星
+SMALLBOMB.DisplayName: 小 型 星 爆 弹
+STARBEAM.DisplayName: 星 激 光
+STARDREAM.DisplayName: 星 梦
+STARRAY.DisplayName: 星 射 线
+STARSHOTT.DisplayName: 星 弹
+STARSPAWNEFFECT.DisplayName: 星 星 生 成 特 效
+STRIKEBULLET.DisplayName: 突 击 弹
+STRIKEBULLET2.DisplayName: 突 击 弹
+STARBOMBERGUN2.DisplayName: 恒 星 轰 炸 械 之 枪
+BigRock.DisplayName: 大石头
+CosButterfly.DisplayName: 紊波蝴蝶
+Flowder.DisplayName: 流体
+Flowing.DisplayName: 流动
+GroundSpike.DisplayName: 地刺
+Rock.DisplayName: 石头
+Rock2.DisplayName: 石头
+SineButterfly.DisplayName: 紊波蝴蝶
+SineButterflyfriendly.DisplayName: 友好紊波蝴蝶
+SmallRock.DisplayName: 小石头
+SmallRock2.DisplayName: 小石头
+SpikeBullet.DisplayName: 尖刺弹
+StarBullet.DisplayName: 星弹
+StarSpike.DisplayName: 星光刺
+SunBomb.DisplayName: 烈阳爆弹
+SunDeath.DisplayName: 烈阳衰亡
+SunFeather.DisplayName: 烈阳羽
+SunRock.DisplayName: 阳焰飞石
+SyliaScissor.DisplayName: 赛莉亚剪刀
+SyliaScissorSmall.DisplayName: 小型赛莉亚剪刀
+SyliaScissorSmall2.DisplayName: 小型赛莉亚剪刀
+VoidBall.DisplayName: 虚空球
+VoidBolt.DisplayName: 虚空矢
+VoidDrip.DisplayName: 滴落虚空
+VoidHorizontalRift.DisplayName: 横向虚空裂隙
+VoidSlash.DisplayName: 虚空斩
+VoidVortex.DisplayName: 虚空漩涡
+VoidWallEater.DisplayName: 虚空吞食者
+VoidWallEaterMini.DisplayName: 小型虚空吞食者
+VeiizalBeam.DisplayName: 维依佐光束
+VeiizalBullet.DisplayName: 维依佐弹
+Veiizallighting.DisplayName: 维依佐闪电
+BackgroundOrb.DisplayName: 背景球
+FrostShot.DisplayName: 冰霜弹
+FrostShot2.DisplayName: 冰霜弹
+FrostShotIN.DisplayName: 冰霜弹
+MoonBladeTrail.DisplayName: 月之刃尾迹
+MoonOut.DisplayName: 熄月
+Notia.DisplayName: 诺提亚
+Sigil.DisplayName: 符文
+SineSword.DisplayName: 波动剑
+SlashHold.DisplayName: 定身斩击
+SlashLeft.DisplayName: 左斩击
+SlashRight.DisplayName: 右斩击
+Strummer.DisplayName: 拨弹
+AltideSword.DisplayName: 阿尔特莱德剑
+Sword1F.DisplayName: 剑1 F
+Sword2F.DisplayName: 剑2 F
+Sword3F.DisplayName: 剑3 F
+TheMoon.DisplayName: 月
+VerliaBlade.DisplayName: 薇莉亚之刃
+VerliaHeadScreen.DisplayName: 薇莉亚大头贴
+VerliaText1.DisplayName: 薇莉亚字幕1
+VerliaText2.DisplayName: 薇莉亚字幕2
+HeatBeam.DisplayName: 热射线
+IronNail.DisplayName: 铁钉
+IronNailLodged.DisplayName: 固定的铁钉
+IronNeedle.DisplayName: 钢针
+SpikeBall.DisplayName: 刺球
+SparnCageNode.DisplayName: 斯巴恩笼
+SparnSkull.DisplayName: 斯巴恩骷髅
+WaterBolt.DisplayName: 水矢
+WaterBomb.DisplayName: 水炸弹
+WaterSplitBomb.DisplayName: 分裂水炸弹
 Gintzianado.DisplayName: Gintzianado
-ShadowFlare.DisplayName: Shadow Flare
-VRay.DisplayName: V Ray
-Celestia.DisplayName: Celestia
-AivanKaboom.DisplayName: Aivan Kaboom
-AlcadizBombExplosion.DisplayName: Alcadiz Bomb Explosion
-CrystalRay.DisplayName: Crystal Ray
-CrystalRay2.DisplayName: Crystal Ray
-CrystalRay3.DisplayName: Crystal Ray
-CrystalRay4.DisplayName: Crystal Ray
-GlowballVeri1.DisplayName: Glowball Veri
-GlowballVeri2.DisplayName: Glowball Veri
-GlowballVeri3.DisplayName: Glowball Veri
-AntacizProj.DisplayName: Antaciz Proj
-VoidArrow.DisplayName: Void Arrow
-Aurora.DisplayName: Aurora
-Aurora2.DisplayName: Aurora2
-Aurora3.DisplayName: Aurora3
-AuroranBullet.DisplayName: Auroran Bullet
-AuroranBullet2.DisplayName: Auroran Bullet
-AuroranBullet3.DisplayName: Auroran Bullet
-AuroreanStar.DisplayName: Aurorean Star
-AuroreanStarbomber.DisplayName: Aurorean Starbomber
-BarrySpike.DisplayName: Barry Spike
-Beachthrow.DisplayName: Beachthrow
-BloodWaterProj.DisplayName: Blood Water Proj
-BonfireProj.DisplayName: Bonfire Proj
-BoomCircle.DisplayName: Boom Circle
-BoomMorrow.DisplayName: Boom Morrow
-ArchariliteArrow.DisplayName: Archarilite Arrow
-ArchariliteArrowSC.DisplayName: Archarilite Arrow
-ArchariliteArrowSmall.DisplayName: Archarilite Arrow Small
-ArchariliteArrowSmallSC.DisplayName: Archarilite Arrow Small
-CloudBolt.DisplayName: Cloud Bolt
-CrysalizerArrow1.DisplayName: Crysalizer Arrow1
-CrysalizerArrow2.DisplayName: Crysalizer Arrow2
-CrysalizerArrow3.DisplayName: Crysalizer Arrow3
-CrysalizerExplosion.DisplayName: Crysalizer Explosion
-DreadSkullBonesProg.DisplayName: Dread Skull Bones Prog
-DreadSkullProg.DisplayName: Dread Skull Prog
+ShadowFlare.DisplayName: 影闪
+VRay.DisplayName: V型射线
+Celestia.DisplayName: 瑟莱西雅
+AivanKaboom.DisplayName: 空漩爆破
+AlcadizBombExplosion.DisplayName: 阿尔卡迪亚爆破
+CrystalRay.DisplayName: 水晶射线
+CrystalRay2.DisplayName: 水晶射线
+CrystalRay3.DisplayName: 水晶射线
+CrystalRay4.DisplayName: 水晶射线
+GlowballVeri1.DisplayName: 殆绿光球
+GlowballVeri2.DisplayName: 殆绿光球
+GlowballVeri3.DisplayName: 殆绿光球
+AntacizProj.DisplayName: 安塔奇射弹
+VoidArrow.DisplayName: 虚空矢
+Aurora.DisplayName: 极光
+Aurora2.DisplayName: 极光2
+Aurora3.DisplayName: 极光3
+AuroranBullet.DisplayName: 极光弹
+AuroranBullet2.DisplayName: 极光弹
+AuroranBullet3.DisplayName: 极光弹
+AuroreanStar.DisplayName: 极光落星
+AuroreanStarbomber.DisplayName: 极光恒星轰炸械
+BarrySpike.DisplayName: 盾盾刺
+Beachthrow.DisplayName: 沙滩掷物
+BloodWaterProj.DisplayName: 血水弹
+BonfireProj.DisplayName: 篝火
+BoomCircle.DisplayName: 爆炸圈
+BoomMorrow.DisplayName: 幽曦爆炸
+ArchariliteArrow.DisplayName: 赤铁箭
+ArchariliteArrowSC.DisplayName: 赤铁箭
+ArchariliteArrowSmall.DisplayName: 小型赤铁箭
+ArchariliteArrowSmallSC.DisplayName: 小型赤铁箭
+CloudBolt.DisplayName: 纵云矢
+CrysalizerArrow1.DisplayName: 结晶箭
+CrysalizerArrow2.DisplayName: 结晶箭2
+CrysalizerArrow3.DisplayName: 结晶箭3
+CrysalizerExplosion.DisplayName: 结晶爆破
+DreadSkullBonesProg.DisplayName: 恐惧骷髅骨
+DreadSkullProg.DisplayName: 恐惧骷髅
 GalvinieArrow1.DisplayName: Galvinie Arrow1
 HarpyFeather1.DisplayName: Harpy Feather1
 HeatArrow.DisplayName: Heat Arrow
