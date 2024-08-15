@@ -549,16 +549,21 @@ Mushroom: {
 }
 
 Stick: {
-	DisplayName: Stick
-	Tooltip: Welp it's a stick from small tree parts.
+	DisplayName: 木灵棒
+	Tooltip: 
+	    '''
+            这根棒子由林间嫩枝精制而成，虽然它在美学上堪称艺术品
+            但在实战中却显得有些力不从心，它或许更适合在你成为传奇英雄的传记中，作为一段有趣的开始
+            提醒你即便是最不起眼的起点，也可能预示着伟大的冒险旅程
+		'''
 }
 
 ViolinStick: {
-	DisplayName: Violin Stick
+	DisplayName: 弦鸣战棍
 	Tooltip:
 		'''
-		Hmph, what is this used for?
-		Best use for weapons and musical items!
+		哼，这玩意儿有何用途？
+		最佳的武器与音乐的结合！
 		'''
 }
 
@@ -994,46 +999,46 @@ Splitflame: {
 }
 
 Antaciz: {
-	DisplayName: Antaciz
-	Tooltip: Spinny winny damage the binny
+	DisplayName: 安塔奇飞刃
+	Tooltip: 飞转利刃 扫清障碍
 }
 
 Auroran: {
-	DisplayName: Auroran
+	DisplayName: 极光
 	Tooltip:
 		'''
-		Sends shockwaves through the air
-			Hitting enemies with the blade will increase your attack speed!
-			Divergency Inspired!
+		在空中引发冲击波
+			用刀刃击中敌人会提升你的攻击速度！
+			灵感迸发！
 		'''
 }
 
 EnergizedNail: {
-	DisplayName: Energized Nail
-	Tooltip: Electrical nail, thats weird
+	DisplayName: 能量之钉
+	Tooltip: 带电的钉子，真不可思议
 }
 
 FrostSwing: {
-	DisplayName: Twin Witch's Mistletoe
+	DisplayName: 双巫槲剑
 	Tooltip:
 		'''
-		Passed down for generations through the family of elite sorcerers of the Royal Capital, given to Veldris
-		It is your turn to wield this beauty.
+		世代相传于皇家首都的精英巫师家族，此剑最终传至维尔德里斯之手
+		如今，轮到你来挥舞这份美丽与力量
 		'''
 }
 
 Gutinier: {
-	DisplayName: Gutinier
+	DisplayName: 古蒂尼尔
 	Tooltip:
 		'''
-		Classful weapon!
-			Divergency Inspired!
+		卓绝之兵！
+			异界灵启！
 		'''
 }
 
 HornedNail: {
-	DisplayName: Horned Nail
-	Tooltip: Purge under funny nail :0
+	DisplayName: 角刺之钉
+	Tooltip: 于滑稽之爪下，净涤尘埃，笑意盎然
 }
 
 MorrowRapier: {
@@ -1380,12 +1385,11 @@ ShrineLifeCI: {
 }
 
 Curlistine: {
-	DisplayName: Curlistine
+	DisplayName: 星河锁愿·夜语剑
 	Tooltip:
 		'''
-		Only works if an enemy is nearby.
-		Shoots out many chained swords guided by the swirling stars..
-		Verlia's wish is granted upon you.
+		唯有敌影临近，星辰漩涡始动，锁剑如流星雨倾泻而下，精准无遗。
+		维尔利亚之愿，化作守护之光，于你身畔绽放，赐予无尽勇气与希望。
 		'''
 }
 
@@ -1602,11 +1606,10 @@ Ebistar: {
 }
 
 Hearstspire: {
-	DisplayName: Heartspire
+	DisplayName: 心之灵塔
 	Tooltip:
 		'''
-		Slash through the lovely night!
-		Dream upon a goddess of love, Daedia!
+		梦萦爱神，黛蒂亚！
 		'''
 }
 
@@ -2308,37 +2311,37 @@ RunicTablel: {
 }
 
 AcidicHamacxe: {
-	DisplayName: Acidic Hamacxe
+	DisplayName: 酸蚀战斧
 	Tooltip: ""
 }
 
 AcidicPixaxe: {
-	DisplayName: Acidic Pixaxe
+	DisplayName: 酸蚀矿镐
 	Tooltip: ""
 }
 
 ArchariliteAxe: {
-	DisplayName: Archarilite Axe
+	DisplayName: 赤铁战斧
 	Tooltip: ""
 }
 
 ArcharilitePickaxe: {
-	DisplayName: Archarilite Pickaxe
+	DisplayName: 赤铁矿镐
 	Tooltip: ""
 }
 
 DirtAxe: {
-	DisplayName: Dirt Axe
+	DisplayName: 泥斧
 	Tooltip: ""
 }
 
 DirtHammer: {
-	DisplayName: Dirt Hammer
+	DisplayName: 泥锤
 	Tooltip: ""
 }
 
 DirtPickaxe: {
-	DisplayName: Dirt Pickaxe
+	DisplayName: 泥镐
 	Tooltip: ""
 }
 
@@ -2449,32 +2452,32 @@ WintersStom: {
 }
 
 ArchariliteRaysword: {
-	DisplayName: Archarilite Raysword
+	DisplayName: 赤铁炫光剑
 	Tooltip:
 		'''
-		Shoots a wave of energy
-		Becomes empowered by the Arnchar Super Charger!
+		发射一波能量
+		赤铁潜能激发器赐予你力量！
 		'''
 }
 
 AssassinsSlash: {
-	DisplayName: Assassins Slash
-	Tooltip: Once attacking enemies, a charge will build up and then right click for a slash!
+	DisplayName: 刺杀者之剑
+	Tooltip: 攻击敌人时，你的武器将逐渐蓄力，待能量满载，只需右键一击，即可释放致命一斩！
 }
 
 CinderBraker: {
-	DisplayName: Cinder Breaker
-	Tooltip: A slashing sword that shoots swords!
+	DisplayName: 炽星裂空剑
+	Tooltip: 斩击·剑射千军
 }
 
 EventHorizon: {
-	DisplayName: Event Horizon
-	Tooltip: Goodness gracious.
+	DisplayName: 时空临界
+	Tooltip: 威力惊人，令人惊叹
 }
 
 FrostBringer: {
-	DisplayName: Frost Bringer
-	Tooltip: Damage reduces the farther you are away from the target
+	DisplayName: 霜冻者
+	Tooltip: 距离目标越远，造成的伤害越低
 }
 
 IrradiatedGreatBlade: {
@@ -2885,8 +2888,8 @@ GintzlsSteed: {
 }
 
 Gallasis: {
-	DisplayName: Galasis
-	Tooltip: The gintzl's legacy resides in this very useful item.
+	DisplayName: 伽拉曦斯
+	Tooltip: 金戈亚的遗泽，正蕴藏于这件实用非凡的宝物之中
 }
 
 GintzlBroochA: {
@@ -3018,8 +3021,8 @@ Gintelze: {
 }
 
 HolmbergScythe: {
-	DisplayName: Holmberg Scythe
-	Tooltip: Rip the universe in half!
+	DisplayName: 赫尔蒙伯格之镰
+	Tooltip: 撕裂宇宙，一分为二！
 }
 
 Alcarish: {
@@ -3209,8 +3212,8 @@ LanternOfAFallen: {
 }
 
 Blackdot: {
-	DisplayName: Blackdot
-	Tooltip: Who named this?
+	DisplayName: 黑点
+	Tooltip: 这是谁起的名字？
 }
 
 Galvinie: {
@@ -3593,13 +3596,13 @@ AlsisMask: {
 }
 
 WickofSorcery: {
-	DisplayName: Wick of Sorcery
-	Tooltip: Truly the best stick of all time.
+	DisplayName: 魔咒烛心
+	Tooltip: 有史以来最好的棍子，但也仅仅只是一个棍子
 }
 
 Voyager: {
-	DisplayName: Voyager
-	Tooltip: I love slashing and passing, wait wrong game.
+	DisplayName: 旅行者
+	Tooltip: 我喜欢挥刀斩敌，传球制胜，哦不对，串戏了
 }
 
 Hyua: {
@@ -3778,8 +3781,8 @@ BlossomingScissor: {
 }
 
 AltrideSlicer: {
-	Tooltip: Slice N Dice
-	DisplayName: Altride Slicer
+	Tooltip: 剑雨纷飞
+	DisplayName: 阿尔特莱德剑雨
 }
 
 MooningSlicer: {
@@ -3788,8 +3791,8 @@ MooningSlicer: {
 }
 
 EverneanSlicer: {
-	DisplayName: Evernean Slicer
-	Tooltip: Celestia would be even more proud.
+	DisplayName: 永恒剑雨
+	Tooltip: 瑟莱西雅必将为此更添荣耀，璀璨夺目
 }
 
 ShrineBridgetI: {
@@ -3798,8 +3801,8 @@ ShrineBridgetI: {
 }
 
 Bridget: {
-	DisplayName: Bridget
-	Tooltip: Bridget? Who is this really?
+	DisplayName: 布里姬
+	Tooltip: 布里姬？她到底是谁？
 }
 
 Reavestor: {
@@ -3886,8 +3889,8 @@ ArtistsHeart: {
 }
 
 InkingSpire: {
-	DisplayName: Inking Spire
-	Tooltip: Dash through your enemies with invulnerability! Right click for antaciz combat!
+	DisplayName: 绘空墨刃
+	Tooltip: 以墨水般的流畅与不朽之身，穿越敌军如行云流水！右键轻启，觉醒墨舞者之‘逆酸风暴’，以刃书写战斗的华章！
 }
 
 PieceOfArt: {
@@ -3952,8 +3955,8 @@ DirtWings: {
 }
 
 BridgetII: {
-	DisplayName: No Longer Bridget
-	Tooltip: Why didn't you revive her :(
+	DisplayName: 布里姬的告别之剑
+	Tooltip: 你为何不让她重获新生？
 }
 
 BlackWallBlock: {
@@ -4213,8 +4216,8 @@ Yumiko: {
 }
 
 FrostMonger: {
-	DisplayName: Frost Monger
-	Tooltip: Slash through enemies near your cursor with the power of icey nights!
+	DisplayName: 寒霜剑影
+	Tooltip: 挥洒寒夜霜刃，光标所至，冰霜之威尽斩敌群！
 }
 
 AlcadzianCard: {
@@ -4306,8 +4309,8 @@ LarvaedSpear: {
 }
 
 DevilsPeak: {
-	DisplayName: Devils Peak
-	Tooltip: This is peak fiction
+	DisplayName: 绯焰魔镰
+	Tooltip: 虚构之巅
 }
 
 ClockworkCity: {
@@ -4520,7 +4523,7 @@ RottenHeart: {
 }
 
 IronHook: {
-	DisplayName: Iron Hook
+	DisplayName: 铁钩
 	Tooltip: ""
 }
 
@@ -4749,11 +4752,11 @@ WaterSong: {
 }
 
 Dulahaun: {
-	DisplayName: World's Collide
+	DisplayName: 世界坍缩-裂宇剑
 	Tooltip:
 		'''
-		A weapon so magical and devious, two swords with immense gravitational force hit each other.
-		Forged from the the haunting and bright, this sword is born from a supernova.
+		在超新星的辉煌余烬中，两柄剑以引力为引，碰撞交织
+		释放宇宙之力，编织着时空的裂痕，既是毁灭亦是新生的序章。
 		'''
 }
 
@@ -5771,13 +5774,13 @@ STARBLOCKER: {
 }
 
 Maelstrom: {
-	DisplayName: Maelstrom
-	Tooltip: Sirestias really is kind, isn't she?
+	DisplayName: 漩涡破晓剑
+	Tooltip: 希丝忒莉亚，那温柔的守护者，其仁心确如晨曦之光，温暖而明亮，不是吗？
 }
 
 TheFirstAurora: {
-	DisplayName: Icefrect Longsword
-	Tooltip: A weapon of great renown and slicing!
+	DisplayName: 霜魄流光剑
+	Tooltip: 名动四海，利可断金之兵刃。
 }
 
 ThePenetrator: {
@@ -5790,13 +5793,13 @@ ThePenetrator: {
 }
 
 SingularDive: {
-	DisplayName: Singular Dive
-	Tooltip: Right click to use little minions and a long spin to hit enemies!
+	DisplayName: 孤行深潜
+	Tooltip: 右键轻启，随从涌现；长旋一击，敌溃如云！
 }
 
 DelgrimsHammer: {
-	Tooltip: He's working hard!
-	DisplayName: Delgrims Hammer
+	Tooltip: 它正奋力挥击！
+	DisplayName: 德葛林之神锤
 }
 
 DirtGlove: {
@@ -6459,8 +6462,8 @@ AlcaliteTrunks: {
 }
 
 IlluriteDrill: {
-	DisplayName: Illurite Drill
-	Tooltip: Periodically explodes, like blast mining!
+	DisplayName: 星树钻头
+	Tooltip: 它周期性地爆发，犹如精准的爆破采矿，震撼四方，光芒四射
 }
 
 FlowerRobe: {
@@ -6848,8 +6851,8 @@ IcelockLongbow: {
 }
 
 Chillrend: {
-	DisplayName: Chillrend
-	Tooltip: The final slash spins the sword around and creates an icey vortex
+	DisplayName: 寒裂
+	Tooltip: 最后一剑，剑舞冰旋，寒涡凝霜
 }
 
 ManifestedCommitment: {
@@ -6861,13 +6864,13 @@ IshNYire: {
 	DisplayName: Ish N Yire
 	Tooltip:
 		'''
-		Cursed under the reign of Ereshkigal
-		Has 4 Modes!
+		在冥界女王厄莉什基迦勒的阴冷王座下，这柄武器承载着古老且深邃的诅咒
+		它拥有四种变幻莫测的战斗姿态，每一式都蕴含着毁灭的美学
 		---------------------------
-		Dual Vire Mode: Swings dual chains that do high damage, best used in medium range situations and crowds!
-		Ish Mode: Throw a high-damage spinning sword that will shred enemies apart!
-		Yire Mode: A slashing sword best used in super long ranges or super close ranges for extreme damage!
-		Ish N Yire Mode: Throws Boomerang swords into enemies for easy pickens. Does great damage at all ranges!
+		双链舞动：两根锁链如灵蛇般穿梭，在中距离的战场上，它们是死神的触手，将敌人拉入绝望的深渊
+		Ish之刃：一柄旋转的剑刃，它如同地狱的风车，切割着空间与时间，敌人在它的锋利下化为尘埃，被彻底粉碎，只留下一片寂静
+		Yire之剑：这柄剑，既是远方的死神，也是近身的屠夫
+		Ish N Yire双剑合璧：向敌人投掷的不仅是剑刃，更是死神的邀请函
 
 		'''
 }
@@ -6922,8 +6925,8 @@ DogmaBalls: {
 }
 
 Tulahal: {
-	Tooltip: Create a flaming hurricane from the old irradiated power of the Govheil. Control the wind and flame.
-	DisplayName: Tulahal
+	Tooltip: 从歌维赫时光尘封、辐射充盈的古老能量中，召唤出一场烈焰飓风。驾驭风与焰，掌控风暴之心。
+	DisplayName: 图拉赫尔
 }
 
 BasicBaseball: {
@@ -6937,8 +6940,8 @@ BasicBaseball: {
 }
 
 Volcant: {
-	Tooltip: A fiery Greatsword to swing out your enemies' knees.
-	DisplayName: Volcant
+	Tooltip: 挥舞炽焰巨剑，以烈火之舞斩断敌膝，令强敌瞬间失足，跌落于胜利的余烬之中。
+	DisplayName: 熔炎
 }
 
 SmallVeilPottery: {
@@ -7135,7 +7138,7 @@ ManifestedHumility: {
 }
 
 GraveShaper: {
-	DisplayName: Grave Shaper
+	DisplayName: 墓穴塑形者
 	Tooltip: ""
 }
 
