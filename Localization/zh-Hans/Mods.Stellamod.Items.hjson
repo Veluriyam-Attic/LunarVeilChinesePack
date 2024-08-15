@@ -550,11 +550,11 @@ Mushroom: {
 
 Stick: {
 	DisplayName: 木灵棒
-	Tooltip: 
-	    '''
-            这根棒子由林间嫩枝精制而成，虽然它在美学上堪称艺术品
-            但在实战中却显得有些力不从心，它或许更适合在你成为传奇英雄的传记中，作为一段有趣的开始
-            提醒你即便是最不起眼的起点，也可能预示着伟大的冒险旅程
+	Tooltip:
+		'''
+		       这根棒子由林间嫩枝精制而成，虽然它在美学上堪称艺术品
+		       但在实战中却显得有些力不从心，它或许更适合在你成为传奇英雄的传记中，作为一段有趣的开始
+		       提醒你即便是最不起眼的起点，也可能预示着伟大的冒险旅程
 		'''
 }
 
@@ -1042,23 +1042,23 @@ HornedNail: {
 }
 
 MorrowRapier: {
-	DisplayName: Fabled Rapier
-	Tooltip: Poke poke-dont get the wrong idea of the weapon function-poke
+	DisplayName: 古谕之锋
+	Tooltip: 戳刺武器，功能明确——就是戳
 }
 
 MorrowSword: {
-	DisplayName: Fabled Sword
-	Tooltip: This sword feels warm, what is this Materials?
+	DisplayName: 古谕之剑
+	Tooltip: 这把剑摸起来很温暖，这是什么材质的？
 }
 
 MorrowValswa: {
-	DisplayName: Fabled Valswa
-	Tooltip: A sword that shoots fire-y sparks
+	DisplayName: 古谕鸣华
+	Tooltip: 一把喷射火焰火花的剑
 }
 
 PalmThrower: {
-	DisplayName: Palm Tomahawks
-	Tooltip: Throw around tomahawks forged from palm, sounds boring :(
+	DisplayName: 掌心战斧
+	Tooltip: 随意挥舞着由掌心大小的战斧，听起来真乏味
 }
 
 Halhurish: {
@@ -1607,10 +1607,7 @@ Ebistar: {
 
 Hearstspire: {
 	DisplayName: 心之灵塔
-	Tooltip:
-		'''
-		梦萦爱神，黛蒂亚！
-		'''
+	Tooltip: 梦萦爱神，黛蒂亚！
 }
 
 Pearlinator: {
@@ -2481,17 +2478,17 @@ FrostBringer: {
 }
 
 IrradiatedGreatBlade: {
-	DisplayName: Irradiated Great Blade
+	DisplayName: 辐光巨剑
 	Tooltip:
 		'''
-		This blade is so great that it uh
-		Acidic waves!!
+		这把巨剑威力非凡
+		能释放出腐蚀性的酸性波浪！
 		'''
 }
 
 Myocardia: {
-	DisplayName: Myocardia
-	Tooltip: Mwahaha.. I'm dracula!
+	DisplayName: 心弦轰鸣
+	Tooltip: 哈哈，我就是德古拉！
 }
 
 ScarecrowSaber: {
@@ -2795,8 +2792,8 @@ CyroBolt: {
 }
 
 LightSpand: {
-	DisplayName: Light Spand
-	Tooltip: Burning lights of Gothivia's Light
+	DisplayName: 灵光绽放
+	Tooltip: 歌瑟梵之光的炽烈光辉
 }
 
 MoonMothStaff: {
@@ -3071,8 +3068,8 @@ TheSunAndMoonCard: {
 }
 
 Kilvier: {
-	DisplayName: Kilvier
-	Tooltip: This isnt a weapon is it?
+	DisplayName: 基尔维亚
+	Tooltip: 这可不是武器，对吧？
 }
 
 DaedussSunSheid: {
@@ -3786,8 +3783,8 @@ AltrideSlicer: {
 }
 
 MooningSlicer: {
-	Tooltip: Celestia would be proud
-	DisplayName: Mooning Slicer
+	Tooltip: 瑟莱西雅会为此感到骄傲
+	DisplayName: 月光剑雨
 }
 
 EverneanSlicer: {
@@ -3806,8 +3803,8 @@ Bridget: {
 }
 
 Reavestor: {
-	DisplayName: Reavestor
-	Tooltip: Soul eater numba 1
+	DisplayName: 瑞维斯特
+	Tooltip: 灵魂吞噬者一号
 }
 
 FableKnives: {
@@ -4045,8 +4042,8 @@ PotOfGreed: {
 }
 
 Ripper: {
-	DisplayName: Ripper
-	Tooltip: Summons a storm of swords towards your cursor!
+	DisplayName: 裂魂者
+	Tooltip: 召唤一场暗紫色的剑之风暴，撕裂空间，精准地向你的目标区域倾泻而下！
 }
 
 XScissor: {
@@ -4206,7 +4203,7 @@ RoseBroochA: {
 }
 
 Nekomara: {
-	DisplayName: Nekomara
+	DisplayName: 梦魇猫娘
 	Tooltip: ""
 }
 
@@ -5427,8 +5424,8 @@ RazorBragett: {
 }
 
 PointedEdge: {
-	Tooltip: Ram into enemies with this powerful edge!
-	DisplayName: Pointed Edge
+	Tooltip: 用这强大的锋刃猛撞敌人！
+	DisplayName: 利剑之锋
 }
 
 Swingaling: {
@@ -7060,8 +7057,8 @@ WiggleDiggle: {
 }
 
 NiceBusterr: {
-	DisplayName: Nice Buster
-	Tooltip: We aren't nice around these parts.
+	DisplayName: 璀璨破界者
+	Tooltip: 在这一带，我们可不客气
 }
 
 Mordred: {
