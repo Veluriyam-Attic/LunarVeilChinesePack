@@ -1200,11 +1200,11 @@ BoneNail: {
 }
 
 WoodenCrossbow: {
-	DisplayName: Wooden Crossbow
+	DisplayName: 木弩
 	Tooltip:
 		'''
-		A simple crossbow that shoots 3 bolts
-		Hold down to shoot!
+		这把简约的弩，一次三箭齐发，破空之声，震撼人心
+		只需轻按，连珠箭矢，如流星划破夜空，璀璨夺目
 		'''
 }
 
@@ -1335,12 +1335,12 @@ AlcadizScrap: {
 }
 
 BurningAngel: {
-	DisplayName: Burning Angel
+	DisplayName: 烈焰天使
 	Tooltip:
 		'''
-		Shoots out many axes, beware they explode on impact
-		Steerable for a while and consectutive hits speed up next throw!
-		Made from heavy fabled metal!
+		斧雨连天，触地轰鸣
+		风向随心，连击加速
+		重金铸斧，力撼千钧
 		'''
 }
 
@@ -1620,77 +1620,77 @@ Pearlinator: {
 }
 
 MerchantCrossbow: {
-	DisplayName: The Merchants Crossbow
+	DisplayName: 商贾之弩
 	Tooltip:
 		'''
-		Who knew merchants could sell weapons!
-		Either way its a holding crossbow!
-		How generous :P
+		谁料商贾亦武行，售卖兵器显神通，跨界经营展宏图
+		手持弩弓显威风，商道江湖两相宜，刚柔并济显英姿
+		笑谈间，慷慨赠弩，商海浮沉皆从容，豪情洒脱笑江湖
 		'''
 }
 
 LeadCrossbow: {
-	Tooltip: A simple crossbow that can be held down to shoot bolts
-	DisplayName: Lead Crossbow
+	Tooltip: 轻握简弩，蓄力倾泻箭雨，于战场织就一曲钢铁与勇气的颂歌。
+	DisplayName: 铅弩
 }
 
 IronCrossbow: {
-	Tooltip: A simple crossbow that can be held down to shoot bolts
-	DisplayName: Iron Crossbow
+	Tooltip: 简约之弩，蓄力一按，化静为动，倾泻无尽箭矢，编织成夜空中最致命的流星雨。
+	DisplayName: 铁弩
 }
 
 DungeonCrossbow: {
 	Tooltip:
 		'''
-		Woa spooky...
-		A simple crossbow that can be held down to shoot bolts
-		Bones come out from each hit!
+		哦，真有点阴森...
+		一把简单的弩弓，蓄力一按，射出弩箭
+		击中目标，骨骼显现，惊异无比
 		'''
-	DisplayName: Bone and Rag Crossbow
+	DisplayName: 骨织弩
 }
 
 GoldCrossbow: {
-	DisplayName: Gold Crossbow
+	DisplayName: 黄金弩
 	Tooltip:
 		'''
-		A simple crossbow that can be held down to shoot bolts
-		This one even has ruby bolts inside!
+		这柄弩，简约设计中蕴含着连续射击的力量，只需蓄力一按，箭矢如雨倾泻而出
+		它更镶嵌了红宝石箭头，每一次发射，都是瑰丽与力量的交织，让对手在惊艳中败退！
 		'''
 }
 
 PlatinumCrossbow: {
-	DisplayName: Platinum Crossbow
+	DisplayName: 铂金弩
 	Tooltip:
 		'''
-		A simple crossbow that can be held down to shoot bolts
-		This one even has ruby bolts inside!
+		寻常之弩，连珠射矢破长空
+		红宝石箭，璀璨光芒映血红
 		'''
 }
 
 SilverCrossbow: {
-	DisplayName: Silver Crossbow
+	DisplayName: 银弩
 	Tooltip:
 		'''
-		A simple crossbow that can be held down to shoot bolts
-		This one even has sapphire bolts inside!
+		寻常之弩，连珠射矢破长空
+		蓝宝石箭藏于简易之弩，射出的瞬间，夜空划过深邃的光芒
 		'''
 }
 
 TungstenCrossbow: {
-	DisplayName: Tungsten Crossbow
+	DisplayName: 钨钢弩
 	Tooltip:
 		'''
-		A simple crossbow that can be held down to shoot bolts
-		This one even has sapphire bolts inside!
+		这把朴素的弩，只需轻按，便能连发箭矢，穿梭于风中
+		内藏蓝宝石箭，光芒四射，于暗夜中点亮一抹璀璨
 		'''
 }
 
 MorrowedCrossbow: {
-	DisplayName: Fabled Crossbow
+	DisplayName: 古谕之弩
 	Tooltip:
 		'''
-		Sniper type crossbow that can be held down to shoot fast rail bolts!
-		The fable is coming inside of me!
+		狙击之弩，连珠发矢疾如风
+		古谕苏醒，心中燃起传说之火！
 		'''
 }
 
@@ -1704,72 +1704,72 @@ DustedSilk: {
 }
 
 SpiderillaCrossbow: {
-	DisplayName: Spiderillas Crossbow
+	DisplayName: 蛛灵之弩
 	Tooltip:
 		'''
-		Sniper type crossbow that can be held down to shoot fast rail bolts!
-		Eggs pop out of this one so uh...
-		If you have arachniphobia, why use this?
+		狙型弩，连发速矢，穿梭如风，破敌无声息
+		奇技突现，蛛卵四散，生命之舞，自然之谜
+		恐蛛者慎，此弩非彼，挑战心魔，勇者无惧
 		'''
 }
 
 DesertCrossbow: {
 	Tooltip:
 		'''
-		Shotgun type crossbow that shoots bolts in many directions!
-		Hold down to shoot!
-		Rumors have it that they are faster than the wind..
+		霰弹弩，弩箭纷飞，四散如雨
+		蓄力一按，风暴射击，力量与美
+		比风迅疾，传说中的速度，无人能及
 		'''
-	DisplayName: Winded Sands Crossbow
+	DisplayName: 旋风沙弩
 }
 
 FrostyCrossbow: {
-	DisplayName: Auroran Ice Crossbow
+	DisplayName: 极光霜弩
 	Tooltip:
 		'''
-		Shotgun type crossbow that shoots bolts in many directions!
-		Hold down to shoot!
-		Frosty!
+		这把霰弹弩，如同冬神的怒吼，向四周撒播冰霜的种子！
+		蓄力一按，召唤一场寒冰风暴，将敌人冻结在时间的裂缝中！
+		让你成为冰雪世界的主宰，让每一发箭矢都成为冰封的使者！
 		'''
 }
 
 CoralCrossbow: {
-	DisplayName: Night's Coral Crossbow
+	DisplayName: 夜珊瑚弩
 	Tooltip:
 		'''
-		A speed type crossbow meant for hunters
-		Hold down to shoot!
-		The absolute, the enraged, the entropy, the finale!
+		这是一把专为猎人打造的速度型弩弓
+		蓄力一按，射出疾风之箭！
+		绝对的力量，愤怒的咆哮，混乱的熵，终章的序曲！
 		'''
 }
 
 MoltenCrossbow: {
-	DisplayName: Molten Crossbow
+	DisplayName: 炽焰之弩
 	Tooltip:
 		'''
-		A speed type crossbow meant for hunters
-		Hold down to shoot!
-		Sometimes, we want to watch the world burn...
+		猎者之弩，速如疾风，专为狩猎而生
+		持而射之，箭矢连绵，如夜空流星雨
+		世间纷扰，吾欲观其燎原，以火照天，映人心之暗
 		'''
 }
 
 FabiliaCrossbow: {
-	DisplayName: Fabilia Wilds Crossbow
+	DisplayName: 赤炎翔隼
 	Tooltip:
 		'''
-		Shotgun type crossbow that shoots bolts in many directions!
-		Hold down to shoot!
-		Explode enemies with this favorable fabilia crossbow :P
+		这款霰弹弩炮，犹如狂风中的暴雨，能向四面八方喷射箭矢！
+		蓄力一按，释放你的火力风暴！
+		用这把威力十足的赤炎翔隼，让敌人在爆炸中灰飞烟灭，享受胜利的喜悦吧！
 		'''
 }
 
 JadeJungleCrossbow: {
-	DisplayName: Jade Jungle Crossbow
+	DisplayName: 翠林幽弩
 	Tooltip:
 		'''
-		Sniper type crossbow that can be held down to shoot fast rail bolts!
-		Little leaves come out of the bolts
-		Grass can sometimes taste yummy :)
+		狙击之弩，蓄力一瞬，释放疾风箭雨，穿梭于战场的缝隙
+		箭矢尾随绿叶，轻舞飞扬，为死寂的战斗添上一抹生机的翠绿
+		偶尔，草香四溢，箭尖轻触，自然的甘甜在紧张的战斗中悄然绽放
 		'''
 }
 
@@ -2551,47 +2551,47 @@ X3107: {
 }
 
 ArchariliteEnergyShot: {
-	DisplayName: Archarilite Energy Shot
+	DisplayName: 赤铁光弦弓
 	Tooltip:
 		'''
-		Shoots a spread of 3 arrows
-		Becomes empowered by the Arnchar Super Charger!
+		这把弓，一挥之下，三箭齐发，如流星划破夜空，绚烂而致命
+		得赤铁潜能激发器之助，威力倍增，每一箭都携带着破晓之力，无坚不摧
 		'''
 }
 
 AssassinsDischarge: {
-	DisplayName: Assassins Discharge
-	Tooltip: A bow, specifically made for assassins...
+	DisplayName: 刺影瞬破
+	Tooltip: 这是一把专为暗夜行者定制的弓，弦动影随，箭出无声，于月色下勾勒死亡的弧线，刺客之魂，尽在其中
 }
 
 BrokenWrath: {
-	DisplayName: Broken Wrath
-	Tooltip: Shoots a bunch of scrap
+	DisplayName: 碎怒
+	Tooltip: 这武器发射的，是废墟中的碎片，它们在空中唱着未来的歌，每一片都在呼喊新的希望
 }
 
 CloudBow: {
-	DisplayName: Cloud Bow
-	Tooltip: Its so floaty while shooting some cloud shots
+	DisplayName: 云翼弓
+	Tooltip: 云端射击，轻盈飘渺如舞者
 }
 
 Crysalizer: {
-	DisplayName: Crysalizer
-	Tooltip: Shoot enemies with  3-round crystallized shots!
+	DisplayName: 冰霜晶化者
+	Tooltip: 三连晶化弹，破敌于霜晶之舞，璀璨夺目，冰封敌踪
 }
 
 DeathShot: {
-	DisplayName: Death Shot
-	Tooltip: A sniper for a the skull emoji.
+	DisplayName: 冥界之吻
+	Tooltip: 骷髅狙神，夜幕下的幽灵，一枪穿魂，传说在月光下诞生
 }
 
 DivineSniper: {
-	DisplayName: Divine Cloud Shotgun
-	Tooltip: It really isnt all that divine
+	DisplayName: 神云枪
+	Tooltip: 并非真神迹，人间烟火色
 }
 
 Dragoniper: {
-	DisplayName: Dragoniper
-	Tooltip: What is this
+	DisplayName: 龙息冰焰枪
+	Tooltip: 那是什么？
 }
 
 GraniteMagmum: {
@@ -2955,7 +2955,7 @@ AurelusBorderI: {
 
 TON618Crossbow: {
 	DisplayName: TON618 Crossbow
-	Tooltip: Expertly crafted by a special bowsman
+	Tooltip: 巧夺天工，弓匠大师之手，精制而成，尽显匠心独运
 }
 
 Venatici: {
@@ -3008,12 +3008,12 @@ Neptune8Card: {
 }
 
 Gintelze: {
-	DisplayName: Gintelze
+	DisplayName: 灵光破晓
 	Tooltip:
 		'''
-		A stolen sword when Commander Gintzia betrayed Gothivia.
-		It was an up and coming sword for their army to use without arms.
-		Swing it well!
+		此剑乃窃自金戈亚指挥官之手，他曾背弃歌瑟梵，剑身承载着叛逆与秘密
+		它原是歌瑟梵军中无双利剑，欲为无手之兵所用，锐不可挡，锋芒毕露
+		挥舞它，让剑舞如风，剑意如歌，于战场之上，书写属于你的传奇篇章！
 		'''
 }
 
@@ -3951,9 +3951,11 @@ DirtWings: {
 		'''
 }
 
-BridgetII: {
-	DisplayName: 布里姬的告别之剑
-	Tooltip: 你为何不让她重获新生？
+image: {
+	pngII: {
+		// DisplayName: No Longer Bridget
+		// Tooltip: Why didn't you revive her :(
+	}
 }
 
 BlackWallBlock: {
@@ -4311,11 +4313,11 @@ DevilsPeak: {
 }
 
 ClockworkCity: {
-	DisplayName: Clockwork City
+	DisplayName: 齿轮之城
 	Tooltip:
 		'''
-		Totally not one of the best areas in a game, cough cough
-		Sown in Chains
+		这地方绝对不是游戏里最好的，轻咳两声，隐喻着不满。
+		锁链密布的世界，种下的不是希望，而是玩家心中的牢笼。
 		'''
 }
 
@@ -4375,8 +4377,8 @@ ScytheOfSouls: {
 }
 
 BubbleBlasher: {
-	DisplayName: Bubble Blasher
-	Tooltip: Send your enemies afar with this!
+	DisplayName: 泡泡爆破者
+	Tooltip: 一击之下，敌人远遁，此乃神兵之力！
 }
 
 LarveinGreatbow: {
@@ -4989,11 +4991,11 @@ EpsidonInsource: {
 }
 
 CogBomber: {
-	DisplayName: Cog Bomber
+	DisplayName: 齿轮爆裂者
 	Tooltip:
 		'''
-		Fires mini nukes that explode into several small fires~
-		Kaboom :) 
+		发射微缩的核弹，爆炸后化作数不清的小火苗，四处蔓延
+		就像一场烟火的盛宴，绚烂而短暂，让人不禁惊呼“嘭”！ 
 		'''
 }
 
@@ -5731,38 +5733,38 @@ IceRuneI: {
 }
 
 TitaniumBullet: {
-	DisplayName: Titanium Bullet
-	Tooltip: Strikes twice, the 2nd hit is weaker but pierces armor
+	DisplayName: 钛金破甲弹
+	Tooltip: 双连破甲击，首击震魂魄，次击虽弱，却透甲入骨，如影随形，令强敌无处遁形
 }
 
 RadiantArrow: {
-	DisplayName: Radiant Arrow
-	Tooltip: Speeds up over time and homes into targets, ignoring all defense!
+	DisplayName: 光辉之箭
+	Tooltip: 这箭矢随时间加速，宛如追命流星，无视一切防御，精准锁敌，直击要害！
 }
 
 AdamantiteBullet: {
-	DisplayName: Adamantite Bullet
-	Tooltip: Strikes twice, the 2nd hit is weaker but pierces armor
+	DisplayName: 坚钢弹
+	Tooltip: 攻击两次，第二次攻击虽然较弱，但能穿透护甲
 }
 
 EldritchArrow: {
-	DisplayName: Eldritch Arrow
-	Tooltip: Spawns planetoids that shoot a bolt at nearby enemies when hit again
+	DisplayName: 幽古魔箭
+	Tooltip: 这把武器能召唤星球碎块，它们在被击中后会自动反击敌人，射出能量束。
 }
 
 DriveRound: {
-	DisplayName: Drive Round
-	Tooltip: Infinitely pierces through all targets and explodes on each hit!
+	DisplayName: 穿刺弹
+	Tooltip: 无限穿透所有目标，并在每次命中时爆炸！
 }
 
 SpacialDistortionBullet: {
-	DisplayName: Spacial Distortion Bullet
-	Tooltip: Inflicts Abyssal Flame
+	DisplayName: 扭曲之矢
+	Tooltip: 燃起深渊之焰，焚尽一切黑暗与罪恶，让不灭的火光照亮深渊的尽头。
 }
 
 IrradiatedArrow: {
-	DisplayName: Irradiated Arrow
-	Tooltip: Splits off into little robots that shoot irradiated lasers at enemies!
+	DisplayName: 辐射之矢
+	Tooltip: 激活后，它分裂成多台微型机器人，各自发射辐射激光，精准打击敌人并留下持续伤害的辐射场。
 }
 
 STARBLOCKER: {
@@ -6492,8 +6494,8 @@ FlowerHat: {
 }
 
 Cryal: {
-	DisplayName: Cryal
-	Tooltip: Shoots 2 icy bolts and some arrows!
+	DisplayName: 冰晶哀歌
+	Tooltip: 双冰箭封寒，箭雨破夜而至！
 }
 
 MahoganyStorm: {
@@ -6539,8 +6541,8 @@ FrameStaff: {
 }
 
 LiliumArrow: {
-	Tooltip: When hitting with these arrows they split into golden shards and hone to the enemy with explosions
-	DisplayName: Lilium Arrow
+	Tooltip: 这些箭矢击中目标后，炸裂成璀璨的金色碎片，犹如黄金流星雨般追踪敌人，绽放爆炸的火花。
+	DisplayName: 百合箭矢
 }
 
 IshtarKey: {
@@ -7601,4 +7603,9 @@ IridineNecklace: {
 GlocketRouncher: {
 	DisplayName: Glocket Rouncher
 	Tooltip: Get the glocker brocker
+}
+
+BridgetII: {
+	DisplayName: 布里姬的告别之剑
+	Tooltip: 你为何不让她重获新生？
 }
