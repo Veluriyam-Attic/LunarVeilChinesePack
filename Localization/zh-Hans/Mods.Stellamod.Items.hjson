@@ -552,9 +552,9 @@ Stick: {
 	DisplayName: 木灵棒
 	Tooltip:
 		'''
-这根棒子由林间嫩枝精制而成，虽然它在美学上堪称艺术品
-但在实战中却显得有些力不从心，它或许更适合在你成为传奇英雄的传记中，作为一段有趣的开始
-提醒你即便是最不起眼的起点，也可能预示着伟大的冒险旅程
+		这根棒子由林间嫩枝精制而成，虽然它在美学上堪称艺术品
+		但在实战中却显得有些力不从心，它或许更适合在你成为传奇英雄的传记中，作为一段有趣的开始
+		提醒你即便是最不起眼的起点，也可能预示着伟大的冒险旅程
 		'''
 }
 
@@ -1008,8 +1008,8 @@ Auroran: {
 	Tooltip:
 		'''
 		在空中引发冲击波
-			用刀刃击中敌人会提升你的攻击速度！
-			灵感迸发！
+		用刀刃击中敌人会提升你的攻击速度！
+		灵感迸发！
 		'''
 }
 
@@ -1032,7 +1032,7 @@ Gutinier: {
 	Tooltip:
 		'''
 		卓绝之兵！
-			异界灵启！
+		异界灵启！
 		'''
 }
 
@@ -1062,25 +1062,25 @@ PalmThrower: {
 }
 
 Halhurish: {
-	DisplayName: Halhurish The Flamed
+	DisplayName: 炽焰赫尔修里斯
 	Tooltip:
 		'''
-		Whip your opponents in the air
-		Hitting enemies will explode
+		凌空挥鞭，制敌于无形
+		触敌即爆，震撼天地间
 		'''
 }
 
 Verstibloom: {
-	DisplayName: Thorned Witch's blade
-	Tooltip: Slash the enemies of Merena and Sylia through your enhanced blade.
+	DisplayName: 荆巫秘刃
+	Tooltip: 挥剑斩敌影，守护梅瑞娜与赛莉亚
 }
 
 VerstiDance: {
-	DisplayName: Verstidance
+	DisplayName: 韵律之舞
 	Tooltip:
 		'''
-		Swirl!
-		A petal dance that increases your movement speed and defense, but be wary of high risk 
+		这技能宛如一场花瓣飞舞的舞蹈，它能显著提升你的移动速度与防御
+		但同时，高风险也潜藏其中，务必小心应对
 		'''
 }
 
@@ -1195,8 +1195,8 @@ Verstidust: {
 }
 
 BoneNail: {
-	DisplayName: Bone Nail
-	Tooltip: Burning with flowery rage
+	DisplayName: 骨钉
+	Tooltip: 怒火中烧
 }
 
 WoodenCrossbow: {
@@ -1225,8 +1225,8 @@ MorrowSalface: {
 }
 
 SteamedNail: {
-	DisplayName: Steamed Nail
-	Tooltip: Ram em' hard (that's what I said)
+	DisplayName: 蒸气铁锥
+	Tooltip: 用力撞他们（我说的就是这个意思）
 }
 
 Teraciz: {
@@ -1464,8 +1464,8 @@ SupernovaSitar: {
 }
 
 Parendine: {
-	DisplayName: Parendine
-	Tooltip: Whip frosty!
+	DisplayName: 霜寒鞭
+	Tooltip: 霜冻鞭击！
 }
 
 AuroranSeeker: {
@@ -1797,8 +1797,8 @@ DesertWhip: {
 }
 
 Vinger: {
-	Tooltip: I don't remember the goblins using this...
-	DisplayName: Vinger
+	Tooltip: 我不记得地精们使用过这个...
+	DisplayName: 暗焰长鞭
 }
 
 CharmofRot: {
@@ -1811,8 +1811,8 @@ CharmofRot: {
 }
 
 Vheilatine: {
-	Tooltip: Forged straight from the masters of gothivia's worshippers!
-	DisplayName: Vheilatine
+	Tooltip: 源自歌瑟梵信徒中技艺绝伦的大师之手，匠心独运，犹如夜空中最璀璨的星辰，每一寸都凝聚着对美的极致追求与对传统的深沉敬仰。
+	DisplayName: 维尔拉汀
 }
 
 AcidStaketers: {
@@ -2492,57 +2492,57 @@ Myocardia: {
 }
 
 ScarecrowSaber: {
-	DisplayName: Scarecrow Saber
-	Tooltip: Scare your enemies with a spread of 3 magical sabers!
+	DisplayName: 稻草人军刀
+	Tooltip: 三柄魔法军刀，交织成炫目的光影，让敌人望而生畏，不战而退！
 }
 
 SkyrageShasher: {
-	DisplayName: Skyrage Shasher
-	Tooltip: Casts bouncing wind slashes
+	DisplayName: 天怒破空刃
+	Tooltip: 挥舞即风暴，斩击裂长空，每一击皆天怒，显赫无匹。
 }
 
 GladiatorSpear: {
-	DisplayName: Gladiator Spear
-	Tooltip: Tear through the bones of your fellow competitors.
+	DisplayName: 角斗士之矛
+	Tooltip: 撕裂劲敌骨铠，破甲直击心脉，于竞技之巅，彰显无上锋芒
 }
 
 Infernis: {
-	DisplayName: Infernis
+	DisplayName: 地狱
 	Tooltip:
 		'''
-		Throws a spear that eventually falls down and violent explodes
-		Flamin'
+		它，如同流星划破夜空，一支炽烈的长矛，承载着毁灭的使命。
+		它在轨迹的终点绽放，化作一场炫目的火焰风暴，将一切吞噬于烈焰之中。
 		'''
 }
 
 StalkersTallon: {
-	DisplayName: Stalkers Tallon
-	Tooltip: Shoots spectral versions of itself
+	DisplayName: 潜行者·塔隆
+	Tooltip: 它投射出幻影般的自我影像
 }
 
 TheIrradiaspear: {
-	DisplayName: The Irradiaspear
-	Tooltip: Shoots spectral versions of itself, but acidic!
+	DisplayName: 辐射之矛
+	Tooltip: 它绽放幽灵之舞，幻影分身酸雨般倾泻，腐蚀敌心，绘写战场哀歌
 }
 
 StarKeeper: {
-	DisplayName: Star Keeper
-	Tooltip: Summons aurorean stars to attack enemies
+	DisplayName: 星之守护者
+	Tooltip: 召唤极光之星，对敌人发起璀璨攻击
 }
 
 SwordOfGlactia: {
-	DisplayName: Sword Of Glactia
-	Tooltip: Shoot little beams of swords
+	DisplayName: 格拉克蒂亚之剑
+	Tooltip: 细剑如丝，破空飞舞
 }
 
 SwordOfTheJungleGoddess: {
-	DisplayName: Sword Of The Jungle Goddess
-	Tooltip: Don't craft this please.
+	DisplayName: 丛林女神之剑
+	Tooltip: 请不要制作这个
 }
 
 WoodenSaber: {
-	DisplayName: Wooden Saber
-	Tooltip: Hit enemies explode with ivy
+	DisplayName: 木鞘灵剑
+	Tooltip: 击中敌人后，藤蔓爆炸
 }
 
 X3107: {
@@ -3018,13 +3018,13 @@ Gintelze: {
 }
 
 HolmbergScythe: {
-	DisplayName: 赫尔蒙伯格之镰
+	DisplayName: 赫蒙之镰
 	Tooltip: 撕裂宇宙，一分为二！
 }
 
 Alcarish: {
-	DisplayName: Alcarish
-	Tooltip: The gintze were bold for stealing such a useful item from soliders.
+	DisplayName: 长鞭
+	Tooltip: 金戈亚人胆大妄为，竟然从士兵那里偷走了如此有用的东西
 }
 
 AurelusBlightBroochA: {
@@ -3554,8 +3554,8 @@ AlcaricMush: {
 }
 
 Blackwhip: {
-	DisplayName: Blackwhip
-	Tooltip: Whip em' back to where they belong.
+	DisplayName: 暗夜长鞭
+	Tooltip: 以鞭作引，让他们重返正轨
 }
 
 DarkWhip: {
@@ -3739,8 +3739,8 @@ OceanRuneI: {
 }
 
 Starvast: {
-	DisplayName: Starvast
-	Tooltip: Summons stars that orbit around you and seek out enemies!
+	DisplayName: 星瀚无垠
+	Tooltip: 召唤环绕周身的星辰，它们将自动追踪并寻觅敌人！
 }
 
 SawtoothNecklace: {
@@ -4138,13 +4138,13 @@ SandyBroochA: {
 }
 
 GrailHairpinYoyo: {
-	DisplayName: Grail Hairpin Yoyo
-	Tooltip: Wow, this is shit!
+	DisplayName: 砾金发簪球
+	Tooltip: 哇，这简直烂透了！
 }
 
 StarringGraft: {
-	DisplayName: Starring Graft
-	Tooltip: Get those stars off the ground :p
+	DisplayName: 星辰接引者
+	Tooltip: 把那些星星从地上捡起来吧
 }
 
 OceanicExtenderPowder: {
@@ -4208,7 +4208,7 @@ Nekomara: {
 }
 
 Yumiko: {
-	DisplayName: Yumiko
+	DisplayName: 弓魂
 	Tooltip: ""
 }
 
@@ -4291,8 +4291,8 @@ GrailAxe: {
 }
 
 Rinavine: {
-	DisplayName: Rinavine
-	Tooltip: Lord of all things golden!
+	DisplayName: 翠焰长鞭
+	Tooltip: 金光璀璨，万物臣服之君
 }
 
 Jerry: {
@@ -4370,8 +4370,8 @@ DreadGauntlets: {
 }
 
 ScytheOfSouls: {
-	DisplayName: Scythe Of Souls
-	Tooltip: Use these vengeful souls at will, they are quite quirky!
+	DisplayName: 灵魂收割者
+	Tooltip: 随心所欲地驾驭这些复仇的灵魂吧，它们的行径可是出人意料的酷炫！
 }
 
 BubbleBlasher: {
@@ -4385,8 +4385,8 @@ LarveinGreatbow: {
 }
 
 AlcarianYoyo: {
-	DisplayName: Alcarian Yoyo
-	Tooltip: An alcad-powered yoyo that throws out projectiles randomly
+	DisplayName: 阿卡里亚之灵旋
+	Tooltip: 蕴藏阿卡里亚秘能的悠悠球，它舞动间，随性撒播着未知的弹射奇缘，每一次旋转都是宇宙间最自由的诗篇
 }
 
 Alcadius: {
@@ -4525,7 +4525,7 @@ IronHook: {
 }
 
 Kaevine: {
-	DisplayName: Kaevine
+	DisplayName: 毒棘藤鞭
 	Tooltip: ""
 }
 
@@ -4841,7 +4841,7 @@ ChiseledSandstone: {
 }
 
 VeiizalsUmbrella: {
-	DisplayName: Veiizals Umbrella
+	DisplayName: 维依佐之伞
 	Tooltip: ""
 }
 
@@ -6367,11 +6367,11 @@ GarbageChestplate: {
 }
 
 Sirius: {
-	DisplayName: Sirius
+	DisplayName: 天狼星
 	Tooltip:
 		'''
-		Throws a spear that lodges into targets and then violently explodes!
-		Niivi's wrath~
+		一支长矛，划破天际，深深嵌入目标心房，紧接着，是震天动地的绽放！
+		这就是尼伊维的炽烈之怒~
 		'''
 }
 
@@ -7536,11 +7536,11 @@ BlackEye: {
 }
 
 VulcanBreaker: {
-	DisplayName: Vulcan Breaker
+	DisplayName: 炎君破晓
 	Tooltip:
 		'''
-		Swings a molten hammer that erupts inside of enemies!
-		Bursting with flames :P
+		挥动熔岩之锤，于敌胸炸裂
+		火焰四溅，光明与灰烬共舞
 		'''
 }
 
