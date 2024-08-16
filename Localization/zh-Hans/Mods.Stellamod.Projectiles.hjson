@@ -8,7 +8,7 @@ DreadBrooch.DisplayName: 恐惧恶巫之饰符
 FlyfishBrooch.DisplayName: 飞鱼饰符
 FrileBrooch.DisplayName: 月冰饰符
 FrileBroochP.DisplayName: 月冰饰符
-GintzlBrooch.DisplayName: 古玄铁饰符
+GintzlBrooch.DisplayName: 玄铁饰符
 GovheilHolsterBrooch.DisplayName: 歌维赫的蕴魔饰符
 JellyBrooch.DisplayName: 水母饰符
 LuckyWinnerBrooch.DisplayName: 赌神饰符
@@ -19,7 +19,7 @@ RoseBrooch.DisplayName: 玫瑰饰符
 SandyBrooch.DisplayName: 沙漠风符
 SlimeBrooch.DisplayName: 萌萌史莱姆饰符
 SpragaldBrooch.DisplayName: 蜘蛛饰符
-Spragald.DisplayName: Spragald
+Spragald.DisplayName: 斯帕加德
 StoneBrooch.DisplayName: 顽石饰符
 VerliaBrooch.DisplayName: 薇莉亚饰符
 VerliaBroochP.DisplayName: 薇莉亚饰符
@@ -76,7 +76,7 @@ XScissorMinion.DisplayName: X剪刀随从
 CaevaBubble.DisplayName: 凯瓦泡泡
 CaevaSpawnEffect.DisplayName: 凯瓦生成特效
 TidalWave.DisplayName: 巨浪
-BouncySword.DisplayName: 弹跳剑X
+BouncySword.DisplayName: 弹跳剑
 FlameTornado.DisplayName: 火焰旋风
 LanturnSpear.DisplayName: 兰顿矛
 LanturnSpear2.DisplayName: 兰顿矛
@@ -270,263 +270,263 @@ CrysalizerArrow3.DisplayName: 结晶箭3
 CrysalizerExplosion.DisplayName: 结晶爆破
 DreadSkullBonesProg.DisplayName: 恐惧骷髅骨
 DreadSkullProg.DisplayName: 恐惧骷髅
-GalvinieArrow1.DisplayName: Galvinie Arrow1
-HarpyFeather1.DisplayName: Harpy Feather1
-HeatArrow.DisplayName: Heat Arrow
-HuntrianArrow.DisplayName: Huntrian Arrow
-LarveinGreatbowL.DisplayName: Larvein Greatbow L
-LarveinGreatbowR.DisplayName: Larvein Greatbow R
-VampiricArrowProj.DisplayName: Vampiric Arrow Proj
-VoidSkullProg.DisplayName: Void Skull Prog
-Warrow.DisplayName: Warrow
-WinterboundArrow.DisplayName: Winterbound Arrow
-WinterboundArrowFlake.DisplayName: Winterbound Arrow Flake
-WinterboundFlare.DisplayName: Winterbound Flare
-BridgetIIProj.DisplayName: Bridget I I Proj
-BridgetProj.DisplayName: Bridget Proj
-BurningAngelProj.DisplayName: Burning Angel Proj
-CarianKnightProj.DisplayName: Carian Knight Proj
-ChainProj.DisplayName: Chain Proj
-CinderFireball.DisplayName: Cinder Fireball
-CinderFireball2.DisplayName: Cinder Fireball2
-ClimateIceProj.DisplayName: Climate Ice Proj
-ClimateIceProjExplosion.DisplayName: Climate Ice Proj Explosion
-ClimateTornadoProj.DisplayName: Climate Tornado Proj
-CocoShot.DisplayName: Coco Shot
-Alvial.DisplayName: Alvial
-EckasectExecutorHold.DisplayName: Eckasect Executor Hold
-EckasectExecutorSwitch.DisplayName: Eckasect Executor Switch
-EckasectGenesisHold.DisplayName: Eckasect Genesis Hold
-EckasectGenesisSwitch.DisplayName: Eckasect Genesis Switch
-EckasectLiberatorBolt1.DisplayName: Eckasect Liberator Bolt1
-EckasectLiberatorHold.DisplayName: Eckasect Liberator Hold
-EckasectLiberatorSwitch.DisplayName: Eckasect Liberator Switch
-ExecutionRay.DisplayName: Execution Ray
-ExecutorBubble.DisplayName: Executor Bubble
-ExecutorDebuff.DisplayName: Executor Debuff
-GenesisBolt1.DisplayName: Genesis Bolt1
-GenesisBolt2.DisplayName: Genesis Bolt2
-GenesisBolt3.DisplayName: Genesis Bolt3
-GenesisBubble.DisplayName: Genesis Bubble
-GenesisDebuff.DisplayName: Genesis Debuff
-LiberatorBubble.DisplayName: Liberator Bubble
-LiberatorDebuff.DisplayName: Liberator Debuff
-GoldCrossbowHold.DisplayName: Gold Crossbow Hold
-PlatinumCrossbowBolt.DisplayName: Platinum Crossbow Bolt
-PlatinumCrossbowHold.DisplayName: Platinum Crossbow Hold
-SilverCrossbowBolt.DisplayName: Silver Crossbow Bolt
-SilverCrossbowHold.DisplayName: Silver Crossbow Hold
-TungstenCrossbowHold.DisplayName: Tungsten Crossbow Hold
-TheTraumatizerHold.DisplayName: The Traumatizer Hold
-TraumatizingRay.DisplayName: Traumatizing Ray
-IronCrossbowHold.DisplayName: Iron Crossbow Hold
-LeadCrossbowBolt.DisplayName: Lead Crossbow Bolt
-LeadCrossbowHold.DisplayName: Lead Crossbow Hold
-DesertCrossbowBolt.DisplayName: Desert Crossbow Bolt
-DesertCrossbowHold.DisplayName: Desert Crossbow Hold
-FableCrossbowBolt.DisplayName: Fable Crossbow Bolt
-FableCrossbowHold.DisplayName: Fable Crossbow Hold
-IcaCircle.DisplayName: Ica Circle
-IceCrossbowBolt.DisplayName: Ice Crossbow Bolt
-IceCrossbowHold.DisplayName: Ice Crossbow Hold
-MeltaCircle.DisplayName: Melta Circle
-PiaCircle.DisplayName: Pia Circle
-TON618CrossbowHold.DisplayName: T O N618 Crossbow Hold
-TONCrossbowBolt.DisplayName: T O N Crossbow Bolt
-DunCrossbowBolt.DisplayName: Dun Crossbow Bolt
-DungeonCrossbowHold.DisplayName: Dungeon Crossbow Hold
-MerCrossbowBolt.DisplayName: Mer Crossbow Bolt
-MerCrossbowHold.DisplayName: Mer Crossbow Hold
-AltaCircle.DisplayName: Alta Circle
-DelfaCircle.DisplayName: Delfa Circle
-GeaCircle.DisplayName: Gea Circle
-JadeJungleCrossbowBolt.DisplayName: Jade Jungle Crossbow Bolt
-JadeJungleCrossbowHold.DisplayName: Jade Jungle Crossbow Hold
-MorrowedCrossbowBolt.DisplayName: Morrowed Crossbow Bolt
-MorrowedCrossbowHold.DisplayName: Morrowed Crossbow Hold
-SpiderillaCrossbowBolt.DisplayName: Spiderilla Crossbow Bolt
-SpiderillaCrossbowHold.DisplayName: Spiderilla Crossbow Hold
-CoralBubble.DisplayName: Coral Bubble
-CoralCircle.DisplayName: Coral Circle
-CoralCrossbowBolt.DisplayName: Coral Crossbow Bolt
-CoralCrossbowHold.DisplayName: Coral Crossbow Hold
-MoltenCircle.DisplayName: Molten Circle
-MoltenCrossbowBolt.DisplayName: Molten Crossbow Bolt
-MoltenCrossbowHold.DisplayName: Molten Crossbow Hold
-WoodenCrossbowBolt.DisplayName: Wooden Crossbow Bolt
-WoodenCrossbowHold.DisplayName: Wooden Crossbow Hold
-CrystalBloom.DisplayName: Crystal Bloom
-CurlistineProj.DisplayName: Curlistine Proj
-Deathtrail.DisplayName: Deathtrail
-DevilsPeakSwordProj.DisplayName: Devils Peak Sword Proj
-DevilsPeakSwordProj2.DisplayName: Devils Peak Sword Proj2
-Dicein.DisplayName: Dicein
-EbistarProj.DisplayName: Ebistar Proj
-FabledColoredSunray.DisplayName: Fabled Colored Sunray
-FabledSunray.DisplayName: Fabled Sunray
-FireflyBomb.DisplayName: Firefly Bomb
-Flameball.DisplayName: Flameball
-Flameball2.DisplayName: Flameball2
-FrostbiteProj.DisplayName: Frostbite Proj
-FrostKaboom.DisplayName: Frost Kaboom
-FrostSwProj.DisplayName: Frost Sw Proj
-FrostSwProj2.DisplayName: Frost Sw Proj2
-FrostSwProj3.DisplayName: Frost Sw Proj3
-GardenWreckerBullet.DisplayName: Garden Wrecker Bullet
-GardenWreckerHold.DisplayName: Garden Wrecker Hold
-GovheilKaboom.DisplayName: Govheil Kaboom
-BBBubble.DisplayName: B B Bubble
-BrokenMissile.DisplayName: Broken Missile
-BTech1.DisplayName: B Tech1
-BTech2.DisplayName: B Tech2
-BTech3.DisplayName: B Tech3
-CinderFlameball.DisplayName: Cinder Flameball
-ClockworkBomb.DisplayName: Clockwork Bomb
-CogBomb.DisplayName: Cog Bomb
-CogKaboom.DisplayName: Cog Kaboom
-CogNeedle.DisplayName: Cog Needle
-DeathShotBomb.DisplayName: Death Shot Bomb
-DeathShotBombFX.DisplayName: Death Shot Bomb F X
-DeathShotProj.DisplayName: Death Shot Proj
-DragonBolt.DisplayName: Dragon Bolt
-GearSniper.DisplayName: Gear Sniper
-GraniteMagmumProj.DisplayName: Granite Magmum Proj
-M38F30Rocks.DisplayName: M38 F30 Rocks
-M38F30Rocks2.DisplayName: M38 F30 Rocks2
-RealityBolt.DisplayName: Reality Bolt
-Shark.DisplayName: Shark
-SharkAcid.DisplayName: Shark Acid
-SpacticProj.DisplayName: Spactic Proj
-SSBolt.DisplayName: S S Bolt
-StarBolt.DisplayName: Star Bolt
-TociBolt4.DisplayName: Toci Bolt4
-Venbullet.DisplayName: Venbullet
-VenShotIN.DisplayName: Ven Shot I N
-WigglerShot.DisplayName: Wiggler Shot
-WigglerStick.DisplayName: Wiggler Stick
-WigglerStick2.DisplayName: Wiggler Stick2
-HallowRain.DisplayName: Hallow Rain
-HeatedShot.DisplayName: Heated Shot
-HornedNailProj.DisplayName: Horned Nail Proj
-HornedNailProj2.DisplayName: Horned Nail Proj2
-HornetKaboom.DisplayName: Hornet Kaboom
-HornetLob.DisplayName: Hornet Lob
-IgniterStart.DisplayName: Igniter Start
-AgreviBoom.DisplayName: Agrevi Boom
-AlcaricMushBoom.DisplayName: Alcaric Mush Boom
-AlcaricMushBoom2.DisplayName: Alcaric Mush Boom2
-BlossomBoom.DisplayName: Blossom Boom
-CombustionBoom.DisplayName: Combustion Boom
-CombustionBoomMini.DisplayName: Combustion Boom Mini
-Dulahan.DisplayName: Dulahan
-EldritchBoom.DisplayName: Eldritch Boom
-FireBoom.DisplayName: Fire Boom
-FunBoom.DisplayName: Fun Boom
-GenesisBoom1.DisplayName: Genesis Boom1
-GenesisBoom2.DisplayName: Genesis Boom2
-GenesisBoom3.DisplayName: Genesis Boom3
-JungleBoom.DisplayName: Jungle Boom
-KaBoomAlcadizz.DisplayName: Ka Boom Alcadizz
-KaBoomFenix.DisplayName: Ka Boom Fenix
-KaBoomMagic.DisplayName: Ka Boom Magic
-KaBoomMagic2.DisplayName: Ka Boom Magic2
-KaBoomSigil.DisplayName: Ka Boom Sigil
-KaBoomSigil2.DisplayName: Ka Boom Sigil2
-KaBoomSpirit.DisplayName: Ka Boom Spirit
-KaBoom.DisplayName: Ka Boom
-SpiritualBoom.DisplayName: Spiritual Boom
-KaBoomBlue.DisplayName: Ka Boom Blue
-KaBoomKaev.DisplayName: Ka Boom Kaev
-KaBoomShade.DisplayName: Ka Boom Shade
-KaBoomTrick.DisplayName: Ka Boom Trick
-Logger.DisplayName: Logger
-AcidFlameG.DisplayName: Acid Flame G
-AlcadBombProj.DisplayName: Alcad Bomb Proj
-AquamareProj.DisplayName: Aquamare Proj
-AstalaiyaStar1.DisplayName: Astalaiya Star1
-AstalaiyaStar2.DisplayName: Astalaiya Star2
-AstalaiyaStar3.DisplayName: Astalaiya Star3
-AuroraStar.DisplayName: Aurora Star
-BookOfSkullsIIProg.DisplayName: Book Of Skulls I I Prog
-BriskflyProg.DisplayName: Briskfly Prog
-BurnedCarianTomeProj.DisplayName: Burned Carian Tome Proj
-CandleShotProj1.DisplayName: Candle Shot Proj1
-CandleShotProj2.DisplayName: Candle Shot Proj2
-CombusterExplosionProj1.DisplayName: Combuster Explosion Proj1
-CombusterSparkProj1.DisplayName: Combuster Spark Proj1
-CombusterSparkProj2.DisplayName: Combuster Spark Proj2
-CombusterSparkProj3.DisplayName: Combuster Spark Proj3
-DeafenProj.DisplayName: Deafen Proj
-DreadFist.DisplayName: Dread Fist
-DreadVomit.DisplayName: Dread Vomit
-FungalFlaceBall.DisplayName: Fungal Flace Ball
-FungalFlaceCloud.DisplayName: Fungal Flace Cloud
-FungalFlaceCloudGreen.DisplayName: Fungal Flace Cloud Green
-Gelatin.DisplayName: Gelatin
-GoldenHBalls.DisplayName: Golden H Balls
-LampShot.DisplayName: Lamp Shot
-LarveinScriputeProg.DisplayName: Larvein Scripute Prog
-LarveinScriputeProg2.DisplayName: Larvein Scripute Prog2
-LeadFist.DisplayName: Lead Fist
-LightSpandProg.DisplayName: Light Spand Prog
-Nado.DisplayName: Nado
-OFlame.DisplayName: O Flame
-PerfectionProj.DisplayName: Perfection Proj
-PericarditisProj.DisplayName: Pericarditis Proj
-PoyaProj.DisplayName: Poya Proj
-Poyashot.DisplayName: Poyashot
-Poyashot2.DisplayName: Poyashot2
-RhamenthalProj.DisplayName: Rhamenthal Proj
-RhamenthalProjHold.DisplayName: Rhamenthal Proj Hold
-RhamenthalShot.DisplayName: Rhamenthal Shot
-ScytheOfSoulsProj.DisplayName: Scythe Of Souls Proj
-SGBolt.DisplayName: S G Bolt
-ShadeHand.DisplayName: Shade Hand
-ShinobiKnife.DisplayName: Shinobi Knife
-ShriekerProg.DisplayName: Shrieker Prog
-SparkBallsP.DisplayName: Spark Balls P
-SpirtFlareGood.DisplayName: Spirt Flare Good
-Stardom.DisplayName: Stardom
-Stardom2.DisplayName: Stardom2
-StarFlowerproj1.DisplayName: Star Flowerproj1
-StarFlowerproj2.DisplayName: Star Flowerproj2
-StarFlowerproj3.DisplayName: Star Flowerproj3
-SunDeathG.DisplayName: Sun Death G
-SunDeathGPar.DisplayName: Sun Death G Par
-TorrentialLanceP.DisplayName: Torrential Lance P
-VoidCharge.DisplayName: Void Charge
-VoidCharge2.DisplayName: Void Charge2
-VoidHand.DisplayName: Void Hand
-VoidHandSpawn.DisplayName: Void Hand Spawn
-WinterStormFragProg.DisplayName: Winter Storm Frag Prog
-WinterStormProg.DisplayName: Winter Storm Prog
-Zap.DisplayName: Zap
-Meatball.DisplayName: Meatball
-Meatball2.DisplayName: Meatball2
-Meatball3.DisplayName: Meatball3
-Meatball4.DisplayName: Meatball4
-MeatBullet.DisplayName: Meat Bullet
-MeatBullet2.DisplayName: Meat Bullet2
-MeatBullet3.DisplayName: Meat Bullet3
-MetalDaggerProj.DisplayName: Metal Dagger Proj
-MooningKaboom.DisplayName: Mooning Kaboom
-MorrowRapproj.DisplayName: Morrow Rapproj
-MorrowShot.DisplayName: Morrow Shot
-MorrowShotArrow.DisplayName: Morrow Shot Arrow
-MorrowShotArrow2.DisplayName: Morrow Shot Arrow2
-MorrowValswaProj.DisplayName: Morrow Valswa Proj
-NailKaboom.DisplayName: Nail Kaboom
-BoneNailProj.DisplayName: Bone Nail Proj
-BoneNailProj2.DisplayName: Bone Nail Proj2
-EnergizedNailProj.DisplayName: Energized Nail Proj
-EnergizedNailProj2.DisplayName: Energized Nail Proj2
-SteamedNailProj.DisplayName: Steamed Nail Proj
-SteamedNailProj2.DisplayName: Steamed Nail Proj2
-ArtistsHProj.DisplayName: Artists H Proj
-InkingSProj.DisplayName: Inking S Proj
-InkingSProj2.DisplayName: Inking S Proj2
-InkingSThrow.DisplayName: Inking S Throw
-JacksonPollockProj.DisplayName: Jackson Pollock Proj
+GalvinieArrow1.DisplayName: 激电矢
+HarpyFeather1.DisplayName: 鸟妖之羽
+HeatArrow.DisplayName: 热能箭
+HuntrianArrow.DisplayName: 猎人箭
+LarveinGreatbowL.DisplayName: 幽蝶长弓左
+LarveinGreatbowR.DisplayName: 幽蝶长弓右
+VampiricArrowProj.DisplayName: 吸血箭
+VoidSkullProg.DisplayName: 虚空骷髅
+Warrow.DisplayName: 沃罗
+WinterboundArrow.DisplayName: 凛冬箭
+WinterboundArrowFlake.DisplayName: 凛冬箭雪花
+WinterboundFlare.DisplayName: 凛冬闪光
+BridgetIIProj.DisplayName: 布里姬II
+BridgetProj.DisplayName: 布里姬
+BurningAngelProj.DisplayName: 天使之焰
+CarianKnightProj.DisplayName: 卡里亚骑士
+ChainProj.DisplayName: 锁链
+CinderFireball.DisplayName: 烬火球
+CinderFireball2.DisplayName: 烬火球
+ClimateIceProj.DisplayName: 极寒冰弹
+ClimateIceProjExplosion.DisplayName: 寒冰爆炸
+ClimateTornadoProj.DisplayName: 龙卷风
+CocoShot.DisplayName: 椰子
+Alvial.DisplayName: 艾维奥
+EckasectExecutorHold.DisplayName: 伊卡塞克处决射线开火特效
+EckasectExecutorSwitch.DisplayName: 伊卡塞克处决模式转换特效
+EckasectGenesisHold.DisplayName: 伊卡塞克创生弹开火特效
+EckasectGenesisSwitch.DisplayName: 伊卡塞克创生模式转换特效
+EckasectLiberatorBolt1.DisplayName: 伊卡塞克解放脉冲
+EckasectLiberatorHold.DisplayName: 伊卡塞克解放脉冲开火特效
+EckasectLiberatorSwitch.DisplayName: 伊卡塞克解放模式转换特效
+ExecutionRay.DisplayName: 伊卡塞克处决射线
+ExecutorBubble.DisplayName: 伊卡塞克处决泡泡
+ExecutorDebuff.DisplayName: 伊卡塞克处决标记
+GenesisBolt1.DisplayName: 伊卡塞克创生弹1
+GenesisBolt2.DisplayName: 伊卡塞克创生弹2
+GenesisBolt3.DisplayName: 伊卡塞克创生弹3
+GenesisBubble.DisplayName: 伊卡塞克创生泡泡
+GenesisDebuff.DisplayName: 伊卡塞克创生标记
+LiberatorBubble.DisplayName: 伊卡塞克解放泡泡
+LiberatorDebuff.DisplayName: 伊卡塞克解放标记
+GoldCrossbowHold.DisplayName: 金连弩蓄力
+PlatinumCrossbowBolt.DisplayName: 铂金连弩矢
+PlatinumCrossbowHold.DisplayName: 铂金连弩蓄力
+SilverCrossbowBolt.DisplayName: 银连弩矢
+SilverCrossbowHold.DisplayName: 银连弩蓄力
+TungstenCrossbowHold.DisplayName: 钨连弩蓄力
+TheTraumatizerHold.DisplayName: 创伤者开火特效
+TraumatizingRay.DisplayName: 创伤射线
+IronCrossbowHold.DisplayName: 铁弩蓄力
+LeadCrossbowBolt.DisplayName: 铅弩矢
+LeadCrossbowHold.DisplayName: 铅弩蓄力
+DesertCrossbowBolt.DisplayName: 风沙弩矢
+DesertCrossbowHold.DisplayName: 风沙弩蓄力
+FableCrossbowBolt.DisplayName: 寓言弩矢
+FableCrossbowHold.DisplayName: 寓言弩蓄力
+IcaCircle.DisplayName: 极光冰弩环
+IceCrossbowBolt.DisplayName: 极光冰弩矢
+IceCrossbowHold.DisplayName: 极光冰弩蓄力
+MeltaCircle.DisplayName: Melta环
+PiaCircle.DisplayName: Pia环
+TON618CrossbowHold.DisplayName: TON618弩蓄力
+TONCrossbowBolt.DisplayName: ton618弩矢
+DunCrossbowBolt.DisplayName: 地牢弩矢
+DungeonCrossbowHold.DisplayName: 地牢弩蓄力
+MerCrossbowBolt.DisplayName: 商人弩矢
+MerCrossbowHold.DisplayName: 商人弩蓄力
+AltaCircle.DisplayName: Alta环
+DelfaCircle.DisplayName: Delfa环
+GeaCircle.DisplayName: Gea环
+JadeJungleCrossbowBolt.DisplayName: 丛翠弩矢
+JadeJungleCrossbowHold.DisplayName: 丛翠弩蓄力
+MorrowedCrossbowBolt.DisplayName: 幽曦弩矢
+MorrowedCrossbowHold.DisplayName: 幽曦弩蓄力
+SpiderillaCrossbowBolt.DisplayName: 蜘蛛弩矢
+SpiderillaCrossbowHold.DisplayName: 蜘蛛弩蓄力
+CoralBubble.DisplayName: 珊瑚泡泡
+CoralCircle.DisplayName: 珊瑚环
+CoralCrossbowBolt.DisplayName: 珊瑚弩矢
+CoralCrossbowHold.DisplayName: 珊瑚弩蓄力
+MoltenCircle.DisplayName: 熔火环
+MoltenCrossbowBolt.DisplayName: 熔火弩矢
+MoltenCrossbowHold.DisplayName: 熔火弩蓄力
+WoodenCrossbowBolt.DisplayName: 木弩矢
+WoodenCrossbowHold.DisplayName: 木弩蓄力
+CrystalBloom.DisplayName: 绽放水晶
+CurlistineProj.DisplayName: 月晶剑弹
+Deathtrail.DisplayName: 死亡轨迹
+DevilsPeakSwordProj.DisplayName: 魔能之巅剑
+DevilsPeakSwordProj2.DisplayName: 魔能之巅剑
+Dicein.DisplayName: 骰子
+EbistarProj.DisplayName: 寒星弓弹幕
+FabledColoredSunray.DisplayName: 多彩寓言阳光束
+FabledSunray.DisplayName: 寓言阳光束
+FireflyBomb.DisplayName: 萤火虫炸弹
+Flameball.DisplayName: 火球
+Flameball2.DisplayName: 火球
+FrostbiteProj.DisplayName: 极寒弹
+FrostKaboom.DisplayName: 寒冰爆
+FrostSwProj.DisplayName: 寒冰弹
+FrostSwProj2.DisplayName: 寒冰弹
+FrostSwProj3.DisplayName: 寒冰弹
+GardenWreckerBullet.DisplayName: 花园破坏者弹
+GardenWreckerHold.DisplayName: 花园破坏者开火特效
+GovheilKaboom.DisplayName: 歌维赫能爆
+BBBubble.DisplayName: 泡泡
+BrokenMissile.DisplayName: 破损飞弹
+BTech1.DisplayName: B科技
+BTech2.DisplayName: B科技
+BTech3.DisplayName: B科技
+CinderFlameball.DisplayName: 烬火球
+ClockworkBomb.DisplayName: 发条炸弹
+CogBomb.DisplayName: 齿轮炸弹
+CogKaboom.DisplayName: 机械爆破
+CogNeedle.DisplayName: 齿轮针
+DeathShotBomb.DisplayName: 致命炸弹
+DeathShotBombFX.DisplayName: 致命炸弹F X
+DeathShotProj.DisplayName: 致命飞弹
+DragonBolt.DisplayName: 龙息弹
+GearSniper.DisplayName: 零械狙击弹
+GraniteMagmumProj.DisplayName: 花岗岩马格南弹
+M38F30Rocks.DisplayName: M38 F30岩石弹
+M38F30Rocks2.DisplayName: M38 F30岩石弹
+RealityBolt.DisplayName: 实界矢
+Shark.DisplayName: 鲨鱼
+SharkAcid.DisplayName: 鲨鱼酸液
+SpacticProj.DisplayName: 宇电弹
+SSBolt.DisplayName: S S飞弹
+StarBolt.DisplayName: 星弹
+TociBolt4.DisplayName: 毒焰
+Venbullet.DisplayName: 钒弹
+VenShotIN.DisplayName: 钒弹I N
+WigglerShot.DisplayName: 扭扭枪射击特效
+WigglerStick.DisplayName: 扭扭枪拐杖
+WigglerStick2.DisplayName: 扭扭枪拐杖
+HallowRain.DisplayName: 神圣甘霖
+HeatedShot.DisplayName: 灼热击
+HornedNailProj.DisplayName: 角钉弹幕
+HornedNailProj2.DisplayName: 角钉弹幕2
+HornetKaboom.DisplayName: 黄蜂爆弹
+HornetLob.DisplayName: 黄蜂掷物
+IgniterStart.DisplayName: 触发
+AgreviBoom.DisplayName: 阿格雷威爆炸
+AlcaricMushBoom.DisplayName: 阿卡里亚混凝块爆炸
+AlcaricMushBoom2.DisplayName: 阿卡里亚混凝块爆炸
+BlossomBoom.DisplayName: 绽花爆炸
+CombustionBoom.DisplayName: 引燃爆炸
+CombustionBoomMini.DisplayName: 小型引燃爆炸
+Dulahan.DisplayName: 无头骑士
+EldritchBoom.DisplayName: 异变爆炸
+FireBoom.DisplayName: 火焰爆炸
+FunBoom.DisplayName: 喜庆爆炸
+GenesisBoom1.DisplayName: 创生爆炸1
+GenesisBoom2.DisplayName: 创生爆炸2
+GenesisBoom3.DisplayName: 创生爆炸3
+JungleBoom.DisplayName: 丛林爆炸
+KaBoomAlcadizz.DisplayName: 阿尔卡迪亚爆破
+KaBoomFenix.DisplayName: 凤涅克丝爆破
+KaBoomMagic.DisplayName: 魔法爆破
+KaBoomMagic2.DisplayName: 魔法爆破2
+KaBoomSigil.DisplayName: 符印爆破
+KaBoomSigil2.DisplayName: 符印爆破2
+KaBoomSpirit.DisplayName: 灵魂爆破
+KaBoom.DisplayName: 爆破
+SpiritualBoom.DisplayName: 灵体爆炸
+KaBoomBlue.DisplayName: 蓝色爆炸
+KaBoomKaev.DisplayName: 凯夫爆炸
+KaBoomShade.DisplayName: 暗影爆炸
+KaBoomTrick.DisplayName: 诡术爆炸
+Logger.DisplayName: 记录
+AcidFlameG.DisplayName: 酸蚀火焰
+AlcadBombProj.DisplayName: 阿尔卡迪亚爆弹
+AquamareProj.DisplayName: 水能弹
+AstalaiyaStar1.DisplayName: 繁星1
+AstalaiyaStar2.DisplayName: 繁星2
+AstalaiyaStar3.DisplayName: 繁星3
+AuroraStar.DisplayName: 极光落星
+BookOfSkullsIIProg.DisplayName: 骷髅头法书II弹幕
+BriskflyProg.DisplayName: 灵飞弹幕
+BurnedCarianTomeProj.DisplayName: 卡里亚暗星
+CandleShotProj1.DisplayName: 烛火弹
+CandleShotProj2.DisplayName: 烛火弹
+CombusterExplosionProj1.DisplayName: 引燃爆炸弹
+CombusterSparkProj1.DisplayName: 引燃火花1
+CombusterSparkProj2.DisplayName: 引燃火花2
+CombusterSparkProj3.DisplayName: 引燃火花3
+DeafenProj.DisplayName: 声波弹
+DreadFist.DisplayName: 恐惧之拳
+DreadVomit.DisplayName: 恐惧污秽
+FungalFlaceBall.DisplayName: 菌花杖弹幕
+FungalFlaceCloud.DisplayName: 菌花杖云
+FungalFlaceCloudGreen.DisplayName: 菌花杖绿云
+Gelatin.DisplayName: 凝胶
+GoldenHBalls.DisplayName: 黄金H球
+LampShot.DisplayName: 鲜血标记
+LarveinScriputeProg.DisplayName: 幽蝶经文
+LarveinScriputeProg2.DisplayName: 幽蝶经文
+LeadFist.DisplayName: 铅拳
+LightSpandProg.DisplayName: 光耀球
+Nado.DisplayName: 那度
+OFlame.DisplayName: 火苗
+PerfectionProj.DisplayName: 炫美弹
+PericarditisProj.DisplayName: 凝血绛渊弹
+PoyaProj.DisplayName: 阿卡里亚凝刺
+Poyashot.DisplayName: 阿卡里亚凝刺
+Poyashot2.DisplayName: 阿卡里亚凝刺
+RhamenthalProj.DisplayName: 拉门萨领域
+RhamenthalProjHold.DisplayName: 拉门萨蓄力
+RhamenthalShot.DisplayName: 拉门萨之箭
+ScytheOfSoulsProj.DisplayName: 复仇灵魂
+SGBolt.DisplayName: SG飞弹
+ShadeHand.DisplayName: 影之手
+ShinobiKnife.DisplayName: 忍者飞刀
+ShriekerProg.DisplayName: 尖啸
+SparkBallsP.DisplayName: 火花球
+SpirtFlareGood.DisplayName: 灵魂炫闪
+Stardom.DisplayName: 御星
+Stardom2.DisplayName: 御星
+StarFlowerproj1.DisplayName: 绽星1
+StarFlowerproj2.DisplayName: 绽星2
+StarFlowerproj3.DisplayName: 绽星3
+SunDeathG.DisplayName: 太阳衰亡
+SunDeathGPar.DisplayName: 太阳衰亡
+TorrentialLanceP.DisplayName: 滂沱之枪
+VoidCharge.DisplayName: 虚能弹
+VoidCharge2.DisplayName: 虚能弹2
+VoidHand.DisplayName: 虚空之手
+VoidHandSpawn.DisplayName: 虚空之手生成
+WinterStormFragProg.DisplayName: 凛冬风暴雪花
+WinterStormProg.DisplayName: 凛冬寒冰球
+Zap.DisplayName: 滋~
+Meatball.DisplayName: 肉球
+Meatball2.DisplayName: 肉球2
+Meatball3.DisplayName: 肉球3
+Meatball4.DisplayName: 肉球4
+MeatBullet.DisplayName: 肉蛋葱鸡1
+MeatBullet2.DisplayName: 肉蛋葱鸡2
+MeatBullet3.DisplayName: 肉蛋葱鸡3
+MetalDaggerProj.DisplayName: 铁匕首
+MooningKaboom.DisplayName: 月亮爆炸
+MorrowRapproj.DisplayName: 幽曦
+MorrowShot.DisplayName: 幽曦弹
+MorrowShotArrow.DisplayName: 幽曦箭
+MorrowShotArrow2.DisplayName: 幽曦箭2
+MorrowValswaProj.DisplayName: 幽曦火花
+NailKaboom.DisplayName: 钉爆炸
+BoneNailProj.DisplayName: 骨钉
+BoneNailProj2.DisplayName: 骨钉2
+EnergizedNailProj.DisplayName: 充能钉
+EnergizedNailProj2.DisplayName: 充能钉2
+SteamedNailProj.DisplayName: 蒸汽钉
+SteamedNailProj2.DisplayName: 蒸汽钉
+ArtistsHProj.DisplayName: 艺匠彩球
+InkingSProj.DisplayName: 彩墨刺剑弹幕
+InkingSProj2.DisplayName: 彩墨刺剑弹幕2
+InkingSThrow.DisplayName: 彩墨刺剑
+JacksonPollockProj.DisplayName: 杰克逊·波洛克彩弹
 Paint2.DisplayName: Paint2
 Paint3.DisplayName: Paint3
 PaintBomb1.DisplayName: Paint Bomb1
