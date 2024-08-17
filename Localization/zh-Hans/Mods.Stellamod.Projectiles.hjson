@@ -527,91 +527,91 @@ InkingSProj.DisplayName: 彩墨刺剑弹幕
 InkingSProj2.DisplayName: 彩墨刺剑弹幕2
 InkingSThrow.DisplayName: 彩墨刺剑
 JacksonPollockProj.DisplayName: 杰克逊·波洛克彩弹
-Paint2.DisplayName: Paint2
-Paint3.DisplayName: Paint3
-PaintBomb1.DisplayName: Paint Bomb1
-PaintBomb2.DisplayName: Paint Bomb2
-PaintBomb3.DisplayName: Paint Bomb3
-PaintBomb4.DisplayName: Paint Bomb4
-PaintBomb5.DisplayName: Paint Bomb5
-PaintBomb6.DisplayName: Paint Bomb6
-PaintBomb7.DisplayName: Paint Bomb7
-PaintBomb8.DisplayName: Paint Bomb8
-Paintdroplet.DisplayName: Paintdroplet
-PhotobombProj.DisplayName: Photobomb Proj
-PhotobombShot.DisplayName: Photobomb Shot
-POAProj.DisplayName: P O A Proj
-POAProj2.DisplayName: P O A Proj2
-POAProj3.DisplayName: P O A Proj3
-POAProj4.DisplayName: P O A Proj4
-POAProj5.DisplayName: P O A Proj5
-PetalDance.DisplayName: Petal Dance
-BluePikminAttack.DisplayName: Blue Pikmin Attack
-BluePikminThrow.DisplayName: Blue Pikmin Throw
-Blue.DisplayName: Blue
-PurplePikminAttack.DisplayName: Purple Pikmin Attack
-PurplePikminThrow.DisplayName: Purple Pikmin Throw
-RedPikminAttack.DisplayName: Red Pikmin Attack
-RedPikminThrow.DisplayName: Red Pikmin Throw
-WhitePikminAttack.DisplayName: White Pikmin Attack
-WhitePikminThrow.DisplayName: White Pikmin Throw
-YellowPikminAttack.DisplayName: Yellow Pikmin Attack
-YellowPikminThrow.DisplayName: Yellow Pikmin Throw
-PocketSandProj.DisplayName: Pocket Sand Proj
-PoisonedAngelProj.DisplayName: Poisoned Angel Proj
-AgreviPowderProj.DisplayName: Agrevi Powder Proj
-AivanPowderProj.DisplayName: Aivan Powder Proj
-AlcadPowder.DisplayName: Alcad Powder
-ArcanePowder.DisplayName: Arcane Powder
-CoalPowder.DisplayName: Coal Powder
-CrystalPowderProj.DisplayName: Crystal Powder Proj
-DirtPowder.DisplayName: Dirt Powder
-FlamePowderProj.DisplayName: Flame Powder Proj
-FlowerPowder.DisplayName: Flower Powder
-FrostPowder.DisplayName: Frost Powder
-GovheilPowderProj.DisplayName: Govheil Powder Proj
-IllusionistPowderProj.DisplayName: Illusionist Powder Proj
-KaevPowder.DisplayName: Kaev Powder
-LenaPowderProj.DisplayName: Lena Powder Proj
-PoisonPowderProj.DisplayName: Poison Powder Proj
-ShadePowderProj.DisplayName: Shade Powder Proj
-SpiritPowderProj.DisplayName: Spirit Powder Proj
-TrickPowderProj.DisplayName: Trick Powder Proj
-VoidPowderProj.DisplayName: Void Powder Proj
-PulseShoter.DisplayName: Pulse Shoter
-RobedProjectile.DisplayName: Robed Projectile
-RoseShield.DisplayName: Rose Shield
-AlcarishProj.DisplayName: Alcarish Proj
-DarkwhipProj.DisplayName: Darkwhip Proj
-HalhurishProj.DisplayName: Halhurish Proj
-KaevineProj.DisplayName: Kaevine Proj
-ParendineProj.DisplayName: Parendine Proj
-RinavineProj.DisplayName: Rinavine Proj
-VingerProj.DisplayName: Vinger Proj
-SalfaCircle.DisplayName: Salfa Circle
-SalfaCircle2.DisplayName: Salfa Circle2
-SalfaCircle3.DisplayName: Salfa Circle3
-SandSlacerProj.DisplayName: Sand Slacer Proj
-ScissorianHold.DisplayName: Scissorian Hold
-ScissorianSlash.DisplayName: Scissorian Slash
-ScissorianSlash2.DisplayName: Scissorian Slash2
-ShadeBall.DisplayName: Shade Ball
-SkullShotKaboom.DisplayName: Skull Shot Kaboom
-ArchariliteRayswordSlash.DisplayName: Archarilite Raysword Slash
-AuroranSwordProj.DisplayName: Auroran Sword Proj
-AuroranSwordProj2.DisplayName: Auroran Sword Proj2
-GrailAxeProj.DisplayName: Grail Axe Proj
-GrailShot.DisplayName: Grail Shot
-GutinierSwordProj.DisplayName: Gutinier Sword Proj
-GutinierSwordProj2.DisplayName: Gutinier Sword Proj2
+Paint2.DisplayName: 颜料2
+Paint3.DisplayName: 颜料3
+PaintBomb1.DisplayName: 炫彩爆弹1
+PaintBomb2.DisplayName: 炫彩爆弹2
+PaintBomb3.DisplayName: 炫彩爆弹3
+PaintBomb4.DisplayName: 炫彩爆弹4
+PaintBomb5.DisplayName: 炫彩爆弹5
+PaintBomb6.DisplayName: 炫彩爆弹6
+PaintBomb7.DisplayName: 炫彩爆弹7
+PaintBomb8.DisplayName: 炫彩爆弹8
+Paintdroplet.DisplayName: 颜料滴
+PhotobombProj.DisplayName: 炫彩弹枪射弹
+PhotobombShot.DisplayName: 炫彩弹枪开火特效
+POAProj.DisplayName: 炫彩颜料1
+POAProj2.DisplayName: 炫彩颜料2
+POAProj3.DisplayName: 炫彩颜料3
+POAProj4.DisplayName: 炫彩颜料4
+POAProj5.DisplayName: 炫彩颜料5
+PetalDance.DisplayName: 花瓣之舞
+BluePikminAttack.DisplayName: 蓝色皮克敏攻击
+BluePikminThrow.DisplayName: 蓝色皮克敏投掷
+Blue.DisplayName: 蓝
+PurplePikminAttack.DisplayName: 紫色皮克敏攻击
+PurplePikminThrow.DisplayName: 紫色皮克敏投掷
+RedPikminAttack.DisplayName: 红色皮克敏攻击
+RedPikminThrow.DisplayName: 红色皮克敏投掷
+WhitePikminAttack.DisplayName: 白色皮克敏攻击
+WhitePikminThrow.DisplayName: 白色皮克敏投掷
+YellowPikminAttack.DisplayName: 黄色皮克敏攻击
+YellowPikminThrow.DisplayName: 黄色色皮克敏投掷
+PocketSandProj.DisplayName: 口袋沙
+PoisonedAngelProj.DisplayName: 剧毒天使
+AgreviPowderProj.DisplayName: 阿格维粉尘
+AivanPowderProj.DisplayName: 天羽尘
+AlcadPowder.DisplayName: 阿尔卡迪亚粉尘
+ArcanePowder.DisplayName: 奥术之尘
+CoalPowder.DisplayName: 碳粉尘
+CrystalPowderProj.DisplayName: 水晶粉尘
+DirtPowder.DisplayName: 土粉尘
+FlamePowderProj.DisplayName: 燃烧粉尘
+FlowerPowder.DisplayName: 花粉
+FrostPowder.DisplayName: 冰霜粉尘
+GovheilPowderProj.DisplayName: 歌维赫粉尘
+IllusionistPowderProj.DisplayName: 幻术粉尘
+KaevPowder.DisplayName: 血腥粉尘
+LenaPowderProj.DisplayName: 兰娜之歌粉尘
+PoisonPowderProj.DisplayName: 剧毒粉尘
+ShadePowderProj.DisplayName: 暗影粉尘
+SpiritPowderProj.DisplayName: 灵魂粉尘
+TrickPowderProj.DisplayName: 诡术粉尘
+VoidPowderProj.DisplayName: 虚空粉尘
+PulseShoter.DisplayName: 脉冲射击
+RobedProjectile.DisplayName: 隐匿弹
+RoseShield.DisplayName: 玫瑰盾
+AlcarishProj.DisplayName: 阿卡里亚鞭刃
+DarkwhipProj.DisplayName: 暗影鞭
+HalhurishProj.DisplayName: 哈胡里什鞭刃
+KaevineProj.DisplayName: 凯维恩鞭刃
+ParendineProj.DisplayName: 帕纶汀鞭刃
+RinavineProj.DisplayName: 瑞纳翁鞭刃
+VingerProj.DisplayName: 温格尔鞭刃
+SalfaCircle.DisplayName: 萨法环1
+SalfaCircle2.DisplayName: 萨法环2
+SalfaCircle3.DisplayName: 萨法环3
+SandSlacerProj.DisplayName: 沙斩击
+ScissorianHold.DisplayName: 剪刃
+ScissorianSlash.DisplayName: 剪刃斩1
+ScissorianSlash2.DisplayName: 剪刃斩2
+ShadeBall.DisplayName: 暗影球
+SkullShotKaboom.DisplayName: 骷髅爆炸fu
+ArchariliteRayswordSlash.DisplayName: 赤铁能量剑斩击
+AuroranSwordProj.DisplayName: 极光波
+AuroranSwordProj2.DisplayName: 极光波2
+GrailAxeProj.DisplayName: 砾金光
+GrailShot.DisplayName: 砾金弹
+GutinierSwordProj.DisplayName: 撕裂者飞刀
+GutinierSwordProj2.DisplayName: 撕裂者飞刀2
 HearstspireProj.DisplayName: Hearstspire Proj
 HearstspireProj2.DisplayName: Hearstspire Proj2
-HeliosP.DisplayName: Helios P
-HeliosProj.DisplayName: Helios Proj
-HyuaProj.DisplayName: Hyua Proj
-RingedAlcd.DisplayName: Ringed Alcd
-IxyProj1.DisplayName: Ixy Proj1
-IxyProj2.DisplayName: Ixy Proj2
+HeliosP.DisplayName: 烈阳泰坦斧
+HeliosProj.DisplayName: 烈阳火花
+HyuaProj.DisplayName: 呼啦圈
+RingedAlcd.DisplayName: 阿尔卡迪亚环
+IxyProj1.DisplayName: 维克夕1
+IxyProj2.DisplayName: 维克夕2
 ReavBig.DisplayName: Reav Big
 ReavestorSwordProj.DisplayName: Reavestor Sword Proj
 ReavestorSwordProj2.DisplayName: Reavestor Sword Proj2
