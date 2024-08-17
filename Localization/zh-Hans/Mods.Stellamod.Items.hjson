@@ -509,12 +509,12 @@ Cinderscrap: {
 }
 
 CondensedDirt: {
-	DisplayName: Condensed Dirt
+	DisplayName: 凝土精华
 	Tooltip:
 		'''
-		Ew! Its sticky! Why??
-		A sticky dirt-like substance that comes from the ground!
-		Best use for fertilizer and dirt-like items!
+		恶心！它黏糊糊的！怎么会这样？？
+		一种从地下挖出的，像泥巴一样的黏糊糊的东西！
+		最适合用来做肥料和类似泥巴的物品！
 		'''
 }
 
@@ -539,8 +539,8 @@ Morrowshroom: {
 }
 
 MorrowVine: {
-	DisplayName: Spring Vine
-	Tooltip: A vine that grows underground and populates the world
+	DisplayName: 春蔓
+	Tooltip: 它如地下蔓延的藤蔓，无声无息，却遍布世界，展现生命的力量
 }
 
 Mushroom: {
@@ -617,11 +617,11 @@ OvermorrowWood: {
 }
 
 PearlescentScrap: {
-	DisplayName: Pearlescent Scrap
+	DisplayName: 月华晶片
 	Tooltip:
 		'''
-		True fragments of the moon
-		A strong resonance with sound and the stars...
+		月华洒落，晶片闪烁夜的低语
+		星辰共舞，旋律回荡天际的诗篇
 		'''
 }
 
@@ -794,8 +794,8 @@ MorrowChesti: {
 }
 
 MorrowChestKey: {
-	DisplayName: Fabled Chest Key
-	Tooltip: Use at fabled chests all around the world at night!
+	DisplayName: 古谕秘钥
+	Tooltip: 深夜降临，古谕秘钥在手，各地神秘宝箱，一触即开，奇珍异宝等你探索！
 }
 
 MorrowDeath: {
@@ -964,33 +964,33 @@ WCIgniter: {
 }
 
 Bongos: {
-	DisplayName: Star-Gilded Bongo
-	Tooltip: Boom bong boom at cursor
+	DisplayName: 星镀鼓王
+	Tooltip: 在光标处，嘭嘭嘭，奏响鼓乐
 }
 
 CocoSpark: {
-	DisplayName: Coconut Tome
-	Tooltip: Look master, I can summon, coconuts!
+	DisplayName: 椰果秘典
+	Tooltip: 瞧，主人，我能召唤椰果！
 }
 
 EvasiveBalls: {
-	DisplayName: Pearlescent Ice Balls
-	Tooltip: Shoots fast homing sparks of light!
+	DisplayName: 珍珠冰晶弹
+	Tooltip: 快速追踪，光芒四射！
 }
 
 FlameburstBalls: {
-	DisplayName: Molted Crust Balls
-	Tooltip: Shoots fast homing sparks of fire!
+	DisplayName: 熔壳火球
+	Tooltip: 快速追踪，释放烈火！
 }
 
 GildedStaff: {
-	DisplayName: Gilded Staff
-	Tooltip: Shoots two spinning pieces of spiritual magic at your foes
+	DisplayName: 金灵法杖
+	Tooltip: 向敌人发射两片旋转的精神魔法碎片，如同金光蝶舞！
 }
 
 PrismaticBalls: {
-	DisplayName: Prismatic Cryadia Balls
-	Tooltip: Shoots fast homing sparks of everlasting crystal light!
+	DisplayName: 彩虹晶球
+	Tooltip: 发射追踪的永恒水晶光芒，快速而准确！
 }
 
 Splitflame: {
@@ -1145,12 +1145,12 @@ FrostedPowder: {
 }
 
 GrassDirtPowder: {
-	DisplayName: Dirt Powder
+	DisplayName: 尘土魔法粉
 	Tooltip:
 		'''
-		Throw magical dust on them!
-		A dirty dust... that does damage???!
-		After hitting an enemy with this, use an igniter card weapon!
+		向敌人投掷魔法尘埃！
+		这看似肮脏的尘埃，竟然能造成伤害？！
+		在击中敌人后，使用魔卡武器！
 		'''
 }
 
@@ -1209,13 +1209,13 @@ WoodenCrossbow: {
 }
 
 Hornet: {
-	DisplayName: Hornet
+	DisplayName: 火焰蜂鸣
 	Tooltip:
 		'''
-		Classy!
-		Totally has no reference to Hollow Knight
-		A weapon that shoots classy bomb and bullets.. A LOT
-		Dia Gun...
+		风度翩翩，高贵非凡！
+		无关《空洞骑士》，纯属灵感巧合
+		射出优雅炸弹与弹丸，数量惊人，如星辰般璀璨
+		弹雨盛宴，彰显力量与尊贵，一场视觉与战斗的双重盛宴
 		'''
 }
 
@@ -1319,10 +1319,10 @@ GovheilBlock: {
 GardenWrecker: {
 	Tooltip:
 		'''
-		Shoots out skull-bullets, if they hit, they do some serious damage!
-		It's true, they wrecked my garden! I'm only with the science team!
+		头骨子弹一旦发射，若不幸击中，后果不堪设想！
+		没错，他们把我心爱的花园破坏得面目全非！我一直都是科研团队中的一员！
 		'''
-	DisplayName: Garden Wrecker
+	DisplayName: 翠破焰炮
 }
 
 AlcadizScrap: {
@@ -1443,13 +1443,13 @@ SwordsOfRevengence: {
 }
 
 HarmonicBlasphemy: {
-	DisplayName: Harmonic Blasphemy
+	DisplayName: 和鸣亵神
 	Tooltip:
 		'''
-		I love ya!
-		Very powerful moon blaster!
-		Use small moons gifted from Verlia herself!
-		Also use the power of music!
+		爱意满满，宇宙回响！
+		月光炮强，威力无双！
+		薇莉亚赠，小月为弹，
+		音乐之力，响彻云霄。
 		'''
 }
 
@@ -1597,11 +1597,11 @@ PotionOfManaWand: {
 }
 
 Ebistar: {
-	DisplayName: Ebistar
+	DisplayName: 星河破晓
 	Tooltip:
 		'''
-		This will not go the way you want it to...
-		Shoots many swirling star arrows!
+		这绝非你所愿的结局，却是一场星辰箭雨的华丽演出
+		无数旋转的星箭划破夜空，如同银河倾泻，将梦想与现实交织成最璀璨的篇章
 		'''
 }
 
@@ -2239,8 +2239,8 @@ EldritchSoul: {
 }
 
 Ivythorn: {
-	DisplayName: Ivythorn
-	Tooltip: A poisonous plant which weaves its way into entities
+	DisplayName: 荆棘常春藤
+	Tooltip: 这就像一种毒藤，它悄无声息地在生物间蔓延，用它的枝蔓编织出一片绿意，但这份绿意却藏着剧毒，美丽外表下隐藏着致命的陷阱
 }
 
 LostScrap: {
@@ -2343,46 +2343,46 @@ DirtPickaxe: {
 }
 
 Aneuriliac: {
-	DisplayName: Aneuriliac
+	DisplayName: 奥尼琉光炮
 	Tooltip:
 		'''
-		Rapidly vomits some mysterious projectile
-		Look, I have no clue what it is, don't ask me
+		迅速喷射神秘光束，其源不明
+		观其轨迹，绚烂如流星，威力撼动心弦
 		'''
 }
 
 Astalaiya: {
-	DisplayName: Astalaiya
-	Tooltip: Summons a flurry of colorful stars!
+	DisplayName: 星辰召唤
+	Tooltip: 召唤一场绚烂的彩色星光风暴！
 }
 
 FungalFlace: {
-	DisplayName: Fungal Flace
+	DisplayName: 核花爆破
 	Tooltip:
 		'''
-		Unleash the power of nuclear flowers!
-		Wait, are they actually nuclear? Oh well, they still explode!
+		这武器，名为核花爆破，看似温柔的花朵
+		却能释放惊人的力量，花开花落，敌人在爆炸中颤抖，世界在芬芳中宁静
 		'''
 }
 
 JellyTome: {
-	DisplayName: Jelly Tome
-	Tooltip: Shoots blasts of jelly :P
+	DisplayName: 果冻法典
+	Tooltip: 射出果冻冲击波，乐趣十足！
 }
 
 LeadGauntlets: {
-	DisplayName: Lead Gauntlets
-	Tooltip: Shoots powerful fists of energy!
+	DisplayName: 铅制拳套
+	Tooltip: 发射强力的能量拳！
 }
 
 Pericarditis: {
-	DisplayName: Pericarditis
-	Tooltip: Channels blood magic to fire a powerful bloody blast
+	DisplayName: 心脉炎鸣
+	Tooltip: 引导血液魔法，发射一发强力的血色爆破
 }
 
 ShadeHandTome: {
-	DisplayName: Shade Hand Tome
-	Tooltip: Little small hands to tickle your enemies
+	DisplayName: 影手秘典
+	Tooltip: 巧笑手，化敌为友的魔力触碰
 }
 
 StaffOFlame: {
@@ -2595,18 +2595,18 @@ Dragoniper: {
 }
 
 GraniteMagmum: {
-	DisplayName: Granite Magmum
-	Tooltip: A granite-powered gun
+	DisplayName: 磐石熔心
+	Tooltip: 这是一把以磐石之力驱动的枪，每一发都蕴含大地的坚韧与不屈
 }
 
 IceWalker: {
-	DisplayName: Ice Walker
-	Tooltip: Every third shot is an ice-powered arrow!
+	DisplayName: 冰行者
+	Tooltip: 每隔两箭，寒冰之灵附体，射出冻结一切的冰霜箭矢!
 }
 
 IrradieagleWrath: {
-	DisplayName: Irradieagle Wrath
-	Tooltip: Shoots a spread of arrows
+	DisplayName: 翔鹰怒射
+	Tooltip: 鹰翔天际，怒射箭雨，精准无匹，敌无所遁
 }
 
 Irradishark: {
@@ -2787,8 +2787,8 @@ ZthoKnifes: {
 }
 
 CyroBolt: {
-	DisplayName: Cyro Bolt
-	Tooltip: Shoots ice bolts that uh, have some issues
+	DisplayName: 冰霜飞弹
+	Tooltip: 射出冰霜飞弹，似乎有些不稳定
 }
 
 LightSpand: {
@@ -2807,8 +2807,8 @@ SolMothStaff: {
 }
 
 HeatGlider: {
-	DisplayName: Heat Glider
-	Tooltip: Oh burn baby burn :)
+	DisplayName: 灼翼翔者
+	Tooltip: 在炽热的翅膀下，划过天际，燃烧的轨迹，让对手在火焰中学会敬畏
 }
 
 JPost: {
@@ -2880,8 +2880,8 @@ RuneOfWind: {
 }
 
 GintzlsSteed: {
-	DisplayName: Gintzls Steed
-	Tooltip: I dont know how they are shooting arrows with no arms..
+	DisplayName: 金戈亚之影
+	Tooltip: 心中有矢，无臂亦能飞箭，长空划过，传奇自成
 }
 
 Gallasis: {
@@ -2954,7 +2954,7 @@ AurelusBorderI: {
 }
 
 TON618Crossbow: {
-	DisplayName: TON618 Crossbow
+	DisplayName: TON618
 	Tooltip: 巧夺天工，弓匠大师之手，精制而成，尽显匠心独运
 }
 
@@ -3199,13 +3199,13 @@ GovhenShield: {
 }
 
 GreekLantern: {
-	DisplayName: Greek Lantern
-	Tooltip: Gothivia is greek???
+	DisplayName: 希腊幽灯
+	Tooltip: 歌瑟梵的希腊之魂，点燃夜的神秘篇章
 }
 
 LanternOfAFallen: {
-	DisplayName: Lantern Of A Fallen
-	Tooltip: A great tool for clearing out one enemy.
+	DisplayName: 坠落者的明灯
+	Tooltip: 清理单个敌人的好帮手
 }
 
 Blackdot: {
@@ -3214,8 +3214,8 @@ Blackdot: {
 }
 
 Galvinie: {
-	DisplayName: Galvinie
-	Tooltip: Your mouse isn't gonna like this
+	DisplayName: 金辉破空
+	Tooltip: 游戏的旋律，对鼠标而言，恐非悦耳之音
 }
 
 TheBurningRod: {
@@ -3353,8 +3353,8 @@ StarbloomDirtBlock: {
 }
 
 FurihaMKIII: {
-	DisplayName: Furiha MKIII
-	Tooltip: Randomly spews out lasers with a fashionable pattern to boot!
+	DisplayName: 旋律光炮MKIII
+	Tooltip: 随性绽放激光，编织出一场时尚的光影乐章，让战斗成为一场视觉的盛宴
 }
 
 M61X: {
@@ -3531,11 +3531,11 @@ BagOfCards: {
 }
 
 FireflyCannon: {
-	DisplayName: Firefly Cannon
+	DisplayName: 萤火炮鸣
 	Tooltip:
 		'''
-		Fires a spread of powerful exploding fireflies!
-		...Several fireflies were harmed in the making of this weapon
+		释放出一群蕴含爆炸力量的璀璨萤火
+		在武器铸就的过程中，几许萤火牺牲，化作了这夜空中最绚烂的烟火
 		'''
 }
 
@@ -3608,8 +3608,8 @@ Hyua: {
 }
 
 Poya: {
-	DisplayName: Poya
-	Tooltip: Summons alcaric mush into reality and rip your enemies apart.
+	DisplayName: 阿卡里亚之唤
+	Tooltip: 召唤阿卡里亚蘑菇生物进入现实，将敌人撕裂
 }
 
 FireflyStaff: {
@@ -3729,7 +3729,7 @@ TomeOfInfiniteSorcery: {
 }
 
 AlcadThrowingCards: {
-	DisplayName: Alcadzian Throwing Cards
+	DisplayName: 阿尔卡迪亚秘银飞刃
 	Tooltip: ""
 }
 
@@ -3773,8 +3773,8 @@ VampireCharm: {
 }
 
 BlossomingScissor: {
-	Tooltip: Sadly a good traversal weapon
-	DisplayName: Blossoming Scissor
+	Tooltip: 本应是裁剪花海的艺术家，却悲催地成为了一柄穿越万难的利器
+	DisplayName: 绽花裁者
 }
 
 AltrideSlicer: {
@@ -3830,8 +3830,8 @@ Thunderstaff: {
 }
 
 LarveinScripute: {
-	DisplayName: Larvein Scripute
-	Tooltip: A little larva aww
+	DisplayName: 幽蛹灵卷
+	Tooltip: 一只小幼虫，好萌啊！
 }
 
 ArtisanBreastplate: {
@@ -3891,8 +3891,8 @@ InkingSpire: {
 }
 
 PieceOfArt: {
-	DisplayName: Piece of Art
-	Tooltip: Drag your cursor and hit enemies with your paintbrush, be creative!
+	DisplayName: 至炫墨彩
+	Tooltip: 挥洒彩墨，以画布为战场，创意为刃，绘出胜利的轨迹
 }
 
 PicturePerfectI: {
@@ -4362,13 +4362,13 @@ TheButcher: {
 }
 
 BookOfSkullsII: {
-	DisplayName: Book Of Skulls II
-	Tooltip: Woa mom its the second version!
+	DisplayName: 颅骨秘典II
+	Tooltip: 哇哦，妈妈，这是第二版了！
 }
 
 DreadGauntlets: {
-	DisplayName: Dread Gauntlets
-	Tooltip: Shoots powerful fists of energy, filled with dread
+	DisplayName: 恐惧拳套
+	Tooltip: 发射令人恐惧的强大能量拳
 }
 
 ScytheOfSouls: {
@@ -4736,13 +4736,13 @@ Stonen: {
 }
 
 Aquamare: {
-	DisplayName: Aquamare
-	Tooltip: May be inconsistent!
+	DisplayName: 海蓝之心
+	Tooltip: 或许效果多变！
 }
 
 MagicalAxe: {
-	DisplayName: Magical Axe
-	Tooltip: It's so magical it turned itself into a "chad" axe :)
+	DisplayName: 魔法斧
+	Tooltip: 这把斧头太神奇了，它把自己变成了“酷炫”的斧头！
 }
 
 WaterSong: {
@@ -4929,7 +4929,7 @@ WindmillShuriken: {
 
 PerfectionStaff: {
 	Tooltip: ""
-	DisplayName: Perfection Staff
+	DisplayName: 完美法杖
 }
 
 XixianFlask: {
@@ -5000,11 +5000,11 @@ CogBomber: {
 }
 
 GearGutter: {
-	DisplayName: Gear Gutter
+	DisplayName: 机巧幽谷
 	Tooltip:
 		'''
-		Shoots an extremely fast and long iron needle that pierces infinitely!
-		Guttin' guttin' guttin'
+		疾风穿云，铁线银针，破空无痕，穿刺永恒！
+		咕哒咕哒咕哒，机簧轻响，奏响死亡的前奏！
 		'''
 }
 
@@ -5028,16 +5028,16 @@ LifeSeekingVial: {
 }
 
 GraftedWaxMelter: {
-	DisplayName: Grafted Wax Melter
-	Tooltip: Make this shit feel like a firework party! I say let the children burn.
+	DisplayName: 焰火熔蜡器
+	Tooltip: 让这战场变成绚烂的烟火派对，让敌人在燃烧的盛宴中消逝
 }
 
 AlcadBomb: {
-	DisplayName: Alcad Bomb
+	DisplayName: 阿尔卡迪黑洞爆弹
 	Tooltip:
 		'''
-		Casts a controllable blackhole
-		Suck em' up!
+		引导可控黑洞，吞噬一切
+		敌人无处遁形，尽数被吸入无尽深渊
 		'''
 }
 
@@ -5052,8 +5052,8 @@ EmptyFlowerBag: {
 }
 
 BurnedCarianTome: {
-	DisplayName: Burned Carian Tome
-	Tooltip: Casts black stars that aggressively home and assault enemies!
+	DisplayName: 焦黑星咒书
+	Tooltip: 施放猛烈追踪敌人并猛烈攻击的黑色星辰！
 }
 
 EmptyCollectorsBag: {
@@ -5062,13 +5062,13 @@ EmptyCollectorsBag: {
 }
 
 CinderedLantern: {
-	DisplayName: Cindered Lantern
-	Tooltip: A volley of flamed missles
+	DisplayName: 灰烬灯笼
+	Tooltip: 连续发射火焰导弹
 }
 
 Combuster: {
-	DisplayName: Combuster
-	Tooltip: Creates fiery explosions around you cursor! Eventually forming a MASSIVE boom!
+	DisplayName: 火爆核心
+	Tooltip: 在你光标周围制造炽热的爆炸！最终汇聚成巨大的轰鸣！
 }
 
 WitchenRobe: {
@@ -5200,11 +5200,11 @@ CinderChesti: {
 }
 
 FlameBuster: {
-	DisplayName: Flame Buster
+	DisplayName: 烈焰破晓
 	Tooltip:
 		'''
-		Fires a spread of bullets
-		The weapon also speeds up over time and will shoot fireballs instead!
+		弹雨倾泻，如疾风骤雨扫过战场
+		时日推移，武器愈加速，终将喷射火球，化为炽烈风暴!
 		'''
 }
 
@@ -5293,8 +5293,8 @@ SolarianPants: {
 }
 
 IyxTheInfamous: {
-	DisplayName: Iyx The Infamous
-	Tooltip: From the fallen warriors of the cinder, to the magical entropy of the world, this weapon was lost long ago.
+	DisplayName: 灰烬之影伊克斯
+	Tooltip: 从烬灰勇士的陨落，到世界魔力的混沌，这把武器在久远的岁月里，早已迷失
 }
 
 PoisonedAngel: {
@@ -5402,11 +5402,11 @@ SkyRuneI: {
 }
 
 EelInfinite: {
-	DisplayName: Eel Infinite
+	DisplayName: 鳗舞无界
 	Tooltip:
 		'''
-		Creates a storm of lightning bolts!
-		Even more electrifying!!!!!!!
+		雷霆万钧，编织成暴风雨的交响乐章!
+		电光石火间，世界仿佛被赋予了更加震撼的脉动!!!
 		'''
 }
 
@@ -5709,8 +5709,8 @@ SewingKit: {
 }
 
 Hitme: {
-	DisplayName: Hit me
-	Tooltip: Don't abuse the poor weapon :(
+	DisplayName: 雷霆一击
+	Tooltip: 请温柔对待这把武器，它虽无生命，却能感知主人的每一丝情感，别让哀伤的痕迹，玷污了它闪耀的锋芒
 }
 
 Shredder: {
@@ -5845,15 +5845,15 @@ BlankSafunai: {
 }
 
 Hultinstein: {
-	DisplayName: Hultinstein
+	DisplayName: 震古烁今·霆击
 	Tooltip:
 		'''
-		A brawling experience!
-		Tap to your cursor to dash into some damn high damage! 
-		Hitting enemies will give you bonus damage with words and immunity for reward! 
-		Hitting an enemy will make next hit use faster! Missing will make it an extra long wait.
-		The better the glove the more words!
-		1 Word!
+		你踏入的，是一场热血沸腾的激斗！
+		指尖轻点，如疾风骤雨，直冲敌人，释放那惊心动魄的高伤风暴！
+		每一次碰撞，敌人不仅是你的目标，更成了你力量的源泉，言语化为利刃，伤害倍增，无敌护盾随之而来！
+		精准击中，下一次攻势将更快到来；一旦失手，等待的将是漫长的冷却。
+		手套越卓越，你的话语越加丰富，一字一句，皆成致命的旋律。
+		一字当先，震撼四海，让敌人在你的言辞中颤抖吧！
 		'''
 }
 
@@ -6504,8 +6504,8 @@ MahoganyStorm: {
 }
 
 Dunderbustion: {
-	DisplayName: Dunderbustion
-	Tooltip: A burst rifle with some serious mechanical malfunctions since it was handmade.
+	DisplayName: 雷炎连爆
+	Tooltip: 这把突发步枪，亲手打造却命运多舛，机械故障频发，宛如一位桀骜不驯的野马，随时可能失控，却也因此拥有了独一无二的灵魂
 }
 
 Polaris: {
@@ -6532,11 +6532,11 @@ ManifestedBravery: {
 }
 
 FrameStaff: {
-	DisplayName: Frame Staff
+	DisplayName: 星织法杖
 	Tooltip:
 		'''
-		Right click to summon a node at your cursor position
-		Then hold it to connect a laser between each of the nodes!
+		挥动星织法杖，你能在世界任意角落召唤神秘节点
+		再将它们以激光相连，编织出一张光的网，既美丽又致命
 		'''
 }
 
@@ -6601,8 +6601,8 @@ IshtarBlock: {
 }
 
 ImperfectionStaff: {
-	Tooltip: Imperfect for all the right reasons!
-	DisplayName: Imperfection Staff
+	Tooltip: 在不完美中寻觅绝世之美！
+	DisplayName: 瑕光法杖
 }
 
 IshtarCard: {
@@ -6624,11 +6624,11 @@ Orion: {
 }
 
 Aquarius: {
-	DisplayName: Aquarius
+	DisplayName: 水瓶之怒
 	Tooltip:
 		'''
-		Calls forth an aura of powerful aquatic slashes
-		Periodically unleashes a large slash that summons homing bubbles!
+		召唤强力水之斩击光环
+		周期性释放巨大斩击，召唤追踪泡泡！
 		'''
 }
 
@@ -6651,99 +6651,99 @@ IllureCard: {
 }
 
 Pulsing: {
-	DisplayName: Pulsing
-	Tooltip: A standard firearm
+	DisplayName: 脉动之枪
+	Tooltip: 这是一把寻常却不平凡的枪械
 }
 
 PoisonPistol: {
-	DisplayName: Venomous Spider's Shot
+	DisplayName: 毒蛛之吻
 	Tooltip:
 		'''
-		Launches a condensed ball that explodes into spiders
-		Great for treating arachnophobia! Wait...
+		发射后爆炸成蜘蛛群
+		独特疗法或刺激体验，一触即发
 		'''
 }
 
 GunHolster: {
-	DisplayName: Gun Holster
+	DisplayName: 枪套
 	Tooltip:
 		'''
-		Allows you to use two smaller guns at the same time
-		Right click to use your other gun
+		双枪齐舞，火力翻倍
+		右手轻点，切换自如
 		'''
 }
 
 BurnBlast: {
-	DisplayName: Burn Blast
-	Tooltip: "A heavier sidearm that shoots a powerful, splitting fireball "
+	DisplayName: 炽焰爆裂
+	Tooltip: 沉重大炮，一击裂空，火球分身，燃尽敌踪
 }
 
 Eagle: {
-	DisplayName: Deagle
-	Tooltip: A more powerful, standard firearm
+	DisplayName: 雷霆之鹰
+	Tooltip: 这是一把更为强劲的标准枪械
 }
 
 RavestBlast: {
-	DisplayName: Ravest Blast
-	Tooltip: Shoots a three round burst of pulsing waves
+	DisplayName: 狂飙脉冲
+	Tooltip: 三发脉动波连环出击，犹如电音节上的狂热，一波未平一波又起
 }
 
 MsFreeze: {
-	DisplayName: Ms Freeze
-	Tooltip: Quickly fires frosty lasers!
+	DisplayName: 霜冷女王
+	Tooltip: 她迅疾发射出霜冻激光，如同冬日里最锐利的寒风，瞬间凝固一切
 }
 
 MintyBlast: {
-	DisplayName: Mr. Frozo
-	Tooltip: A chilling flamethrower
+	DisplayName: 霜火之吻
+	Tooltip: 这把武器，吐露的是冰与火的歌，寒冷中蕴藏燃烧的力量
 }
 
 RocketLauncher: {
-	DisplayName: Rocket Launcher
-	Tooltip: Shoots a rocket... it can hurt you though
+	DisplayName: 火箭怒啸
+	Tooltip: 火箭一发，天地震撼，但谨记安全，勿让自己受牵连
 }
 
 Electrifying: {
-	DisplayName: Electrifying
+	DisplayName: 疾电破晓
 	Tooltip:
 		'''
-		Quickly shoots electrifying lightning bolts
-		Electrifying lightning...
+		它迅速释放出带电的闪电箭，如同夜空中划过的疾电，既迅猛又耀眼
+		每一次射击都伴随着电流的颤动，仿佛是自然之力的直接体现，既美丽又致命
 		'''
 }
 
 STARBUST: {
-	DisplayName: STARBUST
-	Tooltip: A machine gun, but STARBOMBER style!
+	DisplayName: 星辰破晓
+	Tooltip: 星辰轰炸者的机枪旋律，于星际间狂舞，织梦为弹，燃尽宇宙的夜
 }
 
 AssassinsRecharge: {
-	DisplayName: Assassins Recharge
-	Tooltip: Fires a bolt with decent lifesteal!
+	DisplayName: 影杀回魂
+	Tooltip: 它射出的光束，带着适度的生命汲取之力，每一次击中，都像在敌人心脏上轻轻一吻，却能为自己注入生机
 }
 
 BubbleBussy: {
-	DisplayName: Bubble Bussy
+	DisplayName: 泡沫灵犀
 	Tooltip:
 		'''
-		Sticks to the ground and enemies and deals damage over time
-		Don't question it
+		稳稳扎在地里，牢牢粘着敌人，时间一长，伤害就慢慢叠加
+		别去深究，效果自然显现，等着看时间的威力吧
 		'''
 }
 
 CinderNeedle: {
-	DisplayName: Cinder Needle
-	Tooltip: Rapidly shoots fiery needles
+	DisplayName: 灰烬之针
+	Tooltip: 疾速连发，火焰针雨，织成一片炽热的天网
 }
 
 Devolver: {
-	DisplayName: Devolver
-	Tooltip: Shoots a very slow, but decently powered shot
+	DisplayName: 逆熵之枪
+	Tooltip: 它发射的子弹虽行进缓慢，却带着足够的力量穿透敌人的防御
 }
 
 ShottyPitol: {
-	DisplayName: Shotty Pitol
-	Tooltip: Shoots a spread of bullets, like a mini shotgun!
+	DisplayName: 散弹小旋风
+	Tooltip: 子弹如小旋风般散开，迷你霰弹枪的威力，一扫即清
 }
 
 RobedSandstone: {
@@ -6752,36 +6752,36 @@ RobedSandstone: {
 }
 
 AzureWrath: {
-	DisplayName: Azure Wrath
-	Tooltip: Quickly fires purple energy blasts!
+	DisplayName: 紫霆湛怒
+	Tooltip: 紫电迅疾，能量光弹划破夜空，如流星雨般倾泻而下
 }
 
 CarrotPatrol: {
-	DisplayName: Carrot Patrol
-	Tooltip: Shoots carrots that split into several small carrot shards upon impact
+	DisplayName: 萝卜守望者
+	Tooltip: 发射萝卜弹，触地开花，化作满天小碎片，撒下一地惊喜
 }
 
 MeredaX: {
-	DisplayName: Mereda X
+	DisplayName: 双持死神
 	Tooltip:
 		'''
-		The only guns you can hold in both hands at the same time!
-		Looks like Ereshkigal turned this persom into a weapon too.
+		这是唯一能让你双手同时握持的枪械，如同舞动双刃的战神，既灵活又致命
+		仿佛冥后厄莉什基迦勒赋予了你暗夜的力量，每一发子弹，都是对敌人命运的静默宣判
 		'''
 }
 
 SrTetanus: {
-	DisplayName: Sr Tetanus
+	DisplayName: 破晓·骨鸣
 	Tooltip:
 		'''
-		Shoots bursts of two rusty and toxic projectiles
-		Yeah, you don't wanna get hit by this
+		双弹齐发，锈蚀剧毒，交织成死亡之舞
+		中者哀嚎，你绝不愿尝此苦果
 		'''
 }
 
 TheReaving: {
-	DisplayName: The Reaving
-	Tooltip: We reave, we love, we lie.
+	DisplayName: 噬灭掠影
+	Tooltip: 我们在掠夺中寻爱，在谎言里成诗，生命是一场华丽的迷藏
 }
 
 TempleKeyMold: {
@@ -6845,8 +6845,8 @@ HavocSignaler: {
 }
 
 IcelockLongbow: {
-	DisplayName: Icelock Longbow
-	Tooltip: Shoots more arrows with each shot, eventually firing off a powerful star!
+	DisplayName: 冰封星弓
+	Tooltip: 每一箭释放多重冰羽，最终汇聚成一颗璀璨的冰霜之星，照亮并冻结敌人
 }
 
 Chillrend: {
@@ -6875,8 +6875,8 @@ IshNYire: {
 }
 
 AzuretoothNecklace: {
-	DisplayName: Azuretooth Necklace
-	Tooltip: Channels the energy of Illuria to summon homing spectral dragons!
+	DisplayName: 星树之牙项链
+	Tooltip: 引导星树之力，召唤追踪幽灵龙！
 }
 
 ColdheartAnklebiter: {
@@ -6891,13 +6891,13 @@ ColdheartAnklebiter: {
 }
 
 Bincle: {
-	Tooltip: Destruction of all the Bincles, use your magical mirror to shoot sparks.
-	DisplayName: Bincle Fracture
+	Tooltip: 用你的魔法镜射出璀璨光束
+	DisplayName: 璀光破影镜
 }
 
 Relagis: {
-	Tooltip: Zui's light fills you up.
-	DisplayName: Relagis
+	Tooltip: 神圣的光，充盈着你的身心
+	DisplayName: 瑞拉吉斯之辉
 }
 
 Opinine: {
@@ -7064,11 +7064,11 @@ NiceBusterr: {
 }
 
 Mordred: {
-	DisplayName: Mordred
+	DisplayName: 莫德雷德之剑
 	Tooltip:
 		'''
-		I picked this one up randomly on an excursion! - Sirestias
-		May be an old relic or someone's weapon. Either way it's not belonging with you.
+		我在一次探险中偶然发现的！- 希丝忒莉亚
+		这可能是件古老的遗物，或曾经是某人的武器。总之，它不属于你
 		'''
 }
 
@@ -7113,11 +7113,11 @@ SigfriedsPhotoAlbum: {
 }
 
 IceCubeMaker: {
-	DisplayName: Ice Cube Machine
+	DisplayName: 霜雪魔方
 	Tooltip:
 		'''
-		Shoots a blast of ice cubes that bounce off of each other and enemies!
-		Stay frosty~
+		霜雪风暴席卷战场，冰块弹跳，寒冰乐章响彻云霄
+		寒风凛冽，你是冰雪的主宰，每一击都冻结敌人于时间之中
 		'''
 }
 
@@ -7202,8 +7202,8 @@ SerpentStaff: {
 }
 
 Incinerator: {
-	DisplayName: Incinerator
-	Tooltip: The most powerful flamethrower, it melts through anything and everything!
+	DisplayName: 焚尽八荒
+	Tooltip: 这无匹烈焰，万物难逃灰烬，所向披靡，尽是燎原之火！
 }
 
 VeiledScriptureMiner2: {
@@ -7407,8 +7407,8 @@ RekBossRel: {
 }
 
 Irrasprayer: {
-	DisplayName: Irrasprayer
-	Tooltip: Extinguish thy flame with a flamethrower!
+	DisplayName: 焰烬喷射器
+	Tooltip: 以火灭火，用炽烈熄灭炽烈！
 }
 
 CinderBomber: {
@@ -7469,8 +7469,8 @@ IllurineBrew: {
 }
 
 IllurianBible: {
-	DisplayName: Illurian Bible
-	Tooltip: Summons prismatic comets to chase your enemies!
+	DisplayName: 星树圣经
+	Tooltip: 召唤出虹彩彗星，它们会自动追踪并轰击你的敌人！
 }
 
 SupernovaBag: {
@@ -7533,8 +7533,8 @@ VoidalPassageway: {
 }
 
 BlackEye: {
-	DisplayName: The Black Eye
-	Tooltip: Summons Rek's Eye to blast lasers at nearby enemies!
+	DisplayName: 暗夜瞭望
+	Tooltip: 召唤莱克之眼，洞悉并制裁周围敌人！
 }
 
 VulcanBreaker: {
@@ -7601,8 +7601,8 @@ IridineNecklace: {
 }
 
 GlocketRouncher: {
-	DisplayName: Glocket Rouncher
-	Tooltip: Get the glocker brocker
+	DisplayName: 鸣钟破晓
+	Tooltip: 抓紧，那破晓钟声的使者，让光明驱散黑暗
 }
 
 BridgetII: {
