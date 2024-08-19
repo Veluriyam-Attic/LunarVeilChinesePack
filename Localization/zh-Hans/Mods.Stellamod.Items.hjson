@@ -534,8 +534,8 @@ MorrowRocks: {
 }
 
 Morrowshroom: {
-	DisplayName: Fableshroom
-	Tooltip: Shroomster
+	DisplayName: 古谕蘑菇
+	Tooltip: 蘑菇小侠
 }
 
 MorrowVine: {
@@ -612,8 +612,8 @@ OvermorrowWall: {
 }
 
 OvermorrowWood: {
-	DisplayName: Fabled Wood
-	Tooltip: Yummy wood am I right?
+	DisplayName: 古谕木
+	Tooltip: 美味的木头，我说得对吧？
 }
 
 PearlescentScrap: {
@@ -874,92 +874,92 @@ wallg: {
 }
 
 BonePicklerCard: {
-	DisplayName: Bone Pickler Card
+	DisplayName: 骨尘引爆符牌
 	Tooltip:
 		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
+		以神秘粉末标记敌手以神秘粉末标记敌手
+		挥动“骨尘引爆符牌”，长按攻击，连锁爆炸席卷战场，敌手瞬间化为尘埃
 		'''
 }
 
 DaedCard: {
-	DisplayName: Daed Card
+	DisplayName: 幽冥符牌
 	Tooltip:
 		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
+		以神秘粉末标记敌手
+		长按攻击，引爆标记处，幽冥之火瞬间吞噬敌人，战场为之震动
 		'''
 }
 
 EYIgniter: {
-	DisplayName: Eye Card
+	DisplayName: 天眼符牌
 	Tooltip:
 		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
+		以神秘粉末标记敌手
+		长按攻击按钮，释放出毁灭性的能量，让敌人无处遁形
 		'''
 }
 
 FrostCard: {
-	DisplayName: Frost Card
+	DisplayName: 霜寒符牌
 	Tooltip:
 		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
+		以神秘粉末标记敌手
+		长按攻击按钮，释放霜冻能量，引爆标记，让敌人在冰霜中颤抖，化为寒霜之下的尘埃
 		'''
 }
 
 GothivCard: {
-	DisplayName: Gothiv Card
+	DisplayName: 哥特符牌
 	Tooltip:
 		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
+		以神秘粉末标记敌手
+		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
 }
 
 LovestruckCard: {
-	DisplayName: Lovestruck Card
+	DisplayName: 恋心符牌
 	Tooltip:
 		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
+		以神秘粉末标记敌手
+		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
 }
 
 ScorcheCard: {
-	DisplayName: Scorche Card
+	DisplayName: 炙炎符牌
 	Tooltip:
 		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
+		以神秘粉末标记敌手
+		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
 }
 
 StarrCard: {
-	DisplayName: Starr Card
+	DisplayName: 星辉符牌
 	Tooltip:
 		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
+		以神秘粉末标记敌手
+		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
 }
 
 StarterCard: {
-	DisplayName: Starter Card
+	DisplayName: 起始符牌
 	Tooltip:
 		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
+		以神秘粉末标记敌手
+		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
 }
 
 WCIgniter: {
-	DisplayName: Wild Card
+	DisplayName: 万能符牌
 	Tooltip:
 		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
+		以神秘粉末标记敌手
+		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
 }
 
@@ -994,8 +994,8 @@ PrismaticBalls: {
 }
 
 Splitflame: {
-	DisplayName: Split-flame candle
-	Tooltip: Totally not the candle from split, totally.
+	DisplayName: 裂焰烛
+	Tooltip: 绝非寻常烛，裂变双焰，照亮黑暗，驱散邪灵
 }
 
 Antaciz: {
@@ -1085,12 +1085,12 @@ VerstiDance: {
 }
 
 PocketSand: {
-	DisplayName: Pocket Sand
+	DisplayName: 秘袋金沙
 	Tooltip:
 		'''
-		Throw magical dust on them!
-		Dust that can be used with and for combos in igniters
-		Can penetrate armored enemies like nothing!
+		向他们洒下魔法尘
+		穿透铠甲，敌人无处遁形，沙粒成刃
+		神秘之尘，战斗中不可或缺，巧用制胜
 		'''
 }
 
@@ -1098,9 +1098,9 @@ ArcanalPowder: {
 	DisplayName: Sepsis Powder
 	Tooltip:
 		'''
-		Throw magical dust on them!
+		向他们洒下魔法尘
 		A sparkly star dust that does double damage as the igniter!
-		After hitting an enemy with this, use an igniter card weapon!
+		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
@@ -1110,7 +1110,7 @@ BloodPowder: {
 		'''
 		Throw magical dust on them and ignite
 		A blood dust that does high damage with igniters.
-		After hitting an enemy with this, use an igniter card weapon!
+		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
@@ -1118,8 +1118,8 @@ CoalDust: {
 	DisplayName: Coal Powder
 	Tooltip:
 		'''
-		Throw magical dust on them!
-		After hitting an enemy with this, use an igniter card weapon!
+		向他们洒下魔法尘
+		用这个击中敌人后，使用符牌引爆！
 		Forged from the gems you collect!
 		'''
 }
@@ -1128,9 +1128,9 @@ FlamePowder: {
 	DisplayName: Flame Powder
 	Tooltip:
 		'''
-		Throw magical dust on them!
+		向他们洒下魔法尘
 		A flamey dust that explodes with your igniter!
-		After hitting an enemy with this, use an igniter card weapon!
+		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
@@ -1138,9 +1138,9 @@ FrostedPowder: {
 	DisplayName: Frost Powder
 	Tooltip:
 		'''
-		Throw magical dust on them!
+		向他们洒下魔法尘
 		Dusty ice dust that does continuous damage with the igniter!
-		After hitting an enemy with this, use an igniter card weapon!
+		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
@@ -1150,7 +1150,7 @@ GrassDirtPowder: {
 		'''
 		向敌人投掷魔法尘埃！
 		这看似肮脏的尘埃，竟然能造成伤害？！
-		在击中敌人后，使用魔卡武器！
+		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
@@ -1158,9 +1158,9 @@ LenaSongPowder: {
 	DisplayName: Lena Song Powder
 	Tooltip:
 		'''
-		Throw magical dust on them!
+		向他们洒下魔法尘
 		A musical dust! that explodes with your igniter!
-		After hitting an enemy with this, use an igniter card weapon!
+		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
@@ -1168,9 +1168,9 @@ ShadowFlamePowder: {
 	DisplayName: ShadowFlame Powder
 	Tooltip:
 		'''
-		Throw magical dust on them!
+		向他们洒下魔法尘
 		A shadow dust that explodes with your igniter!
-		After hitting an enemy with this, use an igniter card weapon!
+		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
@@ -1178,9 +1178,9 @@ TrickPowder: {
 	DisplayName: Trick Powder
 	Tooltip:
 		'''
-		Throw magical dust on them!
+		向他们洒下魔法尘
 		A sparkly tricky dust that does a lot damage!
-		After hitting an enemy with this, use an igniter card weapon!
+		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
@@ -1188,9 +1188,9 @@ Verstidust: {
 	DisplayName: Versti Powder
 	Tooltip:
 		'''
-		Throw magical dust on them!
+		向他们洒下魔法尘
 		A musical dust that has calming flowers
-		After hitting an enemy with this, use an igniter card weapon!
+		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
@@ -1326,11 +1326,11 @@ GardenWrecker: {
 }
 
 AlcadizScrap: {
-	DisplayName: Fabled Scrap
+	DisplayName: 古谕碎片
 	Tooltip:
 		'''
-		Essence of high Materials, used for making very neat weapons
-		Countains the power of Frile, Govheil and Fablia!
+		古谕碎片，顶级材料之魂
+		蕴含三相之力，握此碎片，即握传奇
 		'''
 }
 
@@ -1397,7 +1397,7 @@ AlcadizPowder: {
 	DisplayName: Fable Powder
 	Tooltip:
 		'''
-		Throw magical dust on them!
+		向他们洒下魔法尘
 		A spark-like explosion dust that does a lot damage!
 		From the Fabled fallen remains..
 		'''
@@ -1923,8 +1923,8 @@ RuneOfStealth: {
 }
 
 ShadeCharm: {
-	DisplayName: Shade Charm
-	Tooltip: Decreases Mana Cost and lights up in the night
+	DisplayName: 魅夜之石
+	Tooltip: 魅夜之石，夜中明灯，魔力减耗，照亮前行。
 }
 
 ShadeScarf: {
@@ -2386,26 +2386,22 @@ ShadeHandTome: {
 }
 
 StaffOFlame: {
-	DisplayName: Staff O Flame
-	Tooltip:
-		'''
-		Summons a cute lil' flame
-		:3
-		'''
+	DisplayName: 焰灵杖
+	Tooltip: 召唤萌焰小精灵，伴你左右，温暖心房，照亮前行
 }
 
 StaffoftheIrradiaflare: {
-	DisplayName: Staff of the Irradiaflare
+	DisplayName: 辐射酸灵杖
 	Tooltip:
 		'''
-		Channels the power of the acid to shoot a powerful acidic blast!
-		It's powerful, source: trust me bro
+		汲取酸液之力，释放强力酸暴，威力非凡，信我，兄弟
+		来源可靠，力量源自深邃，一击即中，腐蚀敌胆
 		'''
 }
 
 StarFlowerStaff: {
-	DisplayName: Star Flower Staff
-	Tooltip: Shoot little balls of light
+	DisplayName: 星花魔杖
+	Tooltip: 轻挥魔杖，星光汇聚，化作光球飞射，夜幕下的璀璨烟火
 }
 
 SunBlastStaff: {
@@ -2861,8 +2857,8 @@ RestingGroundsI: {
 }
 
 ShinobiTome: {
-	DisplayName: Shinobi Tome
-	Tooltip: Excellent choice for no hand ninjas!
+	DisplayName: 忍者心经
+	Tooltip: 无手亦可挥，秘籍在心，忍者之魂，战场无影踪
 }
 
 GintzlSpear: {
@@ -2914,12 +2910,12 @@ GintziaBossBag: {
 }
 
 GintzeCard: {
-	DisplayName: Gintze Card
+	DisplayName: 金戈亚符牌
 	Tooltip:
 		'''
-		Use a powder or dust and then use this!
-		Sometimes it takes a card to be a warrior.
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
+		撒下粉末，轻舞尘埃，激活神秘力量
+		成为勇士，或许只差那张关键的牌
+		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
 }
 
@@ -2998,12 +2994,12 @@ VoidKey: {
 }
 
 Neptune8Card: {
-	DisplayName: Neptune8 Card
+	DisplayName: 第八星辉符牌
 	Tooltip:
 		'''
-		An igniter for dusts and powders!
-		Reaching from the depths of the galaxy!
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
+		星际深处的火花
+		点燃尘埃与粉末的激情
+		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
 }
 
@@ -3036,9 +3032,9 @@ AbyssalPowder: {
 	DisplayName: Abysmal Aurelus Powder
 	Tooltip:
 		'''
-		Throw magical dust on them!
+		向他们洒下魔法尘
 		A void crystal-like dust!
-		After hitting an enemy with this, use an igniter card weapon!
+		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
@@ -3046,9 +3042,9 @@ AivanPowder: {
 	DisplayName: Aivan Powder
 	Tooltip:
 		'''
-		Throw magical dust on them!
+		向他们洒下魔法尘
 		Stolen from gothivia's castle
-		After hitting an enemy with this, use an igniter card weapon!
+		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
@@ -3056,15 +3052,15 @@ GovheilPowder: {
 	DisplayName: Govheil Powder
 	Tooltip:
 		'''
-		Throw magical dust on them!
+		向他们洒下魔法尘
 		Pure sensation. :)
-		After hitting an enemy with this, use an igniter card weapon!
+		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
 TheSunAndMoonCard: {
-	Tooltip: Burn with the power of the sun and moon...
-	DisplayName: The Sun And Moon Card
+	Tooltip: 用太阳的炽热和月亮的神秘力量焚烧敌人
+	DisplayName: 日月灼炎符牌
 }
 
 Kilvier: {
@@ -3265,11 +3261,11 @@ WeddingDay: {
 }
 
 GothiviasCard: {
-	DisplayName: Gothivia's Flame Card
+	DisplayName: 歌瑟梵焰符牌
 	Tooltip:
 		'''
 		"Causes minor burns," thats at least the note she left.
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
+		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
 }
 
@@ -3298,7 +3294,7 @@ CrystalPowder: {
 		'''
 		Throw magical dust on them and ignite
 		It's what we've been working for Jesse
-		After hitting an enemy with this, use an igniter card weapon!
+		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
@@ -3374,7 +3370,7 @@ StarbloomTempleBlock: {
 
 ShadegraveStaff: {
 	Tooltip: ""
-	DisplayName: Shadegrave Staff
+	DisplayName: 幽影墓杖
 }
 
 BasicGunParts: {
@@ -3659,8 +3655,8 @@ LunarianVoidLegs: {
 }
 
 SandStorm: {
-	DisplayName: Sand Storm
-	Tooltip: Fires a mini sand tornado that explodes upon impact
+	DisplayName: 沙暴旋风
+	Tooltip: 沙暴旋风，迷你龙卷风席卷敌人，触地爆炸，沙尘四散，战场瞬变沙漠
 }
 
 ExploreMorrowedVillage: {
@@ -4190,8 +4186,8 @@ JacksonPollock: {
 }
 
 Rhamenthal: {
-	DisplayName: Rhamenthal the Grafted
-	Tooltip: A devastating magical bow that will wipe out every enemy!
+	DisplayName: 雷曼索织魔
+	Tooltip: 一弓织尽敌阵烟云，万敌于魔法之网中消散无踪
 }
 
 Angelenthal: {
@@ -4220,65 +4216,65 @@ FrostMonger: {
 }
 
 AlcadzianCard: {
-	DisplayName: Alcadzian Card
+	DisplayName: 阿尔卡迪亚爆裂符牌
 	Tooltip:
 		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
+		以神秘粉末标记敌手
+		再以牌为引，引爆炫目爆炸，敌人在璀璨光芒中败退
 		'''
 }
 
 BOMBERCard: {
-	DisplayName: BOMBER Card
+	DisplayName: 爆破符牌
 	Tooltip:
 		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
+		以神秘粉末标记敌手
+		切换此牌，长按攻击，引爆连环爆炸，战场瞬间化为火海
 		'''
 }
 
 BurningCard: {
-	DisplayName: Burning Card
+	DisplayName: 灼热符牌
 	Tooltip:
 		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
+		以神秘粉末标记敌手
+		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
 }
 
 FenixxCard: {
-	DisplayName: Fenixx Card
+	DisplayName: 凤涅克丝符牌
 	Tooltip:
 		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
+		以神秘粉末标记敌手
+		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
 }
 
 GrailedCard: {
-	DisplayName: Grailed Card
+	DisplayName: 砾金符牌
 	Tooltip:
 		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
+		以神秘粉末标记敌手
+		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
 }
 
 LarvaedCard: {
-	DisplayName: Larveid Card
+	DisplayName: 幽蝶符牌
 	Tooltip:
 		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
+		以神秘粉末标记敌手
+		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
 }
 
 StyngerCard: {
-	DisplayName: Stynger Card
+	DisplayName: 刺蜇符牒
 	Tooltip:
 		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
+		以神秘粉末标记敌手
+		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
 }
 
@@ -4397,11 +4393,11 @@ Alcadius: {
 }
 
 DungeonedRockCard: {
-	DisplayName: Dungeoned Rock Card
+	DisplayName: 地牢岩符牌
 	Tooltip:
 		'''
-		Get rocked, or Dwayne Johnsoned, whatever is funnier.
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
+		要么被石头砸中，要么体验一下‘巨石’强森的威力，看哪个更有趣吧
+		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
 }
 
@@ -4461,8 +4457,8 @@ Test: {
 }
 
 StarringBalls: {
-	DisplayName: Starring Balls
-	Tooltip: Get starry
+	DisplayName: 星辰球
+	Tooltip: 释放星辰之力，星光环绕，化身为夜空的主宰
 }
 
 MagicalBroochA: {
@@ -4542,7 +4538,7 @@ AgreviPowder: {
 		'''
 		Throw magical dust on them and ignite
 		An exploding dust that works after a little while
-		After hitting an enemy with this, use an igniter card weapon!
+		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
@@ -4552,7 +4548,7 @@ IllusionistPowder: {
 		'''
 		Throw magical dust on them and ignite
 		A dust that tells you to keep yourself safe.
-		After hitting an enemy with this, use an igniter card weapon!
+		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
@@ -4562,7 +4558,7 @@ PoisonedPowder: {
 		'''
 		Throw magical dust on them and ignite
 		A constant dust that has posionous tendrils
-		After hitting an enemy with this, use an igniter card weapon!
+		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
@@ -4572,7 +4568,7 @@ SpiritPowder: {
 		'''
 		Throw magical dust on them and ignite
 		Fenix would love you for this.
-		After hitting an enemy with this, use an igniter card weapon!
+		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
@@ -5140,32 +5136,32 @@ TheTraumatizer: {
 }
 
 FloweredCard: {
-	DisplayName: Flowered Card
+	DisplayName: 花符卡
 	Tooltip:
 		'''
-		An igniter for dusts and powders!
-		Reaching from the depths of the galaxy!
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
+		这是点燃粉末与尘埃的引子
+		从银河深处而来，点燃宇宙的火花
+		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
 }
 
 MetallianCard: {
-	DisplayName: Metallian Card
+	DisplayName: 金属符卡
 	Tooltip:
 		'''
-		An igniter for dusts and powders!
-		Reaching from the depths of the galaxy!
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
+		这是点燃粉末与尘埃的引子
+		从银河深处而来，点燃宇宙的火花
+		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
 }
 
 ZuiCard: {
-	DisplayName: Zui Card
+	DisplayName: Zui符牌
 	Tooltip:
 		'''
-		An igniter for dusts and powders!
-		Reaching from the depths of the galaxy!
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
+		这是点燃粉末与尘埃的引子
+		从银河深处而来，点燃宇宙的火花
+		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
 }
 
@@ -5253,7 +5249,7 @@ Vulcanius: {
 }
 
 CinderedCard: {
-	DisplayName: Cindered Card
+	DisplayName: 灰烬符牌
 	Tooltip: ""
 }
 
@@ -5816,8 +5812,8 @@ Voltenstein: {
 		'''
 		A shocking experience!
 		Tap to your cursor to dash into electrifying damage! F
-		Hitting enemies will give you bonus damage and immunity for reward! 
-		Hitting an enemy will make next hit use faster! Missing will make it an extra long wait.
+		击敌得额外伤害，片刻无敌，胜者之赏。
+		击中，下次攻击快如闪电；失手，等待更漫长
 		The better the glove the more words!
 		2 Words!
 		'''
@@ -5880,7 +5876,7 @@ Mardenstein: {
 		A wowing experience!
 		Tap to your cursor to dash into some damn high damage! 
 		Hitting enemies will give you bonus damage with words and immunity for reward! 
-		Hitting an enemy will make next hit use faster! Missing will make it an extra long wait.
+		击中，下次攻击快如闪电；失手，等待更漫长
 		The better the glove the more words!
 		3 Words!
 		'''
@@ -6072,10 +6068,10 @@ Hookarama: {
 MushyCard: {
 	Tooltip:
 		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
+		以神秘粉末标记敌手
+		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
-	DisplayName: Mushy Card
+	DisplayName: 柔梦符牒
 }
 
 XX4160: {
@@ -6380,42 +6376,36 @@ Sirius: {
 Iknoctstein: {
 	Tooltip:
 		'''
-		A super exploding experience!
-		Tap to your cursor to dash into SUPER damage! 
-		Hitting enemies will give you bonus damage and immunity for reward! 
-		Hitting an enemy will make next hit use faster! Missing will make it an extra long wait.
-		The better the glove the more words!
-		5 Words!
+		超级爆炸体验，威力非凡！
+		轻触屏幕，化为疾风，直冲敌阵，超级伤害！
+		击敌得额外伤害，片刻无敌，胜者之赏。
+		击中，下次攻击快如闪电；失手，等待更漫长
 		'''
-	DisplayName: Iknoctstein
+	DisplayName: 伊克诺克斯坦
 }
 
 Gothinstein: {
 	Tooltip:
 		'''
-		Gothivia didn't have this...
-		Tap to your cursor to dash into Gothivia's damage! 
-		Hitting enemies will give you bonus damage and immunity for reward! 
-		Hitting an enemy will make next hit use faster! Missing will make it an extra long wait.
-		A combination of every other glove!
-		5 Words!
+		歌瑟梵未曾有此神器
+		轻触屏幕，化作闪电，直冲敌阵！
+		击敌得额外伤害，片刻无敌，胜者之赏。
+		击中，下次攻击快如闪电；失手，等待更漫长
 		'''
-	DisplayName: Gothinstein
+	DisplayName: 歌瑟梵斯坦
 }
 
 Friedstein: {
 	Tooltip:
 		'''
-		Zui would love this!
-		Tap to your cursor to dash into radiant damage! 
-		Hitting enemies will give you bonus damage and immunity for reward! 
-		Hitting an enemy will make next hit use faster! Missing will make it an extra long wait.
+		蕊的心爱之物，赞不绝口！
+		轻触屏幕，化身为光，冲向敌人，光芒四射
+		击中敌人，额外伤害，片刻免疫，胜者之赏。
+		中敌，下一次攻击快如闪电；失手，等待时间更长。
 
-		This glove has incredible speed to attack after hitting but missing has an even longer wait.
-		It has has way more words per hit sometimes!
-		4 Words!
+		攻速惊人，击中后加速，但若失手，等待更漫长。
 		'''
-	DisplayName: Friedstein
+	DisplayName: 弗莱德斯坦
 }
 
 ManifestedLove: {
@@ -6608,10 +6598,10 @@ ImperfectionStaff: {
 IshtarCard: {
 	Tooltip:
 		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
+		以神秘粉末标记敌手
+		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
-	DisplayName: Ishtar Card
+	DisplayName: 伊斯塔符牌
 }
 
 Orion: {
@@ -6642,11 +6632,11 @@ RazzleDazzle: {
 }
 
 IllureCard: {
-	DisplayName: Illure Card
+	DisplayName: 迷魅符牌
 	Tooltip:
 		'''
-		Use with a combination of dusts to make spells :)
-		Hit an enemy with a powder, then switch to this weapon and hold the attack button for explosions!
+		以神秘粉末标记敌手
+		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
 }
 
@@ -7018,9 +7008,9 @@ ArtoriaIllurePowder: {
 	DisplayName: Artoria Illure Powder
 	Tooltip:
 		'''
-		Throw magical dust on them!
+		向他们洒下魔法尘
 		An explosion of the Illure.
-		After hitting an enemy with this, use an igniter card weapon!
+		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
@@ -7028,9 +7018,9 @@ EreshkinPowder: {
 	DisplayName: Ereshkin Powder
 	Tooltip:
 		'''
-		Throw magical dust on them!
+		向他们洒下魔法尘
 		A sparkly drawing dust that does many times damage as the igniter!
-		After hitting an enemy with this, use an igniter card weapon!
+		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
@@ -7038,18 +7028,18 @@ MushyPowder: {
 	DisplayName: Mushy Powder
 	Tooltip:
 		'''
-		Throw magical dust on them!
+		向他们洒下魔法尘
 		A mushy powder that explode
-		After hitting an enemy with this, use an igniter card weapon!
+		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
 RibbonStaff: {
-	DisplayName: Ribbon Staff
+	DisplayName: 彩带魔杖
 	Tooltip:
 		'''
-		Hold it out to wrap your enemies nicely in a bow, locking their movement for a bit
-		Release to cause them to explode into confetti and streamers!
+		彩带魔杖，束缚敌手，如礼盒缠绕，定身于优雅之中
+		释放魔力，敌人化为绚烂彩纸，烟花般绽放，战场亦成舞会
 		'''
 }
 
@@ -7122,12 +7112,12 @@ IceCubeMaker: {
 }
 
 Vixyl: {
-	DisplayName: Vixyl
+	DisplayName: 维西尔
 	Tooltip:
 		'''
-		Perfectly time your slash and get hit to parry an attack!
-		Parrying negates all damage and does a powerful slash
-		For a short time after parrying, you do a flurry of swipes just like Verlia!
+		精准把握斩击与受击的时机，以反击敌人攻击
+		反击能够完全抵消所有伤害，并发动强力的反击斩击
+		在反击后的一小段时间内，你将如同薇莉亚一般，施展一连串的快速攻击
 		'''
 }
 
