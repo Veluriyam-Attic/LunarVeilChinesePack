@@ -499,12 +499,12 @@ Bagitem: {
 }
 
 Cinderscrap: {
-	DisplayName: 烬尘碎片
+	DisplayName: 烬土碎片
 	Tooltip:
 		'''
-		烬尘残余，见证无尽燃烧
+		烬土残余，见证无尽燃烧
 		经历过无尽的燃烧
-		在植物中找到了归宿s
+		在植物中找到了归宿
 		'''
 }
 
@@ -1220,8 +1220,8 @@ Hornet: {
 }
 
 MorrowSalface: {
-	DisplayName: Fabled Salface
-	Tooltip: Shoots three bolts and then a big arcanal bolt
+	DisplayName: 古谕萨尔法斯
+	Tooltip: 先连射三箭，随后施放巨大秘法箭，古谕之力，破敌于无形
 }
 
 SteamedNail: {
@@ -1230,58 +1230,58 @@ SteamedNail: {
 }
 
 Teraciz: {
-	DisplayName: Teraciz
+	DisplayName: 彩绘魔炮
 	Tooltip:
 		'''
-		Meatballs
-		Do not be worried, this mushes reality into bit bits and then shoots it!
-		You can never miss :P
+		油漆子弹，现实重绘新画卷
+		现实涂鸦，一发入魂笑开颜
+		精准打击，色彩斑斓敌消散
 		'''
 }
 
 Violar: {
-	DisplayName: Violar
+	DisplayName: 维奥拉
 	Tooltip:
 		'''
-		Let them burn in harmony!
-		Simple weapon forged from Stellean bricks and the heat from plants of the fable
-		Impractical but very rewarding...
+		让火焰与之共鸣！
+		由星辉砖石与古谕植物热力铸成的简朴武器
+		虽不实用，却收获非凡
 		'''
 }
 
 wowgun: {
-	DisplayName: Wowgun
+	DisplayName: Wow
 	Tooltip:
 		'''
-		You made a gun out of wood what did you expect..
-		For your efforts I commend you, now use my voice as a weapon :)
+		你用木头造枪，想象它威力无边
+		我以声音为弹，助你击中所愿之地
 		'''
 }
 
 AlcadizDagger: {
-	DisplayName: Fabled String n' Brooch
+	DisplayName: 古谕
 	Tooltip:
 		'''
-		Your summons will target focused enemies
-		Summons will manifest out of your string shield
-		They will act as temporary summons to give your other minions company!
-		The Brooch above gives you 10+ Defense while active!
+		你的召唤物将优先攻击被集火的敌人
+		召唤物将从你的盾中显现出来
+		它们将作为临时召唤物，为你的其他随从提供支援！
+		当它激活时，它会为你加持，让你的防御力提升10点！
 		'''
 }
 
 BloodLamp: {
-	DisplayName: Blood Lamp
+	DisplayName: 血怒圣灯
 	Tooltip:
 		'''
-		Enrages your summons by hitting enemies, shows a red mark on them!
-		Summons a red explosion crystal that hurts foes
-		Even makes a bloodthirst trail for the summon being empowered!
+		攻击敌人，使你的召唤兽狂怒，标记血红印记！
+		召唤红色爆裂晶石，痛击对手！
+		连带召唤兽都染上嗜血之径，战力飙升！
 		'''
 }
 
 CanOfLeaves: {
-	DisplayName: Box Of Leaves
-	Tooltip: Summon the leaves, don't bother picking them up, they are a bit aggressive, and magical...
+	DisplayName: 叶灵盒
+	Tooltip: 召唤自带魔法的叶子攻击敌人
 }
 
 StarCall: {
@@ -1471,10 +1471,10 @@ Parendine: {
 AuroranSeeker: {
 	Tooltip:
 		'''
-		A super charged book of spells to cast!
-		Summons a book that puts a variety of 7 spells on its attacker!
+		这是一本超能魔法书，施展时
+		召唤出的书册对敌人释放七种法术，花样繁多！
 		'''
-	DisplayName: Auroran Seeker
+	DisplayName: 光渊觅法者
 }
 
 GovheilMask: {
@@ -1611,11 +1611,11 @@ Hearstspire: {
 }
 
 Pearlinator: {
-	DisplayName: Pearlinator
+	DisplayName: 爱之焰
 	Tooltip:
 		'''
-		Lovely flamethrower?
-		Dream upon a goddess of love, Daedia!
+		梦中的爱神，黛蒂亚！
+		这是爱与热情的火焰，美丽而炽烈
 		'''
 }
 
@@ -2631,48 +2631,48 @@ LAZER: {
 }
 
 RustlockPistol: {
-	DisplayName: Rustlock Pistol
-	Tooltip: Great for shooting nothing!
+	DisplayName: 锈铐手枪
+	Tooltip: 射击虚空，效果绝佳！
 }
 
 Rustvolver: {
-	DisplayName: Rustvolver
-	Tooltip: Just a rusty pistol, not sure why you'd use it, but it's here!
+	DisplayName: 锈转轮
+	Tooltip: 一把满是锈迹的手枪，用它？你开心就好！
 }
 
 TecnoBlaster: {
-	DisplayName: Techno Blaster
-	Tooltip: Get technical
+	DisplayName: 科技爆裂枪
+	Tooltip: 技术控的最爱，用科技炸裂一切！
 }
 
 TheRedSkull: {
-	DisplayName: The Red Skull
-	Tooltip: Another skull emoji.
+	DisplayName: 红骷髅
+	Tooltip: 又一个骷髅图腾
 }
 
 Tociflare: {
-	DisplayName: Tociflare
-	Tooltip: Acidic flamethrower, uses gel for ammo
+	DisplayName: 毒焰喷射
+	Tooltip: 喷吐酸性火焰，以凝胶为弹，腐蚀一切
 }
 
 TychineGun: {
-	DisplayName: Tychine Gun
-	Tooltip: Why would you kill sharks for this :(
+	DisplayName: 鲨猎泰克枪
+	Tooltip: 为此猎鲨，何其悲凉
 }
 
 VoidBlaster: {
-	DisplayName: Void Blaster
-	Tooltip: A void-powered gun, it shoots, you guessed it, bullets!
+	DisplayName: 虚无破空
+	Tooltip: 以虚无为动力，射出的正是——子弹！
 }
 
 WingedFury: {
-	DisplayName: Winged Fury
-	Tooltip: Sometimes shoots powerful sun-powered arrows!
+	DisplayName: 翼怒之弓
+	Tooltip: 它，时而射出烈阳神箭，势不可挡
 }
 
 ArncharRemote: {
-	DisplayName: Arnchar Remote
-	Tooltip: Summons an arnchar robot to fight for you!
+	DisplayName: 赤铁遥控器
+	Tooltip: 召唤赤铁机器人，为你冲锋陷阵！
 }
 
 DripplerStaff: {
@@ -2955,8 +2955,8 @@ TON618Crossbow: {
 }
 
 Venatici: {
-	DisplayName: Venatici
-	Tooltip: I never knew there was a black hole this big :(
+	DisplayName: 猎星者
+	Tooltip: 我从不知有如此巨大的黑洞
 }
 
 IceboundStaff: {
@@ -4407,8 +4407,8 @@ PunkedUpChops: {
 }
 
 Photobomb: {
-	DisplayName: Photobomb
-	Tooltip: I'll ruin your frames for you! I'll splatter paint all over you ;)
+	DisplayName: 炫彩弓
+	Tooltip: 我来搞破坏，毁你美照；我来泼彩漆，给你添乱
 }
 
 CatacombAquaStoneBlock: {
@@ -4452,7 +4452,7 @@ GoldenHeartBalls: {
 }
 
 Test: {
-	DisplayName: Test bitch
+	DisplayName: 测试物品
 	Tooltip: >:(
 }
 
@@ -4742,8 +4742,8 @@ MagicalAxe: {
 }
 
 WaterSong: {
-	DisplayName: Flowing Song
-	Tooltip: Turn wooden arrows into icey bolts!
+	DisplayName: 流歌
+	Tooltip: 将木箭化为冰霜飞矢！
 }
 
 Dulahaun: {
@@ -4910,11 +4910,11 @@ WindmillionRobe: {
 }
 
 VampiricVine: {
-	DisplayName: Vampiric Vine
+	DisplayName: 吸血藤蔓
 	Tooltip:
 		'''
-		Getting some bitches finally?
-		Randomly will shoot out vampire arrows that will heal you in a shot array!
+		终于要上场了？
+		随机射出吸血箭，一箭阵中，你便得愈
 		'''
 }
 
@@ -5005,11 +5005,11 @@ GearGutter: {
 }
 
 TheTingler: {
-	DisplayName: The Tingler
+	DisplayName: 颤栗尖刺
 	Tooltip:
 		'''
-		Shoots small iron needles that lodge into enemies and deal damage over time!
-		Definitely one way to give someone the tingles :P
+		射出微小的铁针，扎进敌人，慢慢造成伤害！
+		这的确是让人体验颤栗的一种方式
 		'''
 }
 
@@ -5131,8 +5131,8 @@ EckasectSire: {
 }
 
 TheTraumatizer: {
-	DisplayName: The Traumatizer
-	Tooltip: It will shoot a fan like laser and will kill things, and traumatize them.
+	DisplayName: 创痕镭枪
+	Tooltip: 扇形激光，伤敌刻骨，创伤与记忆同在
 }
 
 FloweredCard: {
@@ -5171,12 +5171,12 @@ CinderedQuiver: {
 }
 
 TheWiggler: {
-	DisplayName: The Wiggler
+	DisplayName: 蠕动粘弹
 	Tooltip:
 		'''
-		Shoots blobs that stick to tiles and enemies!
-		Right click to detonate blobs!
-		'It's icky, sticky, and it gets everywhere'
+		发射粘稠团块，吸附于敌我之间！
+		右键引爆，粘液肆意蔓延
+		它滑腻、黏着，无孔不入，让人抓狂
 		'''
 }
 
@@ -5225,11 +5225,11 @@ DrakonicSileI: {
 }
 
 MiniPistol: {
-	DisplayName: Mini Pistol
+	DisplayName: 双响炮
 	Tooltip:
 		'''
-		Fires two bullets! 
-		Speeds up over time...
+		连发双弹，火力加倍！
+		随时间加速，愈战愈勇
 		'''
 }
 
@@ -5254,7 +5254,7 @@ CinderedCard: {
 }
 
 VeroshotBow: {
-	DisplayName: Veroshot Bow
+	DisplayName: 真语弓
 	Tooltip: ""
 }
 
@@ -5294,13 +5294,13 @@ IyxTheInfamous: {
 }
 
 PoisonedAngel: {
-	DisplayName: Poisoned Angel
-	Tooltip: Not a burning angel, but a poisoned one! Can move to your cursor.
+	DisplayName: 毒翼天使
+	Tooltip: 这不是燃翼天使，而是散播毒素的使者！能随你光标而动
 }
 
 YuriFury: {
-	DisplayName: Yuri Fury
-	Tooltip: Shoot the phoenix of all time!
+	DisplayName: 尤里之怒
+	Tooltip: 射击永恒之火鸟，燃烬时空
 }
 
 ToxicHornetStaff: {
@@ -5407,13 +5407,13 @@ EelInfinite: {
 }
 
 RustedSniper: {
-	Tooltip: Its a sniper thomas...
-	DisplayName: Rusted Sniper
+	Tooltip: 这，就是狙击手汤姆斯的锈枪
+	DisplayName: 锈蚀狙神
 }
 
 BucketScrapper: {
-	DisplayName: Bucket Scrapper
-	Tooltip: Minions go and bounce off of enemies doing high contact damage!
+	DisplayName: 桶击勇士
+	Tooltip: 召唤小桶，弹跳撞敌，造成高额的接触伤害！
 }
 
 RazorBragett: {
@@ -5446,8 +5446,8 @@ Scatterbombs: {
 }
 
 VacuumDrill: {
-	Tooltip: GHOSTBUSTAS BITCH, it will lock onto enemies and zap em' harder than my mom beats me.
-	DisplayName: Vacuum Drill
+	Tooltip: 如驱鬼者般，锁定敌人，给予比老妈揍我还狠的打击
+	DisplayName: 幽能钻吸
 }
 
 GLabCrystal: {
@@ -5710,11 +5710,11 @@ Hitme: {
 }
 
 Shredder: {
-	DisplayName: Shredder
+	DisplayName: 撕裂者
 	Tooltip:
 		'''
-		Fires several ripping projectiles that spiral out of control!
-		Great for people who love scribbling!
+		发射失控的切割飞弹，划出疯狂轨迹！
+		涂鸦爱好者的新宠，肆意挥洒吧！
 		'''
 }
 
@@ -6491,8 +6491,8 @@ Cryal: {
 }
 
 MahoganyStorm: {
-	DisplayName: Mahogany Storm
-	Tooltip: Shoots a barrage of arrows!
+	DisplayName: 檀风暴
+	Tooltip: 释放一连串箭矢，如檀木之风暴，密集覆盖敌人，不留丝毫喘息之机
 }
 
 Dunderbustion: {
@@ -6501,11 +6501,11 @@ Dunderbustion: {
 }
 
 Polaris: {
-	DisplayName: Polaris
+	DisplayName: 北辰聚能枪
 	Tooltip:
 		'''
-		Hold to charge and release a powerful laser!
-		Powered by Niivi's tears
+		蓄力以释放毁灭激光
+		其能源，尼伊维之泪，蕴含无尽力量
 		'''
 }
 
@@ -6625,11 +6625,11 @@ Aquarius: {
 }
 
 RazzleDazzle: {
-	DisplayName: Razzle Dazzle
+	DisplayName: 炫乱魔弹
 	Tooltip:
 		'''
-		Every third shot fires a webbed ball that explodes into spiders!
-		Razzle Dazzle Dazzle Dazzle Razzle Dazzle
+		每三发射击，发射出一张蛛网球，爆炸后化为蜘蛛群！
+		炫乱魔弹，让敌人在混乱中颤抖
 		'''
 }
 
@@ -6797,11 +6797,11 @@ StarSilk: {
 }
 
 BabySwarmerStaff: {
-	DisplayName: Baby Swarmer Staff
+	DisplayName: 蚁群幼崽法杖
 	Tooltip:
 		'''
-		Summons a baby swarmer to fight for you!
-		Baby swarmers attack very quickly and only consume half a minion slot
+		召唤蚁群幼崽为你而战！
+		这些小家伙攻击迅速，只占用半个召唤物位置
 		'''
 }
 
@@ -6893,16 +6893,16 @@ Relagis: {
 }
 
 Opinine: {
-	Tooltip: Shoot from the heavens, built with radiance!
-	DisplayName: Opinine
+	Tooltip: 射自天穹，携光而生，箭矢如星辰，破夜而来
+	DisplayName: 光耀射天弓
 }
 
 WaterGun: {
-	DisplayName: Water Gun
+	DisplayName: 水柱枪
 	Tooltip:
 		'''
-		Shoots a constant stream of water!
-		Extra fun at parties
+		持续喷射水流
+		派对上的特别嘉宾
 		'''
 }
 
@@ -7046,8 +7046,8 @@ RibbonStaff: {
 }
 
 WiggleDiggle: {
-	DisplayName: Wiggle Diggle
-	Tooltip: It squiggles, it wiggles, it diggles! Become the clown
+	DisplayName: 摇摆小丑
+	Tooltip: 它扭动，它摆荡，它掘进！化身欢闹小丑，于嬉笑中舞动
 }
 
 NiceBusterr: {
@@ -7178,10 +7178,10 @@ FoxMark: {
 Vhel: {
 	Tooltip:
 		'''
-		Gothivia's special volley bow.
-		She's used it for decades and now you have it.
+		歌瑟梵的特制连射弓，
+		她用之数十年，现传你手中
 		'''
-	DisplayName: Vhel
+	DisplayName: 维尔赫
 }
 
 SerpentStaff: {
@@ -7495,12 +7495,12 @@ WoodyBroochA: {
 }
 
 DreadsVile: {
-	DisplayName: Dread's Vile
+	DisplayName: 恐惧之镰
 	Tooltip:
 		'''
-		Ever wanted to dash with swinging speeds like Dreadmire? Now you can fill the world with dread as well!
-		Click at enemies to go for a striking hit that will grant immunity and skulls!
-		If you miss though you most likely will get hit by contact damage and you'll be on cooldown!.
+		想体验如恐惧沼泽般横扫千军的速度？现在，你也能将恐惧散布于世！
+		对敌人点击，释放致命一击，同时获得免疫与骷髅加持！
+		若攻击落空，小心反噬的接触伤害及随之而来的虚弱期
 		'''
 }
 
