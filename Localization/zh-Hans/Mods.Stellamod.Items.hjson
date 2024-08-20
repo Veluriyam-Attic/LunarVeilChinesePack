@@ -499,12 +499,12 @@ Bagitem: {
 }
 
 Cinderscrap: {
-	DisplayName: Scrap of Cinder
+	DisplayName: 烬尘碎片
 	Tooltip:
 		'''
-		Cinder scrap
-		Burned to infinity
-		Used in plants
+		烬尘残余，见证无尽燃烧
+		经历过无尽的燃烧
+		在植物中找到了归宿s
 		'''
 }
 
@@ -1095,51 +1095,51 @@ PocketSand: {
 }
 
 ArcanalPowder: {
-	DisplayName: Sepsis Powder
+	DisplayName: 星烁魔法尘
 	Tooltip:
 		'''
 		向他们洒下魔法尘
-		A sparkly star dust that does double damage as the igniter!
+		这是一种闪烁的星光魔法尘，作为引燃物时能造成双倍伤害！
 		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
 BloodPowder: {
-	DisplayName: Kaev Powder
+	DisplayName: 燃血魔法尘
 	Tooltip:
 		'''
-		Throw magical dust on them and ignite
-		A blood dust that does high damage with igniters.
+		向他们投掷魔法尘并点燃
+		一种与符牌配合使用、能造成高额伤害的血色魔法尘
 		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
 CoalDust: {
-	DisplayName: Coal Powder
+	DisplayName: 墨煤魔法尘
 	Tooltip:
 		'''
 		向他们洒下魔法尘
 		用这个击中敌人后，使用符牌引爆！
-		Forged from the gems you collect!
+		由你收集的宝石锻造而成！
 		'''
 }
 
 FlamePowder: {
-	DisplayName: Flame Powder
+	DisplayName: 焰火魔法尘
 	Tooltip:
 		'''
 		向他们洒下魔法尘
-		A flamey dust that explodes with your igniter!
+		一种火焰般的粉尘，当你用符牌引爆时，它会爆炸！
 		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
 FrostedPowder: {
-	DisplayName: Frost Powder
+	DisplayName: 霜冻魔法尘
 	Tooltip:
 		'''
 		向他们洒下魔法尘
-		Dusty ice dust that does continuous damage with the igniter!
+		一种尘埃般的冰霜粉尘，当与符牌一同使用时，能够造成持续的伤害！
 		用这个击中敌人后，使用符牌引爆！
 		'''
 }
@@ -1155,41 +1155,41 @@ GrassDirtPowder: {
 }
 
 LenaSongPowder: {
-	DisplayName: Lena Song Powder
+	DisplayName: 莱娜之歌魔法尘
 	Tooltip:
 		'''
 		向他们洒下魔法尘
-		A musical dust! that explodes with your igniter!
+		一种音乐魔法尘，与你的符牌一同爆炸！
 		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
 ShadowFlamePowder: {
-	DisplayName: ShadowFlame Powder
+	DisplayName: 暗焰魔法尘
 	Tooltip:
 		'''
 		向他们洒下魔法尘
-		A shadow dust that explodes with your igniter!
+		一种暗影魔法尘，使用你的符牌引爆时会发生爆炸！
 		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
 TrickPowder: {
-	DisplayName: Trick Powder
+	DisplayName: 戏法魔法尘
 	Tooltip:
 		'''
 		向他们洒下魔法尘
-		A sparkly tricky dust that does a lot damage!
+		闪烁着诡计的魔法尘，造成大量伤害
 		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
 Verstidust: {
-	DisplayName: Versti Powder
+	DisplayName: 旋律魔法尘
 	Tooltip:
 		'''
 		向他们洒下魔法尘
-		A musical dust that has calming flowers
+		一种蕴含着宁静花香的旋律魔法尘
 		用这个击中敌人后，使用符牌引爆！
 		'''
 }
@@ -1394,12 +1394,12 @@ Curlistine: {
 }
 
 AlcadizPowder: {
-	DisplayName: Fable Powder
+	DisplayName: 古谕魔法尘
 	Tooltip:
 		'''
 		向他们洒下魔法尘
-		A spark-like explosion dust that does a lot damage!
-		From the Fabled fallen remains..
+		这是一种犹如火花般爆炸的魔法尘，能造成巨大的伤害！
+		它源自于古谕中陨落的遗迹……
 		'''
 }
 
@@ -1454,12 +1454,12 @@ HarmonicBlasphemy: {
 }
 
 SupernovaSitar: {
-	DisplayName: Supernova Sitar
+	DisplayName: 超星闪弦
 	Tooltip:
 		'''
-		I love ya!
-		Absolute Distortion of Verlia's power of the moon and stars!
-		Her personal gift to you!
+		爱意浓浓
+		月与星，薇莉亚之力
+		专属礼物，为你定制
 		'''
 }
 
@@ -2405,43 +2405,43 @@ StarFlowerStaff: {
 }
 
 SunBlastStaff: {
-	DisplayName: Sun Blast Staff
-	Tooltip: Blastin with the sun
+	DisplayName: 烈阳爆破杖
+	Tooltip: 烈阳一怒，光芒破敌
 }
 
 TheDeafen: {
-	DisplayName: The Deafen
-	Tooltip: Shriek the howls of a bat!
+	DisplayName: 震耳蝠啸
+	Tooltip: 发出蝙蝠的尖叫，震彻夜空！
 }
 
 TheShrieker: {
-	DisplayName: The Shrieker
-	Tooltip: Ow, my ears, but the damage...
+	DisplayName: 尖啸者
+	Tooltip: 哎呀，刺痛我的耳朵，但那伤害...
 }
 
 TomeOfTheSingularity: {
-	DisplayName: Tome Of The Singularity
-	Tooltip: A volley of fragments
+	DisplayName: 奇点法典
+	Tooltip: 一连串的碎片齐射
 }
 
 TorrentialLance: {
-	DisplayName: Torrential Lance
+	DisplayName: 湍流之枪
 	Tooltip:
 		'''
-		Use it to lance through your enemies! 
-		Leaves behind bubbles after hitting an enemy
-		You'll be invincible for a bit, be careful though, you're vulnerable at the end of the dash
+		用它穿透敌人，所过之处留下泡泡
+		短暂无敌，但冲刺结束时会陷入虚弱
+		穿敌而过，谨慎使用，把握时机
 		'''
 }
 
 VoidsGrasp: {
-	DisplayName: Voids Grasp
-	Tooltip: Summon a hand that will go out and tickle enemies :)
+	DisplayName: 虚空触手
+	Tooltip: 召唤虚空之手，轻触敌人，引笑逗趣
 }
 
 WintersStom: {
-	DisplayName: Winters Stom
-	Tooltip: Every third shot will be a powerful winter shot today explodes into snowflakes that deal damage
+	DisplayName: 冬霜怒击
+	Tooltip: 每三击，释放霜雪爆破，雪花四溅，伤敌无声
 }
 
 ArchariliteRaysword: {
@@ -2606,23 +2606,23 @@ IrradieagleWrath: {
 }
 
 Irradishark: {
-	DisplayName: Irradishark
-	Tooltip: Randomly shoots exploding acidic sharks
+	DisplayName: 爆鲨酸雨
+	Tooltip: 随机轰炸，酸鲨四溅，爆炸如雨
 }
 
 IvynShot: {
-	DisplayName: Ivyn Shot
-	Tooltip: It's a bow, there's nothing else special about it
+	DisplayName: 艾文弓
+	Tooltip: 一把寻常弓，无他，唯射尔
 }
 
 JackoShot: {
-	DisplayName: Jacko Shot
-	Tooltip: It's a bow, there's nothing else special about it
+	DisplayName: 杰克弓
+	Tooltip: 一把寻常弓，无他，唯射尔
 }
 
 JellyBow: {
-	DisplayName: Jelly Bow
-	Tooltip: It's a nice bow, there's nothing else special about it
+	DisplayName: 果冻弓
+	Tooltip: 这把弓挺好看，但也就这样了
 }
 
 LAZER: {
@@ -2710,11 +2710,11 @@ JellyStaff: {
 }
 
 SwarmerStaff: {
-	DisplayName: Swarmer Staff
+	DisplayName: 蚁群魔杖
 	Tooltip:
 		'''
-		Shoots a spread of antlion teeth
-		Swarm them, NOW!
+		发射蚁狮之牙，成扇形散开
+		蜂拥而上，就是现在！
 		'''
 }
 
@@ -2980,11 +2980,11 @@ AurelusSummoni: {
 }
 
 MagnusMagnum: {
-	DisplayName: Magnus Magnum
+	DisplayName: 玛格努斯巨炮
 	Tooltip:
 		'''
-		You know Harry, I've never really cared for your two-shoe ass
-		After 30 shots, your gun will overheat and shoot 5 more slow shots to recover to regular speed.
+		你知道的，哈利，我一直不太待见你那两面派的作风
+		连射30发后，枪会过热，接着会慢速发射5发，然后恢复常态
 		'''
 }
 
@@ -3029,31 +3029,31 @@ AurelusBlightBroochA: {
 }
 
 AbyssalPowder: {
-	DisplayName: Abysmal Aurelus Powder
+	DisplayName: 深渊匿影魔法尘
 	Tooltip:
 		'''
 		向他们洒下魔法尘
-		A void crystal-like dust!
+		一种虚空水晶般的尘埃！
 		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
 AivanPowder: {
-	DisplayName: Aivan Powder
+	DisplayName: 艾凡魔法尘
 	Tooltip:
 		'''
 		向他们洒下魔法尘
-		Stolen from gothivia's castle
+		从歌瑟梵的城堡中窃取
 		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
 GovheilPowder: {
-	DisplayName: Govheil Powder
+	DisplayName: 歌维赫魔法尘
 	Tooltip:
 		'''
 		向他们洒下魔法尘
-		Pure sensation. :)
+		纯粹的感觉
 		用这个击中敌人后，使用符牌引爆！
 		'''
 }
@@ -3195,8 +3195,8 @@ GovhenShield: {
 }
 
 GreekLantern: {
-	DisplayName: 希腊幽灯
-	Tooltip: 歌瑟梵的希腊之魂，点燃夜的神秘篇章
+	DisplayName: 希腊秘灯
+	Tooltip: 歌瑟梵的难道是希腊人？？？
 }
 
 LanternOfAFallen: {
@@ -3270,12 +3270,12 @@ GothiviasCard: {
 }
 
 Helios: {
-	DisplayName: Helios
+	DisplayName: 赫利俄斯
 	Tooltip:
 		'''
-		Gothivia's masterpiece weapon
-		Will absolutely rek the mechanical bosses.
-		Forged from the inner core of the sun, and hard work this weapon exists.
+		歌瑟梵杰作，赫利俄斯神威
+		机械巨首，一战即溃
+		太阳之心，辛勤铸就，此神器横空出世
 		'''
 }
 
@@ -3289,11 +3289,11 @@ AmethystBroochA: {
 }
 
 CrystalPowder: {
-	DisplayName: Crystal Powder
+	DisplayName: 晶石魔法尘
 	Tooltip:
 		'''
-		Throw magical dust on them and ignite
-		It's what we've been working for Jesse
+		向他们投掷魔法尘并点燃
+		这就是我们一直在努力的，杰西
 		用这个击中敌人后，使用符牌引爆！
 		'''
 }
@@ -4191,7 +4191,7 @@ Rhamenthal: {
 }
 
 Angelenthal: {
-	DisplayName: Angelenthal
+	DisplayName: 天谷圣剑
 	Tooltip: ""
 }
 
@@ -4284,7 +4284,7 @@ URift: {
 }
 
 GrailAxe: {
-	DisplayName: Grail Axe
+	DisplayName: 砾金斧
 	Tooltip: ""
 }
 
@@ -4294,7 +4294,7 @@ Rinavine: {
 }
 
 Jerry: {
-	DisplayName: Jerry
+	DisplayName: 杰瑞
 	Tooltip: ""
 }
 
@@ -4378,8 +4378,8 @@ BubbleBlasher: {
 }
 
 LarveinGreatbow: {
-	DisplayName: Larvein Greatbow
-	Tooltip: Pretty great huh?
+	DisplayName: 幽蝶大弓
+	Tooltip: 挺厉害的，对吧？
 }
 
 AlcarianYoyo: {
@@ -4533,41 +4533,41 @@ RalladI: {
 }
 
 AgreviPowder: {
-	DisplayName: Agrevi Powder
+	DisplayName: 阿格雷维魔法尘
 	Tooltip:
 		'''
-		Throw magical dust on them and ignite
-		An exploding dust that works after a little while
+		向他们投掷魔法尘并点燃
+		一种过一会儿才起效的爆炸性尘埃
 		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
 IllusionistPowder: {
-	DisplayName: Illusionist Powder
+	DisplayName: 幻术师魔法尘
 	Tooltip:
 		'''
-		Throw magical dust on them and ignite
-		A dust that tells you to keep yourself safe.
+		向他们投掷魔法尘并点燃
+		一种提醒你要保护好自己的粉尘
 		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
 PoisonedPowder: {
-	DisplayName: Poisoned Powder
+	DisplayName: 毒雾魔法尘
 	Tooltip:
 		'''
-		Throw magical dust on them and ignite
-		A constant dust that has posionous tendrils
+		向他们投掷魔法尘并点燃
+		一种总在飘的毒尘
 		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
 SpiritPowder: {
-	DisplayName: Spirit Powder
+	DisplayName: 灵体魔法尘
 	Tooltip:
 		'''
-		Throw magical dust on them and ignite
-		Fenix would love you for this.
+		将魔法尘抛洒在它们身上，然后点燃
+		凤涅克丝会因你这样做而喜爱你
 		用这个击中敌人后，使用符牌引爆！
 		'''
 }
@@ -5116,17 +5116,17 @@ VeilScriptureI: {
 }
 
 EckasectSire: {
-	DisplayName: Eckasect Sire
+	DisplayName: 圣裁者艾克萨
 	Tooltip:
 		'''
-		A beloved weapon by Sirestias and Zenovia (creator)
-		Can switch modes for unique abilities for this one weapon! Uses 20 mana!!
-		Hitting an enemy will cause colored circles to appear on parts of an enemy!
-		The colors coordinate to one of the modes on the weapon, and when used correctly,
-		will do devastating damage!
-		Genesis - Green Version which shoots out bombs!
-		Liberator - Purple version which snipes out a high damage shot!
-		Execution - An Orange laser comes out of the gun taking wide spread and less damage...
+		希丝忒莉亚心爱，泽诺维亚手创
+		一器三式，独特能力切换，耗蓝二十
+		击敌留色标，辨色施技，威力骇人
+		起源绿芒，弹雨洒落，范围杀敌
+		解放者紫，精准狙击，一击毙命
+		制裁橙光，激光横扫，面伤连绵
+		辨色施技，各显神通，战场主宰
+		一剑三变，威力无边，圣裁者艾克萨
 		'''
 }
 
@@ -5354,8 +5354,8 @@ OnionOfHeight: {
 }
 
 TheAurora: {
-	DisplayName: Astral Blast
-	Tooltip: Take the aurora with smart blasts!
+	DisplayName: 星界冲击
+	Tooltip: 以智慧之光，驾驭极光，爆发冲击！
 }
 
 ChromaCutter: {
@@ -5427,8 +5427,8 @@ PointedEdge: {
 }
 
 Swingaling: {
-	DisplayName: Swingaling
-	Tooltip: Swing swing, Swingaling! Swihing
+	DisplayName: 旋风击
+	Tooltip: 旋转吧，旋风击！不停旋转！
 }
 
 TornCarianPage: {
@@ -5803,21 +5803,21 @@ DirtGlove: {
 }
 
 TwilitTome: {
-	DisplayName: Twilight Tome
+	DisplayName: 暮光法典
 	Tooltip: ""
 }
 
 Voltenstein: {
 	Tooltip:
 		'''
-		A shocking experience!
-		Tap to your cursor to dash into electrifying damage! F
-		击敌得额外伤害，片刻无敌，胜者之赏。
-		击中，下次攻击快如闪电；失手，等待更漫长
-		The better the glove the more words!
+		这将是一次令人震惊的体验！
+		轻触鼠标，瞬间突进，释放出令人震撼的电击伤害！
+		击中敌人会给你带来额外伤害的加成，并且作为奖励，你将获得短暂的免疫效果！
+		击中敌人将使你的下一次攻击速度更快！但如果攻击落空，你将面临更长时间的等待。
+		越强的手套词条越多
 		2 Words!
 		'''
-	DisplayName: Voltenstein
+	DisplayName: 沃特恩斯坦
 }
 
 BlankBrooch: {
@@ -5841,15 +5841,15 @@ BlankSafunai: {
 }
 
 Hultinstein: {
-	DisplayName: 震古烁今·霆击
+	DisplayName: 赫尔廷斯坦
 	Tooltip:
 		'''
-		你踏入的，是一场热血沸腾的激斗！
-		指尖轻点，如疾风骤雨，直冲敌人，释放那惊心动魄的高伤风暴！
-		每一次碰撞，敌人不仅是你的目标，更成了你力量的源泉，言语化为利刃，伤害倍增，无敌护盾随之而来！
-		精准击中，下一次攻势将更快到来；一旦失手，等待的将是漫长的冷却。
-		手套越卓越，你的话语越加丰富，一字一句，皆成致命的旋律。
-		一字当先，震撼四海，让敌人在你的言辞中颤抖吧！
+		这是一段狂野的格斗经历！
+		只需轻轻一点，就能迅猛突袭，造成惊人的高额伤害！
+		击中敌人会使你获得额外的伤害加成，并且作为奖励，你将获得短暂的免疫效果！
+		击中敌人将使你的下一次攻击速度更快！但如果攻击落空，你将面临更长时间的等待。
+		越强的手套词条越多
+		1个词条
 		'''
 }
 
@@ -5870,14 +5870,14 @@ BlankOrb: {
 }
 
 Mardenstein: {
-	DisplayName: Mardenstein
+	DisplayName: 玛登斯坦
 	Tooltip:
 		'''
-		A wowing experience!
-		Tap to your cursor to dash into some damn high damage! 
-		Hitting enemies will give you bonus damage with words and immunity for reward! 
-		击中，下次攻击快如闪电；失手，等待更漫长
-		The better the glove the more words!
+		这将是一次震撼人心的体验！
+		轻点鼠标，如离弦之箭般冲向敌人，释放令人咋舌的高额伤害。
+		击中敌人后，你将获得额外的伤害加成，并且作为奖励，你将获得短暂的免疫效果，无懈可击！
+		击中敌人将使你的下一次攻击速度更快！但如果攻击落空，你将面临更长时间的等待。
+		越强的手套词条越多
 		3 Words!
 		'''
 }
@@ -6376,10 +6376,12 @@ Sirius: {
 Iknoctstein: {
 	Tooltip:
 		'''
-		超级爆炸体验，威力非凡！
-		轻触屏幕，化为疾风，直冲敌阵，超级伤害！
-		击敌得额外伤害，片刻无敌，胜者之赏。
-		击中，下次攻击快如闪电；失手，等待更漫长
+		这将是一次超级爆炸的体验！
+		轻点鼠标，迅猛突进，释放出超级震撼的高额伤害！
+		击中敌人会给你带来额外伤害的加成，并且作为奖励，你将获得短暂的免疫效果！
+		击中敌人将使你的下一次攻击速度更快！但如果攻击落空，你将面临更长时间的等待。
+		越强的手套词条越多
+		5 Words!
 		'''
 	DisplayName: 伊克诺克斯坦
 }
@@ -7005,31 +7007,31 @@ SkullBreaker: {
 }
 
 ArtoriaIllurePowder: {
-	DisplayName: Artoria Illure Powder
+	DisplayName: 阿托利亚星树魔法尘
 	Tooltip:
 		'''
 		向他们洒下魔法尘
-		An explosion of the Illure.
+		星树的爆发
 		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
 EreshkinPowder: {
-	DisplayName: Ereshkin Powder
+	DisplayName: 厄莉什基迦勒魔法尘
 	Tooltip:
 		'''
 		向他们洒下魔法尘
-		A sparkly drawing dust that does many times damage as the igniter!
+		一种闪烁着光芒的描画粉尘，其破坏力是引爆它的符牌威力的数倍！
 		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
 MushyPowder: {
-	DisplayName: Mushy Powder
+	DisplayName: 柔梦魔法尘
 	Tooltip:
 		'''
 		向他们洒下魔法尘
-		A mushy powder that explode
+		爆炸性粉末
 		用这个击中敌人后，使用符牌引爆！
 		'''
 }
@@ -7063,8 +7065,8 @@ Mordred: {
 }
 
 TheMarksman: {
-	Tooltip: Use your cursor to summon electricity from the power of the veil!
-	DisplayName: The Marksman
+	Tooltip: U用你的光标，召唤天纱之力，释放电流！
+	DisplayName: 神射手
 }
 
 STARBOMBERBossRel: {
