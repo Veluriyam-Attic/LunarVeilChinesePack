@@ -1287,29 +1287,29 @@ CanOfLeaves: {
 }
 
 StarCall: {
-	DisplayName: Starbomber
+	DisplayName: 星爆投弹者
 	Tooltip:
 		'''
-		Your summons will explode into big stary bits!
-		Takes 2 slots to summon
-		They will act as temporary summons for big damage
-		Definitely gonna bring flashbacks after Diari releases
+		召唤物将炸裂成壮观的星辰碎片！
+		召唤需两个单位
+		它们将作为临时召唤物，造成巨大伤害
+		Diari（模组作者制作的游戏）发布后，这绝对会勾起你的回忆。
 		'''
 }
 
 StumpBuster: {
-	DisplayName: Stump Buster
-	Tooltip: I command thee, use the power of stumps!
+	DisplayName: 树桩破击者
+	Tooltip: 用树桩之力，粉碎一切！
 }
 
 MorrowWhipI: {
-	DisplayName: Fabled Morrowed Whip
+	DisplayName: 古谕晨昏之鞭
 	Tooltip:
 		'''
-		Your summons will target focused enemies
-		Summons will act on a target and do tremendous more damage
-		But when you mark an enemy, you lower your defense :(
-		Don't dieee!
+		召唤伙伴，锁定敌人，伤害加倍
+		攻击敌人后，使你的防御降低
+		战斗中，小心别死
+		标记敌人，要慎之又慎，生死一念间
 		'''
 }
 
@@ -1435,13 +1435,13 @@ VerliaBroochA: {
 SwordsOfRevengence: {
 	Tooltip:
 		'''
-		I love ya!
-		Summons a Curlistine sword that brings Verlia's small swords to life!
-		Only works if an enemy is nearby!
-		Activates Verlia's Brooch effects! 
-		(Inc mana by 50, Def by 5, Heavy snowflakes on hit!) 
+		我心永恒，爱意不灭！
+		召唤一把卡里斯汀之剑，唤醒薇莉亚小剑的生命力！
+		仅在敌人近身时激活
+		激发薇莉亚胸针效果！
+		（魔力提升50，防御加5，击中时有密集雪花！）
 		'''
-	DisplayName: Swords Of Revengence
+	DisplayName: 复仇之剑
 }
 
 HarmonicBlasphemy: {
@@ -1785,17 +1785,17 @@ Heatspot: {
 }
 
 Valtotude: {
-	DisplayName: Windatude
+	DisplayName: 风漩仪
 	Tooltip:
 		'''
-		Create a swirl that keeps enemies inside a whirlwind
-		Great for getting your summons to attack enemies in one spot!
+		生成漩涡，锁敌风暴中
+		群敌一处，召唤攻，全中！
 		'''
 }
 
 DesertWhip: {
-	Tooltip: A small little whip
-	DisplayName: Desert Whip
+	Tooltip: 小巧的鞭子，却有无尽的沙漠力量
+	DisplayName: 沙漠之鞭
 }
 
 Vinger: {
@@ -2678,36 +2678,36 @@ ArncharRemote: {
 }
 
 DripplerStaff: {
-	DisplayName: Drippler Staff
+	DisplayName: 滴滴怪魔杖
 	Tooltip:
 		'''
-		Summons a drippler to fight for you!
-		Dripplers stick to enemies and spew blood everywhere
-		Drippy
+		召唤滴滴怪为你战斗！
+		滴血者附着敌人，四处溅射鲜血
+		战斗中，血滴不息
 		'''
 }
 
 IrradiatedCreeperStaff: {
-	DisplayName: Irradiated Creeper Staff
+	DisplayName: 辐光潜行法杖
 	Tooltip:
 		'''
-		Summons an irradiated creeper to fight for you!
-		Irradiated creepers irradiate enemies and move quite interestingly
-		I see the resemblence..
+		召唤受辐射影响的潜行者，为你而战！
+		辐光潜行者对敌人释放辐射，移动轨迹充满神秘
+		我看到了它与辐射共生的奇妙之处
 		'''
 }
 
 IvyakenStaff: {
-	DisplayName: Ivyaken Staff
-	Tooltip: Summons a small little guy to fight for you
+	DisplayName: 绿蔓使者法杖
+	Tooltip: 召唤一位小巧的绿蔓战士，为你效力
 }
 
 JellyStaff: {
-	DisplayName: Jelly Staff
+	DisplayName: 果冻魔杖
 	Tooltip:
 		'''
-		Summons a small jelly to fight for you!
-		The jellies will charge up and zap nearby enemies
+		召唤可爱小果冻，为你而战
+		积蓄能量，电击四周敌人
 		'''
 }
 
@@ -2721,11 +2721,11 @@ SwarmerStaff: {
 }
 
 VoidStaff: {
-	DisplayName: Void Staff
+	DisplayName: 虚无法杖
 	Tooltip:
 		'''
-		Summons a mini singularity to fight for you!
-		Requires 2 minion slots
+		召唤迷你奇点为你战斗！
+		需两个召唤槽位
 		'''
 }
 
@@ -2735,48 +2735,48 @@ X3144: {
 }
 
 AcidicLancher: {
-	DisplayName: Acidic Lancher
+	DisplayName: 酸液发射器
 	Tooltip: ""
 }
 
 Acidius: {
-	DisplayName: Acidius
-	Tooltip: Acid flamer!
+	DisplayName: 酸蚀者
+	Tooltip: 投掷酸液，如火焰般蔓延！
 }
 
 AssassinsKnife: {
-	DisplayName: Assassins Knife
-	Tooltip: Can confuse foes!
+	DisplayName: 刺客之刃
+	Tooltip: 令敌人迷惑的利刃！
 }
 
 AssassinsShuriken: {
-	DisplayName: Assassins Shuriken
-	Tooltip: Can also confuse foes!
+	DisplayName: 刺客飞镖
+	Tooltip: 同样让敌人晕头转向！
 }
 
 Boralius: {
-	DisplayName: Boralius
-	Tooltip: Frostburner!
+	DisplayName: 霜烬者
+	Tooltip: 寒冰燃烧者！
 }
 
 Bricks: {
-	DisplayName: Bricks
-	Tooltip: Bonk
+	DisplayName: 砖头
+	Tooltip: 一击碎砖，威力十足！
 }
 
 Cactius: {
-	DisplayName: Cactius
-	Tooltip: Bounces off of tiles
+	DisplayName: 弹跳仙人球
+	Tooltip: 在地砖上弹跳自如
 }
 
 GreyBricks: {
-	DisplayName: Gray Bricks
-	Tooltip: Ah yes, the best weapon, a BRICK
+	DisplayName: 灰砖
+	Tooltip: 没错，最佳武器，一块砖
 }
 
 Plantius: {
-	DisplayName: Plantius
-	Tooltip: Poisoner!
+	DisplayName: 毒藤之吻
+	Tooltip: 有，有毒！！
 }
 
 ZthoKnifes: {
@@ -2800,8 +2800,8 @@ MoonMothStaff: {
 }
 
 SolMothStaff: {
-	DisplayName: Sol Moth Staff
-	Tooltip: Very good for clearing out small hordes!
+	DisplayName: 日蚀蝶杖
+	Tooltip: 清理小群敌人，效果极佳
 }
 
 HeatGlider: {
@@ -2864,8 +2864,8 @@ ShinobiTome: {
 }
 
 GintzlSpear: {
-	DisplayName: Gintzl Javelin
-	Tooltip: How do they even throw them?
+	DisplayName: 玄铁标枪
+	Tooltip: 他们如何掷出这沉重的玄铁？
 }
 
 RuneOfWind: {
@@ -2878,13 +2878,13 @@ RuneOfWind: {
 }
 
 GintzlsSteed: {
-	DisplayName: 金戈亚之影
+	DisplayName: 玄铁之影
 	Tooltip: 心中有矢，无臂亦能飞箭，长空划过，传奇自成
 }
 
 Gallasis: {
 	DisplayName: 伽拉曦斯
-	Tooltip: 金戈亚的遗泽，正蕴藏于这件实用非凡的宝物之中
+	Tooltip: 玄铁的遗泽，正蕴藏于这件实用非凡的宝物之中
 }
 
 GintzlBroochA: {
@@ -2912,7 +2912,7 @@ GintziaBossBag: {
 }
 
 GintzeCard: {
-	DisplayName: 金戈亚符牌
+	DisplayName: 玄铁符牌
 	Tooltip:
 		'''
 		撒下粉末，轻舞尘埃，激活神秘力量
@@ -2962,12 +2962,12 @@ Venatici: {
 }
 
 IceboundStaff: {
-	DisplayName: Icebound Staff
+	DisplayName: 冰封魔杖
 	Tooltip:
 		'''
-		Summons a winterborn bat to fight for you!
-		Bats consume half a minion slot, and will all swarm the same target
-		Frozen by the icebound and spirits!
+		召唤寒冰中的冬蝠为你作战！
+		蝙蝠仅占半格召唤位，群起攻敌
+		冰封魔力与精灵之力，共冻结敌人！
 		'''
 }
 
@@ -3009,7 +3009,7 @@ Gintelze: {
 	DisplayName: 灵光破晓
 	Tooltip:
 		'''
-		此剑乃窃自金戈亚指挥官之手，他曾背弃歌瑟梵，剑身承载着叛逆与秘密
+		此剑乃窃自玄铁指挥官之手，他曾背弃歌瑟梵，剑身承载着叛逆与秘密
 		它原是歌瑟梵军中无双利剑，欲为无手之兵所用，锐不可挡，锋芒毕露
 		挥舞它，让剑舞如风，剑意如歌，于战场之上，书写属于你的传奇篇章！
 		'''
@@ -3022,7 +3022,7 @@ HolmbergScythe: {
 
 Alcarish: {
 	DisplayName: 长鞭
-	Tooltip: 金戈亚人胆大妄为，竟然从士兵那里偷走了如此有用的东西
+	Tooltip: 玄铁人胆大妄为，竟然从士兵那里偷走了如此有用的东西
 }
 
 AurelusBlightBroochA: {
@@ -3142,8 +3142,8 @@ DaedusBag: {
 }
 
 Plate: {
-	DisplayName: Plate
-	Tooltip: I guess Daedus forgot to do the dishes.
+	DisplayName: 盘子
+	Tooltip: 我猜代达斯忘了洗盘子
 }
 
 GovheilCastleBlock: {
@@ -3217,12 +3217,12 @@ Galvinie: {
 }
 
 TheBurningRod: {
-	DisplayName: The Burning Rod
+	DisplayName: 燃焰法杖
 	Tooltip:
 		'''
-		Summons a lamp to fight for you!
-		Lamps shoot blasts of ichor at enemies
-		They may be innacurate but they get the job done :P
+		召唤一盏灯为你战斗！
+		灯盏向敌人喷射灵液
+		虽不精准，但能完成任务
 		'''
 }
 
@@ -3361,8 +3361,8 @@ M61X: {
 }
 
 MushroomStave: {
-	DisplayName: Mushroom Stave
-	Tooltip: Get off me!
+	DisplayName: 蘑菇杖
+	Tooltip: 摆脱纠缠，给我退下！
 }
 
 StarbloomTempleBlock: {
@@ -3401,12 +3401,12 @@ StoneChesti: {
 }
 
 IgniterCards: {
-	DisplayName: Throwing Igniter Cards
-	Tooltip: Hitting enemies with this will act like an igniter card weapon!
+	DisplayName: 燃烬飞卡
+	Tooltip: 击中敌人，就像使用了引爆卡片，瞬间点燃战火！
 }
 
 ThrowingCards: {
-	DisplayName: Throwing Cards
+	DisplayName: 投掷飞牌
 	Tooltip: ""
 }
 
@@ -3425,7 +3425,7 @@ BowledCream: {
 }
 
 IgniterCardsMKII: {
-	DisplayName: Throwing Igniter Cards MKII
+	DisplayName: 燃烬飞卡MKII
 	Tooltip: ""
 }
 
@@ -3440,7 +3440,7 @@ OverworldRuneI: {
 }
 
 ThrowingCardsMKII: {
-	DisplayName: Throwing Cards MKII
+	DisplayName: 投掷飞牌MKII
 	Tooltip: ""
 }
 
@@ -3557,8 +3557,8 @@ Blackwhip: {
 }
 
 DarkWhip: {
-	DisplayName: Dark Whip
-	Tooltip: It's as bad as it sounds.
+	DisplayName: 暗夜之鞭
+	Tooltip: 正如其名，坏得很
 }
 
 AlsisChestplate: {
@@ -3601,8 +3601,8 @@ Voyager: {
 }
 
 Hyua: {
-	DisplayName: Hyua
-	Tooltip: Throw these weird circular magic hoops, or balls, I dont know.
+	DisplayName: 幻轮
+	Tooltip: 投掷诡异的圆形魔法环，或球，我也说不清
 }
 
 Poya: {
@@ -3611,24 +3611,24 @@ Poya: {
 }
 
 FireflyStaff: {
-	DisplayName: Firefly Staff
+	DisplayName: 火萤魔杖
 	Tooltip:
 		'''
-		Summons a firefly to fight for you!
-		Right click to swap between attack mode and defense mode, gaining stats that scale with the number of fireflies
-		While in offense mode, you gain movement speed and flight mobility
-		While in defense mode, you gain defense and life regen, but your fireflies attack slower
+		召唤火萤为你作战！
+		右击切换攻防模式，状态加成随火萤数量提升
+		进攻模式，你将获得移速与飞行优势
+		防守模式，你收获防御与生命恢复，但火萤攻速减缓
 		'''
 }
 
 VampireScepter: {
-	DisplayName: Vampire Scepter
+	DisplayName: 吸血魔杖
 	Tooltip:
 		'''
-		Summons a vampiric torch to aid you in battle
-		The torch completely negates life regen, however you have immense lifesteal while close to enemies
-		Greatly increases summon damage while active
-		There can only be one
+		召唤血族火炬，助你战斗无阻
+		火炬夺生机，近敌吸血无度
+		召唤伤增，威力倍出
+		唯一在手，独步天下
 		'''
 }
 
@@ -3806,24 +3806,24 @@ Reavestor: {
 }
 
 FableKnives: {
-	DisplayName: Fable Knives
-	Tooltip: Throw them fast
+	DisplayName: 古谕小刀
+	Tooltip: 快把他们扔出去
 }
 
 ZthoKnives: {
-	DisplayName: Ztho Knives
-	Tooltip: Throw them faster!
+	DisplayName: 迅疾飞刃
+	Tooltip: 扔得更快，让敌人无处可躲！
 }
 
 Thunderstaff: {
-	DisplayName: Thunderstaff
+	DisplayName: 雷霆法杖
 	Tooltip:
 		'''
-		Summons a lil' cloud to protect you!
-		The clouds perform different attacks based on the number that you have
-			Lvl 1 - Frost Bolts
-			Lvl 2 - Lightning Bolts
-			Lvl 3 - Vortexes
+		召唤小云朵守护你！
+		不同等级，云朵攻击各异
+		Lvl 1 - 冰霜飞弹凝寒气
+		Lvl 2 - 闪电破空势如虹
+		Lvl 3 - 漩涡卷天力无匹
 		'''
 }
 
@@ -3879,8 +3879,8 @@ KaleidoscopicInk: {
 }
 
 ArtistsHeart: {
-	DisplayName: Artists Heartius
-	Tooltip: I love painting so much that I throw it at my enemies!
+	DisplayName: 艺术家之心
+	Tooltip: 爱画成痴，以画为投！
 }
 
 InkingSpire: {
@@ -4021,23 +4021,23 @@ MiracleWings: {
 }
 
 Lacerator: {
-	DisplayName: Lacerator
+	DisplayName: 撕裂者
 	Tooltip:
 		'''
 		{$CommonItemTooltip.SummonTagDamage}
 		{$CommonItemTooltip.Whips}
-		Hit enemies will split in two, leaving them with half of their original HP and reduced defense
-		Slice n' dice!
+		这武器打中敌人后，敌人就像被切成两半，血量和防御都只剩下一半
+		真是切片切丁，爽快极了！
 		'''
 }
 
 PotOfGreed: {
-	DisplayName: Pot Of Greed
+	DisplayName: 贪欲之壶
 	Tooltip:
 		'''
-		Summons a laughing pot that creates up to 10 shadow clones of your minions when you go near it
-		The shadow clones linger for a short while and deal less damage than the real thing
-		There can only be one
+		接近此壶，它会欢笑，为你的手下创造最多10个影子分身
+		这些影子虽不持久，但能造成伤害，只是略逊于本体
+		这神奇的壶，战场上仅此一个，独特无双
 		'''
 }
 
@@ -4047,8 +4047,8 @@ Ripper: {
 }
 
 XScissor: {
-	DisplayName: X-Scissor
-	Tooltip: Summons a cross-shaped rift that unleashes various horrors from the void
+	DisplayName: X
+	Tooltip: 召唤X字裂隙，唤起对虚空的恐惧
 }
 
 LittleScissor: {
@@ -4183,8 +4183,8 @@ TomedDustingMagic: {
 }
 
 JacksonPollock: {
-	DisplayName: Jackson Pollock
-	Tooltip: Summons a floating paint bucket sentry that spills paint everywhere
+	DisplayName: 泼墨杰克逊
+	Tooltip: 召唤一桶漂浮的颜料，四处泼洒，绘出战场的抽象画卷
 }
 
 Rhamenthal: {
@@ -4301,8 +4301,8 @@ Jerry: {
 }
 
 LarvaedSpear: {
-	DisplayName: Larvein Spear
-	Tooltip: Kind of good ngl
+	DisplayName: 幽蝶之矛
+	Tooltip: 幽蝶化身的长矛，威力不凡
 }
 
 DevilsPeak: {
@@ -4320,8 +4320,8 @@ ClockworkCity: {
 }
 
 PotionOfAlcadWand: {
-	DisplayName: Potion Of Alcad Wand
-	Tooltip: Get Jolly with it,
+	DisplayName: 阿尔卡迪亚灵液
+	Tooltip: 一用即享无边欢乐
 }
 
 ScissorianChestplate: {
@@ -4350,12 +4350,12 @@ ScissorianMask: {
 }
 
 DarkButcher: {
-	DisplayName: The Dark Butcher
-	Tooltip: The Butcher but darker.
+	DisplayName: 暗夜屠夫
+	Tooltip: 比屠夫更狠，暗夜中的绝对恐惧
 }
 
 TheButcher: {
-	DisplayName: The Butcher
+	DisplayName: 屠夫
 	Tooltip: ""
 }
 
@@ -4390,8 +4390,8 @@ AlcarianYoyo: {
 }
 
 Alcadius: {
-	DisplayName: Alcadius
-	Tooltip: Jinkies!
+	DisplayName: 阿尔卡迪亚
+	Tooltip: 惊喜连连，出其不意！
 }
 
 DungeonedRockCard: {
@@ -4404,8 +4404,8 @@ DungeonedRockCard: {
 }
 
 PunkedUpChops: {
-	DisplayName: Punked Up Chops
-	Tooltip: Pumped up kicks fr fr
+	DisplayName: 摇滚断骨
+	Tooltip: 狂野击打，如摇滚般放肆
 }
 
 Photobomb: {
@@ -4476,11 +4476,11 @@ MagicalBroochA: {
 }
 
 PotionOfHallowWand: {
-	DisplayName: Potion Of Hallow Wand
+	DisplayName: 圣辉魔杖
 	Tooltip:
 		'''
-		Summons a little hallow potion minion to rain down upon your enemies
-		The cooler Golden Shower~
+		召唤圣洁小仆，对敌降圣雨
+		酷似金辉之沐浴，倾泻而下
 		'''
 }
 
@@ -4704,33 +4704,33 @@ WaterproofHeadphones: {
 }
 
 BurningFlask: {
-	DisplayName: Burning Flask
-	Tooltip: Please just don't set the house on fire..
+	DisplayName: 烈焰瓶
+	Tooltip: 可别连家一块烧了...
 }
 
 ComicalTrident: {
-	DisplayName: Comical Trident
-	Tooltip: Truly the most comical weapon of all time.
+	DisplayName: 滑稽三叉戟
+	Tooltip: 史上最为逗趣的武器，笑傲战场！
 }
 
 MetalAlloy: {
-	DisplayName: Metal Alloy
-	Tooltip: I mean it isn't a material, but Germany says otherwise.
+	DisplayName: 金属合金
+	Tooltip: 虽非材质，德国却如此定义
 }
 
 Ragsaw: {
-	DisplayName: Ragsaw
-	Tooltip: They bounce around, it even looks like they are dancing!
+	DisplayName: 舞动碎布
+	Tooltip: 它们轻盈跳跃，仿佛欢快舞蹈
 }
 
 SpiritCapsule: {
-	DisplayName: Spirit Capsule
-	Tooltip: Somehow you've trapped every soul inside this..
+	DisplayName: 灵魄胶囊
+	Tooltip: 不知何故，万千灵魂被囚禁于内
 }
 
 Stonen: {
-	DisplayName: Stonen
-	Tooltip: Don't get stoned just yet.
+	DisplayName: 石
+	Tooltip: 别先自陷石化的命运
 }
 
 Aquamare: {
@@ -4921,8 +4921,8 @@ VampiricVine: {
 }
 
 WindmillShuriken: {
-	DisplayName: Windmill Shuriken
-	Tooltip: Heyyyyy you can't just save the Ohio president!
+	DisplayName: 风车手里剑
+	Tooltip: 风车般旋转的手里剑，不是用来拯救俄亥俄总统的
 }
 
 PerfectionStaff: {
@@ -5021,8 +5021,8 @@ KnivedQuiver: {
 }
 
 LifeSeekingVial: {
-	DisplayName: Life Seeking Vial
-	Tooltip: Throw a bottle at an enemy to heal a small portion of health!
+	DisplayName: 生命寻踪瓶
+	Tooltip: 向敌人投掷，回复少量生命！
 }
 
 GraftedWaxMelter: {
@@ -5108,8 +5108,8 @@ MoltenScrap: {
 }
 
 VehementRhapsody: {
-	DisplayName: Vehement Rhapsody
-	Tooltip: It's musically challenged.. Adding more summons makes this summon do more damage!
+	DisplayName: 激昂狂想曲
+	Tooltip: 不擅音律，召唤越多，伤害越强
 }
 
 VeilScriptureI: {
@@ -5158,7 +5158,7 @@ MetallianCard: {
 }
 
 ZuiCard: {
-	DisplayName: Zui符牌
+	DisplayName: 蕊符牌
 	Tooltip:
 		'''
 		这是点燃粉末与尘埃的引子
@@ -5247,7 +5247,7 @@ SandWalkerItem: {
 
 Vulcanius: {
 	Tooltip: ""
-	DisplayName: Vulcanius
+	DisplayName: 火怒
 }
 
 CinderedCard: {
@@ -5306,16 +5306,16 @@ YuriFury: {
 }
 
 ToxicHornetStaff: {
-	DisplayName: Toxic Hornet Staff
-	Tooltip: Summons a toxic hornet to chase after enemies!
+	DisplayName: 毒刺蜂杖
+	Tooltip: 召唤毒刺蜂追击敌人！
 }
 
 ZenoviasPikpikGlove: {
-	DisplayName: Zenovias Pikpik Jar
+	DisplayName: 泽诺维亚的皮克罐
 	Tooltip:
 		'''
-		Toss the pikpiks across the land (Viable throughout the whole mod btw)
-		You can add Onions as accessories to gain more damage and become super strong!
+		将皮克人散布大地，无论何地，皆可为战。
+		添洋葱为配件，增伤强身，成就超凡！
 		'''
 }
 
@@ -5361,12 +5361,12 @@ TheAurora: {
 }
 
 ChromaCutter: {
-	DisplayName: Chroma Cutter
+	DisplayName: 七色剑刃
 	Tooltip:
 		'''
-		Summons 7 Chromatic Blades to fight for you! Consumes all remaining minion slots upon use.
-		After summoning the blades, swing the sword to slash them towards your cursor.
-		Each blade has a different effect!
+		召唤七把色彩各异的利剑为你效劳！使用时将耗尽所有剩余的召唤槽
+		剑刃出，随你剑锋所指，斩向敌人
+		每把刃都有独特效果，炫目又致命！
 		'''
 }
 
@@ -5419,8 +5419,8 @@ BucketScrapper: {
 }
 
 RazorBragett: {
-	DisplayName: Razor Bragett
-	Tooltip: Hitting enemies activates the saw (the dog gets out)
+	DisplayName: 锋刃炫目
+	Tooltip: 击打敌人时，锯片启动，如脱缰野狗
 }
 
 PointedEdge: {
@@ -5441,10 +5441,10 @@ TornCarianPage: {
 Scatterbombs: {
 	Tooltip:
 		'''
-		Get some real damage! It doesn't really scatter, lmao
-		(Zemmie corporation is not responsible for injuries or side effects. Don't worry, you won't live to tell us anyway.)
+		造成真实伤害，不四处乱飞，笑死。
+		（泽米企业不承担伤害或副作用责任，你也没机会活下来告状。）
 		'''
-	DisplayName: Scatterbombs
+	DisplayName: 散弹爆破
 }
 
 VacuumDrill: {
@@ -5697,8 +5697,8 @@ KilliaBroochA: {
 }
 
 IvythornShuriken: {
-	DisplayName: Ivythorn Shuriken
-	Tooltip: Will hit enemies! Crazy
+	DisplayName: 荆棘飞镖
+	Tooltip: 击中敌人，疯狂又致命！
 }
 
 SewingKit: {
@@ -5781,11 +5781,11 @@ TheFirstAurora: {
 }
 
 ThePenetrator: {
-	DisplayName: The Penetrator
+	DisplayName: 穿心刃
 	Tooltip:
 		'''
-		Hold to charge up a rapidly spinning and large shuriken...
-		Release it to throw it, dealing massive damage depending on how long you charged it!
+		蓄力以待，高速旋转的巨大手里剑
+		释放投掷，依据蓄力时长，造成巨额伤害
 		'''
 }
 
@@ -5800,7 +5800,7 @@ DelgrimsHammer: {
 }
 
 DirtGlove: {
-	DisplayName: Dirt Glove
+	DisplayName: 尘埃手套
 	Tooltip: ""
 }
 
@@ -5856,13 +5856,13 @@ Hultinstein: {
 }
 
 AuroreanStarball: {
-	DisplayName: Aurorean Starball
+	DisplayName: 极光星球
 	Tooltip:
 		'''
 		{$CommonItemTooltip.SummonTagDamage}
 		{$CommonItemTooltip.Whips}
-		Special attack does a starry explosion upon impact!
-		We ballin'
+		特殊攻击，触地即爆，星光四射
+		我们，正是那球场上的焦点
 		'''
 }
 
@@ -5885,29 +5885,29 @@ Mardenstein: {
 }
 
 TheActualMoon: {
-	DisplayName: The Actual Moon
+	DisplayName: 真实月华
 	Tooltip:
 		'''
 		{$CommonItemTooltip.SummonTagDamage}
 		{$CommonItemTooltip.Whips}
-		A heavier orb with a much stronger impact explosion!
-		I'm already Verlia
+		这是一件更重的球体武器，拥有更强劲的冲击爆炸威力！
+		我已经成为了薇莉亚
 		'''
 }
 
 ReflectionSeeker: {
-	DisplayName: Reflection Seeker
-	Tooltip: Creates little versions of you to attack enemies! (Will change depending on your character image)
+	DisplayName: 觅影者
+	Tooltip: 召唤迷你分身，以你之形攻敌，变化随你形象而异
 }
 
 TwinStarbombas: {
-	DisplayName: Twin Starbombas
+	DisplayName: 双子星爆弹
 	Tooltip:
 		'''
 		{$CommonItemTooltip.SummonTagDamage}
 		{$CommonItemTooltip.Whips}
-		Wield two orbs at the same time! They attack by orbiting around you
-		So basically just STARBOMBER's balls
+		你将同时操控两个球体！它们通过围绕你旋转发动攻击
+		简而言之，这就像“星爆者”的双球攻击模式
 		'''
 }
 
@@ -5957,24 +5957,24 @@ IlluriaTreeBigI: {
 }
 
 ThePollinator: {
-	DisplayName: The Pollinator
+	DisplayName: 授粉者
 	Tooltip:
 		'''
 		{$CommonItemTooltip.SummonTagDamage}
 		{$CommonItemTooltip.Whips}
-		Pollinates enemies, which slows them down greatly
-		Radiating with the power of Zui's flowers
+		它能够对敌人进行“授粉”，大幅度减缓他们的行动速度
+		它散发着蕊的花朵的力量，辐射出令人震慑的光芒
 		'''
 }
 
 BlackBall: {
-	DisplayName: Black Ball
+	DisplayName: 暗夜球
 	Tooltip:
 		'''
 		{$CommonItemTooltip.SummonTagDamage}
 		{$CommonItemTooltip.Whips}
-		A lighter orb that attacks faster
-		Empowered by the Alcad!
+		一颗更轻盈的宝球，攻势如疾风
+		其威能，由阿尔卡迪亚所赐
 		'''
 }
 
@@ -6059,11 +6059,11 @@ PureHeart: {
 
 MushroomGreatbow: {
 	Tooltip: ""
-	DisplayName: Mushroom Greatbow
+	DisplayName: 蘑菇巨弓
 }
 
 Hookarama: {
-	DisplayName: Hookarama
+	DisplayName: 万钩
 	Tooltip: ""
 }
 
@@ -6289,12 +6289,12 @@ VeiledScriptureCozmire: {
 }
 
 SplashAttack: {
-	DisplayName: Splash Attack
+	DisplayName: 溅射鞭
 	Tooltip:
 		'''
 		{$CommonItemTooltip.SummonTagDamage}
 		{$CommonItemTooltip.Whips}
-		Slappin' you up with all my paints
+		用我所有的颜料，给你一通乱打
 		'''
 }
 
@@ -6309,12 +6309,12 @@ ExampleDialogueItem: {
 }
 
 SineSire: {
-	DisplayName: Sire Wave
+	DisplayName: 蔚蓝领主
 	Tooltip:
 		'''
 		{$CommonItemTooltip.SummonTagDamage}
 		{$CommonItemTooltip.Whips}
-		A watery orb that moves in wave-like patterns!
+		一个似水的球体，以波浪般的韵律移动！
 		'''
 }
 
@@ -6609,11 +6609,11 @@ IshtarCard: {
 }
 
 Orion: {
-	DisplayName: Orion
+	DisplayName: 猎户座
 	Tooltip:
 		'''
-		Leaves behind a trail of exploding stars!
-		Like a fireworks show
+		留下一串爆炸的星辰
+		如烟花般绚烂
 		'''
 }
 
@@ -6874,13 +6874,13 @@ AzuretoothNecklace: {
 }
 
 ColdheartAnklebiter: {
-	DisplayName: Coldheart Anklebiter
+	DisplayName: 冷魄鞭
 	Tooltip:
 		'''
 		{$CommonItemTooltip.SummonTagDamage}
 		{$CommonItemTooltip.Whips}
-		Strike enemies to chill them!
-		Enemies hit by summons explode with icicles
+		打击敌人，使其陷入寒冰之境！
+		被召唤物击中的敌人，将引爆冰锥四溅的爆炸！
 		'''
 }
 
@@ -6909,11 +6909,11 @@ WaterGun: {
 }
 
 DogmaBalls: {
-	DisplayName: Dogma Balls
+	DisplayName: 星树圣球
 	Tooltip:
 		'''
-		Throws a BOOK filled with Illurian propaganda
-		Randomly summons words that inflict a variety of debuffs
+		掷出星树教义之书
+		召唤言辞，无形中削弱对手
 		'''
 }
 
@@ -6923,12 +6923,12 @@ Tulahal: {
 }
 
 BasicBaseball: {
-	DisplayName: Basic Baseball
+	DisplayName: 基础棒球
 	Tooltip:
 		'''
-		After hitting an enemy, the ball bounces off
-		Catch the ball to gain a damage bonus to your next throw!
-		Stacks infinitely
+		击中敌人后，球会弹开
+		接住球，下一次投掷伤害增加！
+		无限叠加，威力无边
 		'''
 }
 
@@ -6953,35 +6953,35 @@ RobedCatastone: {
 }
 
 SpikedLobber: {
-	DisplayName: Spiked Lobber
+	DisplayName: 尖刺抛击
 	Tooltip:
 		'''
-		After hitting an enemy, the ball bounces off
-		Catch the ball to gain a damage bonus to your next throw!
-		After a combo of 5, it spews out spikes when bouncing
-		Stacks infinitely
+		击中敌人，球体弹回
+		接住球，下次攻击伤害提升
+		连击五次后，弹跳时释放尖刺
+		无限叠加，攻势不止
 		'''
 }
 
 StickyCards: {
-	DisplayName: Magic Cards
+	DisplayName: 幻术卡牌
 	Tooltip:
 		'''
-		After hitting an enemy, the card bounces off
-		Catch the card to gain a damage bonus to your next throw!
-		Attaches a line of aura to your card, which drags it back to you!
-		Stacks infinitely
+		击中敌人，卡牌弹回
+		接住卡牌，下次投掷伤害提升
+		卡牌附带灵光牵引，自动回返
+		无限叠加，威力无界
 		'''
 }
 
 DaggerDagger: {
-	DisplayName: Dagger Dagger
+	DisplayName: 双刃飞刀
 	Tooltip:
 		'''
-		After hitting an enemy, the knife bounces off
-		Catch the knife to gain a damage bonus to your next throw!
-		Right click to throw a charged knife that lifesteals
-		Knife
+		击中敌人，刀身弹回
+		接住飞刀，下次投掷伤害提升
+		右击，投掷吸血充能刀
+		飞刀在手，生死由我
 		'''
 }
 
@@ -7004,7 +7004,7 @@ DreadMedalion: {
 }
 
 SkullBreaker: {
-	DisplayName: Skull Breaker
+	DisplayName: 碎颅者
 	Tooltip: ""
 }
 
@@ -7136,7 +7136,7 @@ GraveShaper: {
 }
 
 CleanestCleaver: {
-	DisplayName: Cleanest Cleaver
+	DisplayName: 洁净屠夫刀
 	Tooltip: ""
 }
 
@@ -7187,11 +7187,11 @@ Vhel: {
 }
 
 SerpentStaff: {
-	DisplayName: Serpent Staff
+	DisplayName: 蛇杖
 	Tooltip:
 		'''
-		Summons a serpent to fight for you
-		It grows much longer and stronger with the number of minion slots used!
+		召唤巨蛇为你而战
+		召唤槽位越多，蛇身渐长，力量倍增
 		'''
 }
 
@@ -7357,11 +7357,11 @@ VeiledScriptureMiner10: {
 }
 
 YourFired: {
-	DisplayName: Your Fired
+	DisplayName: 烈焰散爆
 	Tooltip:
 		'''
-		Explodes into many small, fiery explosions, like a cluster bomb!
-		Yr'oue*
+		爆炸时分溅出众多小型火球，犹如集束炸弹！
+		你就是导火索！
 		'''
 }
 
@@ -7406,25 +7406,25 @@ Irrasprayer: {
 }
 
 CinderBomber: {
-	DisplayName: Cinder Bomber
+	DisplayName: 烬土轰炸
 	Tooltip:
 		'''
-		After hitting an enemy, the bomb bounces off
-		Catch the ball to gain a damage bonus to your next throw!
-		After a combo of x5, the bomb catches fire and begins exploding
-		Stacks infinitely
+		击中敌人后，炸弹会弹开
+		接住它，下次投掷伤害提升！
+		连击五次，炸弹点燃，开始爆炸
+		无限叠加，威力无界
 		'''
 }
 
 LilStinger: {
-	DisplayName: Lil' Stinger
+	DisplayName: 小刺叮
 	Tooltip:
 		'''
-		After hitting an enemy, the bee bounces off
-		Catch the ball to gain a damage bonus to your next throw!
-		After a combo of x5, the bee begins exploding!
-		Has strong homing
-		Stacks infinitely
+		击中敌人，小蜂弹开。
+		接住小蜂，下次攻击伤害升级。
+		连击五次后，小蜂开始爆炸攻击！
+		追踪能力强劲。
+		威力无限叠加，战斗不止。
 		'''
 }
 
@@ -7442,14 +7442,14 @@ FiveAdvance: {
 }
 
 FlinchMachine: {
-	DisplayName: Flinch Machine
+	DisplayName: 惊惧之扇
 	Tooltip:
 		'''
-		After hitting an enemy, the fan bounces off
-		Catch the fan to gain a damage bonus to your next throw!
-		After a combo of x5, every third hit... hits extra hard!
-		Stacks infinitely
-		What bro threw at me
+		击中敌人，扇子弹回。
+		接住扇子，下次投掷伤害提升。
+		连击五次后，每三击的第三下，重创敌人！
+		无限叠加，威力无尽。
+		这扇，便是那狠心人掷我之物。
 		'''
 }
 
@@ -7478,12 +7478,12 @@ SupernovaBossRel: {
 }
 
 Pegasus: {
-	DisplayName: Pegasus
+	DisplayName: 天马佩加索斯
 	Tooltip:
 		'''
-		Summons Niivi's 3 crystals around you, shooting several elemental based attacks!
-		There can only be one set of crystals
-		Requires 3 minion slots to use
+		召唤尼伊维的三颗晶石环绕
+		发射各种元素攻击，攻势连绵不绝
+		这套晶石独一无二，需要三个随从槽位才能使用
 		'''
 }
 
@@ -7507,12 +7507,12 @@ DreadsVile: {
 }
 
 CentipedeStaff: {
-	DisplayName: Centipede Staff
+	DisplayName: 百足魔杖
 	Tooltip:
 		'''
-		Summons an Irravheil Landworm to fight for you!
-		The landworm grabs enemies and violently drags them around
-		It grows much longer and stronger with the number of minion slots used!
+		召唤伊瑞蒂安地虫，为你撕裂战场！
+		地虫擒敌，暴拽四方，无人可逃
+		随召唤位增多，虫躯倍长，力能摧山！
 		'''
 }
 
