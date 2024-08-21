@@ -1,8 +1,8 @@
 VeriplantGrass.MapEntry: 殆绿草
 VeriplantDirt.MapEntry: 殆绿土
 VerianoreTile.MapEntry: 琥影矿纹片
-VeilScripture.MapEntry: 殆绿经笈*我没有找到这个在哪出现，如果您发现了请微信告我，非常谢谢
-SunAlter.MapEntry: 辉映耀坛*我没有找到这个在哪出现，如果您发现了请微信告我，非常谢谢
+VeilScripture.MapEntry: 殆绿经笈
+SunAlter.MapEntry: 猎日者祭坛
 wall7.MapEntry: 墙7
 wall6.MapEntry: 墙6
 wall5.MapEntry: 墙5
@@ -10,33 +10,33 @@ wall4.MapEntry: 墙4
 wall3.MapEntry: 墙3
 wall2.MapEntry: 墙2
 wall1.MapEntry: 墙1
-UnstableRift.MapEntry: 黑渊影隙*我没有找到这个在哪出现，如果您发现了请微信告我，非常谢谢
+UnstableRift.MapEntry: 黑渊影隙
 StoneChest.MapEntry: 石心箱
-stand.MapEntry: 架N
-SpikeS.MapEntry: 木刺S
-SmallShroomS.MapEntry: 小蘑菇S
-PotmedS.MapEntry: 花瓶S
-MushroomBigS.MapEntry: 大蘑菇S
-MorrowStoneS.MapEntry: 幽曦石S
-MorrowDeathS.MapEntry: 锈影剑骨S
-MorrowDeath2S.MapEntry: 锈影剑骨2S
+stand.MapEntry: 架
+SpikeS.MapEntry: 木刺
+SmallShroomS.MapEntry: 小蘑菇
+PotmedS.MapEntry: 花瓶
+MushroomBigS.MapEntry: 大蘑菇
+MorrowStoneS.MapEntry: 幽曦石
+MorrowDeathS.MapEntry: 锈影剑骨
+MorrowDeath2S.MapEntry: 锈影剑骨
 MorrowChest.MapEntry: 幽曦箱
 LogS.MapEntry: 木桩S
-GrassMossS.MapEntry: 草苔藓S
-GrassBigS.MapEntry: 石苔S
-VerliasShrine.MapEntry: 薇莉亚月华圣坛*我没有找到这个在哪出现，如果您发现了请微信告我，非常谢谢
-Orb1.MapEntry: 晶月辉体*我没有找到这个在哪出现，如果您发现了请微信告我，非常谢谢
-FlowerMulti.MapEntry: 棱花石堆*我没有找到这个在哪出现，如果您发现了请微信告我，非常谢谢
+GrassMossS.MapEntry: 草苔藓
+GrassBigS.MapEntry: 石苔
+VerliasShrine.MapEntry: 薇莉亚月华圣坛
+Orb1.MapEntry: 晶月辉体
+FlowerMulti.MapEntry: 棱花石堆
 Crystal2.MapEntry: 月夜晶棘2
 Crystal1.MapEntry: 月夜晶棘1
 CathedralChest.MapEntry: 穹月仪殿宝箱
-BenchS.MapEntry: 荒芜长椅S
-BarS.MapEntry: 架S
-Zebi.MapEntry: Zebi
-VheilCurtainRight.MapEntry: Vheil Curtain Right
-VheilCurtainLeft.MapEntry: Vheil Curtain Left
-RestingGrounds.MapEntry: Resting Grounds
-MasistRight.MapEntry: Masist Right
+BenchS.MapEntry: 荒芜长椅
+BarS.MapEntry: 架
+Zebi.MapEntry: 拱廊
+VheilCurtainRight.MapEntry: 帘幕右
+VheilCurtainLeft.MapEntry: 帘幕左
+RestingGrounds.MapEntry: 代达斯安息所
+MasistRight.MapEntry: 
 MasistLeft.MapEntry: Masist Left
 JackPost.MapEntry: Jack Post
 GovheilWei.MapEntry: Govheil Wei
