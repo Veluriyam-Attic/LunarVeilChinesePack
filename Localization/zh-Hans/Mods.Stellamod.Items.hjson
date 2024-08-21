@@ -21,23 +21,23 @@ SaveItem: {
 }
 
 AdvancedBroochesBackpack: {
-	DisplayName: 高级胸针背包
+	DisplayName: 高级饰符背包
 	Tooltip:
 		'''
 		+1 远程伤害*
 		+4% 伤害
-		允许你装备高级胸针！这非常有用！
-		包含了所有旅者的行囊的效果！
+		允许你装备高级饰符！这非常有用！
+		包含了旅者的行囊所有效果！
 		'''
 }
 
 DiariBroochA: {
-	DisplayName: Diari胸针
+	DisplayName: Diari饰符
 	Tooltip:
 		'''
 		+2 防御
-		岩浆行走？
-		不！永久饱腹！
+		火焰行走特效？
+		还有永久饱腹！
 		+10 最大生命值上限和最大魔力值上限
 		+5% 伤害！
 		（Diari是作者在Steam上的一款游戏）
@@ -45,80 +45,81 @@ DiariBroochA: {
 }
 
 FlyingFishBroochA: {
-	DisplayName: Brooch of the Flying Fish
+	DisplayName: 飞鱼饰符
 	Tooltip:
 		'''
-		Increases Speed and + 2 Defense!
-		Use the power of the speedy fish that fly???
+		增加速度，+2防御！
+		咸鱼都会飞了，你还有什么理由躺平呢？？？
 		'''
 }
 
 FrileBroochA: {
-	DisplayName: Brooch of The Friled Ice
+	DisplayName: 月冰饰符
 	Tooltip:
 		'''
-		Enemies now are frosted with icy glazes when hit!
-		Use the power of the Ice biome :P
+		令受到攻击的敌人结冰！
+		对他使用冰雪的力量吧：P
 		'''
 }
 
 MorrowedBroochA: {
-	DisplayName: Brooch of The Huntria Fable
+	DisplayName: 寓言之猎手饰符
 	Tooltip:
 		'''
-		+2 Defense
-		+2% increased ranged damage
-		+25% increased arrow damage
-		Use the power of the deep dark fable..
+		+2防御
+		+2%远程伤害
+		+25%弓箭伤害
+		这就是Deep Dark ♂ 寓言的力量吗
 		'''
 }
 
 SlimeBroochA: {
-	DisplayName: Brooch of The cute slimes
+	DisplayName: 萌萌史莱姆饰符
 	Tooltip:
 		'''
-		Jump higher!
-		Bouncy and fast fall
-		Awww so cute :P
+		跳得更高！
+		快速下落，弹弹的！
+		（汉化者注：不免疫摔落伤害）
+		好可耐~ ：P
 		'''
 }
 
 SpragaldBroochA: {
-	DisplayName: Brooch of The Spragald
+	DisplayName: 蜘蛛饰符
 	Tooltip:
 		'''
-		Effect = +10 Defense
-		Use the power of the Spragald Spiders!
+		+10防御
+		令蜘蛛恐惧症患者当场去世
 		'''
 }
 
 HikersBackpack: {
-	DisplayName: Hiker's Backpack
+	DisplayName: 旅者的行囊
 	Tooltip:
 		'''
-		Increased life regeneration!
-		+3% damage 
-		Drops stumps on the ground as you walk!
+		增加生命回复！
+		+3%伤害
+		在你走过的路上留下树根！
 		'''
 }
 
 IllusionistBook: {
-	DisplayName: Book of Wooden Illusion
+	DisplayName: 木遁秘术书
 	Tooltip:
 		'''
-		Increased life regeneration!
-		+3% damage
-		5% increased critical strike chance
+		增加生命回复！
+		+3%伤害
+		+5%暴击率
 		'''
 }
 
 JellyfishTissue: {
-	DisplayName: Jellyfish Tissue
+	DisplayName: 水母组织
 	Tooltip:
 		'''
-		Woa really cool!
-		+40 Defense
-		But at the cost of 40% damage 
+		哇哦，好东西！
+		+40防御
+		但代价是减少40%伤害...
 		'''
 }
 
@@ -126,68 +127,69 @@ MOTT: {
 	DisplayName: M.O.T.T
 	Tooltip:
 		'''
-		Every 10 seconds drop high damage spiky balls on the ground
-		+5% Ranged damage...
+		每10秒钟在地上留下刺球
+		+5%远程伤害
 		'''
 }
 
 PaperPaws: {
-	DisplayName: Paper Paws
+	DisplayName: 爪印纸符
 	Tooltip:
 		'''
-		Why don't you give your summons more credit?
-		+1 summon
+		你的召唤物们已经很努力啦，关照一下它们吧
+		+1召唤栏位
 		'''
 }
 
 PlantH: {
-	DisplayName: Plant Heritage
+	DisplayName: 传承盛花
 	Tooltip:
 		'''
-		Gain the power of plants!
-		+40 life and +15 increased defense
-		But you have decreased speed 0v0
+		百花草木之力与你同在！
+		+40生命 +15防御
+		但你的速度会降低 0v0
 		'''
 }
 
 SapContainer: {
-	DisplayName: Sap Container
+	DisplayName: 甘露瓶
 	Tooltip:
 		'''
-		Every 10 seconds eat stardew and MAJORLY increase your magic damage
-		+7% Magic damage...
+		每10秒钟喝下其中甘露并获得巨大的魔法伤害提升
+		常驻+7%魔法伤害
 		'''
 }
 
 WoodenShield: {
-	DisplayName: Wooden Shield
+	DisplayName: 木制盾牌
 	Tooltip:
 		'''
-		Super cool right??? A wooden shield?
-		What are you gonna block, a bow and arrow?
-		Literally no blocking features smh
-		+1 Defense and life regen increased!
+		真棒，一面木盾？
+		你想要挡住什么，弓箭吗？
+		不知为何完全不能用来格挡
+		+1防御并增加生命回复！
 		'''
 }
 
 Steali: {
-	DisplayName: Steali
+	DisplayName: 君莫笑的围巾
 	Tooltip:
 		'''
-		A small fast dash that provides invincibility as you dash
-		Increased life regeneration
-		You may not attack while this is in use
-		Hollow Knight inspiried!
+		双击方向键冲刺，冲刺过程中无敌！
+		增加生命回复
+		冲刺过程中不能攻击
+		某穿着黑色披风的白色小骑士表示很赞
+		（汉化者梦狐：原来你也是酸批）
 		'''
 }
 
 ThornedBook: {
-	DisplayName: Thorned Book
+	DisplayName: 荆棘秘术书
 	Tooltip:
 		'''
-		When enemies hit you, you deal big amounts of damage back!
-		+3% Melee damage...
-		-5 defense
+		攻击你的敌人会受到巨额反伤！
+		+3%近战伤害
+		-5防御
 		'''
 }
 
@@ -441,21 +443,21 @@ VextinRobe: {
 }
 
 Gambit: {
-	DisplayName: Gambit
+	DisplayName: 赌博骰子
 	Tooltip:
 		'''
 		{$CommonItemTooltip.RightClickToOpen}
-		Gamble away your soul after battle for great rewards!
+		孤注一掷，来赢得奖励吧！
 		'''
 }
 
 GambitToken: {
-	DisplayName: Gambit Token
-	Tooltip: Use this while gambling to actually, gamble..
+	DisplayName: 赌博代币
+	Tooltip: 在掷骰子的时候用它来一场真正的赌博吧！
 }
 
 GildedBag1: {
-	DisplayName: Gilded Bag
+	DisplayName: 镶金宝袋
 	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 }
 
@@ -469,32 +471,32 @@ MoonflameLantern: {
 }
 
 SirestiasStarterBag: {
-	DisplayName: Sirestias Starter Bag
+	DisplayName: 希丝忒莉亚友情赞助新手礼包
 	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 }
 
 VeribossBag: {
-	DisplayName: Veriboss Bag
+	DisplayName: 殆绿boss袋
 	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 }
 
 AlcadizMetal: {
-	DisplayName: Alcadiz Metal
+	DisplayName: 阿尔卡迪亚合金
 	Tooltip:
 		'''
-		Woa this is super hard and magical..
-		Where does this ore come from?
-		Best used for metalic weapons and magical items!
+		坚硬而充满魔力！
+		这么好的材料是从哪来的？
+		最适合用于制作金属武器与魔法物品！
 		'''
 }
 
 Bagitem: {
-	DisplayName: Dust Bag
+	DisplayName: 粉尘袋
 	Tooltip:
 		'''
-		A bag made for igniter dusts!
-		Where does this come from?
-		Used in every dust recipe, bring it to the dust bench!
+		装满易燃粉尘的袋子
+		这又是从哪来的？
+		用于制作粉尘！
 		'''
 }
 
@@ -519,18 +521,18 @@ CondensedDirt: {
 }
 
 FlowerBatch: {
-	DisplayName: Flower Batch
+	DisplayName: 繁花束
 	Tooltip:
 		'''
 		These flowers are very pretty..
-		An object from harvesting
-		Best use for plants and some items!
+		从某处收获来的花束
+		最适合用于制作植物相关物品！
 		'''
 }
 
 MorrowRocks: {
-	DisplayName: Fabled Rocks
-	Tooltip: Rocks from the deep fable
+	DisplayName: 古谕石块
+	Tooltip: 古谕遗境深处的岩石
 }
 
 Morrowshroom: {
@@ -544,8 +546,8 @@ MorrowVine: {
 }
 
 Mushroom: {
-	DisplayName: Spring mushroom
-	Tooltip: Mushrooms found underground
+	DisplayName: 春蘑菇
+	Tooltip: 生长在地下的蘑菇
 }
 
 Stick: {
@@ -578,36 +580,36 @@ EmptyMoonflameLantern: {
 }
 
 HuntiacBlock: {
-	DisplayName: Huntiac Block
-	Tooltip: Dangerous
+	DisplayName: 亨提亚块
+	Tooltip: 危险
 }
 
 HuntiacwallBlock: {
-	DisplayName: Huntiac Wall
-	Tooltip: Even more dangerous
+	DisplayName: 亨提亚墙
+	Tooltip: 更加危险
 }
 
 Medal: {
-	DisplayName: Ruin Medal
+	DisplayName: 遗迹勋章
 	Tooltip:
 		'''
-		An old ancient medal..
-		Keep this in your inventory, can be sold and may attract someone, romantically...
+		一枚勋章，看起来十分古老
+		把他放在你的物品栏中，可以吸引某人，双重意义上的...
 		'''
 }
 
 OvermorrowDirt: {
-	DisplayName: Fable Dirt
+	DisplayName: 古谕土
 	Tooltip: ""
 }
 
 OvermorrowdirtwallBlock: {
-	DisplayName: Fable wall
+	DisplayName: 古谕墙
 	Tooltip: ""
 }
 
 OvermorrowWall: {
-	DisplayName: Fabled Wall
+	DisplayName: 古谕墙
 	Tooltip: ""
 }
 
@@ -626,105 +628,105 @@ PearlescentScrap: {
 }
 
 RippedFabric: {
-	DisplayName: Quest Leaf
+	DisplayName: 报赏华叶
 	Tooltip:
 		'''
-		Gathered from doing quests from Merena, Sirestias, Gia and Zui!
-		Do some quests to gather more 
-		Rarely can be obtained through gilded bags in Hardmode!
+		为梅瑞娜、希丝忒莉亚、吉娅和蕊做任务的奖赏！
+		完成的任务越多，奖励越多
+		困难模式下打开镶金宝袋也可能获得它
 		'''
 }
 
 Starrdew: {
-	DisplayName: Starr dew
+	DisplayName: 星烁露
 	Tooltip:
 		'''
-		Ew! It's sticky! I wonder what else is sticky...
-		A sticky substance that resonates with the stars and the fable!
+		恶！好粘啊！什么东西这么粘啊！
+		一种粘稠的物质，与古谕和群星有着联系
 		'''
 }
 
 Stelleanbrick: {
-	DisplayName: Stellean brick
+	DisplayName: 群星砖
 	Tooltip: ""
 }
 
 VerianRuneBlock: {
-	DisplayName: Verian Rune Block
+	DisplayName: 炽金符文石
 	Tooltip: ""
 }
 
 VerianWood: {
-	DisplayName: Verian Wood
+	DisplayName: 古谕木
 	Tooltip: ""
 }
 
 FrileBar: {
-	DisplayName: Frile Bar
-	Tooltip: Frozen to the core, an essence of the moon and ice
+	DisplayName: 月冰锭
+	Tooltip: 由内到外都是冰冷无比，凝聚着冰霜与皎月的精华
 }
 
 FrileOre: {
-	DisplayName: Frile Ore
-	Tooltip: An ore too cold to place, used for many items with ice!
+	DisplayName: 月冰矿
+	Tooltip: 超出常识的寒冷。用于制作寒冰物品！
 }
 
 VerianBar: {
-	DisplayName: Verian Bar
+	DisplayName: 炽金锭
 	Tooltip:
 		'''
-		Hot to the touch, filled with the gild and glory of tribal warriors
-		its so hot you can't even touch it, gotta use heated fabric...
+		散发着热量，充盈着部族战士们的辉光与荣耀
+		摸上去滚烫，必须用隔热布才能拿起来
 		'''
 }
 
 VerianOre: {
-	DisplayName: Verian Ore
-	Tooltip: An ore merged and fused with gild, its scorching hot
+	DisplayName: 炽金矿
+	Tooltip: 一种焦热的矿物，与热熔金融为一体
 }
 
 AlcaologyI: {
-	DisplayName: Alcaology Station
-	Tooltip: This table is used for dusts and useful Materials!
+	DisplayName: 阿尔卡迪亚研究台
+	Tooltip: 用于制作粉尘，和利用一些有用的材料
 }
 
 Bar: {
-	DisplayName: Bar
+	DisplayName: 古谕架台
 	Tooltip: ""
 }
 
 Bench: {
-	DisplayName: Bench
+	DisplayName: 古谕长椅
 	Tooltip: ""
 }
 
 BroochesTableI: {
-	DisplayName: Rune and Brooch Jewelry Station
-	Tooltip: This bench allows you to craft exquisite brooches and runes!
+	DisplayName: 符饰雕琢台
+	Tooltip: 在这里制作精美的饰符与符文吧！
 }
 
 CathediteBlock: {
-	DisplayName: Cathedite Block
+	DisplayName: 教堂砖
 	Tooltip: ""
 }
 
 CathediteGrassBlock: {
-	DisplayName: Cathedite Grass Block
+	DisplayName: 教堂草块
 	Tooltip: ""
 }
 
 CathediteGrassWall: {
-	DisplayName: Cathedite Grass Wall
+	DisplayName: 教堂草墙
 	Tooltip: ""
 }
 
 CathediteWall: {
-	DisplayName: Cathedite Wall
+	DisplayName: 教堂墙
 	Tooltip: ""
 }
 
 CathedralChestI: {
-	DisplayName: Cathedral Chest
+	DisplayName: 教堂箱
 	Tooltip: ""
 }
 
@@ -754,7 +756,7 @@ ShrineI: {
 }
 
 Flowersummon: {
-	DisplayName: Flowersummon
+	DisplayName: 心石之花
 	Tooltip: You arent meant to collect this :(
 }
 
