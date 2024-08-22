@@ -462,11 +462,11 @@ GildedBag1: {
 }
 
 MoonflameLantern: {
-	DisplayName: Moonflame Lantern
+	DisplayName: 月辉提灯
 	Tooltip:
 		'''
-		A lantern that holds the soul of Gothivia's sister, Verlia. 
-		Take it to the top of the cathedral at night and use it at the shrine to release her.
+		歌瑟梵的姐妹薇莉娅之灵魂被囚于此物
+		夜幕之中，穹月仪殿之巅，使用圣坛将她释放
 		'''
 }
 
@@ -524,7 +524,7 @@ FlowerBatch: {
 	DisplayName: 繁花束
 	Tooltip:
 		'''
-		These flowers are very pretty..
+		野芳发而幽香..
 		从某处收获来的花束
 		最适合用于制作植物相关物品！
 		'''
@@ -570,12 +570,12 @@ ViolinStick: {
 }
 
 EmptyMoonflameLantern: {
-	DisplayName: Empty Moonflame Lantern
+	DisplayName: 暗淡的月之提灯
 	Tooltip:
 		'''
-		Take it to the depths of hell,
-		Freeze the flame
-		The dance at the Cathedral awaits at the top of the moonlight!
+		地狱深处的烈火将它燃起
+		霜与月的精华融入火焰中
+		皎月当空之时，于仪巅邀其共舞
 		'''
 }
 
@@ -706,48 +706,48 @@ BroochesTableI: {
 }
 
 CathediteBlock: {
-	DisplayName: 教堂砖
+	DisplayName: 仪殿砖
 	Tooltip: ""
 }
 
 CathediteGrassBlock: {
-	DisplayName: 教堂草块
+	DisplayName: 仪殿草块
 	Tooltip: ""
 }
 
 CathediteGrassWall: {
-	DisplayName: 教堂草墙
+	DisplayName: 仪殿草墙
 	Tooltip: ""
 }
 
 CathediteWall: {
-	DisplayName: 教堂墙
+	DisplayName: 仪殿墙
 	Tooltip: ""
 }
 
 CathedralChestI: {
-	DisplayName: 教堂箱
+	DisplayName: 仪殿箱
 	Tooltip: ""
 }
 
 Crystal1I: {
-	DisplayName: Crystal
-	Tooltip: You arent meant to collect this :(
+	DisplayName: 月辉晶
+	Tooltip: 你不应该有这个东西的 :(
 }
 
 Crystal2I: {
-	DisplayName: Crystal
-	Tooltip: You arent meant to collect this :(
+	DisplayName: 月辉晶
+	Tooltip: 你不应该有这个东西的 :(
 }
 
 FlowerMultiI: {
-	DisplayName: Flower Multi
-	Tooltip: You arent meant to collect this :(
+	DisplayName: 花丛
+	Tooltip: 你不应该有这个东西的 :(
 }
 
 Orb1I: {
-	DisplayName: Orb of light
-	Tooltip: makes for some cool furniture!
+	DisplayName: 月辉晶球
+	Tooltip: 花哨又漂亮的家具！
 }
 
 ShrineI: {
@@ -757,41 +757,41 @@ ShrineI: {
 
 Flowersummon: {
 	DisplayName: 心石之花
-	Tooltip: You arent meant to collect this :(
+	Tooltip: 你不应该有这个东西的 :(
 }
 
 GrassBig: {
-	DisplayName: Grass Big
-	Tooltip: You arent meant to collect this :(
+	DisplayName: 
+	Tooltip: 你不应该有这个东西的 :(
 }
 
 GrassMoss: {
-	DisplayName: Grass Moss
-	Tooltip: You arent meant to collect this :(
+	DisplayName: 
+	Tooltip: 你不应该有这个东西的 :(
 }
 
 CurtainLeftI: {
-	DisplayName: Curtain Left I
-	Tooltip: You arent meant to collect this :(
+	DisplayName: 左帘幕
+	Tooltip: 你不应该有这个东西的 :(
 }
 
 CurtainRightI: {
-	DisplayName: Curtain Right I
-	Tooltip: You arent meant to collect this :(
+	DisplayName: 右帘幕
+	Tooltip: 你不应该有这个东西的 :(
 }
 
 Log: {
-	DisplayName: Log
-	Tooltip: You arent meant to collect this :(
+	DisplayName: 空心树干
+	Tooltip: 你不应该有这个东西的 :(
 }
 
 MediumPot: {
-	DisplayName: Medium Pot
-	Tooltip: You arent meant to collect this :(
+	DisplayName: 中型花瓶
+	Tooltip: 你不应该有这个东西的 :(
 }
 
 MorrowChesti: {
-	DisplayName: Fable Chest
+	DisplayName: 古谕箱
 	Tooltip: ""
 }
 
@@ -801,77 +801,77 @@ MorrowChestKey: {
 }
 
 MorrowDeath: {
-	DisplayName: Fable Death
-	Tooltip: You arent meant to collect this :(
+	DisplayName: 头骨矛
+	Tooltip: 你不应该有这个东西的 :(
 }
 
 MorrowDeath2: {
-	DisplayName: Morrow Death2
-	Tooltip: You arent meant to collect this :(
+	DisplayName: 头骨矛
+	Tooltip: 你不应该有这个东西的 :(
 }
 
 MorrowSpike: {
-	DisplayName: Fabled Spike
+	DisplayName: 古谕木刺
 	Tooltip: ""
 }
 
 MorrowStone: {
-	DisplayName: Fable Stone
-	Tooltip: You arent meant to collect this :(
+	DisplayName: 古谕岩石
+	Tooltip: 你不应该有这个东西的 :(
 }
 
 MushroomBig: {
-	DisplayName: Mushroom Big
-	Tooltip: Shrooms
+	DisplayName: 大丛蘑菇
+	Tooltip: 绿伞伞，绿杆杆
 }
 
 SmallShroom: {
-	DisplayName: Small Shroom
-	Tooltip: Do drugs
+	DisplayName: 小蘑菇
+	Tooltip: 吃完一起躺板板
 }
 
 StandN: {
-	DisplayName: Stand N
-	Tooltip: You arent meant to collect this :(
+	DisplayName: 古谕台架
+	Tooltip: 你不应该有这个东西的 :(
 }
 
 VeriBossRel: {
-	DisplayName: Stone Guardian Relic
-	Tooltip: Boss relic of a relic boss, good job
+	DisplayName: 心石圣卫圣物
+	Tooltip: 这个boss本身已经算是个遗物了
 }
 
 walla: {
-	DisplayName: walla
+	DisplayName: 墙a
 	Tooltip: ""
 }
 
 wallb: {
-	DisplayName: wallb
+	DisplayName: 墙b
 	Tooltip: ""
 }
 
 wallc: {
-	DisplayName: wallc
+	DisplayName: 墙c
 	Tooltip: ""
 }
 
 walld: {
-	DisplayName: walld
+	DisplayName: 墙d
 	Tooltip: ""
 }
 
 walle: {
-	DisplayName: walle
+	DisplayName: 墙e
 	Tooltip: ""
 }
 
 wallf: {
-	DisplayName: wallf
+	DisplayName: 墙f
 	Tooltip: ""
 }
 
 wallg: {
-	DisplayName: wallg
+	DisplayName: 墙g
 	Tooltip: ""
 }
 
@@ -1314,7 +1314,7 @@ MorrowWhipI: {
 }
 
 GovheilBlock: {
-	DisplayName: Govheil Block
+	DisplayName: 歌维赫城堡砖块
 	Tooltip: ""
 }
 
@@ -1347,27 +1347,27 @@ BurningAngel: {
 }
 
 GovheilBoreI: {
-	DisplayName: Govheil Bore I
+	DisplayName: 歌维赫圣像
 	Tooltip: ""
 }
 
 MasistLI: {
-	DisplayName: Masist L I
+	DisplayName: 洞穴左
 	Tooltip: ""
 }
 
 MasistRI: {
-	DisplayName: Masist R I
+	DisplayName: 洞穴右
 	Tooltip: ""
 }
 
 VheilCurtainLI: {
-	DisplayName: Vheil Curtain L I
+	DisplayName: 维尔拉汀帘幕左
 	Tooltip: ""
 }
 
 VheilCurtainRI: {
-	DisplayName: Vheil Curtain R I
+	DisplayName: 维尔拉汀帘幕右
 	Tooltip: ""
 }
 
@@ -1383,7 +1383,7 @@ ZebiI: {
 
 ShrineLifeCI: {
 	Tooltip: ""
-	DisplayName: Shrine Life C I
+	DisplayName: 生命水晶圣坛
 }
 
 Curlistine: {
@@ -1406,7 +1406,7 @@ AlcadizPowder: {
 }
 
 VerliaBossBag: {
-	DisplayName: Treasure Bag (Verlia)
+	DisplayName: 宝藏袋（薇莉娅）
 	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 }
 
@@ -1424,12 +1424,12 @@ VerliaHat: {
 VerliaBroochA: {
 	Tooltip:
 		'''
-		I love ya!
-		When hitting enemies, a bunch of heavy damaging snowflakes may come out on impact!
-		Increased mana by 50!
-		Increased Defense by 5!
+		爱你呦~
+		攻击敌人时有概率释放强力伤害雪花！
+		+50最大魔力！
+		+5防御！
 		'''
-	DisplayName: Brooch of Verlia's Charm
+	DisplayName: 薇莉娅的蕴魔饰符
 }
 
 SwordsOfRevengence: {
@@ -1589,13 +1589,13 @@ DaediaBreastplate: {
 }
 
 PotionOfLifeWand: {
-	DisplayName: Potion Of Life Wand
-	Tooltip: A sweet little potion summon that will give drop hearts occasionally!
+	DisplayName: 生命药剂魔杖
+	Tooltip: 召唤一瓶甜甜的药剂灵，偶尔会掉下红心！
 }
 
 PotionOfManaWand: {
-	Tooltip: A sweet little potion summon that will give drop mana occasionally!
-	DisplayName: Potion Of Mana Wand
+	Tooltip: 召唤一瓶甜甜的药剂灵，偶尔会掉下魔力星星！
+	DisplayName: 魔力药剂魔杖
 }
 
 Ebistar: {
@@ -1697,11 +1697,11 @@ MorrowedCrossbow: {
 }
 
 DustedSilk: {
-	DisplayName: Dusted Silk
+	DisplayName: 落尘丝绸
 	Tooltip:
 		'''
-		Special Materials harvested from spiders
-		Useful for crafting certain string-like items!
+		从蜘蛛收集来的特别材料
+		用于制作各种织物与绳子类物品！
 		'''
 }
 
@@ -1776,11 +1776,11 @@ JadeJungleCrossbow: {
 }
 
 Heatspot: {
-	DisplayName: Heatspot
+	DisplayName: 灼热日符
 	Tooltip:
 		'''
-		Are you burning yet?
-		+4% Magic damage :P
+		燃起来吧！
+		+4%魔法伤害 :P
 		'''
 }
 
@@ -1799,17 +1799,17 @@ DesertWhip: {
 }
 
 Vinger: {
-	Tooltip: 我不记得地精们使用过这个...
+	Tooltip: 我不记得哥布林们使用过这个...
 	DisplayName: 暗焰长鞭
 }
 
 CharmofRot: {
 	Tooltip:
 		'''
-		Rotting with the webs
-		+8% Summon Damage
+		黏在蛛网上，与其一同腐朽
+		+8%召唤伤害
 		'''
-	DisplayName: Charm of Rot
+	DisplayName: 腐朽护符
 }
 
 Vheilatine: {
@@ -1818,13 +1818,13 @@ Vheilatine: {
 }
 
 AcidStaketers: {
-	DisplayName: Acid Skaters
-	Tooltip: Makes the wearer run super fast!
+	DisplayName: 酸液滑行靴
+	Tooltip: 使装备者跑得飞快！
 }
 
 AquaCrystal: {
-	DisplayName: Aqua Crystal
-	Tooltip: 15% Increased ranged critical strike chance!
+	DisplayName: 水能晶体
+	Tooltip: +15%远程暴击几率！
 }
 
 AquaticHealingNecklace: {
@@ -2476,7 +2476,7 @@ FrostBringer: {
 }
 
 IrradiatedGreatBlade: {
-	DisplayName: 辐光巨剑
+	DisplayName: 辐射巨剑
 	Tooltip:
 		'''
 		这把巨剑威力非凡
@@ -2514,7 +2514,7 @@ Infernis: {
 }
 
 StalkersTallon: {
-	DisplayName: 潜行者·塔隆
+	DisplayName: 游隼之爪
 	Tooltip: 它投射出幻影般的自我影像
 }
 
@@ -2688,7 +2688,7 @@ DripplerStaff: {
 }
 
 IrradiatedCreeperStaff: {
-	DisplayName: 辐光潜行法杖
+	DisplayName: 辐射潜行法杖
 	Tooltip:
 		'''
 		召唤受辐射影响的潜行者，为你而战！
@@ -2780,7 +2780,7 @@ Plantius: {
 }
 
 ZthoKnifes: {
-	DisplayName: Ztho Knifes
+	DisplayName: 光雷飞刀
 	Tooltip: ""
 }
 
@@ -2888,12 +2888,12 @@ Gallasis: {
 }
 
 GintzlBroochA: {
-	DisplayName: Winded Gintze Brooch
+	DisplayName: 金戈亚风符
 	Tooltip:
 		'''
-		Adds the power of wind!
-		+4 Defense
-		Auto-Swing on every item!
+		迅风之力！
+		+4防御
+		所有物品都能自动挥舞！
 		'''
 }
 
@@ -3076,36 +3076,36 @@ DaedussSunSheid: {
 }
 
 BearBroochA: {
-	DisplayName: Bear of The Wild Brooch
-	Tooltip: Heavily increased mana regeneration and 4 defense!
+	DisplayName: 蛮熊饰符
+	Tooltip: 增加大量的魔力再生！还有+4防御
 }
 
 DreadBroochA: {
-	DisplayName: Dreaded Dreadmire Brooch
+	DisplayName: 恶巫惧符
 	Tooltip:
 		'''
-		40 Health
-		You know maybe she wasn't all that bad.
+		+40最大生命
+		其实她好像也没那么坏嘛~
 		'''
 }
 
 MalShieldBroochA: {
-	DisplayName: Malicious Shield Brooch
+	DisplayName: 恶毒盾符
 	Tooltip:
 		'''
-		Something tells me this isnt right...
-		+7 Defense
-		+7% Melee Damage!
+		我感觉者不太对劲...
+		+7防御
+		+7%近战伤害！
 		'''
 }
 
 VixedBroochA: {
-	DisplayName: Forgotten Guard's Brooch
+	DisplayName: 遗世守卫之符
 	Tooltip:
 		'''
-		This puppet was worn out.
-		+5% Damage
-		+40 Health
+		傀儡早已精疲力竭
+		+5%伤害
+		+40最大生命
 		'''
 }
 
