@@ -63,7 +63,7 @@ FrileBroochA: {
 }
 
 MorrowedBroochA: {
-	DisplayName: 寓言之猎手饰符
+	DisplayName: 古谕猎手饰符
 	Tooltip:
 		'''
 		+2防御
