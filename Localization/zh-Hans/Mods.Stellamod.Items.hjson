@@ -6368,7 +6368,7 @@ GarbageChestplate: {
 }
 
 Sirius: {
-	DisplayName: 天狼星
+	DisplayName: 繁星·天狼
 	Tooltip:
 		'''
 		一支长矛，划破天际，深深嵌入目标心房，紧接着，是震天动地的绽放！
@@ -6504,7 +6504,7 @@ Dunderbustion: {
 }
 
 Polaris: {
-	DisplayName: 北辰聚能枪
+	DisplayName: 繁星·北辰
 	Tooltip:
 		'''
 		蓄力以释放毁灭激光
@@ -6610,7 +6610,7 @@ IshtarCard: {
 }
 
 Orion: {
-	DisplayName: 猎户座
+	DisplayName: 繁星·猎户座
 	Tooltip:
 		'''
 		留下一串爆炸的星辰
@@ -6619,7 +6619,7 @@ Orion: {
 }
 
 Aquarius: {
-	DisplayName: 水瓶之怒
+	DisplayName: 繁星·水瓶座
 	Tooltip:
 		'''
 		召唤强力水之斩击光环
@@ -6910,7 +6910,7 @@ WaterGun: {
 }
 
 DogmaBalls: {
-	DisplayName: 星树圣球
+	DisplayName: 星树圣书
 	Tooltip:
 		'''
 		掷出星树教义之书
@@ -7188,7 +7188,7 @@ Vhel: {
 }
 
 SerpentStaff: {
-	DisplayName: 蛇杖
+	DisplayName: 炎蛇权杖
 	Tooltip:
 		'''
 		召唤巨蛇为你而战
@@ -7479,7 +7479,7 @@ SupernovaBossRel: {
 }
 
 Pegasus: {
-	DisplayName: 天马佩加索斯
+	DisplayName: 繁星·天马座
 	Tooltip:
 		'''
 		召唤尼伊维的三颗晶石环绕
