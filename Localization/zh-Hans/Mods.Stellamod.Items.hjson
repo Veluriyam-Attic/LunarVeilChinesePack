@@ -761,12 +761,12 @@ Flowersummon: {
 }
 
 GrassBig: {
-	DisplayName: 
+	DisplayName: 大型苔草
 	Tooltip: 你不应该有这个东西的 :(
 }
 
 GrassMoss: {
-	DisplayName: 
+	DisplayName: 苔草
 	Tooltip: 你不应该有这个东西的 :(
 }
 
@@ -791,7 +791,7 @@ MediumPot: {
 }
 
 MorrowChesti: {
-	DisplayName: 古谕箱
+	DisplayName: 幽曦箱
 	Tooltip: ""
 }
 
@@ -811,12 +811,12 @@ MorrowDeath2: {
 }
 
 MorrowSpike: {
-	DisplayName: 古谕木刺
+	DisplayName: 幽曦木刺
 	Tooltip: ""
 }
 
 MorrowStone: {
-	DisplayName: 古谕岩石
+	DisplayName: 幽曦岩石
 	Tooltip: 你不应该有这个东西的 :(
 }
 
@@ -1044,17 +1044,17 @@ HornedNail: {
 }
 
 MorrowRapier: {
-	DisplayName: 古谕之锋
+	DisplayName: 幽曦之锋
 	Tooltip: 戳刺武器，功能明确——就是戳
 }
 
 MorrowSword: {
-	DisplayName: 古谕之剑
+	DisplayName: 幽曦之剑
 	Tooltip: 这把剑摸起来很温暖，这是什么材质的？
 }
 
 MorrowValswa: {
-	DisplayName: 古谕鸣华
+	DisplayName: 幽曦鸣华
 	Tooltip: 一把喷射火焰火花的剑
 }
 
@@ -3182,12 +3182,12 @@ Alcanine: {
 }
 
 GovheilHolsterBroochA: {
-	DisplayName: Gothivia's Holstering Brooch
+	DisplayName: 歌维赫的蕴魔饰符
 	Tooltip:
 		'''
-		Halves the mana cost of any magic weapon!
-		+7% Magic damage
-		+2 Defense too!
+		将所有魔法武器的魔力消耗减半！
+		+7%魔法伤害
+		还有+2防御！
 		'''
 }
 
@@ -3232,11 +3232,11 @@ AcidicalDirtBlock: {
 }
 
 BurningGBroochA: {
-	DisplayName: Brooch of the Sun and Ichor
+	DisplayName: 烈阳神血饰符
 	Tooltip:
 		'''
-		When hitting enemies, ichor blasts and an explosion will come out.
-		+5% Melee Damage
+		攻击敌人时释放灵液并引发爆炸
+		+5%近战伤害
 		'''
 }
 
@@ -3266,7 +3266,7 @@ GothiviasCard: {
 	DisplayName: 歌瑟梵焰符牌
 	Tooltip:
 		'''
-		"Causes minor burns," thats at least the note she left.
+		"会造成轻微烧伤"她给的那张纸条上如是说
 		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
 }
@@ -3282,11 +3282,11 @@ Helios: {
 }
 
 AmethystBroochA: {
-	DisplayName: Amethyst Brooch
+	DisplayName: 紫晶饰符
 	Tooltip:
 		'''
-		+20 Pick speed!
-		+2 defense
+		+20挖掘速度！
+		+2防御
 		'''
 }
 
@@ -3381,8 +3381,8 @@ BasicGunParts: {
 }
 
 AuroreanStarI: {
-	DisplayName: Aurorean Star
-	Tooltip: A star merged with the alcadizic air to form this superstar!
+	DisplayName: 极光之星
+	Tooltip: 一颗坠落之星吸收了阿尔卡迪亚的能量，形成了这颗超能之星！
 }
 
 StoneKey: {
@@ -3411,8 +3411,8 @@ ThrowingCards: {
 }
 
 Bread: {
-	DisplayName: Bread
-	Tooltip: The gintze dropped this...
+	DisplayName: 面包
+	Tooltip: 你还记得你吃过多少片面包吗？
 }
 
 BowledCream: {
@@ -3538,11 +3538,12 @@ FireflyCannon: {
 }
 
 StoniaBroochA: {
-	DisplayName: Stonia Brooch
+	DisplayName: 心石饰符
 	Tooltip:
 		'''
-		No fall damage and 2 defense!
-		Increased Pick speed and glow in the dark but loose 15% damage.
+		免疫摔落伤害，+2防御！
+		增加挖掘速度，在黑暗中发光
+		但失去15%伤害
 		'''
 }
 
@@ -3662,72 +3663,72 @@ SandStorm: {
 }
 
 ExploreMorrowedVillage: {
-	DisplayName: Explore Morrowed Village
+	DisplayName: 探索古谕村落
 	Tooltip: ""
 }
 
 ExploreMorrowedVillageC: {
-	DisplayName: Explore Morrowed Village Completed
-	Tooltip: Turn this in to Merena for a reward!
+	DisplayName: 探索古谕村落：任务完成！
+	Tooltip: 去找梅瑞娜拿到你的奖励吧！
 }
 
 Give100DustBags: {
-	DisplayName: Give 100 Dust Bags
+	DisplayName: 上交100个尘土袋
 	Tooltip: ""
 }
 
 Give100DustBagsC: {
-	DisplayName: Give 100 Dust Bags Completed
-	Tooltip: Turn this in to Merena for a reward!
+	DisplayName: 上交100个尘土袋：任务完成！
+	Tooltip: 去找梅瑞娜拿到你的奖励吧！
 }
 
 KillVerlia: {
-	DisplayName: Kill Verlia
-	Tooltip: Find her atop a cathedral!
+	DisplayName: 击败薇莉娅
+	Tooltip: 她在仪殿之巅！
 }
 
 KillVerliaC: {
-	DisplayName: Kill Verlia Completed
-	Tooltip: Turn this in to Merena for a reward!
+	DisplayName: 击败薇莉娅：任务完成！
+	Tooltip: 去找梅瑞娜拿到你的奖励吧！
 }
 
 MakeMagicPaper: {
-	DisplayName: Make Magic Paper
-	Tooltip: Many resources to gather, very difficult..
+	DisplayName: 制作魔法纸张
+	Tooltip: 要收集许多材料，十分困难...
 }
 
 MakeMagicPaperC: {
-	DisplayName: Make Magic Paper Completed
-	Tooltip: Turn this in to Merena for a reward!
+	DisplayName: 制作魔法纸张：任务完成！
+	Tooltip: 去找梅瑞娜拿到你的奖励吧！
 }
 
 MakeUltimateScroll: {
-	DisplayName: Make Ultimate Scroll
-	Tooltip: The final test!
+	DisplayName: 制作终极卷轴
+	Tooltip: 最终测试！
 }
 
 OldCarianTome: {
-	DisplayName: Old Carian Tome
-	Tooltip: Everlasting knowledge flows from within
+	DisplayName: 卡里亚古籍
+	Tooltip: 其中涌出无尽的知识
 }
 
 OrbOfTheMorrow: {
-	DisplayName: Heart of The Morrow and Fable
-	Tooltip: The voices of Gothivia reek with this one.
+	DisplayName: 幽曦古谕之心
+	Tooltip: 回荡着歌瑟梵的声音
 }
 
 StolenMagicTome: {
-	DisplayName: Stolen Magic Tome
-	Tooltip: Stolen from the Royal Capital
+	DisplayName: 失窃的魔法书
+	Tooltip: 从皇家首都而来
 }
 
 TomeOfInfiniteSorcery: {
-	DisplayName: Tome Of Infinite Sorcery
-	Tooltip: A complete mastery of knowledge!
+	DisplayName: 万法魔导书
+	Tooltip: 精通世间一切
 }
 
 AlcadThrowingCards: {
-	DisplayName: 阿尔卡迪亚秘银飞刃
+	DisplayName: 阿尔卡迪亚飞牌
 	Tooltip: ""
 }
 
@@ -4123,18 +4124,18 @@ MidfortuneExtenderPowder: {
 }
 
 BonedThrowBroochA: {
-	DisplayName: Boned Throw Brooch
-	Tooltip: Increases throwing speed and damage by 20%, increased speed!
+	DisplayName: 掷骨饰符
+	Tooltip: 增加20%投掷速度和伤害，增加移速！
 }
 
 LuckyWinnerBroochA: {
-	DisplayName: Lucky Winner Brooch
-	Tooltip: Igniters have a chance to do double damage on ignites with powders!
+	DisplayName: 赌神饰符
+	Tooltip: 引爆粉尘时有几率造成双倍伤害！
 }
 
 SandyBroochA: {
-	DisplayName: Sanded Winds Brooch
-	Tooltip: Be able to summon tornados by pressing down 2 times!
+	DisplayName: 风沙饰符
+	Tooltip: 双击下键来召唤龙卷风！
 }
 
 GrailHairpinYoyo: {
@@ -4153,8 +4154,8 @@ OceanicExtenderPowder: {
 }
 
 MorrowedJelliesBroochA: {
-	DisplayName: Morrowed Jellies Brooch
-	Tooltip: Its really good if you're running a defensive build, +40 defense.
+	DisplayName: 幽曦水母饰符
+	Tooltip: 戴上它，你就是全村最肉的仔，再加40防御！
 }
 
 BonedExtenderPowder: {
@@ -4183,7 +4184,7 @@ TomedDustingMagic: {
 }
 
 JacksonPollock: {
-	DisplayName: 泼墨杰克逊
+	DisplayName: 杰克逊·波洛克
 	Tooltip: 召唤一桶漂浮的颜料，四处泼洒，绘出战场的抽象画卷
 }
 
@@ -4198,8 +4199,8 @@ Angelenthal: {
 }
 
 RoseBroochA: {
-	DisplayName: Rose Brooch
-	Tooltip: Summons a rose shield that rotates around you and blocks projectiles
+	DisplayName: 玫瑰饰符
+	Tooltip: 召唤一朵玫瑰护盾在你身边旋转，造成伤害并挡住来袭的弹幕
 }
 
 Nekomara: {
@@ -4464,14 +4465,14 @@ StarringBalls: {
 }
 
 MagicalBroochA: {
-	DisplayName: The Royal Capital's Magical Brooch
+	DisplayName: 皇室首都的魔能饰符
 	Tooltip:
 		'''
-		You really wanna be a mage huh.
-		+100 Max Mana and +50 Health
-		Auto gain the Mana Cuffs and Magic flower
-		Cost of magic is reduced by 95%..
-		+20% Magic Damage
+		看来你真想做个法师啊
+		+100最大魔力，+50最大生命
+		获得魔法手铐与魔力花效果
+		减少95%魔力消耗，是的你没看错
+		+20%魔法伤害
 		'''
 }
 
@@ -4575,29 +4576,29 @@ SpiritPowder: {
 }
 
 TreasureBoxFire: {
-	DisplayName: Smoldering Treasure Box
+	DisplayName: 燃烬宝藏盒
 	Tooltip:
 		'''
 		{$CommonItemTooltip.RightClickToOpen}
-		I bet ya burned yourself half to death to get this one!
+		你一定刚刚被烧了个半死吧
 		'''
 }
 
 TreasureBoxTrap: {
-	DisplayName: Trapped Treasure Box
+	DisplayName: 机关宝藏盒
 	Tooltip:
 		'''
 		{$CommonItemTooltip.RightClickToOpen}
-		Ummm- it's totally not trapped ;)
+		恩~我保证它上面没有陷阱呢~ ;)
 		'''
 }
 
 TreasureBoxWater: {
-	DisplayName: Drowned Treasure Box
+	DisplayName: 沉沦宝藏盒
 	Tooltip:
 		'''
 		{$CommonItemTooltip.RightClickToOpen}
-		There's... just too much water...
+		好多...水...
 		'''
 }
 
@@ -4611,11 +4612,11 @@ AquaticEmblem: {
 }
 
 Barry: {
-	DisplayName: Barry
+	DisplayName: 刺儿盾
 	Tooltip:
 		'''
-		Summons an orbiting shield of infected spikes to protect you!
-		Everyone loves Barry :)
+		召唤一圈刺来保护你
+		人见人爱 :)
 		'''
 }
 
@@ -4846,8 +4847,8 @@ VeiizalsUmbrella: {
 }
 
 AnotherRock: {
-	DisplayName: Another Rock
-	Tooltip: Use it to descend to the Old Guardian's Shrine, deep underground
+	DisplayName: 只是一块石头
+	Tooltip: 使用它以深入地下，去往古老守卫者的居所
 }
 
 AlcaricQuiver: {
@@ -5040,13 +5041,13 @@ AlcadBomb: {
 }
 
 CompletedFlowerBag: {
-	DisplayName: Completed Flower Bag
-	Tooltip: Take this to Zui for some rewards!
+	DisplayName: 装满的花卉袋
+	Tooltip: 把这个拿给蕊，领取你的奖励吧！
 }
 
 EmptyFlowerBag: {
-	DisplayName: Empty Flower Bag
-	Tooltip: Whats wrong? Need some love to keep ya going? Craft the completed bag with some flowers.
+	DisplayName: 空的花卉袋
+	Tooltip: 爱你哟~努力吧！用各种花朵填满这个袋子
 }
 
 BurnedCarianTome: {
@@ -5055,8 +5056,8 @@ BurnedCarianTome: {
 }
 
 EmptyCollectorsBag: {
-	DisplayName: Empty Collectors Bag
-	Tooltip: Collecting up the dust of your remains after you're done with this. You know the deal.
+	DisplayName: 空的收藏袋
+	Tooltip: 完事后别忘了收拾废料，你懂的
 }
 
 CinderedLantern: {
@@ -5158,7 +5159,7 @@ MetallianCard: {
 }
 
 ZuiCard: {
-	DisplayName: 蕊符牌
+	DisplayName: 蕊之符牌
 	Tooltip:
 		'''
 		这是点燃粉末与尘埃的引子
@@ -5183,8 +5184,8 @@ TheWiggler: {
 }
 
 CompletedCollectorsBag: {
-	DisplayName: Completed Collectors Bag
-	Tooltip: Take this to Zui for some rewards!
+	DisplayName: 装满的收藏袋
+	Tooltip: 把这个拿给蕊，领取你的奖励吧！
 }
 
 ArncharSuperCharger: {
@@ -5632,67 +5633,67 @@ RadianuiWings: {
 }
 
 AurockBroochA: {
-	DisplayName: Radiated Aurock Brooch
+	DisplayName: 辉映宝彩饰符
 	Tooltip:
 		'''
-		Gives bright blue light!
-		Extreme increase to pickaxe speed
-		+7 Defesnse!
+		发出极亮的蓝光！
+		巨幅提升挖掘速度
+		+7防御
 		'''
 }
 
 DefensiveGraditudeBroochA: {
-	DisplayName: Radiated Defensive Graditude Brooch
+	DisplayName: 辉映御守饰符
 	Tooltip:
 		'''
-		+50 Defense!
-		Woaaaa, you dont need this...
-		-30% Damage
+		+50防御
+		哇..哦..你可不需要这个
+		-30%伤害
 		'''
 }
 
 GovheilWarriorBroochA: {
-	DisplayName: Radiated Govheil Warrior Brooch
+	DisplayName: 辉映歌维赫奥法饰符
 	Tooltip:
 		'''
-		Halves the mana cost of any magic weapon!
-		+15% Magic damage
-		+6 Defense too!
-		Auto-Swing!
+		将魔法武器的魔力消耗减半！
+		+15%魔法伤害
+		+6防御
+		自动挥舞一切！
 		'''
 }
 
 SandyBearBroochA: {
-	DisplayName: Radiated Sandy Bear Brooch
+	DisplayName: 辉映狂沙饰符
 	Tooltip:
 		'''
-		Gain the effects of a true sand warrior!
-		Get forbidden armor set bonus!
-		+2 Summons
-		Heavily Increased Mana regeneration!
+		成为真正的黄沙斗士！
+		获得禁忌套装奖励!
+		+2召唤物栏位
+		极大增加魔力再生！
 		'''
 }
 
 StoningFlyBroochA: {
-	DisplayName: Radiated Stoning Fly Brooch
+	DisplayName: 辉映翱翔饰符
 	Tooltip:
 		'''
-		Jump extra high and fast acceleration!
-		No fall damage!
-		Glow in the dark!
-		+10% Damage
-		30% Increased Movement speed!
+		提高跳跃高度与加速度！
+		免疫摔落伤害!
+		在黑暗中发光!
+		+10%伤害
+		+30%移动速度!
 		'''
 }
 
 KilliaBroochA: {
-	DisplayName: Radiated Dreadrose Brooch
+	DisplayName: 辉映惧绽饰符
 	Tooltip:
 		'''
-		Summons a rose shield that rotates around you and blocks projectiles!
-		+80 Health
-		We walking out of here good this time :p
-		+5% Damage
+		召唤一朵玫瑰护盾保护你！
+		+80最大生命
+		+5%伤害
+		从容不迫，敌军中杀个七进七出
 		'''
 }
 
@@ -5979,8 +5980,8 @@ BlackBall: {
 }
 
 TomeofRaining: {
-	Tooltip: Use to make it rain! Zui gives her thanks!
-	DisplayName: Tome of Raining
+	Tooltip: 随时开启下雨！这是蕊的谢礼！
+	DisplayName: 唤雨魔书
 }
 
 SirestiasToken: {
@@ -6324,12 +6325,12 @@ SiresMail: {
 }
 
 IllurianBroochA: {
-	DisplayName: Illurian Brooch
+	DisplayName: 星树饰符
 	Tooltip:
 		'''
-		Greatly increased max run speed and mobility!
-		Reduced defense...
-		You are one with Illuria~
+		增加奔跑速度与灵活性！
+		减少防御...
+		星树与你同在
 		'''
 }
 
@@ -6779,13 +6780,13 @@ TheReaving: {
 }
 
 TempleKeyMold: {
-	DisplayName: Temple Key Mold
-	Tooltip: The mold to help create the Temple key!
+	DisplayName: 神庙钥匙模具
+	Tooltip: 神庙钥匙制作中不可或缺的一部分
 }
 
 TempleKeyPart: {
-	DisplayName: Temple Key Part
-	Tooltip: It seems Ereshkigal broke the key and attached it to the singularity. How cruel.
+	DisplayName: 神庙钥匙部件
+	Tooltip: 看来厄莉什基迦勒把神庙钥匙拆成了几部分，还交给奇点保管。真残酷。
 }
 
 M38F30: {
@@ -6869,7 +6870,7 @@ IshNYire: {
 }
 
 AzuretoothNecklace: {
-	DisplayName: 星树之牙项链
+	DisplayName: 蔚蓝龙齿项链
 	Tooltip: 引导星树之力，召唤追踪幽灵龙！
 }
 
@@ -7067,7 +7068,7 @@ Mordred: {
 }
 
 TheMarksman: {
-	Tooltip: U用你的光标，召唤天纱之力，释放电流！
+	Tooltip: 用你的光标，召唤天纱之力，释放电流！
 	DisplayName: 神射手
 }
 
@@ -7401,7 +7402,7 @@ RekBossRel: {
 }
 
 Irrasprayer: {
-	DisplayName: 焰烬喷射器
+	DisplayName: 辐烬喷射器
 	Tooltip: 以火灭火，用炽烈熄灭炽烈！
 }
 
@@ -7488,11 +7489,11 @@ Pegasus: {
 }
 
 WoodyBroochA: {
-	DisplayName: 木胸针
+	DisplayName: 木饰符
 	Tooltip:
 		'''
-		30% increased damage while grounded! 
-		But- you have 30% decreased damage while airborne
+		接触地面时增加30%伤害！
+		但-滞空时减少30%伤害！
 		'''
 }
 
