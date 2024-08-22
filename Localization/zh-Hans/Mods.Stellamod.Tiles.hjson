@@ -36,54 +36,54 @@ Zebi.MapEntry: 拱廊
 VheilCurtainRight.MapEntry: 帘幕右
 VheilCurtainLeft.MapEntry: 帘幕左
 RestingGrounds.MapEntry: 代达斯安息所
-MasistRight.MapEntry: 
-MasistLeft.MapEntry: Masist Left
-JackPost.MapEntry: Jack Post
-GovheilWei.MapEntry: Govheil Wei
-GovheilWall.MapEntry: Govheil Wall
-GovheilHall.MapEntry: Govheil Hall
-GovheilBore.MapEntry: Govheil Bore
-GothivDoorClosed.MapEntry: Gothiv Door Closed
-Gothiv.MapEntry: Gothiv
-CurtainRight.MapEntry: Curtain Right
-CurtainLeft.MapEntry: Curtain Left
-StarbloomDirt.MapEntry: Starbloom Dirt
-ShrineBridgetC.MapEntry: Shrine Bridget C
-ShrineSolMothC.MapEntry: Shrine Sol Moth C
-ShrineLights.MapEntry: Shrine Lights
-ShrineLifeC.MapEntry: Shrine Life C
-ShrineHalhurishC.MapEntry: Shrine Halhurish C
-ShrineGardenWreckerC.MapEntry: Shrine Garden Wrecker C
-ShrineBUAN.MapEntry: Shrine B U A N
-ShrineAlcaPowderC.MapEntry: Shrine Alca Powder C
-RunicTableT.MapEntry: Runic Table T
-Skullpile.MapEntry: Skullpile
-Rectite.MapEntry: Rectite
-CurtainTop.MapEntry: Curtain Top
-CurtainRightRC.MapEntry: Curtain Right R C
-CurtainLeftRC.MapEntry: Curtain Left R C
-AowerTop.MapEntry: Aower Top
-AowerBottom.MapEntry: Aower Bottom
-Alcite.MapEntry: Alcite
-MossyStone.MapEntry: Mossy Stone
-LostScrapT.MapEntry: Lost Scrap T
-HuntiacTile.MapEntry: Huntiac Tile
-GovheilTile.MapEntry: Govheil Tile
-FrileOreTile.MapEntry: Frile Ore Tile
-MechanicS.MapEntry: Mechanic S
-DrakonSileS.MapEntry: Drakon Sile S
-DrakonHallS.MapEntry: Drakon Hall S
-DrakonCageS.MapEntry: Drakon Cage S
-DiminishedMetal.MapEntry: Diminished Metal
-CoreGemT.MapEntry: Core Gem T
-CinderChest.MapEntry: Cinder Chest
-ChiseledStone.MapEntry: Chiseled Stone
-CellConverter.MapEntry: Cell Converter
-CatacombsSummon.MapEntry: Catacombs Summon
-CatacombsDoorClosed.MapEntry: Catacombs Door Closed
-BroochesTable.MapEntry: Brooches Table
-AstrasilkOreTile.MapEntry: Astrasilk Ore Tile
-Arnchar.MapEntry: Arnchar
+MasistRight.MapEntry: 洞穴右
+MasistLeft.MapEntry: 洞穴左
+JackPost.MapEntry: 杰克南瓜稻草人
+GovheilWei.MapEntry: 歌维赫
+GovheilWall.MapEntry: 歌维赫墙
+GovheilHall.MapEntry: 歌维赫大厅
+GovheilBore.MapEntry: 歌维赫圣像
+GothivDoorClosed.MapEntry: 歌瑟梵门
+Gothiv.MapEntry: 歌瑟梵
+CurtainRight.MapEntry: 帘幕右
+CurtainLeft.MapEntry: 帘幕左
+StarbloomDirt.MapEntry: 星绽土块
+ShrineBridgetC.MapEntry: 布里姬石坛
+ShrineSolMothC.MapEntry: 日蚀飞蛾石坛
+ShrineLights.MapEntry: 灵光绽放石坛
+ShrineLifeC.MapEntry: 生命水晶石坛
+ShrineHalhurishC.MapEntry: 炽焰赫尔修里斯石坛
+ShrineGardenWreckerC.MapEntry: 翠破焰炮石坛
+ShrineBUAN.MapEntry: 烈焰天使石坛
+ShrineAlcaPowderC.MapEntry: 阿尔卡迪亚魔法尘石坛
+RunicTableT.MapEntry: 符文工作桌
+Skullpile.MapEntry: 头骨堆
+Rectite.MapEntry: 石笋柱
+CurtainTop.MapEntry: 帘幕顶
+CurtainRightRC.MapEntry: 帘幕右
+CurtainLeftRC.MapEntry: 帘幕左
+AowerTop.MapEntry: 残破高塔
+AowerBottom.MapEntry: 残破高塔
+Alcite.MapEntry: 高塔壁符
+MossyStone.MapEntry: 苔石
+LostScrapT.MapEntry: 失落废料
+HuntiacTile.MapEntry: 亨提克
+GovheilTile.MapEntry: 歌维赫块
+FrileOreTile.MapEntry: 月冰矿
+MechanicS.MapEntry: 工程师
+DrakonSileS.MapEntry: 宅邸长廊
+DrakonHallS.MapEntry: 宅邸大殿
+DrakonCageS.MapEntry: 宅邸铁笼
+DiminishedMetal.MapEntry: 缺损的金属
+CoreGemT.MapEntry: 核心宝石
+CinderChest.MapEntry: 烬火箱
+ChiseledStone.MapEntry: 雕刻石
+CellConverter.MapEntry: 
+CatacombsSummon.MapEntry: 墓穴召唤台
+CatacombsDoorClosed.MapEntry: 墓穴之门
+BroochesTable.MapEntry: 符饰雕琢台
+AstrasilkOreTile.MapEntry: 星之丝绸矿
+Arnchar.MapEntry: 炽烬熔渣
 TreeOver2.MapEntry: Tree Over2
 TreeOver1.MapEntry: Tree Over1
 Stalagmite4.MapEntry: Stalagmite4
