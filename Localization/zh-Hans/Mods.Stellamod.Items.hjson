@@ -4715,7 +4715,7 @@ ComicalTrident: {
 
 MetalAlloy: {
 	DisplayName: 金属合金
-	Tooltip: 虽非材质，德国却如此定义
+	Tooltip: 虽非材料，但在德国就不一定了
 }
 
 Ragsaw: {
