@@ -44,7 +44,7 @@ GovheilWall.MapEntry: 歌维赫墙
 GovheilHall.MapEntry: 歌维赫大厅
 GovheilBore.MapEntry: 歌维赫圣像
 GothivDoorClosed.MapEntry: 歌瑟梵门
-Gothiv.MapEntry: 歌瑟梵
+Gothiv.MapEntry: 歌瑟梵门
 CurtainRight.MapEntry: 帘幕右
 CurtainLeft.MapEntry: 帘幕左
 StarbloomDirt.MapEntry: 星绽土块
@@ -78,78 +78,78 @@ DiminishedMetal.MapEntry: 缺损的金属
 CoreGemT.MapEntry: 核心宝石
 CinderChest.MapEntry: 烬火箱
 ChiseledStone.MapEntry: 雕刻石
-CellConverter.MapEntry: 
+CellConverter.MapEntry: 电子转换器
 CatacombsSummon.MapEntry: 墓穴召唤台
 CatacombsDoorClosed.MapEntry: 墓穴之门
 BroochesTable.MapEntry: 符饰雕琢台
 AstrasilkOreTile.MapEntry: 星之丝绸矿
 Arnchar.MapEntry: 炽烬熔渣
-TreeOver2.MapEntry: Tree Over2
-TreeOver1.MapEntry: Tree Over1
-Stalagmite4.MapEntry: Stalagmite4
-Stalagmite3.MapEntry: Stalagmite3
-Stalagmite2.MapEntry: Stalagmite2
-Stalagmite1.MapEntry: Stalagmite1
-OwlTrunck3.MapEntry: Owl Trunck3
-OwlTrunck2.MapEntry: Owl Trunck2
-OwlTrunck1.MapEntry: Owl Trunck1
-BigRock4.MapEntry: Big Rock4
-BigRock3.MapEntry: Big Rock3
-BigRock2.MapEntry: Big Rock2
-BigRock1.MapEntry: Big Rock1
-AlcaologyTable.MapEntry: Alcaology Table
-AcidStone.MapEntry: Acid Stone
-AcidMush3.MapEntry: Acid Mush3
-AcidMush2.MapEntry: Acid Mush2
-AcidMush1.MapEntry: Acid Mush1
-AcidialDirt.MapEntry: Acidial Dirt
-AcidBush3.MapEntry: Acid Bush3
-AcidBush2.MapEntry: Acid Bush2
-AcidBush1.MapEntry: Acid Bush1
-AcidBrick.MapEntry: Acid Brick
-TealBulb3.MapEntry: Teal Bulb3
-TealBulb2.MapEntry: Teal Bulb2
-TealBulb.MapEntry: Teal Bulb
-SoulOre.MapEntry: Soul Ore
-Rallad.MapEntry: Rallad
-BlueFlower2.MapEntry: Blue Flower2
-BlueFlower.MapEntry: Blue Flower
-AurelusSummon.MapEntry: Aurelus Summon
-AurelusPost.MapEntry: Aurelus Post
-AurelusDoorClosed.MapEntry: Aurelus Door Closed
-AurelusChest.MapEntry: Aurelus Chest
-AurelusBorderS.MapEntry: Aurelus Border S
-AbyssalStone.MapEntry: Abyssal Stone
-LabCrystal.MapEntry: Lab Crystal
-LabsS.MapEntry: Labs S
-IlluriaLeafTile.MapEntry: Illuria Leaf Tile
-IlluriaTreesmall.MapEntry: Illuria Treesmall
-IlluriaTreeBig.MapEntry: Illuria Tree Big
-IlluriaBranch.MapEntry: Illuria Branch
-IlluriaChest.MapEntry: Illuria Chest
-Mushroom1.MapEntry: Mushroom1
-Mushroom2.MapEntry: Mushroom2
-Mushroom3.MapEntry: Mushroom3
-AzurerinPainting.MapEntry: Azurerin Painting
-GothiviaPainting.MapEntry: Gothivia Painting
-LunarPot.MapEntry: Lunar Pot
-SigfriedPainting.MapEntry: Sigfried Painting
-VeilBanner1.MapEntry: Veil Banner1
-VeilBanner2.MapEntry: Veil Banner2
-CozmirePainting.MapEntry: Cozmire Painting
-IshtarChest.MapEntry: Ishtar Chest
-IshtarCandles.MapEntry: Ishtar Candles
-BushyWebss.MapEntry: Bushy Webss
-BushySticks.MapEntry: Bushy Sticks
-BushyEyes.MapEntry: Bushy Eyes
-IshtarDoorClosed.MapEntry: Ishtar Door Closed
-IshtarMoss.MapEntry: Ishtar Moss
-IshtarWeb1.MapEntry: Ishtar Web1
-IshtarWeb2.MapEntry: Ishtar Web2
-IshtarWeb3.MapEntry: Ishtar Web3
-IshtarWeb4.MapEntry: Ishtar Web4
-Robic.MapEntry: Robic
-SpiderIdol.MapEntry: Spider Idol
-TreeOver3.MapEntry: Tree Over3
-SmallVeilPot.MapEntry: Small Veil Pot
-LumiPainting.MapEntry: Lumi Painting
+TreeOver2.MapEntry: 树
+TreeOver1.MapEntry: 树
+Stalagmite4.MapEntry: 石笋
+Stalagmite3.MapEntry: 石笋
+Stalagmite2.MapEntry: 石笋
+Stalagmite1.MapEntry: 石笋
+OwlTrunck3.MapEntry: 猫头鹰树干
+OwlTrunck2.MapEntry: 猫头鹰树干
+OwlTrunck1.MapEntry: 猫头鹰树干
+BigRock4.MapEntry: 大块岩石
+BigRock3.MapEntry: 大块岩石
+BigRock2.MapEntry: 大块岩石
+BigRock1.MapEntry: 大块岩石
+AlcaologyTable.MapEntry: 阿尔卡迪亚研究台
+AcidStone.MapEntry: 酸蚀石
+AcidMush3.MapEntry: 酸蚀混溶物
+AcidMush2.MapEntry: 酸蚀混溶物
+AcidMush1.MapEntry: 酸蚀混溶物
+AcidialDirt.MapEntry: 酸性土
+AcidBush3.MapEntry: 酸蚀树丛
+AcidBush2.MapEntry: 酸蚀树丛
+AcidBush1.MapEntry: 酸蚀树丛
+AcidBrick.MapEntry: 酸蚀砖块
+TealBulb3.MapEntry: 青色花苞
+TealBulb2.MapEntry: 青色花苞
+TealBulb.MapEntry: 青色花苞
+SoulOre.MapEntry: 灵魂矿
+Rallad.MapEntry: 骨堆雕塑
+BlueFlower2.MapEntry: 蓝色花朵
+BlueFlower.MapEntry: 蓝色花朵
+AurelusSummon.MapEntry: 匿影圣坛
+AurelusPost.MapEntry: 匿影杆
+AurelusDoorClosed.MapEntry: 匿影门
+AurelusChest.MapEntry: 匿影箱
+AurelusBorderS.MapEntry: 匿影长廊
+AbyssalStone.MapEntry: 深渊石
+LabCrystal.MapEntry: 实验室晶体
+LabsS.MapEntry: 实验室大厅
+IlluriaLeafTile.MapEntry: 星树叶
+IlluriaTreesmall.MapEntry: 星树
+IlluriaTreeBig.MapEntry: 星树
+IlluriaBranch.MapEntry: 星树枝
+IlluriaChest.MapEntry: 星树箱
+Mushroom1.MapEntry: 蘑菇
+Mushroom2.MapEntry: 蘑菇
+Mushroom3.MapEntry: 蘑菇
+AzurerinPainting.MapEntry: 艾祖瑞霖壁画
+GothiviaPainting.MapEntry: 歌瑟梵壁画
+LunarPot.MapEntry: 月之壶
+SigfriedPainting.MapEntry: 齐格飞壁画
+VeilBanner1.MapEntry: 天纱旗帜
+VeilBanner2.MapEntry: 天纱旗帜
+CozmirePainting.MapEntry: 堕悼者壁画
+IshtarChest.MapEntry: 狂渊箱
+IshtarCandles.MapEntry: 狂渊烛
+BushyWebss.MapEntry: 暗巢蛛网
+BushySticks.MapEntry: 暗巢缠网
+BushyEyes.MapEntry: 暗巢蛛眼
+IshtarDoorClosed.MapEntry: 狂渊门
+IshtarMoss.MapEntry: 狂渊苔
+IshtarWeb1.MapEntry: 狂渊密网
+IshtarWeb2.MapEntry: 狂渊密网
+IshtarWeb3.MapEntry: 狂渊密网
+IshtarWeb4.MapEntry: 狂渊密网
+Robic.MapEntry: 石穹顶
+SpiderIdol.MapEntry: 蜘蛛神像
+TreeOver3.MapEntry: 树
+SmallVeilPot.MapEntry: 小型壶
+LumiPainting.MapEntry: 琉米壁画
