@@ -4758,8 +4758,8 @@ Dulahaun: {
 }
 
 CursedShard: {
-	DisplayName: Cursed Shard
-	Tooltip: Use at an altar in any of the Catacombs to summon a dangerous foe!
+	DisplayName: 诅咒残片
+	Tooltip: 在三个地下洞穴任一的祭坛处使用以召唤一名危险的敌人！
 }
 
 DucanblitzBreastplate: {
@@ -4792,7 +4792,7 @@ DucanblitzThighs: {
 }
 
 FenixBag: {
-	DisplayName: Fenix Bag
+	DisplayName: 宝藏袋（凤涅克丝）
 	Tooltip: ""
 }
 
@@ -4837,7 +4837,7 @@ StickOfWisdom: {
 
 ChiseledSandstone: {
 	Tooltip: ""
-	DisplayName: Chiseled Sandstone
+	DisplayName: 雕琢砂岩
 }
 
 VeiizalsUmbrella: {
@@ -4860,8 +4860,8 @@ AlcaricQuiver: {
 }
 
 BlackRose: {
-	DisplayName: Black Rose
-	Tooltip: Using a mana potion hurts you a little instead of sickening you
+	DisplayName: 黑蔷薇
+	Tooltip: 使用魔力药水不会造成魔力病，但会造成轻微伤害
 }
 
 LittleWand: {
@@ -4879,8 +4879,8 @@ WindedQuiver: {
 }
 
 AimacraWig: {
-	DisplayName: Aimacra's Wig
-	Tooltip: Great for impersonating Aimacra from Diari! Also gives 50 health!
+	DisplayName: 安魅凯拉的假发
+	Tooltip: 很适合扮成安魅凯拉（来自作者的游戏Diari），同时给予+50最大生命！
 }
 
 WindmillionBoots: {
@@ -5188,8 +5188,8 @@ CompletedCollectorsBag: {
 }
 
 ArncharSuperCharger: {
-	DisplayName: Arnchar Super Charger
-	Tooltip: Greatly empowers the Archarilite weapons and tools!
+	DisplayName: 赤铁超充能器
+	Tooltip: 极大增强赤铁武器与工具！
 }
 
 CinderChesti: {
@@ -5314,7 +5314,7 @@ ZenoviasPikpikGlove: {
 	DisplayName: 泽诺维亚的皮克罐
 	Tooltip:
 		'''
-		将皮克人散布大地，无论何地，皆可为战。
+		将皮克敏散布大地，无论何地，皆可为战。
 		添洋葱为配件，增伤强身，成就超凡！
 		'''
 }
@@ -5373,10 +5373,10 @@ ChromaCutter: {
 WeaponDrive: {
 	Tooltip:
 		'''
-		A drive constructed by the smartest of engineers 
-		Contains some high quality electronics and a bit of magical essence of the new world!
+		由最顶尖的工程师制造的驱动装置
+		内含高精电子设备与新世界的魔法精华！
 		'''
-	DisplayName: Weapon Drive
+	DisplayName: 武器驱动装置
 }
 
 MechanicI: {
@@ -5385,8 +5385,8 @@ MechanicI: {
 }
 
 ScrapToken: {
-	Tooltip: Put inside a cell converter with Delgrim.
-	DisplayName: Scrap Token
+	Tooltip: 把它放进魔法工程师戴尔格林旁的电子转换器里
+	DisplayName: 废料
 }
 
 ElectricCrystal: {
@@ -5395,8 +5395,8 @@ ElectricCrystal: {
 }
 
 SkyRuneI: {
-	DisplayName: Ancient Artifact
-	Tooltip: Maybe Gia can look at this?
+	DisplayName: 远古符文
+	Tooltip: 也许吉娅会想要它？
 }
 
 EelInfinite: {
@@ -5553,23 +5553,23 @@ RadianceStone: {
 }
 
 ShopNote: {
-	DisplayName: Shop Note
-	Tooltip: Now that I've seen your talent, I'll allow you access to my whole shop!
+	DisplayName: 小纸条
+	Tooltip: 我看出你很有能力，我就把商店完全对你开放啦！
 }
 
 FenixBossRel: {
-	DisplayName: Fenix Boss Relic
-	Tooltip: A commander of a carian army, made the world worse overall.
+	DisplayName: 凤涅克丝圣物
+	Tooltip: 卡里亚军队的总指挥，一通征战后只让世界变得乌烟瘴气。
 }
 
 IrradiaBossRel: {
-	DisplayName: Irradia N Havoc Boss Relic
-	Tooltip: A Guardian huh? Well not anymore.
+	DisplayName: 伊瑞蒂安与浩劫龙械圣物
+	Tooltip: 守卫？不再是了。
 }
 
 ZuiBossRel: {
-	Tooltip: Who really are they?
-	DisplayName: Zui Boss Relic
+	Tooltip: ta到底是谁？
+	DisplayName: 蕊圣物
 }
 
 NyxiaHat: {
@@ -5726,8 +5726,8 @@ LuminullSpiritFragments: {
 }
 
 IceRuneI: {
-	Tooltip: Maybe Gia can look at this?
-	DisplayName: Ancient Artifact
+	Tooltip: 也许吉娅会想要它？
+	DisplayName: 远古符文
 }
 
 TitaniumBullet: {
@@ -5766,8 +5766,8 @@ IrradiatedArrow: {
 }
 
 STARBLOCKER: {
-	DisplayName: STARBLOCKER
-	Tooltip: Use this to reject a Aurorean Starfall :(
+	DisplayName: 繁星阻御
+	Tooltip: 使用此物品来中止一场极光星雨 :(
 }
 
 Maelstrom: {
@@ -5817,7 +5817,7 @@ Voltenstein: {
 		击中敌人会给你带来额外伤害的加成，并且作为奖励，你将获得短暂的免疫效果！
 		击中敌人将使你的下一次攻击速度更快！但如果攻击落空，你将面临更长时间的等待。
 		越强的手套词条越多
-		2 Words!
+		2个词条!
 		'''
 	DisplayName: 沃特恩斯坦
 }
@@ -5851,7 +5851,7 @@ Hultinstein: {
 		击中敌人会使你获得额外的伤害加成，并且作为奖励，你将获得短暂的免疫效果！
 		击中敌人将使你的下一次攻击速度更快！但如果攻击落空，你将面临更长时间的等待。
 		越强的手套词条越多
-		1个词条
+		1个词条！
 		'''
 }
 
@@ -5880,7 +5880,7 @@ Mardenstein: {
 		击中敌人后，你将获得额外的伤害加成，并且作为奖励，你将获得短暂的免疫效果，无懈可击！
 		击中敌人将使你的下一次攻击速度更快！但如果攻击落空，你将面临更长时间的等待。
 		越强的手套词条越多
-		3 Words!
+		3个词条!
 		'''
 }
 
@@ -6289,7 +6289,7 @@ VeiledScriptureCozmire: {
 }
 
 SplashAttack: {
-	DisplayName: 溅射鞭
+	DisplayName: 多彩挥洒鞭
 	Tooltip:
 		'''
 		{$CommonItemTooltip.SummonTagDamage}
@@ -6304,7 +6304,7 @@ CozmirePaintingI: {
 }
 
 ExampleDialogueItem: {
-	DisplayName: Example Dialogue Item
+	DisplayName: 试验对话物品
 	Tooltip: ""
 }
 
@@ -6319,8 +6319,8 @@ SineSire: {
 }
 
 SiresMail: {
-	DisplayName: Sire's Mail
-	Tooltip: Sirestias's special gift to contact her at will!
+	DisplayName: 希丝忒莉亚的魔法信封
+	Tooltip: 希丝忒莉亚给你的特别礼物，能让你随时联系她！
 }
 
 IllurianBroochA: {
@@ -6519,10 +6519,10 @@ GovheilPlatformBlock: {
 ManifestedBravery: {
 	Tooltip:
 		'''
-		Verlia's soul manifested at it's core. 
-		In the end she stood up against Fenix and you to save her village and her sister.
+		薇莉娅的灵魂之核心，具现化于此。
+		她最终选择对抗凤涅克丝和你，来拯救她的村庄，她的姐妹。
 		'''
-	DisplayName: Manifested Bravery
+	DisplayName: 勇气具现
 }
 
 FrameStaff: {
@@ -6609,7 +6609,7 @@ IshtarCard: {
 }
 
 Orion: {
-	DisplayName: 繁星·猎户座
+	DisplayName: 繁星·猎户
 	Tooltip:
 		'''
 		留下一串爆炸的星辰
@@ -6618,7 +6618,7 @@ Orion: {
 }
 
 Aquarius: {
-	DisplayName: 繁星·水瓶座
+	DisplayName: 繁星·水瓶
 	Tooltip:
 		'''
 		召唤强力水之斩击光环
@@ -6794,8 +6794,8 @@ M38F30: {
 }
 
 StarSilk: {
-	Tooltip: Divine silk made of pure astral energy
-	DisplayName: Star Silk
+	Tooltip: 神话级的丝绸，以纯粹的星之能量编织而成
+	DisplayName: 烁星丝绸
 }
 
 BabySwarmerStaff: {
@@ -7092,7 +7092,7 @@ MardenthRobe: {
 }
 
 NiiviBossRel: {
-	DisplayName: Niivi Relic
+	DisplayName: 尼伊维圣物
 	Tooltip: ""
 }
 
@@ -7127,7 +7127,7 @@ Vixyl: {
 
 ManifestedHumility: {
 	Tooltip: ""
-	DisplayName: Manifested Humility
+	DisplayName: 谦逊具现
 }
 
 GraveShaper: {
@@ -7141,7 +7141,7 @@ CleanestCleaver: {
 }
 
 GothiviaIyxBag: {
-	DisplayName: Gothivia Iyx Bag
+	DisplayName: 宝藏袋（歌瑟梵·伊斯）
 	Tooltip: ""
 }
 
@@ -7367,7 +7367,7 @@ YourFired: {
 
 LumiPaintingI: {
 	Tooltip: ""
-	DisplayName: Lumi Painting
+	DisplayName: 琉米画
 }
 
 VeiledScriptureLumi: {
@@ -7454,11 +7454,11 @@ FlinchMachine: {
 }
 
 IllurineBrew: {
-	DisplayName: Illurine Brew
+	DisplayName: 星树神酿
 	Tooltip:
 		'''
-		Grants normal gravity while in out space
-		Slightly increases movement speed and acceleration
+		在太空中复原重力
+		轻微增加移动速度与加速度
 		'''
 }
 
@@ -7478,7 +7478,7 @@ SupernovaBossRel: {
 }
 
 Pegasus: {
-	DisplayName: 繁星·天马座
+	DisplayName: 繁星·天马
 	Tooltip:
 		'''
 		召唤尼伊维的三颗晶石环绕
