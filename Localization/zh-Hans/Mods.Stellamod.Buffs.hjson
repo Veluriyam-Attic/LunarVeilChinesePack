@@ -1,411 +1,411 @@
 VoidMinionBuff: {
-	Description: OAJSIODJASIODJISA
-	DisplayName: Void Minion Buff
+	Description: 嗡嗡嗡.........
+	DisplayName: 寰虚奇点
 }
 
 TheBurningRodMinionBuff: {
-	Description: It burns with passion
-	DisplayName: The Burning Rod Buff
+	Description: 它燃烧着激情
+	DisplayName: 生火的木棍
 }
 
 SwarmerMinionBuff: {
-	Description: Getting swarmed
-	DisplayName: Swarmer Minion Buff
+	Description: 蜂拥而至
+	DisplayName: 蜂群
 }
 
 SolMothMinionBuff: {
-	Description: Ooo a moth!~
-	DisplayName: Sol Moth Buff
+	Description: 哦~一只飞蛾！
+	DisplayName: 光之蛾
 }
 
 ProbeMinionBuff: {
-	DisplayName: Probe Minion Buff
-	Description: Pew pew pew pew~
+	DisplayName: 探测器
+	Description: biu biu biu~
 }
 
 MushroomStaveMinionBuff: {
-	Description: Im not on shrooms I promise officer!
-	DisplayName: Mushroom Stave Buff
+	Description: 我发誓我不吃蘑菇长官!
+	DisplayName: 小荧绽菇
 }
 
 ManaWandMinionBuff: {
-	Description: Mana!
-	DisplayName: Mana Wand Minion Buff
+	Description: 阿瓦达!
+	DisplayName: 魔杖
 }
 
 LifeWandMinionBuff: {
-	Description: Life!
-	DisplayName: Life Wand Minion Buff
+	Description: 岁月!
+	DisplayName: 生命法杖
 }
 
 JellyMinionBuff: {
-	Description: I love sticky stuff~
-	DisplayName: Jelly Minion Buff
+	Description: 我喜欢黏黏的东西~
+	DisplayName: 凝胶水母
 }
 
 IvyakenMinionBuff: {
-	Description: Really powerful bow!
-	DisplayName: Ivyaken Buff
+	Description: 强而有力的弓!
+	DisplayName: 伊维亚肯
 }
 
 IrradiatedCreeperMinionBuff: {
-	Description: Its a creeper what did you think?
-	DisplayName: Irradiated Creeper Buff
+	Description: 这是你印象中的爬行动物吗?
+	DisplayName: 辐射爬行者
 }
 
 IceboundMinionBuff: {
-	Description: Become frozen.
-	DisplayName: Icebound Minion Buff
+	Description: 逐渐冻结.
+	DisplayName: 寒冰蝙蝠
 }
 
 HMMinionBuff: {
-	Description: You're so dead.
-	DisplayName: H M Minion Buff
+	Description: 你死定了.
+	DisplayName: H M
 }
 
 FCMinionBuff: {
-	Description: Getting powerful now aren't we?
-	DisplayName: F C Buff
+	Description: 我们正在逐步变强不是吗?
+	DisplayName: F C
 }
 
 DripplerMinionBuff: {
-	Description: Drippin out.
-	DisplayName: Dripper Buff
+	Description: 滴滴答答...
+	DisplayName: 滴滴怪
 }
 
 AuroranSeekerMinionBuff: {
-	Description: It does mix up its spells.
-	DisplayName: Auroran Seeker Minion Buff
+	Description: 魔法咒语百科.
+	DisplayName: 寻星之籍
 }
 
 ArncharMinionBuff: {
-	Description: Its remote controlled!
-	DisplayName: Arnchar Minion Buff
+	Description: 远程控制!
+	DisplayName: 阿恩查尔试作一号
 }
 
 Wounded: {
-	Description: Getting wounded
-	DisplayName: Wounded
+	Description: 受伤了
+	DisplayName: 负伤
 }
 
 Whipdeath: {
-	Description: Getting whipped
-	DisplayName: Whip me master :<
+	Description: 受虐
+	DisplayName: 鞭打我吧主人~ :<
 }
 
 MorrowWhipDebuff: {
-	Description: Morrowed whip
-	DisplayName: Debuffs you while whipping.
+	Description: 挥鞭时无力.
+	DisplayName: 余辉之鞭
 }
 
 Morrow: {
-	Description: Morrowed bitch
-	DisplayName: Morrow
+	Description: 第二天的**
+	DisplayName: 翌日
 }
 
 SnowFlame: {
-	Description: Snowing Flames
-	DisplayName: Snow Flame
+	Description: 燃烧似雪
+	DisplayName: 雪焰
 }
 
 Rekin: {
-	Description: Reka
-	DisplayName: Rekin
+	Description: 莱克
+	DisplayName: 涅槃
 }
 
 PocketSandBuff: {
-	Description: Sneaky sand
-	DisplayName: Pocket Sand Buff
+	Description: 诡秘之沙
+	DisplayName: 袋中砂
 }
 
 Love: {
-	Description: Sometimes the gambit supports you with speed!
-	DisplayName: Love
+	Description: 有时小小的诡计会加速接近幸福!
+	DisplayName: 爱
 }
 
 Irradiation: {
-	Description: You are growing new limbs.
-	DisplayName: Irradiation
+	Description: 新的肢体从你身上萌芽.
+	DisplayName: 辐射
 }
 
 Harvester: {
-	Description: Harvest spots
-	DisplayName: Harvester
+	Description: 收获之地
+	DisplayName: 收割者
 }
 
 Gintzingwinds: {
-	Description: A wonderous event
-	DisplayName: Gintzingwinds
+	Description: 令人惊奇的事件
+	DisplayName: 金戈亚狂风
 }
 
 GintzeSeen: {
-	Description: You are being seen.
-	DisplayName: Gintze Seen
+	Description: 你正被监视.
+	DisplayName: 玄铁视界
 }
 
 GintzelSheildCD: {
-	Description: This sheild is reallly helping
-	DisplayName: Gintzel Sheild C D
+	Description: 这个盾牌的确很有用
+	DisplayName: 玄铁盾冷却
 }
 
 GintzelSheild: {
-	Description: A good shield
-	DisplayName: Gintzel Shield
+	Description: 一个不错的盾牌
+	DisplayName: 玄铁盾
 }
 
 Elegance: {
-	Description: You float with elegance.
-	DisplayName: Elegance
+	Description: 你优雅地漂浮着.
+	DisplayName: 高雅
 }
 
 VoiddDust: {
 	Description: Mods.Stellamod.Buffs.VoiddDust.Description
-	DisplayName: Voidd Dust
+	DisplayName: 虚无之尘
 }
 
 TrickDust: {
 	Description: Mods.Stellamod.Buffs.TrickDust.Description
-	DisplayName: Trick Dust
+	DisplayName: 恶作剧之尘
 }
 
 SongDust: {
 	Description: Mods.Stellamod.Buffs.SongDust.Description
-	DisplayName: Song Dust
+	DisplayName: 歌颂之尘
 }
 
 ShadeDust: {
 	Description: Mods.Stellamod.Buffs.ShadeDust.Description
-	DisplayName: Shade Dust
+	DisplayName: 阴影之尘
 }
 
 KaevDust: {
 	Description: Mods.Stellamod.Buffs.KaevDust.Description
-	DisplayName: Kaev Dust
+	DisplayName: Kaev之尘
 }
 
 IceDust: {
 	Description: Mods.Stellamod.Buffs.IceDust.Description
-	DisplayName: Ice Dust
+	DisplayName: 冰之尘
 }
 
 GrassBuff: {
 	Description: Mods.Stellamod.Buffs.GrassBuff.Description
-	DisplayName: Grass Buff
+	DisplayName: 绿草茵茵
 }
 
 GovheilDust: {
 	Description: Mods.Stellamod.Buffs.GovheilDust.Description
-	DisplayName: Govheil Dust
+	DisplayName: 歌维赫之尘
 }
 
 FlowerBuff: {
 	Description: Mods.Stellamod.Buffs.FlowerBuff.Description
-	DisplayName: Flower Buff
+	DisplayName: 花团锦簇
 }
 
 FlameDust: {
 	Description: Mods.Stellamod.Buffs.FlameDust.Description
-	DisplayName: Flame Dust
+	DisplayName: 火光烛天
 }
 
 EXPtime4: {
 	Description: Mods.Stellamod.Buffs.EXPtime4.Description
-	DisplayName: E X Ptime4
+	DisplayName: 型号: X Ptime4
 }
 
 EXPtime3: {
 	Description: Mods.Stellamod.Buffs.EXPtime3.Description
-	DisplayName: E X Ptime3
+	DisplayName: 型号: X Ptime3
 }
 
 EXPtime2: {
 	Description: Mods.Stellamod.Buffs.EXPtime2.Description
-	DisplayName: E X Ptime2
+	DisplayName: 型号: X Ptime2
 }
 
 EXPtime: {
 	Description: Mods.Stellamod.Buffs.EXPtime.Description
-	DisplayName: E X Ptime
+	DisplayName: 型号: X Ptime
 }
 
 CrystalDust: {
 	Description: Mods.Stellamod.Buffs.CrystalDust.Description
-	DisplayName: Crystal Dust
+	DisplayName: 水晶之尘
 }
 
 CoalBuff: {
 	Description: Mods.Stellamod.Buffs.CoalBuff.Description
-	DisplayName: Coal Buff
+	DisplayName: 煤炭
 }
 
 AlcadDust: {
 	Description: Mods.Stellamod.Buffs.AlcadDust.Description
-	DisplayName: Alcad Dust
+	DisplayName: 阿尔卡德之尘
 }
 
 AivanDust: {
 	Description: Mods.Stellamod.Buffs.AivanDust.Description
-	DisplayName: Aivan Dust
+	DisplayName: 艾万之尘
 }
 
 Dusted: {
 	Description: Mods.Stellamod.Buffs.Dusted.Description
-	DisplayName: Dusted
+	DisplayName: 完成
 }
 
 DeathMultiplierBloodLamp: {
-	Description: Hit with blood lamp
-	DisplayName: Death Multiplier Blood Lamp
+	Description: 挥动冥界血光
+	DisplayName: 恂影血灯
 }
 
 DeathMultiplier: {
-	Description: You are multiplying damage
-	DisplayName: Death Multiplier
+	Description: 伤害在成倍增加
+	DisplayName: 亡悼
 }
 
 DarkHold: {
-	Description: Something has a grasp on your eyes. Hurts at nighttime...
-	DisplayName: Dark Hold
+	Description: 什么东西覆盖住了你的视线. 死亡在阴影中伺机而动...
+	DisplayName: 昏暗密室
 }
 
 VixedB: {
-	Description: Something feels warm inside you.
-	DisplayName: Vixed!
+	Description: 暖意传遍你的指尖.
+	DisplayName: 遗忘！
 }
 
 VerliaBroo: {
-	Description: Her soul still stares at you while you have this on.
-	DisplayName: Verlias Brooch
+	Description: 她的灵魂仍然时刻伴你左右.
+	DisplayName: 薇莉娅饰符
 }
 
 StoneB: {
-	Description: I'm high rn
-	DisplayName: Your stoned.
+	Description: 我tm很兴奋#%#
+	DisplayName: 你喝醉了.
 }
 
 Spragald: {
-	Description: Look at this, so much defense!
-	DisplayName: Spragald
+	Description: 看看它强大的防御力!
+	DisplayName: 斯普拉德戈饰符
 }
 
 Slimee: {
-	Description: I wish I could have this title right now.
-	DisplayName: Slimed!
+	Description: 我祈祷现在就能拥有这个头衔.
+	DisplayName: 粘液!
 }
 
 MalB: {
-	Description: Something evil is brewing
-	DisplayName: Malicous Brooch
+	Description: 邪恶事物正在酝酿...
+	DisplayName: 恶意饰符
 }
 
 IceBrooch: {
-	Description: Its colder the more you see it.
-	DisplayName: Ice Brooch
+	Description: 比你感受过的一切都要冷.
+	DisplayName: 极冰饰符
 }
 
 GovheilB: {
-	Description: Very useful!
-	DisplayName: Govheil Brooch
+	Description: 有用的很呐!
+	DisplayName: 歌维赫饰符
 }
 
 Goldren: {
-	Description: Feeling gold yet?
-	DisplayName: Goldren
+	Description: 金光闪闪不是吗?
+	DisplayName: 金色的
 }
 
 GintBroo: {
-	Description: Very not useful
-	DisplayName: Gintze Brooch
+	Description: 一点用没有呢...
+	DisplayName: 玄铁饰符
 }
 
 Flyfish: {
-	Description: You feel faster!
-	DisplayName: Flyfish Brooch
+	Description: 健步如飞!
+	DisplayName: 飞鱼饰符
 }
 
 DreadB: {
-	Description: Some health goes a long way
-	DisplayName: Dreaded Brooch
+	Description: 昔人逝去已久
+	DisplayName: 惧怖饰符
 }
 
 Diarii: {
-	Description: Thanks for playing!
+	Description: 感谢你的游玩!
 	DisplayName: Diarii
 }
 
 BurningGB: {
-	Description: I meant the name.
-	DisplayName: Burning roach
+	Description: 和名字描述的一样.
+	DisplayName: 燃烧的蟑螂
 }
 
 BearB: {
-	Description: Its a bear
-	DisplayName: Bear Brooch
+	Description: 熊的力量
+	DisplayName: 熊饰符
 }
 
 AurelusB: {
-	Description: Can you even tell?
-	DisplayName: Aurelus Brooch
+	Description: 你还能看见吗?
+	DisplayName: 匿影饰符
 }
 
 AmethystBroo: {
-	Description: I love amethyst!
-	DisplayName: Amethyst Brooch
+	Description: 我爱紫色的水晶!
+	DisplayName: 紫晶饰符
 }
 
 AssassinsSlashBuff: {
-	Description: Its buffing you
-	DisplayName: Assassins Slash Buff
+	Description: 万物皆虚,万事皆允
+	DisplayName: 刺客之剑
 }
 
 ArcaneDust: {
 	Description: Mods.Stellamod.Buffs.ArcaneDust.Description
-	DisplayName: Arcane Dust
+	DisplayName: 隐秘之尘
 }
 
 AcidFlame: {
-	Description: You feel like your limbs have new appendages.
-	DisplayName: Acid Flame
+	Description: 你感觉自己长出了第六根手指.
+	DisplayName: 酸性火焰
 }
 
 AbyssalFlame: {
-	Description: The night burns you with this.
-	DisplayName: Abyssal Flame
+	Description: 黑夜以此灼烧你.
+	DisplayName: 深渊火焰
 }
 
 VehementMinionBuff: {
 	Description: Mods.Stellamod.Buffs.VehementBuff.Description
-	DisplayName: Vehement Buff
+	DisplayName: 崩决
 }
 
 VampireTorchMinionBuff: {
-	Description: Getting surrounded by such a cool effect right?
-	DisplayName: Vampire Torch Minion Buff
+	Description: 帅气登场，对吗?
+	DisplayName: 吸血鬼火炬
 }
 
 ToxicHornetMinionBuff: {
-	Description: This minion is eager to miss.
-	DisplayName: Toxic Hornet Minion Buff
+	Description: 它的枪口弹道偏左.
+	DisplayName: 瘟疫黄蜂
 }
 
 HallowWandMinionBuff: {
-	Description: A lil potion that does nothing
-	DisplayName: Hallow Wand Minion Buff
+	Description: 一剂毫无功效的药水，别多想
+	DisplayName: 圣水瓶
 }
 
 FireflyMinionBuff: {
-	Description: ITS ON FIRE
-	DisplayName: Firefly Minion Buff
+	Description: 当心眼睛！
+	DisplayName: 萤火虫
 }
 
 CloudMinionBuff: {
-	Description: No more cloud
-	DisplayName: Cloud Minion Buff
+	Description: 雨停之后，我便会死
+	DisplayName: 唤雷乌云
 }
 
 ChromaCutterMinionBuff: {
-	Description: Slice and dice into terralora!
-	DisplayName: Chroma Cutter Minion Buff
+	Description: 斩碎切割在泰拉瑞亚中!
+	DisplayName: 能谱切割仪
 }
 
 AlcadWandMinionBuff: {
