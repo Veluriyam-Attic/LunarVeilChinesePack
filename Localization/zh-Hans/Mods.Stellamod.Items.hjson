@@ -6412,16 +6412,15 @@ Friedstein: {
 }
 
 ManifestedLove: {
-	Tooltip: The entirety of the world's ambitions were put to rest as her love spreads about. Goodbye Gothivia.
-	DisplayName: 爱意具现
+	Tooltip: 腐化退散，她的爱意散布至世界各处，安抚着一切非分。再见，歌瑟梵。
 }
 
 IllurianLoveLocket: {
-	DisplayName: Illurian Love Locket
+	DisplayName: 星树坠饰盒
 	Tooltip:
 		'''
-		Summons a ring a powerful orbiting stars around you!
-		Said to be filled with a fragment of Niivi's love
+		召唤一圈强力的星星保护你！
+		据说其中存有尼伊维的一丝爱意
 		'''
 }
 
@@ -6539,47 +6538,47 @@ LiliumArrow: {
 }
 
 IshtarKey: {
-	DisplayName: Ishtar Key
-	Tooltip: Willed with insanity, use this key in the Ishtar to open things.
+	DisplayName: 狂渊之钥
+	Tooltip: 疯狂的意志凝结成此物。使用它来开启狂渊中的锁
 }
 
 IshtarCandle: {
-	DisplayName: Ishtar Candle
+	DisplayName: 狂渊黯烛
 	Tooltip:
 		'''
-		Ereshkigal grants you a gift..
-		Can use as an accessory to brighten the Ishtar.
-		A hexed flame that holds Sigfried's insanity.
+		冥后厄莉什基迦勒给你的礼物..
+		装备它来驱散狂渊中的黑暗
+		这被诅咒的火苗中，燃烧着齐格飞的疯狂...
 		'''
 }
 
 BushyEyesI: {
-	DisplayName: Bushy Eyes I
+	DisplayName: 暗巢蛛眼
 	Tooltip: ""
 }
 
 BushySticksI: {
-	DisplayName: Bushy Sticks I
+	DisplayName: 暗巢杂物
 	Tooltip: ""
 }
 
 BushyWebs: {
-	DisplayName: Bushy Webs
+	DisplayName: 暗巢蛛网
 	Tooltip: ""
 }
 
 IshtarDoor: {
-	DisplayName: Ishtar Door
+	DisplayName: 狂渊门
 	Tooltip: ""
 }
 
 IshtarLockedChest: {
-	DisplayName: Ishtar Locked Chest
+	DisplayName: 狂渊箱
 	Tooltip: ""
 }
 
 IshtarPainting: {
-	DisplayName: Ishtar Painting
+	DisplayName: 狂渊符画
 	Tooltip: ""
 }
 
@@ -6589,7 +6588,7 @@ Robi: {
 }
 
 IshtarBlock: {
-	DisplayName: Ishtar Block
+	DisplayName: 狂渊块
 	Tooltip: ""
 }
 
@@ -6740,7 +6739,7 @@ ShottyPitol: {
 }
 
 RobedSandstone: {
-	DisplayName: Robed Sandstone
+	DisplayName: 覆袍沙石
 	Tooltip: ""
 }
 
@@ -6823,18 +6822,18 @@ RadiantsparkBoots: {
 }
 
 AntlionWings: {
-	DisplayName: Antlion Wings
+	DisplayName: 蚁狮之翼
 	Tooltip: ""
 }
 
 ZuiBomb: {
-	Tooltip: Every little while, when hitting an enemy, Zui's power will explode and do pretty good damage!
-	DisplayName: Zui Bomb
+	Tooltip: 击中敌人时召唤蕊的力量，爆炸并造成大量伤害！
+	DisplayName: 蕊之辉光
 }
 
 HavocSignaler: {
 	Tooltip: ""
-	DisplayName: Havoc Signaler
+	DisplayName: 浩劫指挥器
 }
 
 IcelockLongbow: {
@@ -6848,8 +6847,8 @@ Chillrend: {
 }
 
 ManifestedCommitment: {
-	DisplayName: Manifested Committment
-	Tooltip: Down to the very core, Irradia was commmitted to restoring her castle waiting for Verlia and Gothivia to come back.
+	DisplayName: 明志具现
+	Tooltip: 伊瑞蒂安内心仅有此一志：维护城堡，等待薇莉娅与歌瑟梵归来
 }
 
 IshNYire: {
@@ -6938,16 +6937,16 @@ Volcant: {
 
 SmallVeilPottery: {
 	Tooltip: ""
-	DisplayName: Small Veil Pottery
+	DisplayName: 小型天纱壶
 }
 
 Catagrass: {
-	DisplayName: Catagrass
+	DisplayName: 卡塔草
 	Tooltip: ""
 }
 
 RobedCatastone: {
-	DisplayName: Robed Catastone
+	DisplayName: 卡塔石
 	Tooltip: ""
 }
 
@@ -6985,20 +6984,20 @@ DaggerDagger: {
 }
 
 DreadFragment: {
-	DisplayName: Dread Fragment
+	DisplayName: 恐惧残片
 	Tooltip:
 		'''
-		Contains a fragment of Dread Mire's power
-		With enough of these, perhaps you could anger her...
+		内含绛渊恶巫的一丝力量
+		再收集几片，也许就会激怒她...
 		'''
 }
 
 DreadMedalion: {
-	DisplayName: Dread Medalion
+	DisplayName: 恐惧徽章
 	Tooltip:
 		'''
-		Use at night to call down Dread Mire to fight you!
-		Overflowing with Dread
+		在夜晚使用来挑战绛渊恶巫！
+		充满恐惧
 		'''
 }
 
@@ -7072,7 +7071,7 @@ TheMarksman: {
 
 STARBOMBERBossRel: {
 	Tooltip: ""
-	DisplayName: STARBOMBER Relic
+	DisplayName: 星 爆 者 圣物
 }
 
 MardenthMask: {
@@ -7096,13 +7095,13 @@ NiiviBossRel: {
 }
 
 ManifestedAnxiety: {
-	Tooltip: Marked from fear and anxiety Dreadmire falls, but alas her dread lingers around the world.
-	DisplayName: Manifested Anxiety
+	Tooltip: 绛渊恶巫的惊恐与焦虑已然随她的倒下而散去，但对她的恐惧依旧。
+	DisplayName: 忧惧具现
 }
 
 SigfriedsPhotoAlbum: {
-	Tooltip: A photobook of all pictures of Sigfried, tied down by ancient magic not even you can open.
-	DisplayName: Sigfrieds Photo Album
+	Tooltip: 里面收藏了齐格飞的所有照片，由远古魔法紧紧固定，你无论如何都翻不开它。
+	DisplayName: 齐格飞的相片册
 }
 
 IceCubeMaker: {
