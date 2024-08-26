@@ -7200,7 +7200,7 @@ Incinerator: {
 
 VeiledScriptureMiner2: {
 	Tooltip: Use to read.
-	DisplayName: Diary log 2
+	DisplayName: 日记2
 	Content:
 		'''
 
@@ -7215,7 +7215,7 @@ VeiledScriptureMiner2: {
 
 VeiledScriptureMiner3: {
 	Tooltip: Use to read.
-	DisplayName: Diary log 3
+	DisplayName: 日记3
 	Content:
 		'''
 
@@ -7233,8 +7233,8 @@ VeiledScriptureMiner3: {
 
 VeiledScriptureMiner4: {
 	Tooltip: Use to read.
-	DisplayName: Diary log 4
-	Content:
+	DisplayName: 日记4
+	Content:d
 		'''
 
 		BOOGLE DOOA YUI SWIGGLE DIGGLE MCDOOM
@@ -7250,7 +7250,7 @@ VeiledScriptureMiner4: {
 
 VeiledScriptureMiner5: {
 	Tooltip: Use to read.
-	DisplayName: Diary log 5
+	DisplayName: 日记5
 	Content:
 		'''
 
@@ -7265,7 +7265,7 @@ VeiledScriptureMiner5: {
 
 VeiledScriptureMiner6: {
 	Tooltip: Use to read.
-	DisplayName: Diary log 6
+	DisplayName: 日记6
 	Content:
 		'''
 
@@ -7281,7 +7281,7 @@ VeiledScriptureMiner6: {
 
 VeiledScriptureMiner7: {
 	Tooltip: Use to read.
-	DisplayName: Diary log 7
+	DisplayName: 日记7
 	Content:
 		'''
 
@@ -7299,7 +7299,7 @@ VeiledScriptureMiner7: {
 
 VeiledScriptureMiner8: {
 	Tooltip: Use to read.
-	DisplayName: Diary log 8
+	DisplayName: 日记8
 	Content:
 		'''
 
@@ -7316,7 +7316,7 @@ VeiledScriptureMiner8: {
 
 VeiledScriptureMiner9: {
 	Tooltip: Use to read.
-	DisplayName: Diary log 9
+	DisplayName: 日记9
 	Content:
 		'''
 
@@ -7337,7 +7337,7 @@ VeiledScriptureMiner9: {
 
 VeiledScriptureMiner10: {
 	Tooltip: Use to read.
-	DisplayName: Diary log 10
+	DisplayName: 日记10
 	Content:
 		'''
 
@@ -7370,7 +7370,7 @@ LumiPaintingI: {
 
 VeiledScriptureLumi: {
 	Tooltip: '''Use to read.		'''
-	DisplayName: Lumi's Veiled Scripture
+	DisplayName: 天纱圣典·琉米
 	Content:
 		'''
 		---------------------------------------
@@ -7394,8 +7394,8 @@ VeiledScriptureLumi: {
 }
 
 RekBossRel: {
-	Tooltip: From the Serpent of the sun.
-	DisplayName: Rek Boss Relic
+	Tooltip: 绿阳炽龙的圣物
+	DisplayName: 莱克圣物
 }
 
 Irrasprayer: {
@@ -7466,12 +7466,12 @@ IllurianBible: {
 }
 
 SupernovaBag: {
-	DisplayName: Supernova Bag
+	DisplayName: 宝藏袋（破碎超新星）
 	Tooltip: ""
 }
 
 SupernovaBossRel: {
-	DisplayName: Supernova Relic
+	DisplayName: 破碎超新星圣物
 	Tooltip: ""
 }
 
@@ -7490,7 +7490,7 @@ WoodyBroochA: {
 	Tooltip:
 		'''
 		接触地面时增加30%伤害！
-		但-滞空时减少30%伤害！
+		但~滞空时减少30%伤害！
 		'''
 }
 
@@ -7498,7 +7498,7 @@ DreadsVile: {
 	DisplayName: 恐惧之镰
 	Tooltip:
 		'''
-		想体验如恐惧沼泽般横扫千军的速度？现在，你也能将恐惧散布于世！
+		想体验如绛渊恶巫般横扫千军的速度？现在，你也能将恐惧散布于世！
 		对敌人点击，释放致命一击，同时获得免疫与骷髅加持！
 		若攻击落空，小心反噬的接触伤害及随之而来的虚弱期
 		'''
@@ -7515,13 +7515,13 @@ CentipedeStaff: {
 }
 
 SirestiasMask: {
-	DisplayName: Sirestias's Mask
-	Tooltip: 30% increased damage while at full health!
+	DisplayName: 希丝忒莉亚的假面
+	Tooltip: 满血时增加30%伤害！
 }
 
 VoidalPassageway: {
-	DisplayName: Voidal Passageway
-	Tooltip: Use this to open a doorway, calling down Supernova Fragment!
+	DisplayName: 渊宇之门
+	Tooltip: 使用此物品，打开虚无之门，召唤破碎超新星！
 }
 
 BlackEye: {
@@ -7539,8 +7539,8 @@ VulcanBreaker: {
 }
 
 Superfragment: {
-	Tooltip: A voidal essence made from the combination of the stars and void.
-	DisplayName: Superfragment
+	Tooltip: 天上繁星与其间深邃虚空结合的精华
+	DisplayName: 超新星残片
 }
 
 JianxinCoat: {
@@ -7573,22 +7573,22 @@ JianxinPants: {
 }
 
 IllurineHoops: {
-	DisplayName: Illurine Hoops
+	DisplayName: 星树饰环
 	Tooltip:
 		'''
-		Nearby lunar enemies are striked, cutting their health in half
-		+10% Magic Damage
-		Increased mana regeneration and reduce mana cost
+		月亮敌人被守护者的力量压制，血量减半
+		+10%魔法伤害
+		增加魔力回复，减少魔力消耗
 		'''
 }
 
 IridineNecklace: {
-	DisplayName: Iridine Necklace
+	DisplayName: 虹星项链
 	Tooltip:
 		'''
-		Restores you to full health instead when you would have died!
-		Has a 5 minute cooldown
-		Worn by the mightiest Illurian priests
+		死亡时复活并立即回满生命！
+		具有5分钟冷却
+		最高阶的星树牧师才会戴上它
 		'''
 }
 
