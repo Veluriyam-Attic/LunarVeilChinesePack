@@ -7144,34 +7144,34 @@ GothiviaIyxBag: {
 }
 
 GothiviaBossRel: {
-	DisplayName: Gothivia Boss Relic
+	DisplayName: 歌瑟梵圣物
 	Tooltip: Obtained from killing the one of the Green Sun.
 }
 
 SerpentWings: {
-	Tooltip: Wings from a devious cindered serpent which will give you 30 seconds of flight time!
-	DisplayName: Serpent Wings
+	Tooltip: 不息炽龙的双翼，给予30秒钟的飞行时间！
+	DisplayName: 炽焰盘龙翼
 }
 
 GothinWings: {
 	Tooltip:
 		'''
-		Such lovely wings, dont you wish to wear them? 90 seconds of flight time!
-		Can put wings in the vanity slot to overlay wings on the front along with the back wings too!
+		多漂亮的翅膀，看着就让人想把它穿上！给予90秒的飞行时间！
+		可以与时装栏的翅膀在外观上共存！亲手打造出你最心仪的造型！
 		'''
-	DisplayName: Gothin Wings
+	DisplayName: 歌瑟梵之翼
 }
 
 FoxMark: {
-	DisplayName: Fox Mark
+	DisplayName: 灵狐印记
 	Tooltip:
 		'''
-		Can be worn as a hat although it won't give any stats!
-		+30% Movement speed!
-		+30 Health
-		+5% Damage 
-		Maybe being a fox girl isn't so bad. 
-		"She can fix me..."
+		可以戴在头上，虽然那样并不会增加属性值
+		+30%移动速度!
+		+30最大生命
+		+5%伤害
+		与我签订契约，成为魔法狐娘吧！
+		"让她来治愈我..."
 		'''
 }
 
