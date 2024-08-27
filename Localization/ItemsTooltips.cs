@@ -13,7 +13,7 @@ namespace LunarVeilChinesePack.Localization
             {
                 //用一个字符串替换一个字符串
                 StringBuilder sb = new StringBuilder(tooltip.Text);
-                sb.Replace("Simple Brooch!", "胸针!");
+                sb.Replace("Simple Brooch!", "简易饰符!");
 
 
                 tooltip.Text = sb.ToString();
