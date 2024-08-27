@@ -6415,20 +6415,20 @@ IllurianLoveLocket: {
 }
 
 AlcaliteMask: {
-	DisplayName: Alcalite Mask
+	DisplayName: 阿卡里亚面罩
 	Tooltip:
 		'''
-		8% increased magic and summon damage
-		+1 max minions
+		+8%魔法与召唤伤害
+		+1随从栏位
 		'''
 }
 
 AlcaliteRobe: {
-	DisplayName: Alcalite Robe
+	DisplayName: 阿卡里亚法袍
 	Tooltip:
 		'''
-		12% increased magic and summon damage
-		+2 max minions
+		+12%魔法与召唤伤害
+		+2随从栏位
 		'''
 }
 
@@ -6436,9 +6436,9 @@ AlcaliteTrunks: {
 	DisplayName: Alcalite Trunks
 	Tooltip:
 		'''
-		Increases movement speed and acceleration
-		4% increased magic and summon damage
-		+1 max minions
+		提升移动速度与加速度
+		+4%魔法与召唤伤害
+		+1随从栏位
 		'''
 }
 
@@ -6450,29 +6450,29 @@ IlluriteDrill: {
 FlowerRobe: {
 	Tooltip:
 		'''
-		Zui gave you some health!
-		+60 Health
-		+18% Melee and Ranged Damage!
+		蕊给了你几颗小红心！
+		+60最大生命
+		+18%近战与远程伤害!
 		'''
-	DisplayName: Flower Robe
+	DisplayName: 繁花袍
 }
 
 FlowerPants: {
 	Tooltip:
 		'''
-		+30% Speed and flower walking!
-		+10% Melee and Ranged Damage!
+		+30%移动速度，并且脚下生花！
+		+10%近战与远程伤害！
 		'''
-	DisplayName: Flower Pants
+	DisplayName: 繁花裤
 }
 
 FlowerHat: {
 	Tooltip:
 		'''
-		Zui gave you a halo!
-		+16% Melee and Ranged Damage!
+		蕊给你的花环！
+		+16%近战与远程伤害！
 		'''
-	DisplayName: Flower Hat
+	DisplayName: 繁花帽
 }
 
 Cryal: {
@@ -6806,7 +6806,7 @@ RadiantsparkBoots: {
 		+30最大生命！
 		足下生花，免疫岩浆！
 		+15%暴击率，+5%伤害！
-		它会是你未来战斗中的得力帮助
+		它会是你未来战斗中的有力帮助
 		'''
 	DisplayName: 辉光烁影靴
 }
@@ -7189,7 +7189,7 @@ Incinerator: {
 }
 
 VeiledScriptureMiner2: {
-	Tooltip: Use to read.
+	Tooltip: 左键阅读
 	DisplayName: 日记2
 	Content:
 		'''
@@ -7204,7 +7204,7 @@ VeiledScriptureMiner2: {
 }
 
 VeiledScriptureMiner3: {
-	Tooltip: Use to read.
+	Tooltip: 左键阅读
 	DisplayName: 日记3
 	Content:
 		'''
@@ -7222,7 +7222,7 @@ VeiledScriptureMiner3: {
 }
 
 VeiledScriptureMiner4: {
-	Tooltip: Use to read.
+	Tooltip: 左键阅读
 	DisplayName: 日记4
 	Content:
 		'''
@@ -7239,7 +7239,7 @@ VeiledScriptureMiner4: {
 }
 
 VeiledScriptureMiner5: {
-	Tooltip: Use to read.
+	Tooltip: 左键阅读
 	DisplayName: 日记5
 	Content:
 		'''
@@ -7254,7 +7254,7 @@ VeiledScriptureMiner5: {
 }
 
 VeiledScriptureMiner6: {
-	Tooltip: Use to read.
+	Tooltip: 左键阅读
 	DisplayName: 日记6
 	Content:
 		'''
@@ -7270,7 +7270,7 @@ VeiledScriptureMiner6: {
 }
 
 VeiledScriptureMiner7: {
-	Tooltip: Use to read.
+	Tooltip: 左键阅读
 	DisplayName: 日记7
 	Content:
 		'''
@@ -7288,7 +7288,7 @@ VeiledScriptureMiner7: {
 }
 
 VeiledScriptureMiner8: {
-	Tooltip: Use to read.
+	Tooltip: 左键阅读
 	DisplayName: 日记8
 	Content:
 		'''
@@ -7305,7 +7305,7 @@ VeiledScriptureMiner8: {
 }
 
 VeiledScriptureMiner9: {
-	Tooltip: Use to read.
+	Tooltip: 左键阅读
 	DisplayName: 日记9
 	Content:
 		'''
@@ -7326,7 +7326,7 @@ VeiledScriptureMiner9: {
 }
 
 VeiledScriptureMiner10: {
-	Tooltip: Use to read.
+	Tooltip: 左键阅读
 	DisplayName: 日记10
 	Content:
 		'''
@@ -7359,7 +7359,7 @@ LumiPaintingI: {
 }
 
 VeiledScriptureLumi: {
-	Tooltip: '''Use to read.		'''
+	Tooltip: '''左键阅读		'''
 	DisplayName: 天纱圣典·琉米
 	Content:
 		'''
@@ -7417,15 +7417,15 @@ LilStinger: {
 }
 
 FiveAdvance: {
-	DisplayName: Dharlie Mixam's Five's Advance
+	DisplayName: 达尔里·米夏的日记簿
 	Tooltip:
 		'''
-		+5% Movement Speed!
-		+5% Increased Damage
-		+5% Increased Enemy Damage Reduction
-		+5 Increased Regeneration
-		+5 Life
-		Dharlie Mixam appreciates your efforts..
+		+5%移动速度
+		+5%伤害
+		+5%伤害减免
+		+5生命回复
+		+5最大生命
+		他一定会感谢你的努力的..
 		'''
 }
 
