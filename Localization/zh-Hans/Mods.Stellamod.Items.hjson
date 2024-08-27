@@ -3949,11 +3949,9 @@ DirtWings: {
 		'''
 }
 
-image: {
-	pngII: {
-		// DisplayName: No Longer Bridget
-		// Tooltip: Why didn't you revive her :(
-	}
+BridgetII: {
+	DisplayName: 布里姬的告别之剑
+	Tooltip: 你为何不让她重获新生？
 }
 
 BlackWallBlock: {
@@ -5471,26 +5469,17 @@ LaboratoryBlock: {
 
 FocalCrystalFire: {
 	DisplayName: 烧焦的聚焦水晶
-	Tooltip:
-		'''
-		右键将其放入实验室水晶来开启通往狱之墓穴的传送门！
-		'''
+	Tooltip: 右键将其放入实验室水晶来开启通往狱之墓穴的传送门！
 }
 
 FocalCrystalTrap: {
 	DisplayName: 尖锐的聚焦水晶
-	Tooltip:
-		'''
-		右键将其放入实验室水晶来开启通往机关墓穴的传送门！
-		'''
+	Tooltip: 右键将其放入实验室水晶来开启通往机关墓穴的传送门！
 }
 
 FocalCrystalWater: {
 	DisplayName: 浸湿的聚焦水晶
-	Tooltip:
-		'''
-		右键将其放入实验室水晶来开启通往水之墓穴的传送门！
-		'''
+	Tooltip: 右键将其放入实验室水晶来开启通往水之墓穴的传送门！
 }
 
 FocusingCrystal: {
@@ -5823,7 +5812,7 @@ Voltenstein: {
 
 BlankBrooch: {
 	DisplayName: 未完成的饰符
-	Tooltip:拥有无限潜能的模板，用于制作某种物品！
+	Tooltip: 拥有无限潜能的模板，用于制作某种物品！
 }
 
 BlankCard: {
@@ -6413,6 +6402,7 @@ Friedstein: {
 
 ManifestedLove: {
 	Tooltip: 腐化退散，她的爱意散布至世界各处，安抚着一切非分。再见，歌瑟梵。
+	// DisplayName: Manifested Love
 }
 
 IllurianLoveLocket: {
@@ -6808,7 +6798,7 @@ BabySwarmerStaff: {
 RadiantsparkBoots: {
 	Tooltip:
 		'''
-		You'll need these! Given thanks from Zui!
+		你会需要这些！感谢蕊吧！
 		Makes the wearer run super fast and leaves a golden trail that can hit on contact!
 		Zui's Mark is left on your back.
 		Gives uses of Shadei with slightly reduced cooldown on dash!
@@ -7595,9 +7585,4 @@ IridineNecklace: {
 GlocketRouncher: {
 	DisplayName: 鸣钟破晓
 	Tooltip: 抓紧，那破晓钟声的使者，让光明驱散黑暗
-}
-
-BridgetII: {
-	DisplayName: 布里姬的告别之剑
-	Tooltip: 你为何不让她重获新生？
 }
