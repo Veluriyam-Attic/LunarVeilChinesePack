@@ -31,7 +31,7 @@ VerliaDialogue3:
 	你肯定是来杀我的，对吧？
 	我猜你是在凤涅克丝手下工作？
 	没关系，我会在这里完成我的事情，然后去找我的妹妹。
-	谢谢，但你不会结束我的生命的。
+	辛苦你来到这里了，但很可惜，你夺不走我的命。
 	'''
 SirestiasDialogue1:
 	'''
@@ -47,11 +47,11 @@ SirestiasDialogue2:
 SirestiasDialogue3:
 	'''
 	安魅凯拉也加入了我们的远足，有机会时请务必联系她。
-	这个世界已被凋残的力量所吞噬，我指派你去净化它。弹了太久的钢琴让我感到疲惫。
+	这个世界已被凋残的力量所吞噬，我派你去净化它。弹了太久的钢琴让我感到疲惫。
 	'''
 SirestiasDialogue4:
 	'''
-	如果你在地图上找到我，我会告诉你接下来我们需要做些什么，但如果你能够击败更高级的存在，我会给予你一些不错的奖励。
+	如果你在地图上找到我，我会告诉你接下来我们需要做些什么，但如果你能够击败更高等的生命体，我会给予你一些不错的奖励。
 	这个世界似乎已经遭受了严重的创伤，所以一旦所有拥有力量的人都消失了，我就能净化它，因此我将把执行他们的任务留给你。
 	'''
 SirestiasDialogue5: 记得，如果你需要帮助，随时打电话给我！爱你，玩得开心！
@@ -67,7 +67,7 @@ SirestiasTalk2:
 	'''
 SirestiasTalk3:
 	'''
-	或者，这里有一个重要的人，我们需要杀了他，代达罗斯。他可能会收集一种尘。但一个极其微弱的奇点注定会降临到他身上。
+	或者，这里有一个重要的人，我们需要杀了他，代达斯。他可能会收集一种尘。但一个极其微弱的奇点注定会降临到他身上。
 	奇点是这些地方的能量和力量的来源。你可以将它们与灵魂等联系起来，但它们也有副作用。
 	'''
 SirestiasTalk4:
@@ -109,7 +109,7 @@ SirestiasTalk12:
 	'''
 SirestiasTalk13:
 	'''
-	炽星烬土那里极其炎热，对吧？它绝对是一些龙类的家园。据说很久以前就因为这里的高温而灭绝了。
+	熔星炎域那里极其炎热，对吧？它绝对是一些龙类的家园。据说很久以前就因为这里的高温而灭绝了。
 	这里的怪物很有趣。我们可能需要收集一些这些怪物的灵魂之皮来做钥匙模具。
 	'''
 SirestiasTalk14:
@@ -140,14 +140,14 @@ ZuiDialogue4:
 ZuiDialogue5:
 	'''
 	我知道你要追捕齐格飞和阿祖琳，但你肯定会被狠狠地揍一顿。首先，你得先处理掉她的奇点才能对她造成伤害。
-	Nobody knows better how to deal with singularities than the person who trapped one being Ereshkigal. I'll help you if you prove you're strong enough, soo come fight me :)
+	没有比把奇点困在厄莉什基迦勒身上的人更知道如何处理奇点。我会帮助你的，前提是你足够强大！来吧！向我证明你自己！：)
 	'''
 ZuiDialogue6:
 	'''
-	Ok Ok fine we can stop, I have a headache.
-	I think you're ready :)
+	好了好，我们可以停了。我感到有些头痛了。
+	我想你已经足够了 :)
 	'''
-ZuiDialogue7: I might be a bit rusty since I haven't fought in a while but you seem to be pretty good at this! Anyway to the point, Ereshkigal I believe is the strongest sorceress I know? Although I don't think anyone knows her existence other than me and other higher beings.
+ZuiDialogue7: 看来我是缺少训练了。古人说过：“生于忧患，死于安乐”。我想你就是前者，我已经变成后者了！不管怎样，我认为厄莉什基迦勒是我所知道的最强大的女巫？虽然我认为除了我和其他更加高等的生命体之外，没有人知道她的存在。
 ZuiDialogue8: Ereshkigal you have to know is VERY attached to Sigfried, like she's actually crazy for that guy and for what? I don't really know. She was so crazy that she made a whole prison for him during his big outrage just to keep in a place to be with her. I mean I know a tsundere when I see one and she has GOT to fall in that category.
 ZuiDialogue9:
 	'''
