@@ -19,8 +19,8 @@ SeaTemple: {
 }
 
 NaxtrinTemple: {
-	TownNPCDialogueName: the Naxtrin Temple
-	DisplayName: Naxtrin Temple
+	TownNPCDialogueName: 纳克特林圣殿
+	DisplayName: 纳克特林圣殿
 }
 
 MorrowUndergroundBiome: {
@@ -39,23 +39,23 @@ GovheilCastle: {
 }
 
 FableBiome: {
-	TownNPCDialogueName: the Fable Biome
-	DisplayName: Fable Biome
+	TownNPCDialogueName: 古谕遗境
+	DisplayName: 古谕遗境
 }
 
 EngineerShop: {
-	TownNPCDialogueName: The Engineer Shop
-	DisplayName: Engineer Shop
+	TownNPCDialogueName: 魔法工匠商店
+	DisplayName: 魔法工匠商店
 }
 
 DrakonicManor: {
-	TownNPCDialogueName: the Drakonic Manor
-	DisplayName: Drakonic Manor
+	TownNPCDialogueName: 德拉科尼宅邸
+	DisplayName: 德拉科尼宅邸
 }
 
 CindersparkBiome: {
-	TownNPCDialogueName: the Cinderspark Biome
-	DisplayName: Cinderspark Biome
+	TownNPCDialogueName: 炽星烬土
+	DisplayName: 炽星烬土
 }
 
 CathedralBiome: {
@@ -64,56 +64,56 @@ CathedralBiome: {
 }
 
 CatacombWater: {
-	TownNPCDialogueName: the Catacomb Water
-	DisplayName: Catacomb Water
+	TownNPCDialogueName: 浸水墓穴
+	DisplayName: 浸水墓穴
 }
 
 CatacombTrap: {
-	TownNPCDialogueName: the Catacomb Trap
-	DisplayName: Catacomb Trap
+	TownNPCDialogueName: 陷阱墓穴
+	DisplayName: 陷阱墓穴
 }
 
 CatacombFlames: {
-	TownNPCDialogueName: the Catacomb Flames
-	DisplayName: Catacomb Flames
+	TownNPCDialogueName: 璃火墓穴
+	DisplayName: 璃火墓穴
 }
 
 AurelusBiome: {
-	TownNPCDialogueName: the Aurelus Biome
-	DisplayName: Aurelus Biome
+	TownNPCDialogueName: 匿影之地
+	DisplayName: 匿影之地
 }
 
 AlcadziaBiome: {
-	TownNPCDialogueName: the Alcadzia Biome
-	DisplayName: Alcadzia Biome
+	TownNPCDialogueName: 阿尔卡迪亚
+	DisplayName: 阿尔卡迪亚
 }
 
 AcidBiome: {
-	TownNPCDialogueName: the Acid Biome
-	DisplayName: Acid Biome
+	TownNPCDialogueName: 酸蚀之地
+	DisplayName: 酸蚀之地
 }
 
 AbyssBiome: {
-	TownNPCDialogueName: the Abyss Biome
-	DisplayName: Abyss Biome
+	TownNPCDialogueName: 无尽深渊
+	DisplayName: 无尽深渊
 }
 
 Laboratory: {
-	DisplayName: Laboratory
-	TownNPCDialogueName: the Laboratory
+	DisplayName: 实验室
+	TownNPCDialogueName: 实验室
 }
 
 IlluriaBiome: {
-	TownNPCDialogueName: the Illuria Biome
-	DisplayName: Illuria Biome
+	TownNPCDialogueName: 星树环境
+	DisplayName: 星树环境
 }
 
 IshtarBiome: {
-	TownNPCDialogueName: the Ishtar Biome
-	DisplayName: Ishtar Biome
+	TownNPCDialogueName: 狂渊
+	DisplayName: 狂渊
 }
 
 VeilBiome: {
-	TownNPCDialogueName: the Veil Biome
-	DisplayName: Veil Biome
+	TownNPCDialogueName: 天纱环境
+	DisplayName: 天纱环境
 }
