@@ -5188,7 +5188,7 @@ CompletedCollectorsBag: {
 }
 
 ArncharSuperCharger: {
-	DisplayName: 赤铁超充能器
+	DisplayName: 赤铁强力充能器
 	Tooltip: 极大增强赤铁武器与工具！
 }
 
@@ -5311,11 +5311,12 @@ ToxicHornetStaff: {
 }
 
 ZenoviasPikpikGlove: {
-	DisplayName: 泽诺维亚的皮克罐
+	DisplayName: Zenovia的皮克罐
 	Tooltip:
 		'''
 		将皮克敏散布大地，无论何地，皆可为战。
 		添洋葱为配件，增伤强身，成就超凡！
+		（译者注：Zenovia是此mod的首席开发者）
 		'''
 }
 
@@ -5517,14 +5518,14 @@ ScrappyBody: {
 }
 
 MagiciansCodeHat: {
-	DisplayName: Magicians Code Hat
+	DisplayName: 迷之魔法帽
 	Tooltip:
 		'''
-		20% Increased Damage for Magicians and Summoners
-		+3 Max Minions
-		You take 10% less damage!
-		Increased life regeneration.
-		+100 Life.
+		+20%魔法与召唤伤害
+		+3随从栏位
+		10%伤害减免！
+		增加生命回复
+		+100最大生命
 		'''
 }
 
@@ -5536,7 +5537,7 @@ RadianceStone: {
 		一定要带上潜遁披巾或者其上位！
 		平台越长越好哦:)  -蕊
 
-		战斗过程全程禁止飞行...
+		战斗全程禁止飞行...
 		'''
 }
 
@@ -5561,18 +5562,18 @@ ZuiBossRel: {
 }
 
 NyxiaHat: {
-	DisplayName: Nyxia Hat
-	Tooltip: From the lead developer Zenovia! Go play Diari please :(
+	DisplayName: 霓希雅帽
+	Tooltip: 首席开发者Zenovia的礼物！请去看看steam上的Diari吧:(
 }
 
 NyxiaRobe: {
-	DisplayName: Nyxia Robe
-	Tooltip: From the lead developer Zenovia! Gives 5% damage reduction, 6% more magic damage and some life regeneration!
+	DisplayName: 霓希雅长袍
+	Tooltip: 首席开发者Zenovia的礼物！给予5%伤害减免, +6%魔法伤害以及增强生命回复！
 }
 
 NyxiaThighs: {
-	DisplayName: Nyxia Thighs
-	Tooltip: I love you all and thanks for playing my mod! - Zenovia
+	DisplayName: 霓希雅护腿
+	Tooltip: 感谢你们游玩我的mod！爱你们哟 - 首席开发者Zenovia
 }
 
 NestBossRel: {
@@ -5986,53 +5987,53 @@ IlluriaChesti: {
 }
 
 IllurianWarriorGreaves: {
-	Tooltip: Greaves of someone who may of shit their pants.
-	DisplayName: Illurian Warrior Greaves
+	Tooltip: 即使是害怕到尿裤子的人，穿上它也能成为一名真正的捍卫者！
+	DisplayName: 星树捍卫者护腿
 }
 
 IllurianWarriorChestplate: {
-	Tooltip: Extremely defensive!
-	DisplayName: Illurian Warrior Chestplate
+	Tooltip: 防御力极强！
+	DisplayName: 星树捍卫者之铠
 }
 
 IllurianCrestplate: {
 	Tooltip:
 		'''
-		+3 Minions and +50 mana
-		-50 Health
+		+3召唤栏位，+50最大魔力
+		-50最大生命
 		'''
-	DisplayName: Illurian Crestplate
+	DisplayName: 星树纹饰胸甲
 }
 
 IllurianCrestpants: {
 	Tooltip:
 		'''
-		+1 Minion and 10% increased movement speed!
-		20% more damage and +15 Armor penetration
-		-90 Health
+		+1召唤栏位，+10%移动速度
+		+20%伤害，+15护甲穿透
+		-90最大生命
 		'''
-	DisplayName: Illurian Crestpants
+	DisplayName: 星树纹饰护胫
 }
 
 IllurianCrestmask: {
 	Tooltip:
 		'''
-		-50 Health
-		12% Magic and Summon damage!
-		10% Critical Strike Chance!
-		A very dissapointed Niivi.
+		-50最大生命
+		+12%魔法与召唤伤害！
+		+10%暴击率
+		尼伊维很失望...
 		'''
-	DisplayName: Illurian Crestmask
+	DisplayName: 星树纹饰头盔
 }
 
 IllurianWarriorHelm: {
-	DisplayName: Illurian Warrior Helm
-	Tooltip: Niivi loves to watch over the world with the Lunar tree huh? It's written on the back of this.
+	DisplayName: 星树捍卫者之盔
+	Tooltip: 尼伊维最喜欢在巨星树旁俯视整个世界~这头盔背面写着这么一行字
 }
 
 IllurineScale: {
-	DisplayName: Illurine Scale
-	Tooltip: Radiating with Niivi's lunar energy!
+	DisplayName: 星树亮鳞
+	Tooltip: 散发着尼伊维的寰宇能量！
 }
 
 PureHeart: {
@@ -6324,34 +6325,34 @@ IllurianBroochA: {
 GarbagePants: {
 	Tooltip:
 		'''
-		10% Increased movement speed
-		+1 Minion
-		Goofy goobers eat Osama bin Ladin 
+		+10%移动速度
+		+1召唤栏位
+		和奥萨马·本·拉登有得一拼
 		'''
-	DisplayName: Garbage Pants
+	DisplayName: 垃圾护腿
 }
 
 GarbageMask: {
 	Tooltip:
 		'''
-		15% Increased Summoner and Throwing Damage!
-		30% Increased Throwing speed.
-		+2 Minions
-		It's actually garbage.
+		+15%召唤和投掷伤害！
+		+30%投掷速度
+		+2召唤栏位
+		纯纯的垃圾
 		'''
-	DisplayName: Garbage Mask
+	DisplayName: 垃圾头罩
 }
 
 GarbageChestplate: {
 	Tooltip:
 		'''
-		25% Increased Summoner and Throwing Damage!
-		10% Increased Throwing speed.
-		+1 Minion
-		+40 Health and increased regeneration!
-		Throw it in the trash now!
+		+25%召唤和投掷伤害！
+		10%投掷速度
+		+1召唤栏位
+		+40最大生命，并提升生命回复！
+		赶紧把它扔了吧！
 		'''
-	DisplayName: Garbage Chestplate
+	DisplayName: 垃圾胸甲
 }
 
 Sirius: {
@@ -6402,7 +6403,7 @@ Friedstein: {
 
 ManifestedLove: {
 	Tooltip: 腐化退散，她的爱意散布至世界各处，安抚着一切非分。再见，歌瑟梵。
-	// DisplayName: Manifested Love
+	// DisplayName: 爱意具现
 }
 
 IllurianLoveLocket: {
@@ -6433,7 +6434,7 @@ AlcaliteRobe: {
 }
 
 AlcaliteTrunks: {
-	DisplayName: Alcalite Trunks
+	DisplayName: 阿卡里亚护腿
 	Tooltip:
 		'''
 		提升移动速度与加速度
