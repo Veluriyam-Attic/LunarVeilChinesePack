@@ -6798,17 +6798,17 @@ BabySwarmerStaff: {
 RadiantsparkBoots: {
 	Tooltip:
 		'''
-		你会需要这些！感谢蕊吧！
-		Makes the wearer run super fast and leaves a golden trail that can hit on contact!
-		Zui's Mark is left on your back.
-		Gives uses of Shadei with slightly reduced cooldown on dash!
-		Small amount of regeneration 
-		+30 Health!
-		Flower walking and Immunity to lava!
-		+15% Critical Strike Chance and +5% increased Damage!
-		Yeah this should really help you in future battles.
+		你会需要这双靴子的！感谢蕊吧！
+		穿戴者可以飞速奔跑，并在移动时留下有伤害的金光轨迹！
+		蕊的光芒刻印在你的身上
+		获得影遁披巾的冲刺，并且再次小幅降低冲刺冷却！
+		稍微提升生命回复
+		+30最大生命！
+		足下生花，免疫岩浆！
+		+15%暴击率，+5%伤害！
+		它会是你未来战斗中的得力帮助
 		'''
-	DisplayName: Radiantspark Boots
+	DisplayName: 辉光烁影靴
 }
 
 AntlionWings: {
@@ -7161,7 +7161,7 @@ FoxMark: {
 		+30最大生命
 		+5%伤害
 		与我签订契约，成为魔法狐娘吧！
-		"让她来治愈我..."
+		"她会治愈我的..."
 		'''
 }
 
