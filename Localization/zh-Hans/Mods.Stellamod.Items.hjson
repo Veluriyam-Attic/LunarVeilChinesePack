@@ -465,7 +465,7 @@ MoonflameLantern: {
 	Tooltip:
 		'''
 		歌瑟梵的姐妹薇莉娅之灵魂被囚于此物
-		夜幕之中，穹月仪殿之巅，使用圣坛将她释放
+		夜幕之中，穹月仪殿之巅，借助圣坛将她释放
 		'''
 }
 
@@ -2115,48 +2115,48 @@ LeatherLegs: {
 }
 
 ShadeWraithBody: {
-	DisplayName: Shade Wraith Chainplate
-	Tooltip: Increased life by 20!
+	DisplayName: 幽魂影链甲
+	Tooltip: +20最大生命
 }
 
 ShadeWraithHead: {
-	DisplayName: Shade Wraith Mask
-	Tooltip: +2% Damage for all classes (except throwing)
+	DisplayName: 幽魂影假面
+	Tooltip: +2%伤害，除了投掷
 }
 
 ShadeWraithLegs: {
-	DisplayName: Shade Wraith Pants
-	Tooltip: Slightly increased movement speed.
+	DisplayName: 幽魂影护胫
+	Tooltip: 小幅提升移速
 }
 
 TerricBody: {
-	DisplayName: Terric Chestplate
-	Tooltip: +40 Health
+	DisplayName: 恐惧胸甲
+	Tooltip: +40最大生命
 }
 
 TerricHead: {
-	DisplayName: Terric Hat
-	Tooltip: +13% Increased Magic Damage
+	DisplayName: 恐惧面罩
+	Tooltip: +13%魔法伤害
 }
 
 TerricLegs: {
-	DisplayName: Terric Trousers
-	Tooltip: Increased movement speed!
+	DisplayName: 恐惧护腿
+	Tooltip: 增加移速！
 }
 
 WinterbornBody: {
-	DisplayName: Winterborn Chestplate
-	Tooltip: +20 Health!
+	DisplayName: 寒冬胸甲
+	Tooltip: +20最大生命！
 }
 
 WinterbornHead: {
-	DisplayName: Winterborn Robin Mask
-	Tooltip: Increased Mana Regeneration
+	DisplayName: 寒冬旅鸫面具
+	Tooltip: 增加魔力回复
 }
 
 WinterbornLegs: {
-	DisplayName: Winterborn Pants
-	Tooltip: 10% Increased movement speed!
+	DisplayName: 寒冬护腿
+	Tooltip: +10%移动速度
 }
 
 DreadmireBag: {
@@ -3109,29 +3109,29 @@ VixedBroochA: {
 }
 
 DaedenChestplate: {
-	DisplayName: Daeden Chestplate
+	DisplayName: 代达斯胸甲
 	Tooltip:
 		'''
-		Absolutely Hideous.
-		+10% Ranged damage
-		+20 Armor penetration
-		+5 Crit
+		丑得没眼看
+		+10%远程伤害
+		+20护甲穿透
+		+5%暴击率
 		'''
 }
 
 DaedenLegs: {
-	DisplayName: Daeden Legs
-	Tooltip: Increased movement speed
+	DisplayName: 代达斯护腿
+	Tooltip: 增加移速
 }
 
 DaedenMask: {
-	DisplayName: Daeden Mask
+	DisplayName: 代达斯面具
 	Tooltip:
 		'''
-		This is for all those masochists.
-		+20% Ranged damage
-		Heavy Increased mana regeneration!
-		+5 Crit
+		肯定只有受虐狂会戴它吧...
+		+20%远程伤害
+		大幅提升魔力回复！
+		+5%暴击率
 		'''
 }
 
@@ -3240,7 +3240,7 @@ BurningGBroochA: {
 }
 
 Twirlers: {
-	DisplayName: 伊瑞蒂安的假发
+	DisplayName: 伊瑞蒂安的双旋假发
 	Tooltip:
 		'''
 		想要看起来炫酷吗？带上这个，发蜡都没话说！
@@ -3562,31 +3562,31 @@ DarkWhip: {
 }
 
 AlsisChestplate: {
-	DisplayName: Alsis Chestplate
+	DisplayName: 法灵胸甲
 	Tooltip:
 		'''
-		-25 Health
-		+5% Magic Critical Strike Chance
-		-5% Magic Damage
+		-25最大生命
+		+5%魔法暴击率
+		-5%魔法伤害
 		'''
 }
 
 AlsisGreaves: {
-	DisplayName: Alsis Greaves
+	DisplayName: 法灵护胫
 	Tooltip:
 		'''
-		-10 Health
-		Supa Speed
+		-10最大生命
+		快如闪电！
 		'''
 }
 
 AlsisMask: {
-	DisplayName: Alsis Mask
+	DisplayName: 法灵面罩
 	Tooltip:
 		'''
-		-10 Health
-		+1% Magic Critical Strike Chance
-		-5% Magic Damage
+		-10最大生命
+		+1%魔法暴击率
+		-5%魔法伤害
 		'''
 }
 
@@ -3633,26 +3633,26 @@ VampireScepter: {
 }
 
 LunarianVoidBody: {
-	DisplayName: Lunarian Void Chestplate
-	Tooltip: +10% Throwing Damage
+	DisplayName: 渊月胸甲
+	Tooltip: +10%投掷伤害
 }
 
 LunarianVoidHead: {
-	DisplayName: Lunarian Void Helmet
+	DisplayName: 渊月头盔
 	Tooltip:
 		'''
-		+10 Throwing Critical Strike Chance!
-		+20 Health
-		+25% Throwing Damage
+		+10%投掷暴击率
+		+20最大生命
+		+25%投掷伤害
 		'''
 }
 
 LunarianVoidLegs: {
-	DisplayName: Lunarian Void Legs
+	DisplayName: 渊月护腿
 	Tooltip:
 		'''
-		Increased movement speed 2%
-		+5% Throwing Damage
+		+2%移动速度
+		+5%投掷伤害
 		'''
 }
 
@@ -4202,12 +4202,12 @@ RoseBroochA: {
 }
 
 Nekomara: {
-	DisplayName: 梦魇猫娘
+	DisplayName: 梦魇喵
 	Tooltip: ""
 }
 
 Yumiko: {
-	DisplayName: 弓魂
+	DisplayName: 幽咪寇
 	Tooltip: ""
 }
 
@@ -4324,28 +4324,28 @@ PotionOfAlcadWand: {
 }
 
 ScissorianChestplate: {
-	DisplayName: Scissorian Chestplate
+	DisplayName: 裁星者胸甲
 	Tooltip:
 		'''
-		+20 Throwing Critical Strike Chance!
-		+15 Health
-		+10% Throwing Damage
+		+20%投掷暴击率
+		+15最大生命
+		+10%投掷伤害
 		'''
 }
 
 ScissorianGreaves: {
-	DisplayName: Scissorian Greaves
+	DisplayName: 裁星者护腿
 	Tooltip:
 		'''
-		Increased movement speed
-		+20 Health
-		+15% Throwing Damage
+		增加移动速度
+		+20最大生命
+		+15%投掷伤害
 		'''
 }
 
 ScissorianMask: {
-	DisplayName: Scissorian Mask
-	Tooltip: +20% Throwing Damage
+	DisplayName: 裁星者面具
+	Tooltip: +20%投掷伤害
 }
 
 DarkButcher: {
@@ -4484,33 +4484,33 @@ PotionOfHallowWand: {
 }
 
 AppretienceBreastplate: {
-	DisplayName: Appretience Breastplate
-	Tooltip: +20% Crit strike chance and +5 Health!
+	DisplayName: 学徒胸甲
+	Tooltip: +20%暴击率与+5最大生命！
 }
 
 AppretienceHat: {
-	DisplayName: Appretience Hood
-	Tooltip: +20% Crit strike chance and Health!
+	DisplayName: 学徒兜帽
+	Tooltip: +20%暴击率与最大生命！
 }
 
 AppretiencePants: {
-	DisplayName: Appretience Pants
-	Tooltip: +20% Crit strike chance and Health!
+	DisplayName: 学徒护腿
+	Tooltip: +20%暴击率与最大生命！
 }
 
 UlvenChestplate: {
-	DisplayName: Ulven Chestplate
-	Tooltip: +15 Armor Penetration!
+	DisplayName: 钨文胸甲
+	Tooltip: +15护甲穿透
 }
 
 UlvenGreaves: {
-	DisplayName: Ulven Greaves
-	Tooltip: +25 Armor Penetration!
+	DisplayName: 钨文护腿
+	Tooltip: +25护甲穿透
 }
 
 UlvenHelmet: {
-	DisplayName: Ulven Helmet
-	Tooltip: +20 Armor Penetration
+	DisplayName: 钨文头盔
+	Tooltip: +20护甲穿透
 }
 
 RottenHeart: {
@@ -4724,7 +4724,7 @@ Ragsaw: {
 }
 
 SpiritCapsule: {
-	DisplayName: 灵魄胶囊
+	DisplayName: 封魂瓶
 	Tooltip: 不知何故，万千灵魂被囚禁于内
 }
 
@@ -4759,35 +4759,35 @@ Dulahaun: {
 
 CursedShard: {
 	DisplayName: 诅咒残片
-	Tooltip: 在三个地下洞穴任一的祭坛处使用以召唤一名危险的敌人！
+	Tooltip: 在三个地下墓穴的任一的祭坛处使用以召唤一名危险的敌人！
 }
 
 DucanblitzBreastplate: {
-	DisplayName: Ducanblitz Breastplate
+	DisplayName: 灵金闪袭胸甲
 	Tooltip:
 		'''
-		+10 Max Health
-		+10% Melee Damage!
+		+10最大生命
+		+10%近战伤害！
 		'''
 }
 
 DucanblitzCap: {
-	DisplayName: Ducanblitz Cap
+	DisplayName: 灵金闪袭军帽
 	Tooltip:
 		'''
-		+10 Critical Strike Chance
-		+12% Melee Damage!
+		+10%暴击率
+		+12%近战伤害！
 		'''
 }
 
 DucanblitzThighs: {
-	DisplayName: Ducanblitz Thighs
+	DisplayName: 灵金闪袭护胫
 	Tooltip:
 		'''
-		A hell of a lot of movement speed!
-		+10 Max Health
-		+15 Armor penetration
-		+2% Melee Damage!
+		跑得飞快！
+		+10最大生命
+		+15护甲穿透
+		+2%近战伤害！
 		'''
 }
 
@@ -4797,32 +4797,32 @@ FenixBag: {
 }
 
 EldritchianCloak: {
-	DisplayName: Eldritchian Cloak
+	DisplayName: 幽古斗篷
 	Tooltip:
 		'''
-		+12% Throwing Attack Speed
-		+16% Throwing Damage
-		Slightly increased life regen
+		+12%投掷速度
+		+16%投掷伤害
+		稍微增加生命回复
 		'''
 }
 
 EldritchianHood: {
-	DisplayName: Eldritchian Hood
+	DisplayName: 幽古兜帽
 	Tooltip:
 		'''
-		+10% Throwing Attack Speed
-		+20% Throwing Damage
-		Slightly increased vision
+		+10%投掷速度
+		+20%投掷伤害
+		稍微提升视野
 		'''
 }
 
 EldritchianLegs: {
-	DisplayName: Eldritchian Legs
+	DisplayName: 幽古护胫
 	Tooltip:
 		'''
-		+8% Throwing Attack Speed
-		+23% Throwing Damage
-		Slightly increased movement speed
+		+8%投掷速度
+		+23%投掷伤害
+		稍微增加移动速度
 		'''
 }
 
@@ -4884,30 +4884,30 @@ AimacraWig: {
 }
 
 WindmillionBoots: {
-	DisplayName: Windmillion Boots
+	DisplayName: 风车靴
 	Tooltip:
 		'''
-		10% increased movement speed
-		10% Increased throwing damage	
+		+10%移动速度
+		+10%投掷伤害
 		'''
 }
 
 WindmillionHat: {
-	DisplayName: Windmillion Hat
+	DisplayName: 风车帽
 	Tooltip:
 		'''
-		+10 Life!
-		+10 Throwing Critical Strike Chance
-		+10% Throwing Damage
+		+10最大生命！
+		+10%投掷暴击率
+		+10%投掷伤害
 		'''
 }
 
 WindmillionRobe: {
-	DisplayName: Windmillion Robe
+	DisplayName: 风车袍
 	Tooltip:
 		'''
-		+2 Throwing Critical Strike Chance
-		Getting snazzy!
+		+2%投掷暴击率
+		帅到起风~
 		'''
 }
 
@@ -5072,29 +5072,29 @@ Combuster: {
 WitchenRobe: {
 	Tooltip:
 		'''
-		+5% Magical Critical Strike Chance and Health
-		+20% Magic damage
-		Suck em' up!
+		+5%魔法暴击率和最大生命
+		+20%魔法伤害
+		将他们卷入其中！
 		'''
-	DisplayName: Witchen Robe
+	DisplayName: 巫术法袍
 }
 
 WitchenPants: {
 	Tooltip:
 		'''
-		30% more movement speed!
-		+20 Health
+		+30%移动速度
+		+20最大生命
 		'''
-	DisplayName: Witchen Pants
+	DisplayName: 巫术护腿
 }
 
 WitchenHat: {
 	Tooltip:
 		'''
-		+3% Magic damage
-		+10% Magical Critical Strike Chance
+		+3%魔法伤害
+		+10%魔法暴击率
 		'''
-	DisplayName: Witchen Hat
+	DisplayName: 巫术法帽
 }
 
 IceClimbers: {
@@ -5138,7 +5138,7 @@ TheTraumatizer: {
 }
 
 FloweredCard: {
-	DisplayName: 花符卡
+	DisplayName: 繁花符牌
 	Tooltip:
 		'''
 		这是点燃粉末与尘埃的引子
@@ -5148,7 +5148,7 @@ FloweredCard: {
 }
 
 MetallianCard: {
-	DisplayName: 金属符卡
+	DisplayName: 金属符牌
 	Tooltip:
 		'''
 		这是点燃粉末与尘埃的引子
@@ -5261,33 +5261,33 @@ VeroshotBow: {
 }
 
 AzaleanChestplate: {
-	DisplayName: Azalean Chestplate
-	Tooltip: Use this piece from one of the developers! (Azza)... Also gives +12% Ranged Damage!
+	DisplayName: Azalean的胸甲
+	Tooltip: 一名开发者给了你这套装备... 以及+12%远程伤害！
 }
 
 AzaleanHat: {
-	DisplayName: Azalean Hat
-	Tooltip: Use this piece from one of the developers! (Azza)
+	DisplayName: Azalean的帽子
+	Tooltip: 一名开发者给了你这套装备！
 }
 
 AzaleanLeggings: {
-	DisplayName: Azalean Leggings
-	Tooltip: Use this piece from one of the developers! (Azza)
+	DisplayName: Azalean的护腿
+	Tooltip: 一名开发者给了你这套装备！
 }
 
 SolarianChestplate: {
-	DisplayName: Solarian Chestplate
-	Tooltip: Use this piece from one of the developers! (Scolon)... Also +1 Summon!
+	DisplayName: 太阳胸甲
+	Tooltip: 一名开发者给了你这套装备... 以及+1随从上限！
 }
 
 SolarianHat: {
-	DisplayName: Solarian Hat
-	Tooltip: Use this piece from one of the developers! (Scolon)
+	DisplayName: 太阳头盔
+	Tooltip: 一名开发者给了你这套装备！
 }
 
 SolarianPants: {
-	DisplayName: Solarian Pants
-	Tooltip: Use this piece from one of the developers! (Scolon)
+	DisplayName: 太阳护腿
+	Tooltip: 一名开发者给了你这套装备！
 }
 
 IyxTheInfamous: {
@@ -5489,31 +5489,31 @@ FocusingCrystal: {
 }
 
 ScrappyLegs: {
-	DisplayName: Scrappy Legs
+	DisplayName: 重构古械腿
 	Tooltip:
 		'''
-		Increased movement speed
-		Increases max minions by 1
+		增加移动速度
+		+1随从上限
 		'''
 }
 
 ScrappyHead: {
-	DisplayName: Scrappy Head
+	DisplayName: 重构古械盔
 	Tooltip:
 		'''
-		8% increased summon and magic damage
-		4% increased damage reduction
-		Increases max minions by 1
+		+8%召唤与魔法伤害
+		+4%伤害减免
+		+1随从上限
 		'''
 }
 
 ScrappyBody: {
-	DisplayName: Scrappy Body
+	DisplayName: 重构古械铠
 	Tooltip:
 		'''
-		12% increased summon and magic damage
-		8% increased damage reduction
-		Increases max minions by 2
+		+12%召唤与魔法伤害
+		+8%伤害减免
+		+2随从上限
 		'''
 }
 
@@ -5785,7 +5785,7 @@ SingularDive: {
 
 DelgrimsHammer: {
 	Tooltip: 它正奋力挥击！
-	DisplayName: 德葛林之神锤
+	DisplayName: 戴尔格林之神锤
 }
 
 DirtGlove: {
@@ -5968,7 +5968,7 @@ BlackBall: {
 }
 
 TomeofRaining: {
-	Tooltip: 随时开启下雨！这是蕊的谢礼！
+	Tooltip: 随时召唤下雨！这是蕊的谢礼！
 	DisplayName: 唤雨魔书
 }
 
@@ -6075,38 +6075,37 @@ ExampleScriptureItem: {
 	DisplayName: 天纱圣典·介绍
 	Content:
 		'''
-		PLEASE PLAY MASTERMODE or EXPERTMODE FOR THIS MOD!
-			MULTIPLAYER COMPATIBLE!!!
+		请在专家或者大师模式下游玩此mod！
+			支持多人联机！
 			~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-			The Lunar Veil is an expansive mod for the world of Aimacra. As a crossover from a personal game Diari,
-			Sirestias has sought to expand her skills in the world of terraria and she wants to eliminate all false gods and goddesses on the planet.
+			穹月天纱是一个扩展类mod，也是我的另一款游戏Diari的联动
+			希丝忒莉亚想要用她的能力造福泰拉世界，并铲除一切虚伪的神明。
 
-			The ones that pose a threat to existence on the planet of terraria would be gods who own singularities. They cause inreversible damage and often corrupts the worlds and the minds within them.
-			People go out to worship these gods and protect them, and nobody dare stand up to the ones who rule their domains.
+			在此类敌人中，最为危险的莫过于拥有奇点的神明。其力量可以轻易对世界造成无可挽回的伤害，有时甚至将世界与其中的所有生灵完全腐化。
+			普通人只知唯唯诺诺，对它们百般奉承。无人敢对他们的统治者举起武器。
 
-			What new evils have befallen this world? Who knows :P
-			But your job is to eliminate all of them
-
-			This is a content/quality of life mod which includes:
-			- Many new enemies and npcs
-			- 200+ New interesting weapons
-			- New systems for weapons and gameplay including Harvesting Spots, Weapon Powders, igniters, brooches and more!
-			- A Gambling feature for post bosses
-			- 4 New main town NPC
-			- Many Shop NPC's around the world!
-			- 50+ Accessories that will indefinetly help you with battles
-			- Many fleshed out biomes and structures around the world to keep you searching and exploring
-			- Castles, Dungeons and a very open and treasure filled world that makes it feel like a metroidvania!
-			- Many new bosses around both prehardmode and hardmode now!
-			- Many main armors to flesh out prehardmode's lack of class armors
-			- A fully immersive soundtrack from both me and Azza (Go check out my Diari Soundtrack, please lol)
-			- Pretty much made by three people, Me, Azzalea and Scolon!
-			- Over 600 new items!
-			- Many new quality of life addons to make the terraria experience better :)
-
-			Keep in mind this is mainly prehardmode content so far!
-			(WARNING: THIS MOD ENCOURAGES YOU TO WORK ON EVASION)
-			There is plenty of hardmode content as of the Stars and Bloom update!
+			泰拉世界上又出现了哪些敌人呢？拭目以待吧 :P
+			至于你？你的任务就是人挡杀人，神挡杀神。
+			~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			
+			此mod内含：
+			- 许多新的敌人与NPC
+			- 200+有趣的武器！
+			- 新的武器类别与机制，还有饰符！
+			- Boss战后的抽奖环节
+			- 4个新的城镇NPC
+			- 世界各处的多名商店NPC！
+			- 50+的饰品，绝对可以帮助你提升战力
+			- 许多精细设计的新环境与新结构，让探索保持新鲜快乐！
+			- 城堡，地牢，满开放世界的珍宝奇物，就像一个真正的类银河恶魔城游戏！
+			- 从肉前到月后的很多新Boss！
+			- 许多新盔甲套装，大部分聚焦于肉前
+			- 沉浸式背景音乐，作者是我和Azzalea (也去听听Diari的原声带吧！)
+			- 几乎全部由三人完成。我, Azzalea和Scolon!
+			- 一共有600+新物品！
+			- 许多辅助物品和功能，让你的游戏体验更加良好 :)
+			
+			(警告：此mod难度较高，请多加磨练你的闪避技术)
 		'''
 }
 
@@ -7066,18 +7065,18 @@ STARBOMBERBossRel: {
 }
 
 MardenthMask: {
-	DisplayName: Mardenth's Veiled Mask
-	Tooltip: +10 Health but 10% reduced damage!
+	DisplayName: 玛登斯的蒙纱假面
+	Tooltip: +10最大生命，但-10%伤害！
 }
 
 MardenthPants: {
-	DisplayName: Mardenth's Great Pants
-	Tooltip: 5% Increased movement speed
+	DisplayName: 玛登斯的超级护腿
+	Tooltip: +5%移动速度
 }
 
 MardenthRobe: {
-	DisplayName: Mardenth's Super Robe
-	Tooltip: +20 Health and some spicy looks.
+	DisplayName: 玛登斯的超级战袍
+	Tooltip: +20最大生命，而且很帅！
 }
 
 NiiviBossRel: {
@@ -7136,7 +7135,7 @@ GothiviaIyxBag: {
 
 GothiviaBossRel: {
 	DisplayName: 歌瑟梵圣物
-	Tooltip: Obtained from killing the one of the Green Sun.
+	Tooltip: 烈阳总有落下之时....
 }
 
 SerpentWings: {
