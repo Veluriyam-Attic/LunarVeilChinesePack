@@ -193,251 +193,251 @@ ThornedBook: {
 }
 
 CelestiaMoonBreastplate: {
-	DisplayName: Celestia Moon Breastplate
+	DisplayName: 星月胸甲
 	Tooltip:
 		'''
-		Magical essence of an empress!
-		+60 max mana and +1 minion slot
-		+20 Health
+		女皇的魔法精华！
+		+60最大魔力，+1随从栏位
+		+20最大生命
 		'''
 }
 
 CelestiaMoonHelmet: {
-	DisplayName: Celestia Moon Helmet
+	DisplayName: 星月之盔
 	Tooltip:
 		'''
-		Magical essence of an Emperor
-		+2% increased ranged and melee damage
-		+35 Health
+		帝王的魔法精华！
+		+2%近战与远程伤害
+		+35最大生命
 		'''
 }
 
 CelestiaMoonLegs: {
-	DisplayName: Celestia Moon Leggings
+	DisplayName: 星月护腿
 	Tooltip:
 		'''
-		Magical essence of an empress!
-		3% increased movement speed
-		+20 Health
+		女皇的魔法精华！
+		+3%移动速度
+		+20最大生命
 		'''
 }
 
 CelestiaMoonMask: {
-	DisplayName: Celestia Moon Mask
+	DisplayName: 星月假面
 	Tooltip:
 		'''
-		Magical essence of an empress!
-		+20 Max mana and +1 Minion Slot
+		女皇的魔法精华！
+		+20最大魔力，+1随从栏位
 		'''
 }
 
 HuntrianBoots: {
-	DisplayName: Huntrian Boots
+	DisplayName: 锈斑猎手靴
 	Tooltip:
 		'''
-		Corroded Woods
-		+5% Damage!
-		-10 Health
-		+7 Critical Strike Chance!
+		腐蚀之木
+		+5%伤害
+		-10最大生命
+		+7%暴击率
 		'''
 }
 
 HuntrianChestplate: {
-	DisplayName: Huntrian Chestplate
+	DisplayName: 锈斑猎手甲
 	Tooltip:
 		'''
-		Corroded Woods
-		+5% Damage!" 
-		+10 Health" 
-		+10 Critical Strike Chance!
+		腐蚀之木
+		+5%伤害
+		+10最大生命 
+		+10%暴击率
 		'''
 }
 
 HuntrianHelmet: {
-	DisplayName: Huntrian Helmet
+	DisplayName: 锈斑猎手盔
 	Tooltip:
 		'''
-		Corroded Woods
-		+5% Damage!
-		+20 Health
+		腐蚀之木
+		+5%伤害
+		+20最大生命
 		'''
 }
 
 LovestruckBreastplate: {
-	DisplayName: Lovestruck Breastplate
+	DisplayName: 恋欲胸甲
 	Tooltip:
 		'''
-		Feel the love!
-		+60 Health and +1 minion slot
+		感受爱意
+		+60最大生命，+1随从上限
 		'''
 }
 
 LovestruckLegs: {
-	DisplayName: Lovestruck Thighs
+	DisplayName: 恋欲护腿
 	Tooltip:
 		'''
-		Sexy!
-		10% increased movement speed
-		+60 Health
+		性感！
+		+10%移动速度
+		+60最大生命
 		'''
 }
 
 LovestruckMask: {
-	DisplayName: Lovestruck Mask
+	DisplayName: 恋欲面具
 	Tooltip:
 		'''
-		Magical essence of an Lusting Goddess
-		+7% increased damage
-		+40 Health
+		欲望女神的精华
+		+7%伤害
+		+40最大生命
 		'''
 }
 
 GintzeMask: {
-	DisplayName: Gintzi Mask
+	DisplayName: 玄铁面具
 	Tooltip:
 		'''
-		Rare Iron Mask!
-		+2 summons!
-		+50 Health
+		稀有金属制成！
+		+2随从栏位
+		+50最大生命
 		'''
 }
 
 StoniaBoots: {
-	DisplayName: Stonia Boots
+	DisplayName: 石心靴
 	Tooltip:
 		'''
-		Rizzy Stone
-		+2% Damage!
-		Heavily Increased Falling!
-		Woa rocks!
+		酷酷的石头
+		+2%伤害
+		高速下落！
+		滚石！
 		'''
 }
 
 StoniaChestplate: {
-	DisplayName: Stonia Chestplate
+	DisplayName: 石心胸甲
 	Tooltip:
 		'''
-		Weak Stone?
-		+1% Damage!
-		+2 Penetration
-		+2 Critical Strike Chance!
+		脆弱的石头？
+		+1%伤害
+		+2护甲穿透
+		+2%暴击率
 		'''
 }
 
 StoniaHat: {
-	DisplayName: Stonia Hat
+	DisplayName: 石心帽
 	Tooltip:
 		'''
-		Happy Stone?
-		+3% Damage
-		+5 Penetration
-		+5 Critical Strike Chance!
+		开心的石头？
+		+3%伤害
+		+5护甲穿透
+		+5%暴击率
 		'''
 }
 
 AstolfoBody: {
-	DisplayName: Astolfo Breasts
+	DisplayName: 阿斯托弗的衬衫
 	Tooltip:
 		'''
-		Nya~
-		Yummy!
-		+20 Health
+		捏呀~
+		好香！
+		+20最大生命
 		'''
 }
 
 AstolfoMask: {
-	DisplayName: Astolfo Wig
+	DisplayName: 阿斯托弗的假发
 	Tooltip:
 		'''
-		Yummy kummy :3
-		+2% increased damage
-		+35 Health
-		Increased Pickaxe Speed!
+		美味哦 :3
+		+2%伤害
+		+35最大生命
+		增加挖掘速度！
 		'''
 }
 
 AstolfoSkirt: {
-	DisplayName: Astolfo Skirt
+	DisplayName: 阿斯托弗的短裙
 	Tooltip:
 		'''
-		Woa it even smells like water!
-		5% increased movement speed
-		Rizz Thighs
+		闻起来像...水？
+		+5%移动速度
+		丰满的大腿prpr
 		'''
 }
 
 VerlBreastplate: {
-	DisplayName: Verl Breastplate
+	DisplayName: 薇月胸甲
 	Tooltip:
 		'''
-		Shines with a blooming moon
-		+10% Ranged and Magic Damage!
-		+12 Penetration 
-		+5 Critical Strike Chance!
-		+20 Max Life
+		只为和你守候那皎白月光~
+		+10%远程与魔法伤害
+		+12护甲穿透
+		+5%暴击率！
+		+20最大生命
 		'''
 }
 
 VerlHat: {
-	DisplayName: Verl Hat
+	DisplayName: 薇月法帽
 	Tooltip:
 		'''
-		You feel prettier dont you?
-		+7% Magic Damage!
-		+Fast mana regeneration!
-		+100 Max Mana
-		+40 Max Life
+		戴上它你瞬间就觉得自己变漂亮了！
+		+7%魔法伤害！
+		快速回复魔力！
+		+100最大魔力
+		+40最大生命
 		'''
 }
 
 VerlLeggings: {
-	DisplayName: Verl Leggings
+	DisplayName: 薇月护腿
 	Tooltip:
 		'''
-		Look at them thighs go!
-		+7% Magic and Ranged Damage!
-		+Increased Movement speed
-		+40 Max Life
+		大长腿是好文明
+		+7%魔法与远程伤害
+		增加移动速度
+		+40最大生命
 		'''
 }
 
 VerlMask: {
-	DisplayName: Verl Mask
+	DisplayName: 薇月面具
 	Tooltip:
 		'''
-		You feel prettier dont you?
-		+7% Ranged Damage!
-		+15 Critical Strike Chance!
-		+20 Max Life
+		戴上它你瞬间就觉得自己变漂亮了！
+		+7%远程伤害
+		+15暴击率！
+		+20最大生命
 		'''
 }
 
 VextinBoots: {
-	DisplayName: Vextin Boots
+	DisplayName: 风沙战靴
 	Tooltip:
 		'''
-		Hide in the sands
-		+5% Damage
-		+20 Health
+		隐于飞沙
+		+5%伤害
+		+20最大生命
 		'''
 }
 
 VextinMask: {
-	DisplayName: Vextin Mask
+	DisplayName: 风沙头巾
 	Tooltip:
 		'''
-		You feel the hidden sands flow in you
-		+7% increased damage
-		+20 Health
+		你能感受到沙漠的脉搏
+		+7%伤害
+		+20最大生命
 		'''
 }
 
 VextinRobe: {
-	DisplayName: Vextin Robe
+	DisplayName: 风沙旅袍
 	Tooltip:
 		'''
-		Roam the wonderous sands	
-		+40 Health
+		在大漠中穿行自如	
+		+40最大生命
 		'''
 }
 
@@ -495,15 +495,15 @@ Bagitem: {
 		'''
 		装满易燃粉尘的袋子
 		这又是从哪来的？
-		用于制作粉尘！
+		用于制作魔法尘！
 		'''
 }
 
 Cinderscrap: {
-	DisplayName: 烬土碎片
+	DisplayName: 烬火碎片
 	Tooltip:
 		'''
-		烬土残余，见证无尽燃烧
+		烬火残余，见证无尽燃烧
 		经历过无尽的燃烧
 		在植物中找到了归宿
 		'''
@@ -674,7 +674,7 @@ VerianBar: {
 	DisplayName: 炽金锭
 	Tooltip:
 		'''
-		散发着热量，充盈着部族战士们的辉光与荣耀
+		散发着热量，充盈着部族战士们的光辉与荣耀
 		摸上去滚烫，必须用隔热布才能拿起来
 		'''
 }
@@ -836,7 +836,7 @@ StandN: {
 
 VeriBossRel: {
 	DisplayName: 心石圣卫圣物
-	Tooltip: 这个boss本身已经算是个遗物了
+	Tooltip: 它本身都已经算是个遗物了
 }
 
 walla: {
@@ -1479,112 +1479,112 @@ AuroranSeeker: {
 }
 
 GovheilMask: {
-	DisplayName: Govheil Mask
+	DisplayName: 歌维赫面具
 	Tooltip:
 		'''
-		8% Increased Magic and Summon damage!
-		+10 Mana
-		+12% Crit strike change
-		I've heard rumors that the flower gives a special affection bonus..
+		+8%魔法与召唤伤害！
+		+10最大魔力
+		+12%暴击率
+		那朵小红花能提升你的印象分哦
 		'''
 }
 
 GovheilHelmet: {
 	Tooltip:
 		'''
-		12% Increased Ranged and Melee damage!
-		Autoswing capabilities
-		+10% Crit strike change
-		You wanna be cool huh?
+		+12%远程与近战伤害！
+		允许自动挥舞
+		+10%暴击率
+		你想要变酷吗？
 		'''
-	DisplayName: Govheil Helmet
+	DisplayName: 歌维赫头盔
 }
 
 GovheilChainplate: {
 	Tooltip:
 		'''
-		12% Increased Ranged and Melee damage!
-		+50 Life
-		Gain effects of a magic quiver!
+		+12%远程与近战伤害！
+		+50最大生命
+		获得魔法箭袋效果！
 		'''
-	DisplayName: Govheil Chainplate
+	DisplayName: 歌维赫链甲
 }
 
 GovheilBreastplate: {
 	Tooltip:
 		'''
-		6% Increased Magic and Summon damage!
-		+50 Mana
-		+10 Life!
-		+1 Summon
+		6%魔法与召唤伤害！
+		+50最大魔力
+		+10最大生命
+		+1随从栏位
 		'''
-	DisplayName: Govheil Breastplate
+	DisplayName: 歌维赫胸甲
 }
 
 GovheilThighs: {
-	DisplayName: Govheil Thighs
+	DisplayName: 歌维赫护腿
 	Tooltip:
 		'''
-		7% Increased Movement speed
-		+10 Life!
-		+5% Damage
-		+15 Armor Penetration
-		Mega thicc!
+		+7%移动速度
+		+10最大生命
+		+5%伤害
+		+15护甲穿透
+		超丰满！
 		'''
 }
 
 XexterianLeggings: {
-	Tooltip: +5% Damage
-	DisplayName: Xexterian Leggings
+	Tooltip: +5%伤害
+	DisplayName: 熔鎏金护腿
 }
 
 XexterianHat: {
-	DisplayName: Xexterian Hat
+	DisplayName: 熔鎏金宽帽
 	Tooltip:
 		'''
-		+5% Damage
-		+20 Life
-		You really want this knock off Forbidden armor?
+		+5%伤害
+		+20最大生命
+		你觉得是这个好还是禁戒套好？
 		'''
 }
 
 XexterianHeatplate: {
-	DisplayName: Xexterian Heatplate
+	DisplayName: 熔鎏金炽甲
 	Tooltip:
 		'''
-		+10 Armor Penetration
-		+20 Life!
-		+6% Damage
-		+5 Critical Strike Chance
+		+10护甲穿透
+		+20最大生命
+		+6%伤害
+		+5%暴击率
 		'''
 }
 
 DaediaThighs: {
 	Tooltip:
 		'''
-		+40 Life!
-		30% Increased movement speed!
-		Walk like a flowery goddess with flower boots!
+		+40最大生命
+		+30%移动速度
+		像一名花之女神般行走！
 		'''
-	DisplayName: Daedia Thighs
+	DisplayName: 黛蒂亚护腿
 }
 
 DaediaMask: {
 	Tooltip:
 		'''
-		+65 Life!
-		A little halo over a new spiritual goddess!
+		+65最大生命
+		神灵配光环~
 		'''
-	DisplayName: Daedia Mask
+	DisplayName: 黛蒂亚面具
 }
 
 DaediaBreastplate: {
 	Tooltip:
 		'''
-		+60 Life!
-		+2 Summons
+		+60最大生命
+		+2随从栏位
 		'''
-	DisplayName: Daedia Breastplate
+	DisplayName: 黛蒂亚胸甲
 }
 
 PotionOfLifeWand: {
@@ -1823,7 +1823,7 @@ AcidStaketers: {
 
 AquaCrystal: {
 	DisplayName: 水能晶体
-	Tooltip: +15%远程暴击几率！
+	Tooltip: +15%远程暴击率！
 }
 
 AquaticHealingNecklace: {
