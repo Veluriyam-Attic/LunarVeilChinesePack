@@ -1981,136 +1981,136 @@ WoodShield: {
 }
 
 AcidBody: {
-	DisplayName: Virulent Body
-	Tooltip: Life regeneration is increased by a small amount.
+	DisplayName: 瘴煞胸甲
+	Tooltip: 小幅提升生命回复
 }
 
 AcidHelm: {
-	DisplayName: Virulent Helm
+	DisplayName: 瘴煞战盔
 	Tooltip:
 		'''
-		+5% melee damage
-		+1% melee critical strike chance
+		+5%近战伤害
+		+1%近战暴击率
 		'''
 }
 
 AcidLegs: {
-	DisplayName: Virulent Legs
-	Tooltip: Slightly increased movement speed :P
+	DisplayName: 瘴煞护腿
+	Tooltip: 小幅提升移动速度 :P
 }
 
 AcidMask: {
-	DisplayName: Virulent Mask
+	DisplayName: 瘴煞面具
 	Tooltip:
 		'''
-		+5% ranged damage
-		+8% ranged critical strike chance
+		+5%远程伤害
+		+8%远程暴击率
 		'''
 }
 
 AcidRobe: {
-	DisplayName: Virulent Robe
+	DisplayName: 瘴煞法袍
 	Tooltip:
 		'''
-		+5% magic damage
-		+6% magic critical strike chance
+		+5%魔法伤害
+		+6%魔法暴击率
 		'''
 }
 
 AcidVisor: {
-	DisplayName: Virulent Visor
+	DisplayName: 瘴煞面罩
 	Tooltip:
 		'''
-		+6% throwing damage
-		+7% throwing critical strike chance
+		+6%投掷伤害
+		+7%投掷暴击率
 		'''
 }
 
 AstrasilkBody: {
-	DisplayName: Astrasilk Robe
-	Tooltip: +15% magic critical strike chance
+	DisplayName: 星丝织篷
+	Tooltip: +15%魔法暴击率
 }
 
 AstrasilkHead: {
-	DisplayName: Astrasilk Hat
-	Tooltip: Slightly increases mana regeneration
+	DisplayName: 星丝织帽
+	Tooltip: 小幅提升魔力回复
 }
 
 AstrasilkLegs: {
-	DisplayName: Astrasilk Leggings
-	Tooltip: Increases movement speed by 20%
+	DisplayName: 星丝织胫
+	Tooltip: +20%移动速度
 }
 
 ElagentBody: {
-	DisplayName: Elegant Coat
-	Tooltip: +1 Minion
+	DisplayName: 典雅大衣
+	Tooltip: +1随从栏位
 }
 
 ElagentHead: {
-	DisplayName: Elegant Crown
-	Tooltip: +20% Minion Damage
+	DisplayName: 典雅头冠
+	Tooltip: +20%随从伤害
 }
 
 ElagentLegs: {
-	DisplayName: Elegant Leggings
+	DisplayName: 典雅长靴
 	Tooltip:
 		'''
-		+10% Summon Damage
-		+2 Minions
-		Increased movement speed
+		+10%召唤伤害
+		+2随从上限
+		增加移动速度
 		'''
 }
 
 ForestCoreBody: {
-	DisplayName: Forest Core Chestplate
-	Tooltip: Increases crit chance by 2%
+	DisplayName: 森之核心胸甲
+	Tooltip: +2%暴击率
 }
 
 ForestCoreHead: {
-	DisplayName: Forest Core Mask
-	Tooltip: Increases damage by 2
+	DisplayName: 森之核心面具
+	Tooltip: +2伤害
 }
 
 ForestCoreLegs: {
-	DisplayName: Forest Core Pants
-	Tooltip: Increases movement speed by 10%
+	DisplayName: 森之核心护腿
+	Tooltip: +10%移动速度
 }
 
 HeavyMetalBody: {
-	DisplayName: Gintzl Chestplate
-	Tooltip: Just gives defense smh.
+	DisplayName: 玄铁重甲
+	Tooltip: 没错，它只提供防御
 }
 
 HeavyMetalHead: {
-	DisplayName: Gintzl Mask
-	Tooltip: It has a good summon set bonus, trust me.
+	DisplayName: 玄铁重盔
+	Tooltip: 相信我，这真的是个召唤套装
 }
 
 HeavyMetalLegs: {
-	DisplayName: Gintzl Pants
-	Tooltip: +5% Movement speed
+	DisplayName: 玄铁重胫
+	Tooltip: +5%移动速度
 }
 
 LeatherBody: {
-	DisplayName: Leather Armor
-	Tooltip: 4% increased ranged crit chance
+	DisplayName: 皮革甲
+	Tooltip: +4%远程暴击率
 }
 
 LeatherHead: {
-	DisplayName: Leather Hat
+	DisplayName: 皮革帽
 	Tooltip:
 		'''
-		4% increased ranged crit chance
-		10% increased ranged damage
+		+4%远程暴击率
+		+10%远程伤害
 		'''
 }
 
 LeatherLegs: {
-	DisplayName: Leather Legs
+	DisplayName: 皮革护腿
 	Tooltip:
 		'''
-		4% increased ranged crit chance
-		10% increased movement speed
+		+4%远程暴击率
+		+10%移动速度
 		'''
 }
 
@@ -3381,7 +3381,7 @@ BasicGunParts: {
 
 AuroreanStarI: {
 	DisplayName: 极光之星
-	Tooltip: 一颗坠落之星吸收了阿尔卡迪亚的能量，形成了这颗超能之星！
+	Tooltip: 一颗坠落之星吸收了阿尔卡迪亚空气中的魔力，形成了这颗超能之星！
 }
 
 StoneKey: {
@@ -3607,7 +3607,7 @@ Hyua: {
 
 Poya: {
 	DisplayName: 阿卡里亚之唤
-	Tooltip: 召唤阿卡里亚蘑菇生物进入现实，将敌人撕裂
+	Tooltip: 召唤阿卡里亚混溶体进入现实，将敌人撕裂
 }
 
 FireflyStaff: {
@@ -3662,23 +3662,23 @@ SandStorm: {
 }
 
 ExploreMorrowedVillage: {
-	DisplayName: 任务：探索古谕村落
+	DisplayName: 任务：探索幽曦村落
 	Tooltip: ""
 }
 
 ExploreMorrowedVillageC: {
-	DisplayName: 探索古谕村落：任务完成！
-	Tooltip: 去找梅瑞娜拿到你的奖励吧！
+	DisplayName: 探索幽曦村落：任务完成！
+	Tooltip: 去找梅瑞娜领取你的奖励吧！
 }
 
 Give100DustBags: {
-	DisplayName: 任务：上交100个尘土袋
+	DisplayName: 任务：上交100个粉尘袋
 	Tooltip: ""
 }
 
 Give100DustBagsC: {
-	DisplayName: 上交100个尘土袋：任务完成！
-	Tooltip: 去找梅瑞娜拿到你的奖励吧！
+	DisplayName: 上交100个粉尘袋：任务完成！
+	Tooltip: 去找梅瑞娜领取你的奖励吧！
 }
 
 KillVerlia: {
@@ -3688,7 +3688,7 @@ KillVerlia: {
 
 KillVerliaC: {
 	DisplayName: 击败薇莉娅：任务完成！
-	Tooltip: 去找梅瑞娜拿到你的奖励吧！
+	Tooltip: 去找梅瑞娜领取你的奖励吧！
 }
 
 MakeMagicPaper: {
@@ -3698,7 +3698,7 @@ MakeMagicPaper: {
 
 MakeMagicPaperC: {
 	DisplayName: 制作魔法纸张：任务完成！
-	Tooltip: 去找梅瑞娜拿到你的奖励吧！
+	Tooltip: 去找梅瑞娜领取你的奖励吧！
 }
 
 MakeUltimateScroll: {
@@ -3756,7 +3756,7 @@ ShadowCloak: {
 		'''
 		8防御
 		+4%伤害减免
-		降低仇恨，接近你的敌人会被施加debuff
+		降低仇恨，接近你的敌人会被施加减益
 		融入暗影...
 		'''
 }
@@ -4182,7 +4182,7 @@ TomedDustingMagic: {
 }
 
 JacksonPollock: {
-	DisplayName: 杰克逊·波洛克
+	DisplayName: 杰克逊·泼洛克
 	Tooltip: 召唤一桶漂浮的颜料，四处泼洒，绘出战场的抽象画卷
 }
 
@@ -4379,7 +4379,7 @@ BubbleBlasher: {
 }
 
 LarveinGreatbow: {
-	DisplayName: 幽蝶大弓
+	DisplayName: 幽蝶巨弓
 	Tooltip: 挺厉害的，对吧？
 }
 
@@ -4719,7 +4719,7 @@ MetalAlloy: {
 }
 
 Ragsaw: {
-	DisplayName: 舞动碎布
+	DisplayName: 舞动裂锯
 	Tooltip: 它们轻盈跳跃，仿佛欢快舞蹈
 }
 
@@ -4861,7 +4861,7 @@ AlcaricQuiver: {
 
 BlackRose: {
 	DisplayName: 黑蔷薇
-	Tooltip: 使用魔力药水不会造成魔力病，但会造成轻微伤害
+	Tooltip: 使用魔力药水不会造成魔力病，但会对自己造成轻微伤害
 }
 
 LittleWand: {
@@ -5104,7 +5104,7 @@ IceClimbers: {
 
 MoltenScrap: {
 	DisplayName: 熔火碎片
-	Tooltip: Burning from the depths of the cinderspark
+	Tooltip: 在那片地底深处的烬土默默燃烧
 }
 
 VehementRhapsody: {
@@ -5277,17 +5277,17 @@ AzaleanLeggings: {
 
 SolarianChestplate: {
 	DisplayName: 太阳胸甲
-	Tooltip: 一名开发者给了你这套装备... 以及+1随从上限！
+	Tooltip: 一名开发者（Scolon）给了你这套装备... 以及+1随从上限！
 }
 
 SolarianHat: {
 	DisplayName: 太阳头盔
-	Tooltip: 一名开发者给了你这套装备！
+	Tooltip: 一名开发者（Scolon）给了你这套装备！
 }
 
 SolarianPants: {
 	DisplayName: 太阳护腿
-	Tooltip: 一名开发者给了你这套装备！
+	Tooltip: 一名开发者（Scolon）给了你这套装备！
 }
 
 IyxTheInfamous: {
@@ -5543,7 +5543,7 @@ RadianceStone: {
 
 ShopNote: {
 	DisplayName: 小纸条
-	Tooltip: 我看出你很有能力，从现在开始我的商店完全对你开放啦！
+	Tooltip: 我看出你很有能力，从现在开始我的商店对你完全开放啦！
 }
 
 FenixBossRel: {
@@ -5736,7 +5736,7 @@ AdamantiteBullet: {
 
 EldritchArrow: {
 	DisplayName: 幽古魔箭
-	Tooltip: 这把武器能召唤星球碎块，它们在被击中后会自动反击敌人，射出能量束。
+	Tooltip: 这箭矢能召唤星球碎块，它们在被击中后会自动反击敌人，射出能量束。
 }
 
 DriveRound: {
@@ -5856,7 +5856,7 @@ AuroreanStarball: {
 }
 
 BlankOrb: {
-	DisplayName: 未完成的球
+	DisplayName: 未完成的球体
 	Tooltip: 拥有无限潜能的模板，用于制作某种物品！
 }
 
@@ -6084,7 +6084,7 @@ ExampleScriptureItem: {
 			在此类敌人中，最为危险的莫过于拥有奇点的神明。其力量可以轻易对世界造成无可挽回的伤害，有时甚至将世界与其中的所有生灵完全腐化。
 			普通人只知唯唯诺诺，对它们百般奉承。无人敢对他们的统治者举起武器。
 
-			泰拉世界上又出现了哪些敌人呢？拭目以待吧 :P
+			泰拉世界上又会发生怎样的故事呢？拭目以待吧 :P
 			至于你？你的任务就是人挡杀人，神挡杀神。
 			~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 			
@@ -6268,7 +6268,7 @@ VeiledScriptureCozmire: {
 		- Love Sirestias
 
 		'''
-	DisplayName: 天纱圣典·堕悼者
+	DisplayName: 天纱圣典·天寰神巫
 	Tooltip:
 		'''
 		左键阅读
@@ -6287,7 +6287,7 @@ SplashAttack: {
 }
 
 CozmirePaintingI: {
-	DisplayName: 堕悼者圣像
+	DisplayName: 天寰神巫圣像
 	Tooltip: ""
 }
 
@@ -6469,7 +6469,7 @@ FlowerPants: {
 FlowerHat: {
 	Tooltip:
 		'''
-		蕊给你的花环！
+		蕊给你编了一顶花环！
 		+16%近战与远程伤害！
 		'''
 	DisplayName: 繁花帽
@@ -6686,7 +6686,7 @@ RocketLauncher: {
 }
 
 Electrifying: {
-	DisplayName: 疾电破晓
+	DisplayName: 疾电破
 	Tooltip:
 		'''
 		它迅速释放出带电的闪电箭，如同夜空中划过的疾电，既迅猛又耀眼
@@ -6695,7 +6695,7 @@ Electrifying: {
 }
 
 STARBUST: {
-	DisplayName: 星辰破晓
+	DisplayName: 星 辰 破 晓
 	Tooltip: 星辰轰炸者的机枪旋律，于星际间狂舞，织梦为弹，燃尽宇宙的夜
 }
 
@@ -6783,7 +6783,7 @@ M38F30: {
 
 StarSilk: {
 	Tooltip: 神话级的丝绸，以纯粹的星之能量编织而成
-	DisplayName: 烁星丝绸
+	DisplayName: 繁星丝绸
 }
 
 BabySwarmerStaff: {
@@ -7085,12 +7085,12 @@ NiiviBossRel: {
 }
 
 ManifestedAnxiety: {
-	Tooltip: 绛渊恶巫的惊恐与焦虑已然随她的倒下而散去，但对她的恐惧依旧。
+	Tooltip: 绛渊恶巫的惊怖与担忧已然随她的倒下而散去，但对她的恐惧依旧。
 	DisplayName: 忧惧具现
 }
 
 SigfriedsPhotoAlbum: {
-	Tooltip: 里面收藏了齐格飞的所有照片，由远古魔法紧紧固定，你无论如何都翻不开它。
+	Tooltip: 里面收藏了齐格飞的所有照片，由远古魔法紧紧固定，你用尽浑身解数也翻不开它。
 	DisplayName: 齐格飞的相片册
 }
 
@@ -7355,7 +7355,7 @@ YourFired: {
 
 LumiPaintingI: {
 	Tooltip: ""
-	DisplayName: 琉米画
+	DisplayName: 琉米圣像
 }
 
 VeiledScriptureLumi: {
@@ -7534,31 +7534,31 @@ Superfragment: {
 }
 
 JianxinCoat: {
-	DisplayName: Jianxin Coat
+	DisplayName: 渊涧天星胸甲
 	Tooltip:
 		'''
-		+10 Armor Penetration
-		+10% Increased Damage
-		+20 Increased Critical Strike Chance
+		+10护甲穿透
+		+10%伤害
+		+20%暴击率
 		'''
 }
 
 JianxinMask: {
-	DisplayName: Jianxin Mask
+	DisplayName: 渊涧天星面具
 	Tooltip:
 		'''
-		+10 Armor Penetration
-		+10% Increased Damage
+		+10护甲穿透
+		+10%伤害
 		'''
 }
 
 JianxinPants: {
-	DisplayName: Jianxin Pants
+	DisplayName: 渊涧天星护腿
 	Tooltip:
 		'''
-		+10 Armor Penetration
-		+10% Increased Damage
-		+3 Increased Summons
+		+10护甲穿透
+		+10%伤害
+		+3随从上限
 		'''
 }
 
@@ -7583,6 +7583,6 @@ IridineNecklace: {
 }
 
 GlocketRouncher: {
-	DisplayName: 鸣钟破晓
-	Tooltip: 抓紧，那破晓钟声的使者，让光明驱散黑暗
+	DisplayName: 导 弓单 发 身寸 器
+	Tooltip: 猜猜导弹是从哪发射出来的？
 }
