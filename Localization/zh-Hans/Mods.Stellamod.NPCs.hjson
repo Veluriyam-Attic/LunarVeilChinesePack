@@ -1,7 +1,7 @@
 RoyalHorsemage.DisplayName: 皇家骑士
 LonelySorceress.DisplayName: 孤独女巫
-CarianKnight.DisplayName: 卡利亚骑士
-AlcaricVoidSmall.DisplayName: 阿尔卡利亚虚空生物
+CarianKnight.DisplayName: 卡里亚骑士
+AlcaricVoidSmall.DisplayName: 阿卡里亚虚空凝聚体
 ShadowWraith.DisplayName: 暗影幽灵
 ShadeSlime.DisplayName: 暗影史莱姆
 RoyalSlime.DisplayName: 皇家史莱姆
@@ -17,14 +17,14 @@ MossyZombie.DisplayName: 苔藓僵尸
 MorrowedJellyFish.DisplayName: 幽曦水母
 EmeraldBeetle.DisplayName: 绿宝石甲虫
 AmethystBeetle.DisplayName: 紫晶甲虫
-GoliathJellyfish.DisplayName: 歌利亚水母
+GoliathJellyfish.DisplayName: 巨像水母
 GoliathCryogenicJellyfish.DisplayName: 冰皇水母
 WinterSoul3.DisplayName: 凛冬之魂
 WinterSoul2.DisplayName: 凛冬之魂
 WinterSoul1.DisplayName: 凛冬之魂
 WinterBornSlime.DisplayName: 冬诞史莱姆
 WinterbornBat.DisplayName: 冬诞蝙蝠
-HarvestVirulent.DisplayName: 丰获病毒
+HarvestVirulent.DisplayName: 丰获瘴煞
 SkyRune.DisplayName: 天空符文
 RedLightBig.DisplayName: 光虹
 PearledGold.DisplayName: 珍珠之金
@@ -44,7 +44,7 @@ BlueLightBig.DisplayName: 光蓝
 HarvestIce.DisplayName: 丰获之冰
 GovheilProtector.DisplayName: 歌维赫护卫
 GovheilGuardian.DisplayName: 歌维赫卫兵
-Gintzling.DisplayName: 玄铁
+Gintzling.DisplayName: 玄铁小兵
 GintzeWindRider.DisplayName: 玄铁风骑
 GintzeWarrior.DisplayName: 玄铁战士
 GintzeSpearman.DisplayName: 玄铁矛兵
@@ -52,12 +52,12 @@ GintzeSolider.DisplayName: 玄铁重兵
 GintzeCaptain.DisplayName: 玄铁指挥官
 GintziaHand.DisplayName: 玄铁之手
 StarSlime.DisplayName: 星绽史莱姆
-DiceinNPC.DisplayName: 迪艾森
-Shrewmet.DisplayName: 斯维米特
-Shrewder.DisplayName: 斯维尔
+DiceinNPC.DisplayName: 赌博骰子
+Shrewmet.DisplayName: 焦烬幼虫
+Shrewder.DisplayName: 焦烬爬虫
 SnowWalkerNPC.DisplayName: 雪地漫步者
 SandWalkerNPC.DisplayName: 沙地漫步者
-THEGREATDEVOURER.DisplayName: 伟大吞噬者
+THEGREATDEVOURER.DisplayName: 伟 大 吞 噬 者
 FlamingWitch.DisplayName: 火焰巫女
 CinderCrawlerTail.DisplayName: 灰烬爬行者尾部
 CinderCrawlerHead.DisplayName: 灰烬爬行者头部
@@ -79,7 +79,7 @@ BlazingSerpentTail.DisplayName: 烈焰蛇尾
 BlazingSerpentBody.DisplayName: 烈焰蛇身
 BlazeBeamWarn.DisplayName: 烈焰光束警告
 CatacombsBossSpawn.DisplayName: 墓穴BOSS召唤
-Viola.DisplayName: 维奥拉
+Viola.DisplayName: 皎月魔琴
 Sword3.DisplayName: 剑3
 Sword2.DisplayName: 剑2
 Sword1.DisplayName: 剑1
@@ -102,12 +102,12 @@ SunStalker.DisplayName: 猎日游隼
 Sun.DisplayName: 太阳
 StoneDeath.DisplayName: 死亡之石
 Flowerball.DisplayName: 闪光精灵
-STARBOMBERGUN.DisplayName: 星爆轰炸枪
-STARLINGBIG.DisplayName: 大型星际混沌
-STARLING.DisplayName: 星际混沌
+STARBOMBERGUN.DisplayName: 星 爆 轰 炸 枪
+STARLINGBIG.DisplayName: 大 型 星 际 混 沌
+STARLING.DisplayName: 星 际 混 沌
 STARBOMBERLASERWARNBIG.DisplayName: 星爆者 大激光警告
 STARBOMBERLASERWARN.DisplayName: 星爆者 激光警告
-STARBOMBER.DisplayName: 星爆者
+STARBOMBER.DisplayName: 星 爆 者
 Voidling.DisplayName: 虚无灵体
 SingularityOrb.DisplayName: 奇点球体
 SingularitySparkBig.DisplayName: 奇点火花
@@ -121,13 +121,13 @@ Jack.DisplayName: 灯笼杰克
 IrradiatedNestDeath.DisplayName: 辐射巢穴死亡
 IrradiatedNest.DisplayName: 辐射巢穴
 IrradiatedCreeper.DisplayName: 辐射爬行者
-IRNDeathBomb.DisplayName: IRN死亡炸弹
+IRNDeathBomb.DisplayName: 辐射巢穴死亡炸弹
 IrradieagleSurvent.DisplayName: 辐射侦察机
-Irradieagle.DisplayName: 辐射体
+Irradieagle.DisplayName: 辐射护巢鹰
 Train2.DisplayName: 火车2
 Train1.DisplayName: 火车1
 Rek.DisplayName: 浩劫
-Gothiviabb.DisplayName: 格瑟梵
+Gothiviabb.DisplayName: 歌瑟梵对话框
 Gothiviab.DisplayName: 伊瑞蒂安
 FenixWarn.DisplayName: 凤涅克丝警告
 FenixSnipe.DisplayName: 凤涅克丝射击
@@ -136,8 +136,8 @@ Fenix.DisplayName: 凤涅克丝
 ExpoiyosOrb.DisplayName: 爆破之球
 AlcSpark.DisplayName: 火花
 DrownOut.DisplayName: 淹没
-ALCADSWIRL.DisplayName: 阿尔卡迪亚实验室
-ALCADHOLE.DisplayName: 阿尔卡迪黑洞
+ALCADSWIRL.DisplayName: 阿 尔 卡 迪 亚 漩 涡
+ALCADHOLE.DisplayName: 阿 尔 卡 迪 亚 黑 洞
 DreadMiresHeart.DisplayName: 绛渊恶巫之心
 DreadSurvent.DisplayName: 恐惧仆从
 DreadMireZapwarnBig.DisplayName: 绛渊恶巫技能警告
@@ -154,7 +154,7 @@ SolarSingularity.DisplayName: 太阳奇点
 SolarPortal.DisplayName: 太阳传送门
 DRay.DisplayName: D射线
 LanternOfHope.DisplayName: 希望之灯
-Daedus.DisplayName: 代达罗斯
+Daedus.DisplayName: 代达斯
 CaevaSnipe.DisplayName: 凯尔狙击
 CaevaDeathRowR.DisplayName: 凯尔R死亡
 CaevaDeathRow.DisplayName: 凯尔死亡
@@ -168,19 +168,19 @@ AbyssalSlime.DisplayName: 深渊史莱姆
 AbyssalSkull.DisplayName: 深渊骷髅
 AbyssalSeeker.DisplayName: 深渊探寻者
 AbysmLunatic.DisplayName: 深渊狂热者
-TericGramNPC2.DisplayName: 特里克吉姆()
+TericGramNPC2.DisplayName: 特里克吉姆
 TericGramNPC.DisplayName: 特里克吉姆
 Sparn.DisplayName: 斯帕恩
 WaterJellyfish.DisplayName: 氵母
 PandorasFlamebox.DisplayName: 潘多拉火焰盒
 Cogwork.DisplayName: 废旧齿轮
-BlazingSerpentHead.DisplayName: 烈焰蛇头
+BlazingSerpentHead.DisplayName: 不息炽龙头
 StarrVeriplant.DisplayName: 石心圣卫
 Sylia.DisplayName: 赛莉亚
 VerliaB.DisplayName: 皎月薇莉娅
 SingularityFragment.DisplayName: 破损奇点
 CommanderGintzia.DisplayName: 金戈亚指挥官
-DaedusR.DisplayName: 世遗者代达罗斯
+DaedusR.DisplayName: 世遗者代达斯
 
 Aimacra: {
 	DisplayName: 安魅凯拉
@@ -204,10 +204,10 @@ Aimacra: {
 	}
 }
 
-Bordoc.DisplayName: Bordoc布瑞德
+Bordoc.DisplayName: 波尔杜克
 
 BoundGia: {
-	DisplayName: BoundGia布兰德吉娅
+	DisplayName: 受缚的吉娅
 
 	TownNPCMood: {
 		Content: 我很满足
@@ -222,10 +222,10 @@ BoundGia: {
 }
 
 CellConverter.DisplayName: 分子转换器
-Delgrim.DisplayName: 狄勒瑞姆
+Delgrim.DisplayName: 戴尔格林
 
 Gambit: {
-	DisplayName: 吉姆比特
+	DisplayName: 赌徒
 
 	TownNPCMood: {
 		Content: "{$Mods.Stellamod.TownNPCMood.Gambit.Content}"
@@ -293,40 +293,40 @@ Ginztel: {
 Merena.DisplayName: 梅瑞娜
 NaturalWitch.DisplayName: 自然女巫
 Zui.DisplayName: 蕊
-AbandonedMinor.DisplayName: 世遗小生物
-AbandonedMinorSummon.DisplayName: 世遗小生物生成
+AbandonedMinor.DisplayName: 遭弃矿工
+AbandonedMinorSummon.DisplayName: 遭弃矿工生成
 FloweredRedLight.DisplayName: 花开红光
 FloweredWhiteLight.DisplayName: 花开白光
 RedFlower.DisplayName: 地藏红花
 WhiteFlower.DisplayName: 地藏白花
-DreadFireBombG.DisplayName: 恐惧火焰炸弹G
+DreadFireBombG.DisplayName: 恐惧火焰炸弹
 HeatBombLighting.DisplayName: 热能炸弹闪光
 HeatBombRayLight.DisplayName: 热能炸弹辐射
 Rustwork.DisplayName: 生锈机械
-MechanicalMinorSummon.DisplayName: 小型机械生成
-MechanicalMinor.DisplayName: 小型机械
-InfusedSlime.DisplayName: 浸渍史莱姆
+MechanicalMinorSummon.DisplayName: 机械矿工生成
+MechanicalMinor.DisplayName: 机械矿工
+InfusedSlime.DisplayName: 注能史莱姆
 RustedBomber.DisplayName: 生锈炮弹发射器
 RustedBomberSummon.DisplayName: 生锈炮弹发射器生成
-Steeru.DisplayName: Steeru斯翠露
-ZuiTheTraveller.DisplayName: 辉光女神蕊
+Steeru.DisplayName: 齿轮构造体
+ZuiTheTraveller.DisplayName: 辉光女神 蕊
 TestLaserNPC.DisplayName: 测试激光NPC
-UnknownSignal.DisplayName: 未知标注
-AlcaricVoidBig.DisplayName: 阿尔卡利亚巨型生物
+UnknownSignal.DisplayName: 神秘信号源
+AlcaricVoidBig.DisplayName: 巨型阿卡里亚虚空凝聚体
 ZuiLASERWARN.DisplayName: 蕊激光警告
 GoldBeamWarn.DisplayName: 金色激光警告
 ZuiDeath.DisplayName: 蕊死亡
-LuminullSpiritCrystal.DisplayName: 琉米水晶精灵
+LuminullSpiritCrystal.DisplayName: 黯光灵晶
 IceRune.DisplayName: 冰雪符文
 VerliaSpawn.DisplayName: 薇莉娅生成
 Bossdeath1.DisplayName: Boss死亡1
 DeathVerlia.DisplayName: 薇莉娅死亡
-VerliaDP.DisplayName: 薇莉娅DP
+VerliaDP.DisplayName: 薇莉娅死亡光球
 Niivi.DisplayName: 尼伊维
 IllurianMage.DisplayName: 星树法师
 IllurianGuard.DisplayName: 星树守卫
 SyliaDeath.DisplayName: 赛莉亚死亡
-Veldris.DisplayName: 维尔德里斯
+Veldris.DisplayName: 维尔迪斯
 SupernovaZapwarn.DisplayName: 超新星电击警告
 SupernovaOrb.DisplayName: 超新星球体
 SupernovaFragment.DisplayName: 破碎超新星
@@ -339,18 +339,18 @@ HavocSegmentBack.DisplayName: 浩劫后段
 HavocSegmentFront.DisplayName: 浩劫前段
 HavocSegmentMiddle.DisplayName: 浩劫中段
 HavocTail.DisplayName: 浩劫尾部
-IrradiaIdle.DisplayName: 伊瑞蒂安闲置
+IrradiaIdle.DisplayName: 伊瑞蒂安
 Havoc.DisplayName: 浩劫
 Ishtar.DisplayName: 狂渊
-PULSARHOLE.DisplayName: 脉冲黑洞
-BabySwarmer.DisplayName: 小型群居生物
-BabySwarmerSummon.DisplayName: 小型群居生物召唤
+PULSARHOLE.DisplayName: 脉 冲 黑 洞
+BabySwarmer.DisplayName: 蚁狮蜂宝宝
+BabySwarmerSummon.DisplayName: 蚁狮蜂宝宝召唤
 HavocSignal.DisplayName: 浩劫信号
 IrradiaElectricBoxNode.DisplayName: 伊瑞蒂安带电节点
 IrradiaSpikeBox.DisplayName: 伊瑞蒂安尖刺盒
 Irradia.DisplayName: 伊瑞蒂安
-DreadMireR.DisplayName: 绛渊恶巫R
-DreadMirePentagramV2.DisplayName: 绛渊五角星V2
+DreadMireR.DisplayName: 绛渊恶巫
+DreadMirePentagramV2.DisplayName: 绛渊五角星
 StartIrradia.DisplayName: 唤醒伊瑞蒂安
 GraveShard.DisplayName: 墓碑碎片
 IncresianDisc.DisplayName: 英克雷西安圆盘
@@ -359,17 +359,17 @@ Ordin.DisplayName: 奥丁
 DustNadoSpawner.DisplayName: 龙卷风生成
 Stalker.DisplayName: 潜行者
 StalkerSpawner.DisplayName: 潜行者生成
-RekSnake.DisplayName: 不熄赤龙莱克
+RekSnake.DisplayName: 不熄炽龙 莱克
 RekFireCrystal.DisplayName: 莱克火晶
 RekFireEye.DisplayName: 火焰之眼
-Sun2.DisplayName: 太阳2
-GothiviaIyx.DisplayName: 碧绿烈阳歌瑟梵•伊斯
-Carmody.DisplayName: 卡莫迪
-CarmodyGreen.DisplayName: 碧绿卡莫迪
+Sun2.DisplayName: 太阳
+GothiviaIyx.DisplayName: 碧熠烈阳 歌瑟梵•伊斯
+Carmody.DisplayName: 阳炎爆
+CarmodyGreen.DisplayName: 碧绿阳炎爆
 SupernovaZapwarnFinal.DisplayName: 超新星电击警告
-GothiviaIdle.DisplayName: 歌瑟梵闲置
-StartGoth.DisplayName: 激活歌瑟梵
-RekSnakeIdle.DisplayName: 雷克闲置
+GothiviaIdle.DisplayName: 歌瑟梵 闲置状态
+StartGoth.DisplayName: 唤醒歌瑟梵
+RekSnakeIdle.DisplayName: 莱克 闲置状态
 CentipedeTail.DisplayName: 蜈蚣尾部
 CentipedeHead.DisplayName: 蜈蚣头部
 CentipedeBody.DisplayName: 蜈蚣身体
@@ -382,8 +382,8 @@ Tulacrowe.DisplayName: 图拉克罗
 NiiviCrystalStars.DisplayName: 尼伊维星状水晶
 NiiviCrystalLightning.DisplayName: 尼伊维闪电水晶
 NiiviCrystalFrost.DisplayName: 尼伊维冰冻水晶
-NiiviRoaming.DisplayName: 尼伊维漫游
+NiiviRoaming.DisplayName: 尼伊维 漫游状态
 GothiviaDeath.DisplayName: 歌瑟梵死亡
-EreshkigalIdle.DisplayName: 厄莉什基迦勒闲置
+EreshkigalIdle.DisplayName: 厄莉什基迦勒 闲置状态
 GraveSeeker.DisplayName: 墓地探寻者
-Azurerin.DisplayName: 阿祖琳
+Azurerin.DisplayName: 艾祖瑞霖
