@@ -1,22 +1,22 @@
 VanillaTexturesToggle: {
 	Tooltip: ""
-	Label: Vanilla Textures Toggle
+	Label: 使用原版材质
 }
 
 Headers: {
-	ReplaceVanillaTextures: Replace Vanilla Textures
-	BiomeParticles: Biome Particles
-	ModdedBiomeParticles: Modded Biome Particles
+	ReplaceVanillaTextures: 替换原版材质
+	BiomeParticles: 环境粒子效果
+	ModdedBiomeParticles: 模组环境粒子效果
 }
 
 DisplayName: Lunar Veil Config
 
 VanillaParticlesToggle: {
-	Label: Vanilla Particles Toggle
+	Label: 使用原版粒子
 	Tooltip: ""
 }
 
 ParticlesToggle: {
-	Label: Particles Toggle
+	Label: 粒子效果
 	Tooltip: ""
 }
