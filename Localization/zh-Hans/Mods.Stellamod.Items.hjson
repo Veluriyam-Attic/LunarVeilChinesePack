@@ -5442,7 +5442,7 @@ TornCarianPage: {
 Scatterbombs: {
 	Tooltip:
 		'''
-		造成真实伤害，不四处乱飞，笑死。
+		造成极高伤害，而且它其实并不是散弹，嘿嘿~
 		（泽米企业不承担伤害或副作用责任，你也没机会活下来告状。）
 		'''
 	DisplayName: 散弹爆破
@@ -6252,20 +6252,18 @@ VeiledScriptureCozmire: {
 		'''
 		---------------------------------------
 
-		This higher being is of the Veil family and is one of the two sisters of Lumi Veil.
-		Using all of her power for evil and demonic purposes and causing her family disfunction this being is very interesting.
+		这名高等存在直属天纱家族，为天纱琉米的两名姐妹之一。
+		虽说如此，她将自己拥有的力量无所保留地用于作恶，最终导致整个家族的失调与没落...真是个有趣的存在。
 
-		Cozmire was one out of the two sisters that were given life by Lumi Veil. Cozmire was granted the power of the cosmos, 
-		hence her name. She left the skies to use her powers for alternative purposes and damaged their family relations, making 
-		Azurerin feel incomplete. Lumi sent dreadmire a singularity to let her know that she was still cared for in the family
-		yet she gave it away to fenix for more power. This trade corrupted her soul and Fenix ended up using the singularity
-		for some heinous deeds it seems although she never put it in her soul. Cozmire was weakened by this and is now
-		awakened by a cyst during the most evil times of the year, a blood moon. We should take advantage of her weak form.
+		她本名为“天寰神巫”，由天纱琉米所创造。她被赋予了掌控寰宇的能力，却将其随意挥洒于地上，造成了数不胜数的破坏。此举对天纱家族
+		无疑是一次重创，另一姐妹-艾祖瑞霖几因悲痛而支离破碎。为了安抚天寰神巫，琉米将一颗奇点赠与她。谁料本应是彰显爱意之物，却被她
+		反手转让给凤涅克丝，只为得到更多力量。这次交易彻底腐蚀了她的灵魂。凤涅克丝用这颗奇点犯下了令人发指的罪行，但从未让其融入自己的灵魂。
+		现如今，她有了一个更加广为人知的名字--“绛渊恶巫”。全世界的作恶之人仍然敬仰着她，期待她降下腥天统治万物。
+		
+		在失去奇点和之后的一系列事件后，她早已不复往日。只有极恶之时-血月之夜才会唤起她的力量。
+		我们正应抓住此机会，攻其不备，将她消灭。
 
-		Now know as Dreadmire, people look up to her for evil purposes and to bring the rein of the red cosmos to the people.
-		Would take her out because of this. 
-
-		- Love Sirestias
+		- 爱你的 希丝忒莉亚
 
 		'''
 	DisplayName: 天纱圣典·天寰神巫
@@ -6402,7 +6400,7 @@ Friedstein: {
 
 ManifestedLove: {
 	Tooltip: 腐化退散，她的爱意散布至世界各处，安抚着一切非分。再见，歌瑟梵。
-	// DisplayName: 爱意具现
+	DisplayName: 爱意具现
 }
 
 IllurianLoveLocket: {
@@ -7365,21 +7363,20 @@ VeiledScriptureLumi: {
 		'''
 		---------------------------------------
 
-		This higher being is of the Veil family. Related to Azurerin and Cozmire as they ascend all those that come before them. 
-		They are to be believed to be the strongest on this planet. Aside from me :p 
+		这名高等存在直属天纱家族，与天寰神巫和艾祖瑞霖一同求索，一同飞升。 
+		据传，她们是这世界上的至强至尊。但，现在有我在:p 
 
-		This specimen is lively but patient, being a creator of the sorts and caring for her family.
-		She gifted her two sisters both life and singularities to prove that she cares for both of them. Being a collector of singularities
-		has it's issues as we can see though.
+		她的性格活泼而细心，毕竟是造物者以及整个家庭的照护者。
+		她两名姐妹的生命与奇点均为她所给与。这无疑是深爱的彰显，但这也证明了她在做收集奇点这种极度危险的事。
 
-		Azurerin took up the stars and obtained the Supernova fragment while Cozmire had the power of the cosmos having the Singularity fragment.
-		Although she is gifted and powerful, we all know that these singularities are the reason that the world is crumbling with evil
-		power and fantasies that cost the lives of many. Hence so we shall bring her off her throne and slay her.
+		艾祖瑞霖掌握繁星之力，得到了破碎超新星；而天寰神巫得到了破碎奇点。
+		我承认她天赋异禀且实力强劲，但这些奇点的力量正在使世界分崩离析。对其的憧憬，对力量的渴望，令数不清的人断送了生命。
+		我们别无选择。唯有将这一切的源头废黜，彻底消灭。
 
-		She currently is above the world, residing with her sister in the space of the void. Only being able to be brought down by a catastrophic
-		accident. SO we shall incure this to happen to get to her ;p
+		现如今，她已经超脱此世界，与她的姐妹一同位于未知空间中。只有一场毁天灭地的大灾难才能让她回到这里。
+		所以~我们就要制造这样的一场灾难喽 ;p
 
-		- Love Sirestias
+		- 爱你的 希丝忒莉亚
 		'''
 }
 
