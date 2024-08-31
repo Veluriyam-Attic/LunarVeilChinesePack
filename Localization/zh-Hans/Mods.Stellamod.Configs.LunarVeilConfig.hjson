@@ -9,7 +9,7 @@ Headers: {
 	ModdedBiomeParticles: 模组环境粒子效果
 }
 
-DisplayName: Lunar Veil Config
+DisplayName: 穹月天纱模组配置
 
 VanillaParticlesToggle: {
 	Label: 使用原版粒子
