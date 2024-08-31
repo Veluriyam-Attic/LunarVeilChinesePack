@@ -7202,13 +7202,13 @@ Incinerator: {
 
 VeiledScriptureMiner2: {
 	Tooltip: 左键阅读
-	DisplayName: 日记2
+	DisplayName: 日志2
 	Content:
 		'''
 
-		OKKK SO HEAR ME OUT. I saw this girl with white hair, and I was like, goddamn she's hot.
-		Bimbam took the crazy idea to walk up to her and ask her out AND SHE ATTACKED US.
-		Im done mining for coal. I think I might as well submit to the STARBOMBERS.
+		等下等下等下，刚才我看到前面有个白毛少女，当时我就想，她可真好看。
+		冰邦不知道又抽什么风，居然直接走上去和她撩骚...然后她过来对着我们一顿猛打。
+		挖煤工作结束。向 星 爆 者 单元汇报。
 
 		- 达尔里·米夏的日志-2
 
@@ -7217,25 +7217,25 @@ VeiledScriptureMiner2: {
 
 VeiledScriptureMiner3: {
 	Tooltip: 左键阅读
-	DisplayName: 日记3
+	DisplayName: 日志3
 	Content:
 		'''
 
-		I don't even know how long I've been underground but I just know something is gonna go ary.
-		The sleep I've been getting hasn't been all that nice because BIMBAM wants to sleep next to the bat's tunnel.
-		Like what's the point of this..
+		我不知道我在地下呆了多久了，但肯定有什么不对劲。
+		最近睡眠质量很差，因为该死的冰邦非得睡在蝙！蝠！洞！旁！边！
+		这是什么鬼啊...
 
-		Otherwise I saw a dude with a giant guy with a hammer, he was carrying some other stuff but I hid beneath a
-		rock thing while I tied Bimbam's mouth shut, he's really noisy.
+		之前我看到了一个人和一个拿着大铁锤的巨型机器人，还拿着些其他东西，
+		但我当时正忙着找地方躲起来和把冰邦的破嘴堵住，没能看清。
 
-		- Dharlie Mixam's log 3!
+		- 达尔里·米夏的日志-3
 
 		'''
 }
 
 VeiledScriptureMiner4: {
 	Tooltip: 左键阅读
-	DisplayName: 日记4
+	DisplayName: 日志4
 	Content:
 		'''
 
@@ -7245,111 +7245,110 @@ VeiledScriptureMiner4: {
 		WE IN HERE LIKE SQUIDWARDS
 		I SAW THE SHADOW MAN
 
-		- BIMBAM!
+		- 冰邦！！！
 
 		'''
 }
 
 VeiledScriptureMiner5: {
 	Tooltip: 左键阅读
-	DisplayName: 日记5
+	DisplayName: 日志5
 	Content:
 		'''
 
-		Bimban dissappeared. I don't know where he went but he isn't here and its kind of scaring me.
-		We came down to this fiery place and it's quite hot. I just wanted to find some hellstone and scrap.
+		冰邦失踪了。我不知道他去哪了，好吓人。
+		我现在在一个热的要死的地方。本来只是想挖点狱石和熔渣的...
 
-
-		- Dharlie Mixam's log 5!
+		- 达尔里·米夏的日志-5
 
 		'''
 }
 
 VeiledScriptureMiner6: {
 	Tooltip: 左键阅读
-	DisplayName: 日记6
+	DisplayName: 日志6
 	Content:
 		'''
 
-		I'm starting to run out of paper here, so I'll try to be as specific as possible.
-		Got out of that fiery place, I was dehydrated. Still no whereabouts on Bimbam.
-		Met some cool skeleton dude and I got some bombs, maybe Bimbam will respond to those...
+		纸要没了，长话短说。
+		离开了热的地方。有点脱水。冰邦找不到。
+		见到了一只友好的骷髅，买了点炸弹。看看爆炸声能不能把他引过来。
 
 
-		- Dharlie Mixam's log 6!
+		- 达尔里·米夏的日志-6
 
 		'''
 }
 
 VeiledScriptureMiner7: {
 	Tooltip: 左键阅读
-	DisplayName: 日记7
+	DisplayName: 日志7
 	Content:
 		'''
 
-		BIMBAM IS BACK IN THIS BITC-
-		He came running to me after I threw some dynamite but he brought a friend it seems.
-		It's some purple rock, I'm gonna name it granite.
-		Oh wait it's moving- Um Bimbam is running for his life right now and I don't think I'll help him after leaving me.
-		Our company under Fenix incorporated is not responsible for our deaths and they won't care anywayy.
-		Nevermind he got it off.
+		踏马的，冰邦终于回来了。
+		扔了几个雷管之后他就跑了回来，但他还带了个“惊喜”。
+		一块紫不拉几的石头...姑且叫它花岗岩吧。
+		等下...它动了？
+		呃，所以冰邦现在正在正在逃命中，我也不太想帮他，毕竟他之前一声不吭的把我扔下了。
+		我们这个凤涅克丝企业名下的小公司也不会有生命保险，他们可能根本不在乎吧。
+		算了，冰邦暂时还没死呢。他好像摆脱那玩意了。
 
-		- Dharlie Mixam's log 7!
+		- 达尔里·米夏的日志-7
 
 		'''
 }
 
 VeiledScriptureMiner8: {
 	Tooltip: 左键阅读
-	DisplayName: 日记8
+	DisplayName: 日志8
 	Content:
 		'''
 
-		You know I may find butch lesbians hot but I don't think Fenix falls into that category.
-		I do not think we're going to meet our quota of coal. Why does she even need this anyway?
-		I got our goal of Verian, arnchalite and frile but we don't have the coal and the gems. We might be screwed
-		We gotta start heading to the surface soon, wish me luck.
+		我之前说过喜欢壮实的妞，我在想凤涅克丝算不算在这个范畴之内。
+		我们的煤炭指标还没达成。她要这么多这东西干嘛？
+		还好炽金、赤铁和月冰的指标都已经完成，但煤炭和各种宝石都还没有。完犊子了。
+		我们马上就得返回地面上了。祝我们好运吧。
 
 
-		- Dharlie Mixam's log 8!
+		- 达尔里·米夏的日志-8
 
 		'''
 }
 
 VeiledScriptureMiner9: {
 	Tooltip: 左键阅读
-	DisplayName: 日记9
+	DisplayName: 日志9
 	Content:
 		'''
 
-		This is quite unfortunate. We are on our walk back but we're stopped by this jellyfish. I think Fenix
-		would be quite jealous that we're playing near tentacles and she isn't. 
-		I think we might have to take a detour to get back to the Royal Capital. 
+		真倒霉，回地表的路上碰到一只大水母。
+		要是凤涅克丝知道我们有触手玩，她肯定嫉妒坏了。
+		...看来只能绕路回到皇室首都了。
 
-		I may be starving and I'm carrying Bimbam in a cart because he's not conscious, I think that granite 
-		ball knocked some confusion into him- or maybe it was the bats.
-		I only started this damn job so I can ask Merena out for a date one day. Hopefully when I return 
-		Fenix won't kill me and I can get something out of this expedition...
+		我们已经弹尽粮绝。冰邦被我装在手推车里。他晕过去了。
+		可能是那块花岗岩给他砸脑震荡了，或者就是蝙蝠吵的。
+		淦啊，我来这干苦力就是为了攒钱向梅瑞娜表白...
+		希望凤涅克丝不会把我当场杀掉吧，那样至少还能拿到点收获...
 
-
-		- Dharlie Mixam's log 9!
+		- 达尔里·米夏的日志-9
 
 		'''
 }
 
 VeiledScriptureMiner10: {
 	Tooltip: 左键阅读
-	DisplayName: 日记10
+	DisplayName: 日志10
 	Content:
 		'''
 
-		I don't think I can make it. I'm so close and yet Im so far....
-		Merena if you find this, I love you and I could only wish I could be around you more...
-		I always had to be put with the dumbest of partners but at least he was a fun one.
-		Just realized Bimbam has been dead hasn't he? Maybe in a coma?? Who knows.
+		我不行了...离家这么近，又太远...
+		梅瑞娜,如果你能读到这个，我想告诉你我爱你，我想多陪陪你...
+		我的搭档蠢得要死，但至少他挺有趣的。
+		他不会真的死了吧？或者成植物人了？谁知道呢。
 
-		I just wanted to lay in merena's voluptuous breasts. Her sister could get it too
-		Damn that skeleton.. nn. lo- looke.d lik e. s a n s
+		我现在只想往梅瑞娜的软胸上一趴...真羡慕她身边的人啊。
+		等下...那只骷髅..是不是衫——
 
 
 
@@ -7428,7 +7427,7 @@ LilStinger: {
 }
 
 FiveAdvance: {
-	DisplayName: 达尔里·米夏的日记簿
+	DisplayName: 达尔里·米夏的日志簿
 	Tooltip:
 		'''
 		+5%移动速度
@@ -7436,7 +7435,7 @@ FiveAdvance: {
 		+5%伤害减免
 		+5生命回复
 		+5最大生命
-		她一定会感谢你的努力的..
+		达尔里·米夏一定会感谢你的努力的..
 		'''
 }
 
