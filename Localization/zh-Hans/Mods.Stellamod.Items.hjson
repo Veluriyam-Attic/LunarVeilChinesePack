@@ -6075,7 +6075,7 @@ ExampleScriptureItem: {
 	DisplayName: 天纱圣典·介绍
 	Content:
 		'''
-		请在专家或者大师模式下游玩此mod！
+			请在专家或者大师模式下游玩此mod！
 			支持多人联机！
 			~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 			穹月天纱是一个扩展类mod，也是我的另一款游戏Diari的联动
@@ -6160,19 +6160,18 @@ VeiledScriptureGothivia: {
 		'''
 		---------------------------------------
 
-		This higher being is of the Iyx family. Related to Verlia and Vixyl they hold a high amount of skill and passion for the things they love.
-		They are to be believed to be seperated at birth from Rosemary of Ekrose from their other sister. 
-
-		This specimen bears heavy grudges and will attempt to do anything to reconcile. 
-		She had her village (Govheil Castle) taken away from her as the acidic corruption took her people, her ginzte army and her friends.
-		After Fenix took and trapped her sister this beig took a journey to go seek power from Lumi Veil, another benounced god to save her.
-		I believe she may have taken a weak singularity and bounded it to Daedus for protection meaning she is most likely the strongest being over
-		Fenix without using a singularity's power. 
-
-		She currently is gone but the people who escaped the acid from taking over ended up going to the fable, they pay their respects to her here.
-		We can only assume she has been training to save her sister for the past 30 years...
-
-		- Love Sirestias
+		这名高等存在属于伊斯家族。她与薇莉娅和维西尔是姐妹，三者皆对自己之所爱之事物有着狂热的动力与激情。
+		据说，她们三个出生时便被分开，从艾科洛斯的迷迭香城被带出。
+		
+		她为人冷酷，有仇必报，从不原谅，从不轻饶。
+		那场酸蚀灾害夺走了她的村庄（现在的歌维赫堡）、她的人民、她的玄铁军团以及她的所有至交。
+		在那以后，凤涅克丝将薇莉娅的灵魂囚禁。歌瑟梵不远万里寻到天纱琉明--另一名衰落的神明，向她恳求力量来拯救自己。
+		在我看来，她应该是得到了一颗较弱的奇点，并将它绑定在守护者代达斯身上。这就意味着，在力量上她应是胜过凤涅克丝一筹的。
+		
+		现如今她不知所踪。她之前的臣民中，逃脱了酸蚀灾难者前往了古谕村落，并在那里继续对她的敬仰与崇拜。
+		我们只能假设，过去的30年里她始终在修炼自身力量，准备救出她的姐妹...
+		
+		- 爱你的 希丝忒莉亚
 		'''
 }
 
@@ -6190,32 +6189,32 @@ VeiledScriptureAzurerin: {
 		这名高等存在直属天纱家族，为天纱琉明的两个姐妹之一。
 		另一名姐妹即为“绛渊恶巫”，正式名称为“天寰神巫”。她也有一颗奇点，绑定于自身的灵魂。
 		
-		This specimen has a strong resemblence to the stars and was heavily connected to Cozmire throughout her life.
-		Through family complications this higher being sought power to gain connection to her other sisters. She sought
-		out more power through a singularity with Lumi and ended up becoming powerful but to no avail of having more of a 
-		bond. A being of care and overthinking. She may prove to be a challenge due to her soul being binded but she is lost,
-		so take advantage of that. She also took part in sealing Sigfried so her and Zui have a small connection.
+		她对繁星有着强烈的共鸣，也与天寰神巫建立了深厚的联系。
+		在家庭的种种因素下，她也开始寻求力量，只为让她的姐妹不再疏远。是她主动向琉明要求奇点，但其赋予的力量并没有帮助她完成最初的目标。
+		她行事拘谨，深思熟虑。她的灵魂已和奇点绑定，使她成为一名可怕的敌手，但她的迷茫与优柔寡断正是她的弱点。
+		另外，在封印齐格飞的行动中她也出了一份力，她与蕊还有一丝交情。
 
-		Currently they are residing in the stars watching from above, sleeping and casting Aurorean starfalls with their dreams.
-		They await for their sister's rebound.
+		现如今，她与琉明沉眠于星海中，梦境中的繁星化作极光星雨落向大地。
+		等待着另一名姐妹的归来...
 
-		- Love Sirestias
+		- 爱你的 希丝忒莉亚
 
 		'''
 }
 
 VeiledScriptureMiner1: {
 	Tooltip: 左键阅读
-	DisplayName: 日记 1
+	DisplayName: 日志1
 	Content:
 		'''
 
-		Today I found some REALLY good coal. Like I know I'm supposed to be looking for diamonds but like-
-		how can I say no to all of this? I need this to smelt some ores. My buddy Bimbam over here keeps throwing dynamite and
-		getting stuck in the vines, you know everyday we are minin' I'm always thinking about butch lesbians.
-		Reporting from day one of a miner of Fenix Corporations!
+		今天我找到了一大片超--高质量的煤炭！我知道我是来找宝石什么的但是...我怎么可能拒绝这些嘛！
+		再说，我要烧矿石肯定用得到这些煤炭的。
+		冰邦那哥们一直在乱扔雷管，还把自己缠进藤蔓里了
+		知道吗，每天在这挖矿我都想着要个壮实的妞来找我...
+		凤涅克丝企业的新人矿工汇报，第一天！
 
-		- Dharlie Mixam's log 1!
+		- 达尔里·米夏的日志-1
 
 		'''
 }
@@ -6225,18 +6224,18 @@ VeiledScriptureSigfried: {
 		'''
 		---------------------------------------
 
-		Belonging to the Sepsis family, being the old lord of the Illuria and the Lunar tree, of all things silver.
-		Exiled out of the community this one is, Sigfried lost control and set off chain reactions throughout the lands
+		这名高等存在属于星烁家族，是星之巨树的旧主，银光之王。
+		他被逐出了自己的王国，在疯魔的驱使下，在大陆各处造成了连锁反应般的巨大破坏。
+		
+		看来，齐格飞并没有至亲之人。他是一名技艺精湛的潜行者与盗贼，却惹上了自己也无法解决的麻烦。
+		现在的星树之主是他的兄弟，曾是一名追求正义的义警，却在继位后被一颗高等奇点--破碎脉冲星的力量腐化已至疯狂。
+		4、50年前，齐格飞从天纱琉明那里偷走了一颗奇点，并直接将其融入了自己的身体。
+		殊不知，此举让他完全失控，几乎毁灭了整个世界。凤涅克丝的父母也为他所杀，导致她本人过早继承皇室首都之位，为之后那场大征战埋下了导火索。
+		几经周折，齐格飞的暴行终于被制止，他本人也被封印在一枚脉冲之钥中，深藏地下。阻止他的正是蕊。
 
-		Sigfried seemed to have no relative connection but was a masterclass thief who bit off more than they could chew.
-		He has a brother who now holds the throne in Illuria. Once a vigilante who sought peace turned insane by taking in the power
-		of a high singularity, Pulsar Fragment. 40 or 50 so years ago Sigfried stole a singularity from Lumi Veil and merged it with his body.
-		Unknowingly doing this caused him to loose control of his body and destroying the world as we know it. Killing of Fenix's parents, which
-		would allow her to rise to the throne of her own Capital and becoming crazy herself. He was exiled after the destruction and was trapped
-		within a Pulsing Key which is hidden away deep underground, Zui being the one to stop him.
-
-		To bring out Lumi we may need to reawaken him.
-		- Love Sirestias
+		想要让天纱琉明重新露面，需要的那场大灾难就劳烦他啦。
+		
+		- 爱你的 希丝忒莉亚
 
 		'''
 	DisplayName: 天纱圣典·齐格飞
@@ -6256,7 +6255,7 @@ VeiledScriptureCozmire: {
 		虽说如此，她将自己拥有的力量无所保留地用于作恶，最终导致整个家族的失调与没落...真是个有趣的存在。
 
 		她本名为“天寰神巫”，由天纱琉明所赋予生命。她被赋予了掌控寰宇的能力，却将其随意挥洒于地上，造成了数不胜数的破坏。此举对天纱家族
-		无疑是一次重创，另一姐妹-艾祖瑞霖几因悲痛而支离破碎。为了安抚天寰神巫，琉明将一颗奇点赠与她。谁料本应是彰显爱意之物，却被她
+		无疑是一次重创，另一姐妹--艾祖瑞霖几因悲痛而支离破碎。为了安抚天寰神巫，琉明将一颗奇点赠与她。谁料本应是彰显爱意之物，却被她
 		反手转让给凤涅克丝，只为得到更多力量。这次交易彻底腐蚀了她的灵魂。凤涅克丝用这颗奇点犯下了令人发指的罪行，但从未让其融入自己的灵魂。
 		现如今，她有了一个更加广为人知的名字--“绛渊恶巫”。全世界的作恶之人仍然敬仰着她，期待她降下腥天统治万物。
 		
@@ -7096,7 +7095,7 @@ ManifestedAnxiety: {
 	Tooltip: 
 		'''
 		绛渊恶巫的灵魂之核心，具现化于此。
-		绛渊恶巫的惊怖与担忧已然随她的倒下而散去，但对她的恐惧依旧。
+		绛渊恶巫散布的惊怖与担忧已然随她的倒下而散去，但对她的恐惧依旧。
 		'''
 
 	DisplayName: 忧惧具现
@@ -7148,7 +7147,7 @@ GothiviaIyxBag: {
 
 GothiviaBossRel: {
 	DisplayName: 歌瑟梵圣物
-	Tooltip: 烈阳总有落下之时....
+	Tooltip: 烈阳终有落下之时....
 }
 
 SerpentWings: {
@@ -7211,7 +7210,7 @@ VeiledScriptureMiner2: {
 		Bimbam took the crazy idea to walk up to her and ask her out AND SHE ATTACKED US.
 		Im done mining for coal. I think I might as well submit to the STARBOMBERS.
 
-		- Dharlie Mixam's log 2!
+		- 达尔里·米夏的日志-2
 
 		'''
 }
@@ -7437,7 +7436,7 @@ FiveAdvance: {
 		+5%伤害减免
 		+5生命回复
 		+5最大生命
-		他一定会感谢你的努力的..
+		她一定会感谢你的努力的..
 		'''
 }
 
