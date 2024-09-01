@@ -4714,7 +4714,7 @@ ComicalTrident: {
 }
 
 MetalAlloy: {
-	DisplayName: 金属合金
+	DisplayName: 合金锭
 	Tooltip: 虽非材料，但在德国就不一定了
 }
 
@@ -5548,7 +5548,7 @@ ShopNote: {
 
 FenixBossRel: {
 	DisplayName: 凤涅克丝圣物
-	Tooltip: 卡里亚军队的总指挥，一通征战后只让世界变得乌烟瘴气。
+	Tooltip: 卡里亚军队的总指挥，胸怀大志南征北战，最终却只让世界变得乌烟瘴气。
 }
 
 IrradiaBossRel: {
