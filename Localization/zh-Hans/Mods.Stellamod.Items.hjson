@@ -1176,7 +1176,7 @@ ShadowFlamePowder: {
 }
 
 TrickPowder: {
-	DisplayName: 戏法魔法尘
+	DisplayName: 诡术魔法尘
 	Tooltip:
 		'''
 		向他们洒下魔法尘
@@ -1241,7 +1241,7 @@ Teraciz: {
 }
 
 Violar: {
-	DisplayName: 维奥拉
+	DisplayName: 爆音琴
 	Tooltip:
 		'''
 		让火焰与之共鸣！
@@ -1465,7 +1465,7 @@ SupernovaSitar: {
 }
 
 Parendine: {
-	DisplayName: 霜寒鞭
+	DisplayName: 霜寒鞭刃
 	Tooltip: 霜冻鞭击！
 }
 
@@ -1799,7 +1799,7 @@ DesertWhip: {
 
 Vinger: {
 	Tooltip: 我不记得哥布林们使用过这个...
-	DisplayName: 暗焰长鞭
+	DisplayName: 暗焰长鞭刃
 }
 
 CharmofRot: {
@@ -3020,7 +3020,7 @@ HolmbergScythe: {
 }
 
 Alcarish: {
-	DisplayName: 长鞭
+	DisplayName: 阿卡里亚鞭刃
 	Tooltip: 玄铁人胆大妄为，竟然从士兵那里偷走了如此有用的东西
 }
 
@@ -4290,7 +4290,7 @@ GrailAxe: {
 }
 
 Rinavine: {
-	DisplayName: 翠焰长鞭
+	DisplayName: 翠焰长鞭刃
 	Tooltip: 金光璀璨，万物臣服之君
 }
 
@@ -4524,7 +4524,7 @@ IronHook: {
 }
 
 Kaevine: {
-	DisplayName: 毒棘藤鞭
+	DisplayName: 毒棘藤鞭刃
 	Tooltip: ""
 }
 
@@ -5730,8 +5730,8 @@ RadiantArrow: {
 }
 
 AdamantiteBullet: {
-	DisplayName: 坚钢弹
-	Tooltip: 攻击两次，第二次攻击虽然较弱，但能穿透护甲
+	DisplayName: 精金穿甲弹
+	Tooltip: 双连破甲击，首击震魂魄，次击虽弱，却透甲入骨，如影随形，令强敌无处遁形
 }
 
 EldritchArrow: {
@@ -5745,7 +5745,7 @@ DriveRound: {
 }
 
 SpacialDistortionBullet: {
-	DisplayName: 扭曲之矢
+	DisplayName: 扭曲子弹
 	Tooltip: 燃起深渊之焰，焚尽一切黑暗与罪恶，让不灭的火光照亮深渊的尽头。
 }
 
@@ -5794,7 +5794,7 @@ DirtGlove: {
 }
 
 TwilitTome: {
-	DisplayName: 暮光法典
+	DisplayName: 暮光秘法典
 	Tooltip: ""
 }
 
@@ -5946,13 +5946,13 @@ IlluriaTreeBigI: {
 }
 
 ThePollinator: {
-	DisplayName: 授粉者
+	DisplayName: 彩蕊散花
 	Tooltip:
 		'''
 		{$CommonItemTooltip.SummonTagDamage}
 		{$CommonItemTooltip.Whips}
 		它能够对敌人进行“授粉”，大幅度减缓他们的行动速度
-		它散发着蕊的花朵的力量，辐射出令人震慑的光芒
+		它散发着蕊之花朵的力量，辐射出令人震慑的光芒
 		'''
 }
 
@@ -6274,7 +6274,7 @@ VeiledScriptureCozmire: {
 }
 
 SplashAttack: {
-	DisplayName: 彩墨挥洒鞭
+	DisplayName: 挥墨泼彩鞭
 	Tooltip:
 		'''
 		{$CommonItemTooltip.SummonTagDamage}
@@ -6445,7 +6445,7 @@ AlcaliteTrunks: {
 }
 
 IlluriteDrill: {
-	DisplayName: 星树钻头
+	DisplayName: 星树合金钻
 	Tooltip: 它周期性地爆发，犹如精准的爆破采矿，震撼四方，光芒四射
 }
 
@@ -6595,7 +6595,7 @@ IshtarCard: {
 		以神秘粉末标记敌手
 		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
-	DisplayName: 伊斯塔符牌
+	DisplayName: 狂渊符牌
 }
 
 Orion: {
@@ -7063,7 +7063,7 @@ Mordred: {
 
 TheMarksman: {
 	Tooltip: 用你的光标，召唤天纱之力，释放电流！
-	DisplayName: 神射手
+	DisplayName: 标定霹雳杖
 }
 
 STARBOMBERBossRel: {
@@ -7486,7 +7486,7 @@ Pegasus: {
 }
 
 WoodyBroochA: {
-	DisplayName: 木饰符
+	DisplayName: 根系饰符
 	Tooltip:
 		'''
 		接触地面时增加30%伤害！
