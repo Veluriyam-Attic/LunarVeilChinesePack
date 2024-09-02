@@ -2687,11 +2687,11 @@ DripplerStaff: {
 }
 
 IrradiatedCreeperStaff: {
-	DisplayName: 辐射潜行法杖
+	DisplayName: 辐射爬行者法杖
 	Tooltip:
 		'''
-		召唤受辐射影响的潜行者，为你而战！
-		辐光潜行者对敌人释放辐射，移动轨迹充满神秘
+		召唤受辐射影响的爬行者，为你而战！
+		辐射爬行者对敌人释放辐射，移动轨迹充满神秘
 		我看到了它与辐射共生的奇妙之处
 		'''
 }
@@ -3025,8 +3025,8 @@ Alcarish: {
 }
 
 AurelusBlightBroochA: {
-	DisplayName: 枯影饰符
-	Tooltip: 发出明亮的光！
+	DisplayName: 匿影饰符
+	Tooltip: 光越亮，影越浓...
 }
 
 AbyssalPowder: {
