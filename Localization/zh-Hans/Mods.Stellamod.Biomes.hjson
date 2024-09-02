@@ -104,8 +104,8 @@ Laboratory: {
 }
 
 IlluriaBiome: {
-	TownNPCDialogueName: 星树环境
-	DisplayName: 星树环境
+	TownNPCDialogueName: 星树
+	DisplayName: 星树
 }
 
 IshtarBiome: {
