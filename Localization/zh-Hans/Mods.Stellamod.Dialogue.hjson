@@ -173,12 +173,12 @@ GothiviaDialogue3: 也罢。我会为我身边的人复仇。他们的志向与�
 EreshTalk1: 哎哎哎？我就是让你进来看看我那完美的丈夫，但你给我带来的这是？这上面还有他的签名！我一眼就看出来了！你不会是想和我争他吧？
 EreshTalk2: 蕊之前确实联系了我，她人还是那么好！但我真没想到她还会托人给我带礼物！谢谢你，这本相册我就收下了，我一定会一张、一张仔细看个遍的...
 EreshTalk3: 你说什么？想要借我的力量来召唤一颗奇点？哦，你想要见见那个艾祖瑞霖是吧。她倒是和我无冤无仇，但我也明白你为什么会想见她——她长得确实好看。
-EreshTalk4: 我完全可以直接把奇点从天上拽下来的。等下，这个门给你，它应该可以把奇点召唤来。让我想想那个咒语...ふじゅつ　すぱのら　フラグメント。好了，拿去吧。
-SirestiasTalk15: It's time to kill one of our more challenging specimens. Take on Verlia at the top of the Cathedral, but before then make her lantern, you might need to explore a bit. Let me know how you do.
-SirestiasTalk16: "Wowie, goodness gracious. I think we're getting places! "
-SirestiasTalk17: Ok so um, I hate to say this but I don't really have any tasks for you to do for now. Feel free to explore and do some other things. I'll catch up with you when I'm done exploring the world. I have some old friends to talk to..
-SirestiasTalk18: Verlia is our first step to getting to Gothivia, and her influence keeps ruining everything. She doesn't seem too bad but her influence on the world is so negative that we have to kill her. I think you should go find the catacombs soon. Anyways I'll be back.
-SirestiasTalk19: You're getting pretty good at this you know. Take that manifestation to Ordin, he seemed pretty compliant, except her kind of wants everything gone. I think I have to start doing something at least.
+EreshTalk4: 我完全可以直接把奇点从天上拽下来的。对了，这个门给你，它应该可以把奇点召唤来。让我想想那个咒语...ふじゅつ　すぱのら　フラグメント。好了，拿去吧。
+SirestiasTalk15: 是时候去打倒一个真正有挑战性的目标了。去辉月仪殿的最顶上拿到薇莉娅的提灯，点燃它！你可能还需要探索探索，这当然是你的自由啦。
+SirestiasTalk16: 哇耶，真是让我大开眼界！我们的进度前进了好多！
+SirestiasTalk17: 好吧，所以...我不太想说这个，但是你已经完成了我现阶段的所有目标。接下来这段时间就由你自由支配吧。现在我需要到世界各处转转，找几个老相识商讨一下。
+SirestiasTalk18: 薇莉娅是我们击落歌瑟梵计划中的第一步。如果放任不管，她的力量与影响将让我们的一切努力付诸东流。其实她本人并不坏，但仅是她的存在就对世界造成了极大的伤害。说句题外话，你最近应该可以去找找那几个地下墓穴了！大胆探索吧，等我回来。
+SirestiasTalk19: 你真是越来越棒了。把那具现化的灵魂去拿给奥丁看看吧，他会帮助你利用好它的。我感觉是时候我也来做点事了。
 DreadTalk1:
 	'''
 	你...是谁...
@@ -205,33 +205,33 @@ DreadTalk4:
 	...
 	'''
 DreadTalk5: ...
-GothLoose1: No no no, not like this..
-GothLoose2: Why won't you just die???? I can't keep doing this..
-GothLoose3: I just want them back...
-SireLoose4: I mean you can have them back, I have their souls with me :)
-GothLoose5: What- who even are you...
-SireLoose6: The one who has your sister's soul currently. I may have snatched it but I have a proposal for you.
-GothLoose7: Is this punishment?? I haven't even done anything to you and this is how we're treated? Ok fine, what's the deal?
-SireLoose8: You can have your sister if you decide to work alongside us. I know you're not totally bad but your influnce is very negative and I can't have that stand.
-GothLoose9: So what are you saying?
-SireLoose10: Just be apart of the team and use your powers for good and we can try to help save your little sister Verlia here.
-GothLoose11: ... Fine
-GothLoose12: Just give me back my sister, I can forgive you partially but you still killed Irradia..
-SireLoose13: I apologize but some things must be done for my goals to be met.
-SireLoose14: Here. You can have your sister back and we'll call you when needbe, otherwise, no more magic or weapon usage from you anymore, if you do I'll send them to kill you for real :)
-GothLoose15: Whatever. Thanks I guess.
+GothLoose1: 不行...不行...
+GothLoose2: 你为什么还活着????我已经撑不下去了...
+GothLoose3: 我只想再见她们一面...
+SireLoose4: 你当然可以再见她们一面啦，她们的灵魂都在我这呢 :)
+GothLoose5: 什么——你又是谁啊...
+SireLoose6: 我是谁不重要，重要的是现在我有你姐妹的灵魂哦。我有一个提议，要不要听？
+GothLoose7: 这是对我的惩罚吗？我和你们毫无纠葛，你们却如此对我？唉，好吧，什么提议？
+SireLoose8: 我可以把你的姐妹还给你，前提是你配合我们。我知道你本心不坏，但你对这世界就是一个负面影响，我不能容许这种影响存在下去。
+GothLoose9: 所以要我干什么？
+SireLoose10: 顺着我们的意思来就可以。我会想办法把薇莉娅复原的。
+GothLoose11: ...也罢。
+GothLoose12: 把她还给我，这账一笔勾销。但别想着我会忘记你们还杀了伊瑞蒂安...
+SireLoose13: 对此我深感抱歉，但伟大目标的达成是一定会伴有牺牲的。
+SireLoose14: 好的，我们需要你的时候会再次联系你的。在那之前，你的武器和魔法什么的当然不许再用了。敢违规，我们就真的杀了你哦 :)
+GothLoose15: 你说是就是吧。我是不是还得谢谢你？
 SirestiasTalk20:
 	'''
-	*This is a message from Sirestias*
-	Please take this time to explore the world! I'm going to be out to find and talk to some people to help us on our expedition. Alternatively could you kill Irradia for us? It would set things in motion, thank you!
+	*一条来自希丝忒莉亚的消息*
+	趁现在尽情探索世界吧！我现在正忙着寻找一些能够帮助我们的人。如果你有空，去酸蚀之地干掉伊瑞蒂安吧！这样能够推动我们的计划再向前一步。感谢！
 	'''
-SirestiasTalk21: Sorry I've been quite busy as you've seen.. Ereshkigal you say?? That's a name I havent heard in a while. I'm suprised she's here. If she's attached to Sigfried like you suggest than maybe Ordin in the cinderspark has something for you.
-SirestiasTalk22: She can definitely help us getting things down from Azurerin since her power is to turn exponential space into a confined smaller space. She might be able to take the singularity really easily so go to Ordin.
-SirestiasTalk23: Woa nice! I'm so proud of you dear. I think we are definitely cleaning up this world for the purest of intentions. Soon enough we can move onto bigger goals and hunt the most powerful of beings.
-SirestiasTalk24: Although enough yip-yap, we are a step closer to killing all these ill-wounded beings, making Gothivia our next target. If you haven't killed Irradia yet, go ahead and do so. If you have I can move on to go get Verlia's soul.
-SirestiasTalk25: For now it'll be up to me to harvest her soul from her decayed explosion but we may be able to use it as leverage against Gothivia. I've learned information that she wasn't that bad of a person but caused bad things to happen. So maybe we can bargain.
-SirestiasTalk26: Woop woop we got the moonlord 2! And I got the moonlady Verlia's soul! You scattered her soul quite a bit I have to say but overall I finished that up so we're ready!
-SirestiasTalk27: This may sound crazy but I think we are ok to take down Rek and Gothivia now. Rek is her personal bodyguard and from what I've learned he's sort of a big deal to her as he's been around her since she was a child. He is a serpent so he's fast, beware.
-SirestiasTalk28: Gothivia isn't all too hostile and she didn't accept a singularity but used it for good so she isn't nearly that evil but Rek definitely is. He's the last living dragon serpent from what Ordin told me. We should kill him.
-SirestiasTalk29: Sun Serpent down. Operation kill beat Gothivia. I'll take it from there...
-SirestiasTalk30: For the time being, I have nothing for you. I'll schedule some future plans but in the meantime I think Aimacra would like to talk to you in Ekrose. Please go play Diari on steam, thank you :)
+SirestiasTalk21: 抱歉我最近有点忙...你说厄莉什基迦勒？上次听到这名字是好久之前了。她居然在这！她很亲近齐格飞是吗...如果是这样，熔星炎域的奥丁可能有个能帮到你的东西。
+SirestiasTalk22: 她绝对能帮我们把艾祖瑞霖的东西弄下来，毕竟她的能力就是将指数级的空间微缩。召唤一颗奇点对她来说如同探囊取物。快去找奥丁吧。
+SirestiasTalk23: 再一次干得漂亮！我太为你自豪了亲爱的。照这样下去净化整个世界指日可待！我们可以移步到更加重要的计划上了。
+SirestiasTalk24: 虽然搞得鸡飞狗跳，但我们离击败那些高等存在又近了一步。歌瑟梵就是下一个目标。如果你还没打败伊瑞蒂安，请快去。
+SirestiasTalk25: 现在我要从你们战斗的那场爆炸中收集薇莉娅的灵魂，到时候它就是我们和歌瑟梵谈判的筹码。据我所知，歌瑟梵为人并不邪恶，也许这真的行得通。
+SirestiasTalk26: 芜湖！月球领主也不是我们的对手！还有个好消息，我拼齐了薇莉娅的灵魂！你们那场打得可真狠，她的灵魂都成碎片了。总的来说，我们一切就绪！
+SirestiasTalk27: 听起来不可思议，但我们已经有能力迎战莱克和歌瑟梵了。莱克就是她身边的那条盘龙，听说他陪伴了她一生，对她意义非凡。战斗起来他的速度非常快，小心。
+SirestiasTalk28: 歌瑟梵从未真正接受那颗奇点，使用其力量也是为了行善，其实没有做什么恶事。但莱克就不一样了。奥丁告诉我他是最后一条活着的盘龙，即便如此，他还是死掉为好。
+SirestiasTalk29: 盘龙击破。下个目标歌瑟梵。之后就交给我吧。
+SirestiasTalk30: 我对你没有安排了。我现在正在加紧制定未来的计划，而安魅凯拉说想要在艾科洛斯大陆见你一面。请上steam看看Diari吧，感谢游玩！:)
