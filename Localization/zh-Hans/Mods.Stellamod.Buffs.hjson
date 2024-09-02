@@ -5,7 +5,7 @@ VoidMinionBuff: {
 
 TheBurningRodMinionBuff: {
 	Description: 它燃烧着激情
-	DisplayName: 生火的木棍
+	DisplayName: 燃焰灯
 }
 
 SwarmerMinionBuff: {
@@ -15,7 +15,7 @@ SwarmerMinionBuff: {
 
 SolMothMinionBuff: {
 	Description: 哦~一只飞蛾！
-	DisplayName: 光之蛾
+	DisplayName: 日蚀飞蛾
 }
 
 ProbeMinionBuff: {
@@ -24,18 +24,18 @@ ProbeMinionBuff: {
 }
 
 MushroomStaveMinionBuff: {
-	Description: 我发誓我不吃蘑菇长官!
-	DisplayName: 小荧绽菇
+	Description: 我发誓我没看见小人，长官!
+	DisplayName: 小蘑菇
 }
 
 ManaWandMinionBuff: {
-	Description: 阿瓦达!
-	DisplayName: 魔杖
+	Description: 魔力！好喝！
+	DisplayName: 魔力药水
 }
 
 LifeWandMinionBuff: {
-	Description: 岁月!
-	DisplayName: 生命法杖
+	Description: 生命！好喝！
+	DisplayName: 生命药水
 }
 
 JellyMinionBuff: {
@@ -49,7 +49,7 @@ IvyakenMinionBuff: {
 }
 
 IrradiatedCreeperMinionBuff: {
-	Description: 这是你印象中的爬行动物吗?
+	Description: 是“爬行者”哦，泰拉瑞亚里的，不是别的
 	DisplayName: 辐射爬行者
 }
 
@@ -75,12 +75,12 @@ DripplerMinionBuff: {
 
 AuroranSeekerMinionBuff: {
 	Description: 魔法咒语百科.
-	DisplayName: 寻星之籍
+	DisplayName: 光渊觅法者
 }
 
 ArncharMinionBuff: {
 	Description: 远程控制!
-	DisplayName: 阿恩查尔试作一号
+	DisplayName: 赤铁随从
 }
 
 Wounded: {
@@ -119,12 +119,12 @@ PocketSandBuff: {
 }
 
 Love: {
-	Description: 有时小小的诡计会加速接近幸福!
+	Description: 赌徒为你提供她的爱！和一个速度增益。
 	DisplayName: 爱
 }
 
 Irradiation: {
-	Description: 新的肢体从你身上萌芽.
+	Description: 新的肢体从你身上蠕动生长...
 	DisplayName: 辐射
 }
 
@@ -250,12 +250,12 @@ AivanDust: {
 
 Dusted: {
 	Description: Mods.Stellamod.Buffs.Dusted.Description
-	DisplayName: 完成
+	DisplayName: 受尘
 }
 
 DeathMultiplierBloodLamp: {
 	Description: 挥动冥界血光
-	DisplayName: 恂影血灯
+	DisplayName: 血怒圣灯
 }
 
 DeathMultiplier: {
@@ -265,7 +265,7 @@ DeathMultiplier: {
 
 DarkHold: {
 	Description: 什么东西覆盖住了你的视线. 死亡在阴影中伺机而动...
-	DisplayName: 昏暗密室
+	DisplayName: 昏暗之攫
 }
 
 VixedB: {
@@ -285,7 +285,7 @@ StoneB: {
 
 Spragald: {
 	Description: 看看它强大的防御力!
-	DisplayName: 斯普拉德戈饰符
+	DisplayName: 蜘蛛饰符
 }
 
 Slimee: {
@@ -295,12 +295,12 @@ Slimee: {
 
 MalB: {
 	Description: 邪恶事物正在酝酿...
-	DisplayName: 恶意饰符
+	DisplayName: 恶毒盾符
 }
 
 IceBrooch: {
 	Description: 比你感受过的一切都要冷.
-	DisplayName: 极冰饰符
+	DisplayName: 月冰饰符
 }
 
 GovheilB: {
@@ -325,7 +325,7 @@ Flyfish: {
 
 DreadB: {
 	Description: 昔人逝去已久
-	DisplayName: 惧怖饰符
+	DisplayName: 恶巫惧符
 }
 
 Diarii: {
@@ -340,7 +340,7 @@ BurningGB: {
 
 BearB: {
 	Description: 熊的力量
-	DisplayName: 熊饰符
+	DisplayName: 蛮熊饰符
 }
 
 AurelusB: {
@@ -355,7 +355,7 @@ AmethystBroo: {
 
 AssassinsSlashBuff: {
 	Description: 万物皆虚,万事皆允
-	DisplayName: 刺客之剑
+	DisplayName: 刺客之刃
 }
 
 ArcaneDust: {
@@ -364,27 +364,27 @@ ArcaneDust: {
 }
 
 AcidFlame: {
-	Description: 你感觉自己长出了第六根手指.
+	Description: 身体撕裂般的疼痛
 	DisplayName: 酸性火焰
 }
 
 AbyssalFlame: {
-	Description: 黑夜以此灼烧你.
+	Description: 炽热的黑暗
 	DisplayName: 深渊火焰
 }
 
 VehementMinionBuff: {
 	Description: Mods.Stellamod.Buffs.VehementBuff.Description
-	DisplayName: 崩决
+	DisplayName: 激情狂想曲
 }
 
 VampireTorchMinionBuff: {
 	Description: 帅气登场，对吗?
-	DisplayName: 吸血鬼火炬
+	DisplayName: 吸血火炬
 }
 
 ToxicHornetMinionBuff: {
-	Description: 它的枪口弹道偏左.
+	Description: 打不中，仍然打不中
 	DisplayName: 瘟疫黄蜂
 }
 
@@ -404,13 +404,13 @@ CloudMinionBuff: {
 }
 
 ChromaCutterMinionBuff: {
-	Description: 斩碎切割在泰拉瑞亚中!
-	DisplayName: 能谱切割仪
+	Description: 切割，斩碎！
+	DisplayName: 七色剑刃
 }
 
 AlcadWandMinionBuff: {
 	Description: 轻轻洒出凤涅克丝的洗澡水.
-	DisplayName: 阿尔法德魔杖
+	DisplayName: 阿尔卡迪亚药水
 }
 
 CameraMinBuff: {
@@ -440,12 +440,12 @@ Starbombin: {
 
 ShadowBoost: {
 	Description: 贯穿恒夜的阴暗
-	DisplayName: 熵增之影
+	DisplayName: 暗影之力
 }
 
 Sected: {
 	Description: 好吧我的意思是性欲
-	DisplayName: 兴致
+	DisplayName: 兴欲
 }
 
 MiracleBoost: {
@@ -460,7 +460,7 @@ MasteryMagic: {
 
 Liberator: {
 	Description: 脉冲光束!
-	DisplayName: 士兵男孩
+	DisplayName: 解放
 }
 
 Lacerated: {
@@ -479,13 +479,13 @@ Friendzied: {
 }
 
 Executor: {
-	Description: 用激光烤熟他们的蛋蛋
-	DisplayName: 执 行 者
+	Description: 用激光烤熟他们！
+	DisplayName: 制裁
 }
 
 UseIgniter: {
-	Description: 现在握住并喷射你的点火器!
-	DisplayName: 火焰喷射者
+	Description: 使用符牌按住引爆魔法尘！
+	DisplayName: 符牌准备！
 }
 
 SpiritDust: {
@@ -509,8 +509,8 @@ AgreviDust: {
 }
 
 SandyB: {
-	Description: 这不是一张沙子的脸
-	DisplayName: 沙暴饰符
+	Description: 再也不怕风沙拍脸！
+	DisplayName: 风沙饰符
 }
 
 RoseB: {
@@ -519,23 +519,23 @@ RoseB: {
 }
 
 MagicalBroo: {
-	Description: 你撒谎并不让人意外
-	DisplayName: 神奇饰符
+	Description: 它根本没有魔法！你撒谎！
+	DisplayName: 魔能饰符
 }
 
 LuckyB: {
-	Description: 一条好运的母狗
-	DisplayName: 幸运饰符
+	Description: 走运的家伙
+	DisplayName: 赌神饰符
 }
 
 JellyB: {
 	Description: 你可以将我凝固 ;)
-	DisplayName: 凝胶饰符
+	DisplayName: 水母饰符
 }
 
 BonedB: {
-	Description: 你真是太瘦了
-	DisplayName: 骨瘦如柴
+	Description: 跟你挑骨头！
+	DisplayName: 掷骨饰符
 }
 
 Chained: {
@@ -545,7 +545,7 @@ Chained: {
 
 CannotUseFlask: {
 	Description: 你现在不能使用瓶子
-	DisplayName: 禁用瓶子
+	DisplayName: 瓶子冷却
 }
 
 Alcadded: {
@@ -554,23 +554,23 @@ Alcadded: {
 }
 
 BucketScrapperMinionBuff: {
-	DisplayName: 切削铲齿
+	DisplayName: 桶击勇士
 	Description: 准备好冲向-
 }
 
 Zuid: {
 	Description: Mods.Stellamod.Buffs.Zuid.Description
-	DisplayName: 瑞徳
+	DisplayName: 蕊
 }
 
 VillagersB: {
 	Description: Mods.Stellamod.Buffs.VillagersB.Description
-	DisplayName: 村民B
+	DisplayName: 村庄饰符
 }
 
 AmberB: {
 	Description: Mods.Stellamod.Buffs.AmberB.Description
-	DisplayName: 琥珀B
+	DisplayName: 琥珀饰符
 }
 
 SFBuff: {
@@ -624,18 +624,18 @@ SineSireDebuff: {
 }
 
 IllurianB: {
-	Description: 感觉不健康
-	DisplayName: 星树B
+	Description: 星树神力
+	DisplayName: 星树饰符
 }
 
 FlowerPower: {
 	Description: Mods.Stellamod.Buffs.FlowerPower.Description
-	DisplayName: 花之能源
+	DisplayName: 花之力
 }
 
 SigfriedsInsanity: {
-	Description: 齐格飞用你无法想象的癫狂灼烧你.在蕊之后归来.
-	DisplayName: 齐格飞狂怒
+	Description: 齐格飞用你无法想象的癫狂灼烧你。打败蕊之后再来！
+	DisplayName: 齐格飞之狂怒烈焰
 }
 
 ShadeWrath: {
@@ -649,37 +649,37 @@ ShadeWrathCooldown: {
 }
 
 BabySwarmerMinionBuff: {
-	DisplayName: 妖黄蜂
+	DisplayName: 小蜂群
 	Description: 它们无处不在!
 }
 
 FlamesOfIlluria: {
-	Description: 熊熊燃烧
+	Description: 焚灭
 	DisplayName: 星树焰火
 }
 
 ISHNYIREShow: {
-	DisplayName: 伊 什 尼 尔
+	DisplayName: Ish N Yire
 	Description: 希丝忒莉亚武器模式
 }
 
 IshShow: {
-	DisplayName: 艾希
+	DisplayName: Ish
 	Description: 希丝忒莉亚武器模式
 }
 
 VireShow: {
-	DisplayName: 维尔
+	DisplayName: Vire
 	Description: 希丝忒莉亚武器模式
 }
 
 YireShow: {
-	DisplayName: 伊云
+	DisplayName: Yire
 	Description: 希丝忒莉亚武器模式
 }
 
 ColdheartAnklebiterDebuff: {
-	DisplayName: 脚踝冰冷减益
+	DisplayName: 极寒刺裂
 	Description: 被咬啦
 }
 
@@ -689,12 +689,12 @@ IlluBuff: {
 }
 
 IshyBuff: {
-	DisplayName: 伊希
+	DisplayName: 渊狂
 	Description: Mods.Stellamod.Buffs.IshyBuff.Description
 }
 
 MushyBuff: {
-	DisplayName: 糊状
+	DisplayName: 蘑菇
 	Description: Mods.Stellamod.Buffs.MushyBuff.Description
 }
 
@@ -714,7 +714,7 @@ VixylDodgeBuff: {
 }
 
 JacksonPollockMinionBuff: {
-	DisplayName: 杰森·布拉克
+	DisplayName: 杰克逊·泼洛克
 	Description: 如此伟大的艺术创作 :)
 }
 
@@ -724,7 +724,7 @@ PotOfGreedMinionBuff: {
 }
 
 ReflectionSeekerMinionBuff: {
-	DisplayName: 仿生泪滴
+	DisplayName: 觅影者
 	Description: 你为什么盯着你自己?
 }
 
@@ -764,12 +764,12 @@ MoonFlame: {
 }
 
 IridineNecklaceCDBuff: {
-	DisplayName: 冥顽项链冷却
+	DisplayName: 虹星项链冷却
 	Description: 你不能复活!
 }
 
 MarksMan: {
-	DisplayName: 马克斯·曼
+	DisplayName: 神枪手
 	Description: 看呐，手握双枪!
 }
 
