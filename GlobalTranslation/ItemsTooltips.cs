@@ -35,7 +35,7 @@ namespace LunarVeilChinesePack.Localization
                         tl.Text = tl.Text.Replace("Please check out my game Diari!", "有空的话也请去看看我的游戏Diari！");
                         tl.Text = tl.Text.Replace("This mod is in relation to the game", "此mod的剧情与它有联系");
                         tl.Text = tl.Text.Replace("Can be changed to", "可使用宝珠转化为");
-                        tl.Text = tl.Text.Replace("(A)Honestly could wipe out many wide varieties of enemies!", "威力强劲，横扫千军！");
+                        tl.Text = tl.Text.Replace("(A)Honestly could wipe out many wide varieties of enemies!", "（A）威力强劲，横扫千军！");
                         tl.Text = tl.Text.Replace("(A) Extremely good for targeting! Needs an enemy alive to work!", "敌人无可遁形！前提是要有敌人");
                         tl.Text = tl.Text.Replace("(A+) Strikes enemies with some straight ass star power!", "（A+）引导繁星之力，降下天罚！");
                         tl.Text = tl.Text.Replace("Greatsword Weapon Type", "武器类型：巨剑");
@@ -45,7 +45,7 @@ namespace LunarVeilChinesePack.Localization
                         tl.Text = tl.Text.Replace("The sorrowing souls within are crying", "聆听那灵魂的哀嚎...");
                         tl.Text = tl.Text.Replace("This weapon is bound by Fenix", "凤涅克丝的力量缠绕于其上");
                         tl.Text = tl.Text.Replace("(S) Explosion damage is out of this world!", "（S）超神的爆炸伤害修正！");
-                        tl.Text = tl.Text.Replace("(A) Honestly could wipe out many wide varieties of enemies!", "威力强劲，横扫千军！");
+                        tl.Text = tl.Text.Replace("(A) Honestly could wipe out many wide varieties of enemies!", "（A）威力强劲，横扫千军！");
                         tl.Text = tl.Text.Replace("A weapon so powerful, it holds a gravitation pull and can change forms!", "有股力量将周围的一切吸向它...还可以改变形态！");
                         tl.Text = tl.Text.Replace("Right click for a powerful gravitation slam!", "右键释放强力俯冲猛砸地面！");
                         tl.Text = tl.Text.Replace("(S) Use your right click to switch between 4 forms!", "右键在4个形态中切换！");
