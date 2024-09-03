@@ -56,7 +56,7 @@ namespace LunarVeilChinesePack.Localization
 
                             case 3:
                                 //What is a thug shaker? To shake or not to shake? Sometimes I wonder if life truly does give lemons.
-                                Main.npcChatText = $"填入汉化文本";
+                                Main.npcChatText = $"摇滚暴徒？摇滚还是不摇滚，这是个问题...生活真的会给我柠檬吗？";
 
                                 break;
 
