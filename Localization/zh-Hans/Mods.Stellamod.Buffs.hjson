@@ -649,7 +649,7 @@ ShadeWrathCooldown: {
 }
 
 BabySwarmerMinionBuff: {
-	DisplayName: 小蜂群
+	DisplayName: 蚁狮蜂宝宝
 	Description: 它们无处不在!
 }
 
