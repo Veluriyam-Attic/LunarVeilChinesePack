@@ -1346,7 +1346,7 @@ BurningAngel: {
 }
 
 GovheilBoreI: {
-	DisplayName: 歌维赫圣像
+	DisplayName: 歌维赫塑像
 	Tooltip: ""
 }
 
@@ -1435,9 +1435,9 @@ SwordsOfRevengence: {
 	Tooltip:
 		'''
 		我心永恒，爱意不灭！
-		召唤一把卡里斯汀之剑，唤醒薇莉亚小剑的生命力！
+		召唤一把卡里斯汀之剑，唤醒薇莉亚的小剑！
 		仅在敌人近身时激活
-		激发薇莉亚胸针效果！
+		激发薇莉亚饰符效果！
 		（魔力提升50，防御加5，击中时有密集雪花！）
 		'''
 	DisplayName: 复仇之剑
@@ -1920,7 +1920,7 @@ RuneOfShade: {
 
 RuneOfStealth: {
 	DisplayName: 潜伏符文
-	Tooltip: 随时间积累增加伤害，直到受伤.增益积累到最大时你的身体会发出红光
+	Tooltip: 随时间积累增加伤害，直到受伤.增益积累到最大时你的身体会发出红光.
 }
 
 ShadeCharm: {
@@ -1934,7 +1934,7 @@ ShadeScarf: {
 		'''
 		增加移动速度
 		+2%伤害
-		具有潜遁披巾的所有效果，并且增加了+10最大生命与+10%暴击率！
+		具有潜遁披巾的所有效果，并且还增加了+10最大生命与+10%暴击率！
 		增加生命回复！
 		减少冲刺冷却！
 		'''
@@ -2092,7 +2092,7 @@ HeavyMetalLegs: {
 }
 
 LeatherBody: {
-	DisplayName: 皮革甲
+	DisplayName: 皮革上衣
 	Tooltip: +4%远程暴击率
 }
 
@@ -2241,7 +2241,7 @@ EldritchSoul: {
 
 Ivythorn: {
 	DisplayName: 荆棘常春藤
-	Tooltip: 这就像一种毒藤，它悄无声息地在生物间蔓延，用它的枝蔓编织出一片绿意，但这份绿意却藏着剧毒，美丽外表下隐藏着致命的陷阱
+	Tooltip: 一种剧毒的藤蔓，肆意生长在世界各处，甚至蔓延至生物体内.
 }
 
 LostScrap: {
@@ -2280,7 +2280,7 @@ MetallicOmniSource: {
 
 UnknownCircuitry: {
 	DisplayName: 神秘电路
-	Tooltip: 皇室首都出现后，旧的机械王国陷落，这电路从那时开始几千年来都在一个被遗忘的角落积灰
+	Tooltip: 皇室首都出现后，旧的机械王国陷落，这电路从那时开始几千年来都在一个被遗忘的角落积灰.
 }
 
 TerrorFragments: {
