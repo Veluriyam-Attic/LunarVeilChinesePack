@@ -54,8 +54,8 @@ DrakonicManor: {
 }
 
 CindersparkBiome: {
-	TownNPCDialogueName: 炽星烬土
-	DisplayName: 炽星烬土
+	TownNPCDialogueName: 烬火之地
+	DisplayName: 烬火之地
 }
 
 CathedralBiome: {
@@ -64,23 +64,23 @@ CathedralBiome: {
 }
 
 CatacombWater: {
-	TownNPCDialogueName: 浸水墓穴
-	DisplayName: 浸水墓穴
+	TownNPCDialogueName: 水之墓穴
+	DisplayName: 水之墓穴
 }
 
 CatacombTrap: {
-	TownNPCDialogueName: 陷阱墓穴
-	DisplayName: 陷阱墓穴
+	TownNPCDialogueName: 机关墓穴
+	DisplayName: 机关墓穴
 }
 
 CatacombFlames: {
-	TownNPCDialogueName: 璃火墓穴
-	DisplayName: 璃火墓穴
+	TownNPCDialogueName: 狱之墓穴
+	DisplayName: 狱之墓穴
 }
 
 AurelusBiome: {
-	TownNPCDialogueName: 匿影之地
-	DisplayName: 匿影之地
+	TownNPCDialogueName: 匿影
+	DisplayName: 匿影
 }
 
 AlcadziaBiome: {
@@ -114,6 +114,6 @@ IshtarBiome: {
 }
 
 VeilBiome: {
-	TownNPCDialogueName: 天纱环境
-	DisplayName: 天纱环境
+	TownNPCDialogueName: 天纱
+	DisplayName: 天纱
 }
