@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 using Terraria;
 using Terraria.Localization;
 using Terraria.ModLoader;
+//Zui 蕊
 
-namespace LunarVeilChinesePack.Localization.NPC_zh_Hans
+
+namespace LunarVeilChinesePack.GlobalTranslation
 {
     public class Zui_Tooltips : GlobalNPC
     {
