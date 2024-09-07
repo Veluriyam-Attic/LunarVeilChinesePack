@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Terraria;
 using Terraria.Localization;
 using Terraria.ModLoader;
-//Zui 蕊
+//Zui 蕊 
 
 
 namespace LunarVeilChinesePack.GlobalTranslation
