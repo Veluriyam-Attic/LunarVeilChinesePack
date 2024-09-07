@@ -8,9 +8,9 @@ using Terraria;
 using Terraria.Localization;
 using Terraria.ModLoader;
 
-namespace LunarVeilChinesePack.Localization.NPC_zh_Hans
+namespace LunarVeilChinesePack.GlobalTranslation
 {
-    //Ordin
+    //Ordin 奥丁
     public class Ordin_Tooltips : GlobalNPC
     {
         public override void OnChatButtonClicked(NPC npc, bool firstButton)
