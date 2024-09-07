@@ -1,4 +1,5 @@
-﻿using System;
+﻿using LunarVeilChinesePack.NPCs;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,8 +11,10 @@ using Terraria.ModLoader;
 namespace LunarVeilChinesePack.Localization.NPC_zh
 {
     //UnknownSignal 
+    [Obsolete($"见{nameof(TownNPCLocalizer)}")]
     public class UnknownSignal_Tooltips : GlobalNPC
     {
+        public override bool IsLoadingEnabled(Mod mod) => false;
         public override void GetChat(NPC npc, ref string chat)
         {
             if (npc.ModNPC != null)

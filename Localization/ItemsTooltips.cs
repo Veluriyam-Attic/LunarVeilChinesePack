@@ -1,3 +1,4 @@
+using LunarVeilChinesePack.Items;
 using System.Collections.Generic;
 using System.Text;
 using Terraria;
@@ -7,8 +8,10 @@ using Terraria.UI.Chat;
 
 namespace LunarVeilChinesePack.Localization
 {
+    [Obsolete($"见{nameof(ItemTooltipLocalizer)}")]
     public class ItemsTooltips : GlobalItem
     {
+        public override bool IsLoadingEnabled(Mod mod) => false;
         public override void ModifyTooltips(Item item, List<TooltipLine> tooltips)
         {
                 for (int i = 0; i < tooltips.Count; i++)

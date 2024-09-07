@@ -1,4 +1,5 @@
-﻿using Microsoft.Xna.Framework;
+﻿using LunarVeilChinesePack.NPCs;
+using Microsoft.Xna.Framework;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,8 +15,10 @@ namespace LunarVeilChinesePack.Localization.NPC_zh
     /// <summary>
     /// 赌徒 待定
     /// </summary>
+    [Obsolete($"见{nameof(TownNPCLocalizer)}")]
     public class Gambit_Gambler_Tooltips : GlobalNPC
     {
+        public override bool IsLoadingEnabled(Mod mod) => false;
         //第二个按钮按下
         public override void OnChatButtonClicked(NPC npc, bool firstButton)
         {

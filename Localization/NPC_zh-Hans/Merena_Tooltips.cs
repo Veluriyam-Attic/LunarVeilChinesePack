@@ -1,4 +1,5 @@
-﻿using Stellamod.NPCs.Town;
+﻿using LunarVeilChinesePack.NPCs;
+using Stellamod.NPCs.Town;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,8 +12,10 @@ using Terraria.ModLoader;
 namespace LunarVeilChinesePack.Localization.NPC_zh
 {
     //Merena 梅瑞娜
+    [Obsolete($"见{nameof(TownNPCLocalizer)}")]
     public class Merena_Tooltips : GlobalNPC
     {
+        public override bool IsLoadingEnabled(Mod mod) => false;
         public override void OnChatButtonClicked(NPC npc, bool firstButton)
         {
             if (firstButton == false)

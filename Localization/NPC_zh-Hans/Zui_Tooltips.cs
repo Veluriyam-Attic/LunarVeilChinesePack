@@ -1,4 +1,5 @@
-﻿using System;
+﻿using LunarVeilChinesePack.NPCs;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,8 +12,10 @@ using Terraria.ModLoader;
 
 namespace LunarVeilChinesePack.Localization.NPC_zh
 { 
+    [Obsolete($"见{nameof(TownNPCLocalizer)}")]
     public class Zui_Tooltips : GlobalNPC
     {
+        public override bool IsLoadingEnabled(Mod mod) => false;
         public override void OnChatButtonClicked(NPC npc, bool firstButton)
         {
             if (firstButton == false)

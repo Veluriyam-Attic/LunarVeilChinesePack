@@ -1,4 +1,5 @@
-﻿using Microsoft.Build.Tasks;
+﻿using LunarVeilChinesePack.NPCs;
+using Microsoft.Build.Tasks;
 using System;
 using System.Collections.Generic;
 using Terraria;
@@ -7,8 +8,10 @@ using Terraria.ModLoader;
 
 namespace LunarVeilChinesePack.Localization
 {
+    [Obsolete($"见{nameof(TownNPCLocalizer)}")]
     public class NPCTooltips : GlobalNPC
     {
+        public override bool IsLoadingEnabled(Mod mod) => false;
         //public override void AI(NPC npc)
         //{
         //    base.AI(npc);

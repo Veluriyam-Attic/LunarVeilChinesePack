@@ -1,4 +1,5 @@
-﻿using System;
+﻿using LunarVeilChinesePack.NPCs;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,8 +13,10 @@ namespace LunarVeilChinesePack.Localization.NPC_zh
     /// <summary>
     /// Ginztel 玄铁军官
     /// </summary>
+    [Obsolete($"见{nameof(TownNPCLocalizer)}")]
     public class Ginztel_Tooltips : GlobalNPC
     {
+        public override bool IsLoadingEnabled(Mod mod) => false;
         //public override void OnChatButtonClicked(NPC npc, bool firstButton)
         //{
         //    string npcName = npc.ModNPC.Name;

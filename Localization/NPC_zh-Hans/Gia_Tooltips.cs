@@ -1,4 +1,5 @@
-﻿using Stellamod.NPCs.Harvesting.Morrow;
+﻿using LunarVeilChinesePack.NPCs;
+using Stellamod.NPCs.Harvesting.Morrow;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,8 +14,10 @@ namespace LunarVeilChinesePack.Localization.NPC_zh
     /// <summary>
     /// Gia 吉娅 待定
     /// </summary>
+    [Obsolete($"见{nameof(TownNPCLocalizer)}")]
     public class Gia_Tooltips : GlobalNPC
     {
+        public override bool IsLoadingEnabled(Mod mod) => false;
         public override void OnChatButtonClicked(NPC npc, bool firstButton)
         {
             if(firstButton == false)
