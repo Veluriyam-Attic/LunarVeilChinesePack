@@ -11,7 +11,7 @@ using static Terraria.Main.CurrentFrameFlags;
 namespace LunarVeilChinesePack.GlobalTranslation
 {
     /// <summary>
-    /// Gia 吉娅 待定 
+    /// Gia 吉娅 待定
     /// </summary>
     public class Gia_Tooltips:GlobalNPC
     {
