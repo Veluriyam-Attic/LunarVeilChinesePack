@@ -10,7 +10,7 @@ using Terraria.ModLoader;
 namespace LunarVeilChinesePack.GlobalTranslation
 {
     /// <summary>
-    /// Mardenth 玛登斯
+    /// Mardenth 玛登斯 
     /// </summary>
     public class Mardenth_Tooltips : GlobalNPC
     {
