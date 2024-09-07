@@ -79,7 +79,7 @@ namespace LunarVeilChinesePack.GlobalTranslation
                         tl.Text = tl.Text.Replace("(D) Low Damage scaling for flames", "（D）低的火焰伤害修正");
                         tl.Text = tl.Text.Replace("(B) Great spread on with flames", "（B）范围宽广的火焰");
 
-                        //来自武器 七色剑刃
+                        //来自武器 七色剑刃 
                         tl.Text = tl.Text.Replace("Red - No Effect", "红——朴实无华");
                         tl.Text = tl.Text.Replace("Orange - Explodes", "橙——焰华绽放");
                         tl.Text = tl.Text.Replace("Yellow - Teleports after hitting an enemy", "黄——闪转腾挪");
