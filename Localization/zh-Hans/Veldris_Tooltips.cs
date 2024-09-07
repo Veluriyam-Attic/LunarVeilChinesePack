@@ -7,9 +7,9 @@ using Terraria;
 using Terraria.Localization;
 using Terraria.ModLoader;
 
-namespace LunarVeilChinesePack.Localization.NPC_zh_Hans
+namespace LunarVeilChinesePack.GlobalTranslation
 {
-    //Veldris 
+    //Veldris 维尔德斯
     public class Veldris_Tooltips : GlobalNPC
     {
         //Stellamod
