@@ -7,9 +7,9 @@ using Terraria;
 using Terraria.Localization;
 using Terraria.ModLoader;
 
-namespace LunarVeilChinesePack.Localization.NPC_zh_Hans
+namespace LunarVeilChinesePack.GlobalTranslation
 {
-    //UnknownSignal 
+    //UnknownSignal  为止信号
     public class UnknownSignal_Tooltips : GlobalNPC
     {
         public override void GetChat(NPC npc, ref string chat)
