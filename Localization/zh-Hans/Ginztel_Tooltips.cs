@@ -7,7 +7,7 @@ using Terraria;
 using Terraria.Localization;
 using Terraria.ModLoader;
 
-namespace LunarVeilChinesePack.Localization.NPC_zh_Hans
+namespace LunarVeilChinesePack.GlobalTranslation
 {
     /// <summary>
     /// Ginztel 玄铁军官
