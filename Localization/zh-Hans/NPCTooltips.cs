@@ -5,7 +5,7 @@ using Terraria;
 using Terraria.Localization;
 using Terraria.ModLoader;
 
-namespace LunarVeilChinesePack.Localization
+namespace LunarVeilChinesePack.GlobalTranslation
 {
     public class NPCTooltips : GlobalNPC
     {
