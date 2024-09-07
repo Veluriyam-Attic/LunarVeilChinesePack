@@ -5,7 +5,7 @@ using Terraria.GameContent.UI.Elements;
 using Terraria.ModLoader;
 using Terraria.UI.Chat;
 
-namespace LunarVeilChinesePack.Localization
+namespace LunarVeilChinesePack.GlobalTranslation
 {
     public class ItemsTooltips : GlobalItem
     {
