@@ -12,7 +12,7 @@ using Terraria.Utilities;
 namespace LunarVeilChinesePack.GlobalTranslation
 {
     /// <summary>
-    /// 赌徒 待定
+    /// 赌徒 待定 
     /// </summary>
     public class Gambit_Gambler_Tooltips : GlobalNPC
     {
