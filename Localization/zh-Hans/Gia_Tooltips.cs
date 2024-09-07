@@ -8,7 +8,7 @@ using Terraria;
 using Terraria.Localization;
 using Terraria.ModLoader;
 using static Terraria.Main.CurrentFrameFlags;
-namespace LunarVeilChinesePack.Localization.NPC_zh_Hans
+namespace LunarVeilChinesePack.GlobalTranslation
 {
     /// <summary>
     /// Gia 吉娅 待定
