@@ -10,7 +10,7 @@ using Terraria.ModLoader;
 namespace LunarVeilChinesePack.GlobalTranslation
 {
     /// <summary>
-    /// Ginztel 玄铁军官
+    /// Ginztel 玄铁军官 
     /// </summary>
     public class Ginztel_Tooltips : GlobalNPC
     {
