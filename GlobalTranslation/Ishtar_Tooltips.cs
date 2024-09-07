@@ -9,7 +9,7 @@ using Terraria.ModLoader;
 namespace LunarVeilChinesePack.GlobalTranslation
 {
     /// <summary>
-    /// Ishtar 狂渊 无对话
+    /// Ishtar 狂渊 无对话 
     /// </summary>
     //public class Ishtar_Tooltips : GlobalNPC
     //{
