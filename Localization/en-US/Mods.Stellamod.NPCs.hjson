@@ -202,6 +202,7 @@ Aimacra: {
 		LikeNPC_Princess: I like {NPCName}.
 		Princess_LovesNPC: I like {NPCName}.
 	}
+	Census.SpawnCondition: Beat Stone Guardian
 }
 
 Bordoc.DisplayName: Bordoc
@@ -244,6 +245,7 @@ Gambit: {
 		LikeNPC_Princess: I like {NPCName}.
 		Princess_LovesNPC: I like {NPCName}.
 	}
+	Census.SpawnCondition: Keep a gambit in your inventory
 }
 
 Gia: {
@@ -288,6 +290,7 @@ Ginztel: {
 		LikeNPC_Princess: I like {NPCName}.
 		Princess_LovesNPC: I like {NPCName}.
 	}
+	Census.SpawnCondition: Beat Commander Gintzia
 }
 
 Merena.DisplayName: Merena
