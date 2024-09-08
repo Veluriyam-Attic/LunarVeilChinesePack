@@ -77,11 +77,11 @@ public class ItemTooltipLocalizer : ModSystem {
             };
         #region 遍历所有类型, 找到重写了 ModifyTooltips 的 ModItem, 替换其中 ModifyTooltips 的字符串
         foreach (var type in ForceLocalizeSystem.TypeHelper.StellaAssembly.GetTypes()) {
-            if (type.IsAbstract || !type.IsClass || type.IsInterface || !typeof(ModItem).IsAssignableFrom(type)) {
+            if (!typeof(ModItem).IsAssignableFrom(type)) {
                 continue;
             }
             var method = type.GetMethod(nameof(ModItem.ModifyTooltips));
-            if (method == null || method == method.GetBaseDefinition()) {
+            if (method == null || method.DeclaringType != type) {
                 continue;
             }
             ForceLocalizeSystem.Localize(method, localizations);
