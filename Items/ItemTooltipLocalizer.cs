@@ -104,3 +104,4 @@ public class ItemTooltipLocalizer : ModSystem {
     }
     static bool AlwaysFalse() => false;
 }
+//风卷残云! 刮骨疗毒! 大刀阔斧! 涤荡旧弊!
