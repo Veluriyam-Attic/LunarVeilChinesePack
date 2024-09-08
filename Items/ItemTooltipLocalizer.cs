@@ -74,6 +74,10 @@ public class ItemTooltipLocalizer : ModSystem {
                 { "Juggler Weapon Type", "武器类型：抛接" },
                 { "Creates flamed explosions for some explosion dusts!", "引发火焰爆破，产生爆炸尘埃！" },
                 { "These do not stack!", "这些不能叠加！" },
+                { "Use this to put inside of your Xixian flask and when you drink it, the effects of this insource is used!", "输入汉化文本" },
+                { "She'll just love you forever I guess.", "输入汉化文本" },
+                { "Put one on as an accessory, eat for temporary effects!", "请输入汉化文本"},
+                { "(C) Medium Damage Scaling (Fireballs) On Hit!", "请输入汉化文本" },
             };
         #region 遍历所有类型, 找到重写了 ModifyTooltips 的 ModItem, 替换其中 ModifyTooltips 的字符串
         foreach (var type in ForceLocalizeSystem.TypeHelper.StellaAssembly.GetTypes()) {
