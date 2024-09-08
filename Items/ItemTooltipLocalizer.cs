@@ -72,6 +72,8 @@ public class ItemTooltipLocalizer : ModSystem {
                 { "(B) Very good throwing weapon that sticks around!", "（B）非常棒的投掷物，而且会持续存在好一阵子！" },
                 { "Orb Weapon Type", "武器类型：球体" },
                 { "Juggler Weapon Type", "武器类型：抛接" },
+                { "Creates flamed explosions for some explosion dusts!", "引发火焰爆破，产生爆炸尘埃！" },
+                { "These do not stack!", "这些不能叠加！" },
             };
         #region 遍历所有类型, 找到重写了 ModifyTooltips 的 ModItem, 替换其中 ModifyTooltips 的字符串
         foreach (var type in ForceLocalizeSystem.TypeHelper.StellaAssembly.GetTypes()) {
