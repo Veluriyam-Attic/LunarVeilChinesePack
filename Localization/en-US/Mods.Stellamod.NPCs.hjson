@@ -202,6 +202,7 @@ Aimacra: {
 		LikeNPC_Princess: I like {NPCName}.
 		Princess_LovesNPC: I like {NPCName}.
 	}
+
 	Census.SpawnCondition: Beat Stone Guardian
 }
 
@@ -245,6 +246,7 @@ Gambit: {
 		LikeNPC_Princess: I like {NPCName}.
 		Princess_LovesNPC: I like {NPCName}.
 	}
+
 	Census.SpawnCondition: Keep a gambit in your inventory
 }
 
@@ -290,6 +292,7 @@ Ginztel: {
 		LikeNPC_Princess: I like {NPCName}.
 		Princess_LovesNPC: I like {NPCName}.
 	}
+
 	Census.SpawnCondition: Beat Commander Gintzia
 }
 

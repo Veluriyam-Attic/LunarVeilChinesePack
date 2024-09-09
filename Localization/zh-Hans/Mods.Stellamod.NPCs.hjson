@@ -202,6 +202,7 @@ Aimacra: {
 		LikeNPC_Princess: 我喜欢{NPCName}.
 		Princess_LovesNPC: 我喜欢{NPCName}.
 	}
+
 	Census.SpawnCondition: 击败石心圣卫
 }
 
@@ -245,6 +246,7 @@ Gambit: {
 		LikeNPC_Princess: 我喜欢{NPCName}.
 		Princess_LovesNPC: 我喜欢{NPCName}.
 	}
+
 	Census.SpawnCondition: 背包中存在赌博骰子
 }
 
@@ -290,6 +292,7 @@ Ginztel: {
 		LikeNPC_Princess: 我喜欢{NPCName}.
 		Princess_LovesNPC: 我喜欢{NPCName}.
 	}
+
 	Census.SpawnCondition: 击败金戈亚指挥官
 }
 
