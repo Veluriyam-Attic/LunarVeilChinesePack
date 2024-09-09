@@ -23,7 +23,7 @@ public class MiscPlayerLocalizer : ModSystem {
             { "Wohooo", "芜湖！" },
             { "Omg, its something!", "哎呦！掉东西了！" },
             { "Are you disappointed? You should be.", "失望吗？失望就对啦" },
-            { "Wow, you have no maidens and no luck..", "真是个倒霉鬼" },
+            { "Wow, you have no maidens and no luck..", "幸运女神完全不搭理你呢" },
             { "Sooo lucky!", "幸运！" },
         });
         #endregion
