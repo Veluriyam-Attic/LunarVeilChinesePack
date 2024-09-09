@@ -4,7 +4,7 @@ internal class MiscProjectileLocalizer : ModSystem {
     public override void Load() {
         #region AuroreanStarbomber
         ForceLocalizeSystem.LocalizeByTypeName("AuroreanStarbomber", "SpawnStarBomber", new() {
-            { "STARBOMBER crashes down!", "填入汉化文本" },
+            { "STARBOMBER crashes down!", "星 爆 者 从天砸落！" },
         });
         #endregion
         #region BloodLampProjectileModifications
@@ -21,8 +21,8 @@ internal class MiscProjectileLocalizer : ModSystem {
         #endregion
         #region IgniterStart
         ForceLocalizeSystem.LocalizeByTypeName("IgniterStart", "OnHitNPC", new() {
-            { "STRIKE!!", "填入汉化文本" },
-            { "MAGIC!", "填入汉化文本" },
+            { "STRIKE!!", "攻击！！" },
+            { "MAGIC!", "魔法！！" },
         });
         #endregion
     }
