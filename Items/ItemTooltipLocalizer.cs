@@ -72,12 +72,12 @@ public class ItemTooltipLocalizer : ModSystem {
             { "(B) Very good throwing weapon that sticks around!", "（B）非常棒的投掷物，而且会持续存在好一阵子！" },
             { "Orb Weapon Type", "武器类型：球体" },
             { "Juggler Weapon Type", "武器类型：抛接" },
-            { "Creates flamed explosions for some explosion dusts!", "引发火焰爆破，产生爆炸尘埃！" },
-            { "These do not stack!", "这些不能叠加！" },
-            { "Use this to put inside of your Xixian flask and when you drink it, the effects of this insource is used!", "使用这个来放入你的瓶中，当你饮用它时，这个物品的内在效果就会被触发！" },
-            { "She'll just love you forever I guess.", "我想她会永远爱你的" },
+            { "Creates flamed explosions for some explosion dusts!", "某些魔法尘在引燃时产生魔法爆炸！" },
+            { "These do not stack!", "和其他魔法尘增效器的效果不能叠加！" },
+            { "Use this to put inside of your Xixian flask and when you drink it, the effects of this insource is used!", "使用这个来放入你的希克斯瓶中，当你饮用它时，它的效果就会被触发！" },
+            { "She'll just love you forever I guess.", "那，就让她永远爱着你吧" },
             { "Put one on as an accessory, eat for temporary effects!", "既可以作为饰品佩戴，也可以吃下去以获得临时效果！" },
-            { "(C) Medium Damage Scaling (Fireballs) On Hit!", "击中时造成中等伤害的火球伤害" },
+            { "(C) Medium Damage Scaling (Fireballs) On Hit!", "（C）击中时产生中等伤害修正的火球" },
         };
         #region 遍历所有类型, 找到重写了 ModifyTooltips 的 ModItem, 替换其中 ModifyTooltips 的字符串
         foreach (var type in ForceLocalizeSystem.TypeHelper.StellaAssembly.GetTypes()) {
