@@ -9,14 +9,14 @@ internal class MiscProjectileLocalizer : ModSystem {
         #endregion
         #region BloodLampProjectileModifications
         ForceLocalizeSystem.LocalizeByTypeName("BloodLampProjectileModifications", "OnHitNPC", new() {
-            { "This NPC has been hit with a modified projectile ", "填入汉化文本" },
-            { " times.", "填入汉化文本" },
+            { "This NPC has been hit with a modified projectile ", "此NPC被特殊弹幕击中 " },
+            { " times.", " 次." },
         });
         #endregion
         #region ProjectileModifications
         ForceLocalizeSystem.LocalizeByTypeName("ProjectileModifications", "OnHitNPC", new() {
-            { "This NPC has been hit with a modified projectile ", "填入汉化文本" },
-            { " times.", "填入汉化文本" },
+            { "This NPC has been hit with a modified projectile ", "此NPC被特殊弹幕击中 " },
+            { " times.", " 次." },
         });
         #endregion
         #region IgniterStart
