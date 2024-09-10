@@ -8,11 +8,14 @@
 		
 	</PropertyGroup>
 	<ItemGroup>
-	  <Reference Include="Stellamod">
-	    <HintPath>dll\Stellamod.dll</HintPath>
-	  </Reference>
+	  <PackageReference Include="Krafs.Publicizer" Version="2.2.1">
+	    <PrivateAssets>all</PrivateAssets>
+	    <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+	  </PackageReference>
 	</ItemGroup>
-
+  <PropertyGroup>
+    <PublicizeAll>true</PublicizeAll>
+  </PropertyGroup>
 	<!-- References -->
 
 </Project>
