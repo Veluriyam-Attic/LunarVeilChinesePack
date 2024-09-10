@@ -1,4 +1,5 @@
-﻿using Stellamod.Items.Accessories.Brooches;
+﻿using Stellamod.Items;
+using Stellamod.Items.Accessories.Brooches;
 
 namespace LunarVeilChinesePack.Items;
 
@@ -14,6 +15,7 @@ public class ItemTooltipLocalizer : ModSystem {
             { "I shall arrive with you soon - Gintzia", "马上到你家门口 ——金戈亚" },
             { "This'll drive you insane for one minion", "为了一个随从栏位，至于吗？" },
             { "A+ Accessory!", "超级棒的饰品！" },
+            { "S+ Accessory!", "填入汉化文本" },
             { "You need an Radiant Brooches Backpack for this!", "你需要辉映饰符背包才能让此饰品发挥效果！" },
             { "Love you and have fun -Sirestias", "爱你哟，玩的开心！ ——希丝忒莉亚" },
             { "Please check out my game Diari!", "有空的话也请去看看我的游戏Diari！" },
@@ -78,8 +80,35 @@ public class ItemTooltipLocalizer : ModSystem {
             { "She'll just love you forever I guess.", "那，就让她永远爱着你吧" },
             { "Put one on as an accessory, eat for temporary effects!", "既可以作为饰品佩戴，也可以吃下去以获得临时效果！" },
             { "(C) Medium Damage Scaling (Fireballs) On Hit!", "（C）击中时产生中等伤害修正的火球" },
+            { "Creates a very good voidal explosion on dust explosions and constants!", "填入汉化文本" },
+            { "Use an insource to put something in the flask, then drink it! It acts like an infinite potion!", "填入汉化文本" },
+            { "(B) Good Damage Scaling (Alcarish Blobs) On Hit!", "填入汉化文本" },
+            { "(C) Medium Damage Scaling (Stingers) On Hit!", "填入汉化文本" },
+            { "(B) Medium Damage Scaling (Grail shot) On Hit!", "填入汉化文本" },
+            { "(C) Medium Damage Scaling (spikyballs) On Hit!", "填入汉化文本" },
         };
         ForceLocalizeSystem.LocalizeDerivedByType(typeof(ModItem), nameof(ModItem.ModifyTooltips), localizations);
+        ForceLocalizeSystem.LocalizeByType(typeof(ClassSwapItem), nameof(ModItem.ModifyTooltips), new() {
+            { "Can be changed to", "填入汉化文本" },
+            { "Damage Type Swapped!", "填入汉化文本" },
+        });
+        ForceLocalizeSystem.LocalizeByTypeFullName("Stellamod.Items.GlobalItemEdits", nameof(ModItem.ModifyTooltips), new() {
+            { "Lunar Veil: 8% decreased ranged damage", "填入汉化文本" },
+            { "Lunar Veil: Stealth is MUCH less effective", "填入汉化文本" },
+            { "Lunar Veil: 6% decreased ranged damage", "填入汉化文本" },
+            { "Lunar Veil: 6% decreased ranged critical strike chance", "填入汉化文本" },
+            { "Lunar Veil: Stealth is MUCH less effective", "填入汉化文本" },
+            { "Lunar Veil: 4% decreased ranged damage", "填入汉化文本" },
+            { "Lunar Veil: Damage boosters are 50% less effective", "填入汉化文本" },
+        });
+
+        // 应该是测试用物品
+        ForceLocalizeSystem.LocalizeByTypeFullName("Stellamod.Items.Test.HavocSignaler", nameof(ModItem.ModifyTooltips), new() {
+            { "Use this item to signal Havoc for an attack\nRight click to swap attacks", "填入汉化文本" },
+            { "Attack: Charge", "填入汉化文本" },
+            { "Attack: Mini Laser", "填入汉化文本" },
+            { "Attack: Big Laser", "填入汉化文本" },
+        });
         if (AlwaysFalse()) {
             // 这一段不会被执行, 只是展示另外一种方式
             // 这种方式更加精准, 但会费力一些

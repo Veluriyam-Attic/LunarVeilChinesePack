@@ -25,7 +25,10 @@ public abstract class ForceLocalizeSystem<T> : ModSystem /* where T : Mod */ {
     /// </summary>
     /// <param name="methodInfo">此方法, 由反射得到</param>
     /// <param name="localizations">需要替换的字符串, 键为替换前, 值为替换后</param>
-    public static void Localize(MethodInfo methodInfo, Dictionary<string, string> localizations) {
+    public static void Localize(MethodInfo? methodInfo, Dictionary<string, string> localizations) {
+        if (methodInfo == null) {
+            return;
+        }
         MonoModHooks.Modify(methodInfo, il => {
             ILCursor cursor = new(il);
             string? str = null;
@@ -90,8 +93,8 @@ public abstract class ForceLocalizeSystem<T> : ModSystem /* where T : Mod */ {
     /// <br/>即使不需要替换也要写上一项 (替换前和替换后相同的值)
     /// </param>
     /// <inheritdoc cref="Localize"/>
-    public static void LocalizeInOrder(MethodInfo methodInfo, List<(string Key, string Value)> localizationsInOrder) {
-        if (localizationsInOrder.Count == 0) {
+    public static void LocalizeInOrder(MethodInfo? methodInfo, List<(string Key, string Value)> localizationsInOrder) {
+        if (methodInfo == null || localizationsInOrder.Count == 0) {
             return;
         }
         MonoModHooks.Modify(methodInfo, il => {
@@ -147,7 +150,10 @@ public abstract class ForceLocalizeSystem<T> : ModSystem /* where T : Mod */ {
     /// </summary>
     /// <param name="includeSelf">是否同时替换此方法下的字符串</param>
     /// <inheritdoc cref="Localize"/>
-    public static void LocalizeDerived(MethodInfo methodInfo, Dictionary<string, string> localizations, bool includeSelf = false) {
+    public static void LocalizeDerived(MethodInfo? methodInfo, Dictionary<string, string> localizations, bool includeSelf = false) {
+        if (methodInfo == null) {
+            return;
+        }
         if (includeSelf) {
             Localize(methodInfo, localizations);
         }
@@ -205,7 +211,7 @@ public abstract class ForceLocalizeSystem<T> : ModSystem /* where T : Mod */ {
         TypeHelper.Clear();
     }
     private const BindingFlags BFALL = BindingFlags.Static | BindingFlags.Instance | BindingFlags.Public | BindingFlags.NonPublic;
-    private static class TypeHelper {
+    public static class TypeHelper {
         private static Assembly? modAssembly;
         public static Assembly ModAssembly {
             get {
@@ -264,6 +270,6 @@ public abstract class ForceLocalizeSystem<T> : ModSystem /* where T : Mod */ {
     }
 }
 
-public static class ListAddExtensions {
+internal static class ListAddExtensions {
     public static void Add<T1, T2>(this List<(T1, T2)> self, T1 t1, T2 t2) => self.Add((t1, t2));
 }

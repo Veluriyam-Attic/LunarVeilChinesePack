@@ -1,4 +1,5 @@
 ﻿using Stellamod.NPCs.Bosses.Ereshkigal;
+using Stellamod.NPCs.Bosses.Zui;
 using Stellamod.NPCs.Bosses.Zui.Projectiles;
 using Stellamod.NPCs.Town;
 
@@ -311,11 +312,11 @@ public class TownNPCLocalizer : ModSystem {
         });
         #endregion
         #region Merena 梅瑞娜
-        ForceLocalizeSystem.LocalizeByTypeName(nameof(Merena), nameof(Merena.SetBestiary), new() {
+        ForceLocalizeSystem.LocalizeByType(typeof(Merena), nameof(Merena.SetBestiary), new() {
             { "Magic Magic MAGIC", "魔法，魔法，还有更多魔法！" },
             { "Merena the bewitched sorcerer", "着迷术士梅瑞娜" },
         });
-        ForceLocalizeSystem.LocalizeByTypeName(nameof(Merena), nameof(Merena.GetChat), new() {
+        ForceLocalizeSystem.LocalizeByType(typeof(Merena), nameof(Merena.GetChat), new() {
             { "Funny enough the clothier used to come through here all the time for some of our amazing fabrics", "填入汉化文本" },
             { "I wonder what my sister Sylia is up to nowadays, do you know her?", "填入汉化文本" },
             { "I'm gonna be the very best, like no one ever was... ", "填入汉化文本" },
@@ -331,45 +332,54 @@ public class TownNPCLocalizer : ModSystem {
             { "Hahh, I remember that goon Verlia, she's kind of dumb but shes at least powerful, I remember she got exiled for stealing tomes, I might need that from her.", "填入汉化文本" },
             { "Can you go collect some runes for me? I'd love for you to get working.", "填入汉化文本" },
         });
-        ForceLocalizeSystem.LocalizeInOrderByTypeName(nameof(Merena), nameof(Merena.SetNPCNameList), new() {
+        ForceLocalizeSystem.LocalizeInOrderByType(typeof(Merena), nameof(Merena.SetNPCNameList), new() {
             { "Merena the Sorcerer", "术士梅瑞娜" },
             { "Merena the Sorcerer", "术士梅瑞娜" },
         });
-        ForceLocalizeSystem.LocalizeByTypeName(nameof(Merena), nameof(Merena.SetChatButtons), new() {
+        ForceLocalizeSystem.LocalizeByType(typeof(Merena), nameof(Merena.SetChatButtons), new() {
             { "Merenas Quest", "任务" },
         });
-        ForceLocalizeSystem.LocalizeByTypeName(nameof(Merena), "Quest_VerliaStart", new() {
+        ForceLocalizeSystem.LocalizeByType(typeof(Merena), "Quest_VerliaStart", new() {
             { "What are you standing there for, go kill Verlia! She's an enemy of the royal capital and she has a book I need lmao", "填入汉化文本" },
         });
-        ForceLocalizeSystem.LocalizeByTypeName(nameof(Merena), "Quest_VerliaComplete", new() {
+        ForceLocalizeSystem.LocalizeByType(typeof(Merena), "Quest_VerliaComplete", new() {
             { "Oh damn thanks! Next on the list I need you to steal an orb from a village in an underground morrowed village, the orb contains a magic unlike any other. I have no idea how it was manifested but it's needed for this tome.", "填入汉化文本" },
         });
-        ForceLocalizeSystem.LocalizeByTypeName(nameof(Merena), "Quest_MorrowStart", new() {
+        ForceLocalizeSystem.LocalizeByType(typeof(Merena), "Quest_MorrowStart", new() {
             { "Oh damn thanks! Next on the list I need you to steal an orb from a village in an underground morrowed village, the orb contains a magic unlike any other. I have no idea how it was manifested but it's needed for this tome.", "填入汉化文本" },
         });
-        ForceLocalizeSystem.LocalizeByTypeName(nameof(Merena), "Quest_MorrowComplete", new() {
+        ForceLocalizeSystem.LocalizeByType(typeof(Merena), "Quest_MorrowComplete", new() {
             { "Woa, the energy is pouring out of this one with seamless orange stripes! How did you even get your hands on this?? Either way thanks, now I just need 100 dust bags, it helps with the brewery.", "填入汉化文本" },
         });
-        ForceLocalizeSystem.LocalizeByTypeName(nameof(Merena), "Quest_DustBagsStart", new() {
+        ForceLocalizeSystem.LocalizeByType(typeof(Merena), "Quest_DustBagsStart", new() {
             { "Woa, the energy is pouring out of this one with seamless orange stripes! How did you even get your hands on this?? Either way thanks, now I just need 100 dust bags, it helps with the brewery.", "填入汉化文本" },
         });
-        ForceLocalizeSystem.LocalizeByTypeName(nameof(Merena), "Quest_DustBagsComplete", new() {
+        ForceLocalizeSystem.LocalizeByType(typeof(Merena), "Quest_DustBagsComplete", new() {
             { "Neat neat, that shouldn't have been too bad for you I think. Next I need some magical paper, there are magical creatures all over the world of hardmode who drop these, most of them being rare and unique creatures, go get em'!", "填入汉化文本" },
         });
-        ForceLocalizeSystem.LocalizeByTypeName(nameof(Merena), "Quest_MagicPaperStart", new() {
+        ForceLocalizeSystem.LocalizeByType(typeof(Merena), "Quest_MagicPaperStart", new() {
             { "Neat neat, that shouldn't have been too bad for you I think. Next I need some magical paper, there are magical creatures all over the world of hardmode who drop these, most of them being rare and unique creatures, go get em'!", "填入汉化文本" },
         });
-        ForceLocalizeSystem.LocalizeByTypeName(nameof(Merena), "Quest_MagicPaperComplete", new() {
+        ForceLocalizeSystem.LocalizeByType(typeof(Merena), "Quest_MagicPaperComplete", new() {
             { "OHH Great lmao. Ok we have one more thing we need to do. Legend has it an old thief of this Royal Capital stole an extremely special Carian tome, they stay deep underground hidden far away underneath the abyss. Even if the rumors arent true I'd love for you to find this scroll, it may take years...", "填入汉化文本" },
         });
-        ForceLocalizeSystem.LocalizeByTypeName(nameof(Merena), "Quest_TomeStart", new() {
+        ForceLocalizeSystem.LocalizeByType(typeof(Merena), "Quest_TomeStart", new() {
             { "OHH Great lmao. Ok we have one more thing we need to do. Legend has it an old thief of this Royal Capital stole an extremely special Carian tome, they stay deep underground hidden far away underneath the abysm. Even if the rumors arent true I'd love for you to find this scroll, it may take years...", "填入汉化文本" },
         });
-        ForceLocalizeSystem.LocalizeByTypeName(nameof(Merena), "Quest_TomeComplete", new() {
+        ForceLocalizeSystem.LocalizeByType(typeof(Merena), "Quest_TomeComplete", new() {
             { "THANK YOU THANK YOU THANK YOU, omg this is the best day of my life! I never knew this actually existed! Were the rumors true??! dsfjhnbhfribdhs- Nevermind who cares anymore, we can both be the best mages ever! I open my shop to you and here, a token of my graditude. ", "填入汉化文本" },
         });
-        ForceLocalizeSystem.LocalizeByTypeName(nameof(Merena), "StartQuests", new() {
+        ForceLocalizeSystem.LocalizeByType(typeof(Merena), "StartQuests", new() {
             { "Hey, I have nothing else for you to do! Thanks for all of your help, have you checked out my shop yet?", "填入汉化文本" },
+        });
+
+        // 主要用于商店注册, 如果同时启用 Shop Expand 能在查询商店时看到汉化效果
+        ForceLocalizeSystem.LocalizeByTypeFullName("Stellamod.NPCs.Town.MerenaQuestSystem", ".cctor", new() {
+            { "KillVerlia", "填入汉化文本" },
+            { "ExploreMorrowedVillage", "填入汉化文本" },
+            { "Give100DustBags", "填入汉化文本" },
+            { "MakeMagicPaper", "填入汉化文本" },
+            { "Tome", "填入汉化文本" }, // MakeTomeOfInfiniteSorceryCompleted
         });
         #endregion
         #region NaturalWitch 自然女巫
@@ -522,11 +532,11 @@ public class TownNPCLocalizer : ModSystem {
         });
         #endregion
         #region Zui 蕊
-        ForceLocalizeSystem.LocalizeByTypeName(nameof(Zui), nameof(Zui.SetBestiary), new() {
+        ForceLocalizeSystem.LocalizeByType(typeof(Zui), nameof(Zui.SetBestiary), new() {
             { "A traveller of the lands who may hold great power", "一名周游大陆的旅者，似乎掌握着强大的力量." },
             { "Zui the Traveller", "旅者 蕊" },
         });
-        ForceLocalizeSystem.LocalizeByTypeName(nameof(Zui), nameof(Zui.GetChat), new() {
+        ForceLocalizeSystem.LocalizeByType(typeof(Zui), nameof(Zui.GetChat), new() {
             { "The dryad is pretty fun after all, she's pretty sweet and helps us with the gardening!", "树妖是个好人呀！她对我们都很友好，还帮我做些种花的杂务！" },
             { "We've had to kick a few witches out of this town you know, its quite a shame..", "我们之前不得不把几名女巫从这里赶了出去，真可惜啊..." },
             { "I keep going out to find more plants but somehow you're always here when I return. ", "我其实没有一直站在这里不动.只是碰巧每次你来我都在这里而已." },
@@ -542,49 +552,64 @@ public class TownNPCLocalizer : ModSystem {
             { "Hey if you collect some items for me I can give you some stuff!", "帮我收集我想要的东西，我能给你奖励！" },
             { "Hey can you go collect for me?", "帮帮我嘛~" },
         });
-        ForceLocalizeSystem.LocalizeInOrderByTypeName(nameof(Zui), nameof(Zui.SetNPCNameList), new() {
+        ForceLocalizeSystem.LocalizeInOrderByType(typeof(Zui), nameof(Zui.SetNPCNameList), new() {
             { "Zui The Traveller", "旅者 蕊" },
             { "Zui The Traveller", "旅者 蕊" },
         });
-        ForceLocalizeSystem.LocalizeByTypeName(nameof(Zui), nameof(Zui.SetChatButtons), new() {
+        ForceLocalizeSystem.LocalizeByType(typeof(Zui), nameof(Zui.SetChatButtons), new() {
             { "Zui's Quests", "任务" },
         });
-        ForceLocalizeSystem.LocalizeByTypeName(nameof(Zui), "Quest_NotCheckmarked", new() {
+        ForceLocalizeSystem.LocalizeByType(typeof(Zui), "Quest_NotCheckmarked", new() {
             { "Hi hii! Thanks for asking! Could you fetch me some plants, you can use this bag! Just fill it up with some different types of plants and I'll give you some stuff afterwards!", "嗨~谢谢你来帮我！给我收集一些植物之类的吧，就装在这个袋子里！我会给你回礼的！" },
         });
-        ForceLocalizeSystem.LocalizeByTypeName(nameof(Zui), "Quest_NotCheckmarkedHardmode", new() {
+        ForceLocalizeSystem.LocalizeByType(typeof(Zui), "Quest_NotCheckmarkedHardmode", new() {
             { "Hehe I'm gonna up the difficulty of these, I'm gonna need some bigger plants, so you'll need to fill up this bag! Thanks!", "嘿嘿，接下来的任务有点难了哦.去给我找一些更加稀有的植物吧，装满这个袋子就行！感谢！" },
         });
-        ForceLocalizeSystem.LocalizeByTypeName(nameof(Zui), "Quest_1Complete", new() {
+        ForceLocalizeSystem.LocalizeByType(typeof(Zui), "Quest_1Complete", new() {
             { "Nice nice, I'll take these, could you fetch some more for me!  ", "好的，这些我就收下了，拿好你的奖励！能再给我收集一点吗？" },
         });
-        ForceLocalizeSystem.LocalizeByTypeName(nameof(Zui), "Quest_16Complete", new() {
+        ForceLocalizeSystem.LocalizeByType(typeof(Zui), "Quest_16Complete", new() {
             { "Nice nice, I'll take these, could you fetch some more for me!  ", "好的，这些我就收下了，拿好你的奖励！能再给我收集一点吗？" },
         });
-        ForceLocalizeSystem.LocalizeByTypeName(nameof(Zui), "Quest_3Complete", new() {
+        ForceLocalizeSystem.LocalizeByType(typeof(Zui), "Quest_3Complete", new() {
             { "Ok ok, 3 quests is kind of good, thanks for caring a lot about this! I've got more items in my shop for you, bring me 3 more and I'll get more for ya!", "完成3个任务了，棒哎！我在商店里给你准备了更多好东西！再来3个，还有更多惊喜！" },
         });
-        ForceLocalizeSystem.LocalizeByTypeName(nameof(Zui), "Quest_6Complete", new() {
+        ForceLocalizeSystem.LocalizeByType(typeof(Zui), "Quest_6Complete", new() {
             { "6 Quests is actually kind of crazy, I've opened up with a few more items for you if you want! Bring me 4 more ;p", "6个任务，疯狂！我又进了一批你可能想要的好东西！再给我收集4个吧 ;p" },
         });
-        ForceLocalizeSystem.LocalizeByTypeName(nameof(Zui), "Quest_10Complete", new() {
+        ForceLocalizeSystem.LocalizeByType(typeof(Zui), "Quest_10Complete", new() {
             { "Damn, 10 quests? You're on a role you know! I've got some more items for you in my shop actually, I went travelling and Sirestias gave me a few items! I'll give you some more items if you can do 10 more!", "哎呀，10个任务完成了？你真是前所未有啊！正好前段时间我去找希丝忒莉亚，她给了我些东西我都放在商店里了，你看看吧.再做10个任务，还有好东西！" },
         });
-        ForceLocalizeSystem.LocalizeByTypeName(nameof(Zui), "Quest_20Complete", new() {
+        ForceLocalizeSystem.LocalizeByType(typeof(Zui), "Quest_20Complete", new() {
             { "You have finished 20 quests for me! Thank you! I've got more items in my shop because of it too! If you want more from me bring me ten more and maybe we can have some fun! ", "你完成了20个任务！万分感激！我的商店里又有新东西啦！还想要更多？再完成10个任务，就差不多到了咱们的玩乐时间啦！" },
         });
-        ForceLocalizeSystem.LocalizeByTypeName(nameof(Zui), "Quest_30Complete", new() {
+        ForceLocalizeSystem.LocalizeByType(typeof(Zui), "Quest_30Complete", new() {
             { "My graditude is of the utmost thanks, in return you can have anything in my shop! And I'll help you out personally sometime if you need me ;p ", "真是太太太感谢你了！我的商店完全对你开放了！等以后你需要我的帮助时，我一定会答应的 ;p" },
         });
-        ForceLocalizeSystem.LocalizeByTypeName(nameof(Zui), "StartQuests", new() {
+        ForceLocalizeSystem.LocalizeByType(typeof(Zui), "StartQuests", new() {
             { "Hiya! I think that's all the things I need, you can get some stuff in my shop but thanks babe!", "嗨呀！我觉得我需要的东西已经够用了.谢谢你的好意，看看我的商店如何？" },
+        });
+
+        // 主要用于商店注册, 如果同时启用 Shop Expand 能在查询商店时看到汉化效果
+        ForceLocalizeSystem.LocalizeByTypeFullName("Stellamod.NPCs.Town.ZuiQuestSystem", ".cctor", new() {
+            { "ThreeQuests", "完成三个任务" },
+            { "SixQuests", "完成六个任务" },
+            { "TenQuests", "完成十个任务" },
+            { "TwentyQuests", "完成二十个任务" },
+            { "ThirtyQuests", "完成三十个任务" },
         });
         #endregion
 
         #region ZuiDeath
-        ForceLocalizeSystem.LocalizeByTypeName(nameof(ZuiDeath), nameof(ZuiDeath.AI), new() {
+        ForceLocalizeSystem.LocalizeByType(typeof(ZuiDeath), nameof(ZuiDeath.AI), new() {
             { "I think I have a headache..", "我的头好晕..." },
             { "I'll see you later at my shop! Fun time :)", "干得好！想要找我的话就再来我的商店吧！" },
+        });
+        #endregion
+        #region ZuiTheTraveller
+        ForceLocalizeSystem.LocalizeByType(typeof(ZuiTheTraveller), nameof(ZuiTheTraveller.SetBestiary), new() {
+            { "Zui, not exactly someone that can be killed but loves to play around I guess? Sirestias is closely accompanied with her", "填入汉化文本" },
+            { "Zui the Radiance", "填入汉化文本" },
         });
         #endregion
         #region EreshkigalIdle

@@ -5,8 +5,7 @@ namespace LunarVeilChinesePack.Items;
 public class MiscItemLocalizer : ModSystem {
     public override void Load() {
         #region EDR
-        // 抽象的 FullName 使用方式
-        ForceLocalizeSystem.LocalizeByTypeFullName(typeof(EDR).FullName /* Stellamod.Items.Consumables.EDR */, nameof(EDR.UseItem), new() {
+        ForceLocalizeSystem.LocalizeByType(typeof(EDR), nameof(EDR.UseItem), new() {
             { "A disruption has occured!", "出现了异常扰动！" },
             { "Initiate death protocol", "启动死亡协议..." },
             { "The end is nigh…", "末日将临..." },
