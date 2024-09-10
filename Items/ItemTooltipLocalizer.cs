@@ -79,18 +79,7 @@ public class ItemTooltipLocalizer : ModSystem {
             { "Put one on as an accessory, eat for temporary effects!", "既可以作为饰品佩戴，也可以吃下去以获得临时效果！" },
             { "(C) Medium Damage Scaling (Fireballs) On Hit!", "（C）击中时产生中等伤害修正的火球" },
         };
-        #region 遍历所有类型, 找到重写了 ModifyTooltips 的 ModItem, 替换其中 ModifyTooltips 的字符串
-        foreach (var type in ForceLocalizeSystem.TypeHelper.StellaAssembly.GetTypes()) {
-            if (!typeof(ModItem).IsAssignableFrom(type)) {
-                continue;
-            }
-            var method = type.GetMethod(nameof(ModItem.ModifyTooltips));
-            if (method == null || method.DeclaringType != type) {
-                continue;
-            }
-            ForceLocalizeSystem.Localize(method, localizations);
-        }
-        #endregion
+        ForceLocalizeSystem.LocalizeDerivedByType(typeof(ModItem), nameof(ModItem.ModifyTooltips), localizations);
         if (AlwaysFalse()) {
             // 这一段不会被执行, 只是展示另外一种方式
             // 这种方式更加精准, 但会费力一些
