@@ -72,7 +72,7 @@ public class ItemTooltipLocalizer : ModSystem {
             { "(B) Very good throwing weapon that sticks around!", "（B）非常棒的投掷物，而且会持续存在好一阵子！" },
             { "Orb Weapon Type", "武器类型：球体" },
             { "Juggler Weapon Type", "武器类型：抛接" },
-            { "Creates flamed explosions for some explosion dusts!", "某些魔法尘在引燃时产生魔法爆炸！" },
+            { "Creates flamed explosions for some explosion dusts!", "让某些魔法尘在引燃时产生火焰爆炸！" },
             { "These do not stack!", "和其他魔法尘增效器的效果不能叠加！" },
             { "Use this to put inside of your Xixian flask and when you drink it, the effects of this insource is used!", "使用这个来放入你的希克斯瓶中，当你饮用它时，它的效果就会被触发！" },
             { "She'll just love you forever I guess.", "那，就让她永远爱着你吧" },
