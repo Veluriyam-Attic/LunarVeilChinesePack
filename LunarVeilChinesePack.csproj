@@ -13,6 +13,11 @@
 	    <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
 	  </PackageReference>
 	</ItemGroup>
+	<ItemGroup>
+	  <Reference Include="Stellamod">
+	    <HintPath>lib\Stellamod.dll</HintPath>
+	  </Reference>
+	</ItemGroup>
   <PropertyGroup>
     <PublicizeAll>true</PublicizeAll>
   </PropertyGroup>
