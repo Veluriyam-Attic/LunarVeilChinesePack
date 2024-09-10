@@ -262,6 +262,9 @@ public class MiscLocalizer : ModSystem {
             // 写累了, 不想写了, 干脆直接给全部方法上上好了
         }
         foreach (var method in typeof(StellaWorld).GetMethods(BindingFlags.Public | BindingFlags.NonPublic | BindingFlags.Instance | BindingFlags.Static)) {
+            if (method.DeclaringType != typeof(StellaWorld)) {
+                continue;
+            }
             ForceLocalizeSystem.Localize(method, worldGenLocalizations);
         }
         #endregion

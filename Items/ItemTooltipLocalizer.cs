@@ -97,7 +97,6 @@ public class ItemTooltipLocalizer : ModSystem {
             { "Lunar Veil: Stealth is MUCH less effective", "填入汉化文本" },
             { "Lunar Veil: 6% decreased ranged damage", "填入汉化文本" },
             { "Lunar Veil: 6% decreased ranged critical strike chance", "填入汉化文本" },
-            { "Lunar Veil: Stealth is MUCH less effective", "填入汉化文本" },
             { "Lunar Veil: 4% decreased ranged damage", "填入汉化文本" },
             { "Lunar Veil: Damage boosters are 50% less effective", "填入汉化文本" },
         });
