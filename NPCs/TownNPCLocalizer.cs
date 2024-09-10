@@ -11,17 +11,17 @@ public class TownNPCLocalizer : ModSystem {
             { "Aimacra", "安魅凯拉" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Aimacra), nameof(Aimacra.GetChat), new() {
-            { "They also have fox ears like me lmao", "填入汉化文本" },
-            { "This world seems a bit off don't you think?", "填入汉化文本" },
-            { "I'm not one to brag but this place is so much better than Ekrose", "填入汉化文本" },
-            { "Did Sirestias ask me to find her again?", "填入汉化文本" },
-            { "Yeah I've been traveling while you were out.", "填入汉化文本" },
-            { "Go play Diari on steam? I have no idea what that means", "填入汉化文本" },
-            { "Do people think I'm not into pans?", "填入汉化文本" },
-            { "Sooo can we forget about everything that happened in Ekrose?", "填入汉化文本" },
-            { "I am really sorry for what we went through but now were here you know?", "填入汉化文本" },
-            { "Sirestias went out again, and this time I'm not finding her.", "填入汉化文本" },
-            { "Hey could you go do something, I'm about to get dressed, but honestly I say that like you haven't seen me before.", "填入汉化文本" },
+            { "They also have fox ears like me lmao", "他们也像我一样拥有狐狸的耳朵（憋笑）" },
+            { "This world seems a bit off don't you think?", "你是否也曾觉得这个世界有点不对劲？" },
+            { "I'm not one to brag but this place is so much better than Ekrose", "我不是喜欢吹嘘的人，但这个地方确实比艾科洛斯好多了。" },
+            { "Did Sirestias ask me to find her again?", "希丝忒莉亚又叫我去找她了吗？" },
+            { "Yeah I've been traveling while you were out.", "你遇到你之前我一直在游荡" },
+            { "Go play Diari on steam? I have no idea what that means", "要不要试着steam下载个Diari玩玩？等等，我在说什么" },
+            { "Do people think I'm not into pans?", "是不是大家都认为我没有穿裤子呢？" },
+            { "Sooo can we forget about everything that happened in Ekrose?", "我们可以忘记在艾科洛斯发生的一切吗？" },
+            { "I am really sorry for what we went through but now were here you know?", "我真的很抱歉我们曾经所经历的一切，但是现在我们在这里应该有个新的开始，不是吗？" },
+            { "Sirestias went out again, and this time I'm not finding her.", "希丝忒莉亚又出去了，但是这次我不会去找她" },
+            { "Hey could you go do something, I'm about to get dressed, but honestly I say that like you haven't seen me before.", "嘿，我要换衣服，你能去做点别的事情吗？但说实在的，你以前又不是没见过我换衣服似的。" },
         });
         ForceLocalizeSystem.LocalizeInOrderByTypeName(nameof(Aimacra), nameof(Aimacra.SetNPCNameList), new() {
             // 安魅凯拉有三个名字,  一个是 Aimacra, 一个是 Aimacra, 一个还是 Aimacra
@@ -33,16 +33,16 @@ public class TownNPCLocalizer : ModSystem {
             { "Talk", "闲聊" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Aimacra), nameof(Aimacra.OnChatButtonClicked), new() {
-            { "Heyyy at least we're out of Ekrose alive! I'm glad Vixyl is safe back at the main house.", "填入汉化文本" },
-            { "I hate being Sirestias's Assassin.. Speaking of I met a guy named Veldris and he's totally cool!", "填入汉化文本" },
-            { "I'll be back I may go to look for some new stuff underground. ", "填入汉化文本" },
-            { "What is a thug shaker? To shake or not to shake? Sometimes I wonder if life truly does give lemons.", "填入汉化文本" },
-            { "What class would I even be? ", "填入汉化文本" },
-            { "Hey sorry for what may of happened on Ekrose but I hope we can still be friends and make up to each other.", "填入汉化文本" },
-            { "STARBOMBERS ARE ON THIS PLANET TOOOOO!!!", "填入汉化文本" },
-            { "I totally haven't been playing geometry dash.", "填入汉化文本" },
-            { "I've seen some weird things in my life, but never would I have thought Fenix would be more chronically horny than Sirestias, but to be fair Sirestias just gets more power doing that.", "填入汉化文本" },
-            { "I hate being part human.", "填入汉化文本" },
+            { "Heyyy at least we're out of Ekrose alive! I'm glad Vixyl is safe back at the main house.", "唉，至少我们活着离开了艾科洛斯，维西尔也安全回到家乡，这已经是很好的结果了" },
+            { "I hate being Sirestias's Assassin.. Speaking of I met a guy named Veldris and he's totally cool!", "我不喜欢当希丝忒莉亚的杀手，emmmmm，说到这个，我今天遇到了一个叫威狄尔斯（Veldris）的家伙，他超酷的好吧" },
+            { "I'll be back I may go to look for some new stuff underground. ", "我会回来的，我可能会去地下寻找一些新东西" },
+            { "What is a thug shaker? To shake or not to shake? Sometimes I wonder if life truly does give lemons.", "什么才算是一个狂热摇滚者呢?随音乐摇摆还是不随音乐摇摆，这是一个问题...唉，有时候我感觉生活真是苦涩啊" },
+            { "What class would I even be? ", "在你眼里我是什么样子的呢?" },
+            { "Hey sorry for what may of happened on Ekrose but I hope we can still be friends and make up to each other.", "对于在艾科洛斯发生的事情，我深感抱歉，我们还可以继续作患难与共的朋友吗?" },
+            { "STARBOMBERS ARE ON THIS PLANET TOOOOO!!!", "这个世界居然有星绽之地，这太酷了!!!!!!" },
+            { "I totally haven't been playing geometry dash.", "我今天没有摸鱼玩几何冲刺，快夸我(•ω•`)" },
+            { "I've seen some weird things in my life, but never would I have thought Fenix would be more chronically horny than Sirestias, but to be fair Sirestias just gets more power doing that.", "我短暂的一生中，我见识过各种各样事物，即便如此，我不认为凤涅克斯能比希丝忒莉亚更漂亮，毕竟希丝忒莉亚在爱美这件事上比凤涅克斯投入了更多精力。" },
+            { "I hate being part human.", "在对于自己有一半人类的血统这件事情上，我非常讨厌" },
         });
         #endregion
         #region Bordoc 波尔杜克
@@ -120,12 +120,12 @@ public class TownNPCLocalizer : ModSystem {
             { "Delgrim the eternal engineer.", "永世工匠戴尔格林" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Delgrim), nameof(Delgrim.GetChat), new() {
-            { "You're chill aren't ya?", "填入汉化文本" },
-            { "Everyone comes in for the same stuff, come and go please.", "填入汉化文本" },
-            { "Another visitor?", "填入汉化文本" },
-            { "What goes on in the world nowadays?", "填入汉化文本" },
-            { "I don't mean trouble, but do as you please.", "填入汉化文本" },
-            { "...", "填入汉化文本" },
+            { "You're chill aren't ya?", "你很冷静，不是吗？" },
+            { "Everyone comes in for the same stuff, come and go please.", "每个人都为了锻造相关事情来到和离开这里，想必你也一样吧" },
+            { "Another visitor?", "啊,又一位访客？" },
+            { "What goes on in the world nowadays?", "现在世界形势如何？" },
+            { "I don't mean trouble, but do as you please.", "我不想惹麻烦，但请随意行事。" },
+            { "...", "..." },
         });
         ForceLocalizeSystem.LocalizeInOrderByTypeName(nameof(Delgrim), nameof(Delgrim.SetNPCNameList), new() {
             { "Magical Engineer Delgrim", "魔法工匠戴尔格林" },
@@ -135,13 +135,13 @@ public class TownNPCLocalizer : ModSystem {
             { "Old Tales", "听他讲些往事" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Delgrim), nameof(Delgrim.OnChatButtonClicked), new() {
-            { "An old time there was a thriving capital, we used to call it the Harboring Morrow. It was a thriving city under the protection of Gothivia, Verlia, and Irradia. I used to be a member. Gothivia loved every one of us, Verlia would be off directing armies and Irradia well she spent time making electronics. ", "填入汉化文本" },
-            { "Irradia would make amazing tech, and I would come to every show she would host and watch her mechanic sword fights and spare parts, Verlia would sometimes participate and tear all of them apart. Verlia was just too good of a swordsman.", "填入汉化文本" },
-            { "Gothivia would always come down at 10 A.M in the morning to greet all the city members, it used to be the time of my life. She'd give us goodies and Rek would come by with his binding light to empower the underground and brighten things up. ", "填入汉化文本" },
-            { "Verlia and Gothivia are sisters, although they don't look it anymore, they used to be twins yet they couldn't be different from each other. Verlia was always rambunctious and outgoing while Gothivia was a calm and loving soul, the two got along.", "填入汉化文本" },
-            { "Of all the inventions Irradia made, by far my favorite was a rendition of Gothivia's Rek called Havoc. It was a magnificent beast. It held it's own against Verlia in the shows, if only I could go back to those days. ", "填入汉化文本" },
-            { "Verlia always would be training the army, the gintze army wasn't exactly the most reliable mainly because of Verlia's idiocity and lack of care for danger. The army would always charge head first without a care for defense. I wonder where the army was when we were defending against the Carian warriors and knights", "填入汉化文本" },
-            { "Some days I look back on the Harboring Morrow and wonder why we fell so hard. I remember BORDOC, an excellent blacksmith but too arrogant to read his ways. Irradia taught me some amazing things I carry with me today and all the people. the people.. ", "填入汉化文本" },
+            { "An old time there was a thriving capital, we used to call it the Harboring Morrow. It was a thriving city under the protection of Gothivia, Verlia, and Irradia. I used to be a member. Gothivia loved every one of us, Verlia would be off directing armies and Irradia well she spent time making electronics. ", "很久很久以前，有一个繁荣的首都，我们过去称之为“幽曦王城”。这是一座在歌瑟梵、薇莉亚和伊瑞蒂安保护下繁荣的城市。我曾经是其中的一员。歌瑟梵爱着我们每一个人，薇莉亚会指挥军队，而伊瑞蒂安则喜欢研究机械。" },
+            { "Irradia would make amazing tech, and I would come to every show she would host and watch her mechanic sword fights and spare parts, Verlia would sometimes participate and tear all of them apart. Verlia was just too good of a swordsman.", "伊瑞蒂安会制造出令人惊叹的发明，我会去参加她主持的每一场演示，观看她的机械剑进行战斗与备件展示。薇莉亚有时也会参与进来，将伊瑞蒂安的发明全部击败。不得不说，薇莉亚是一名出色的剑客。" },
+            { "Gothivia would always come down at 10 A.M in the morning to greet all the city members, it used to be the time of my life. She'd give us goodies and Rek would come by with his binding light to empower the underground and brighten things up. ", "歌瑟梵总会在早上10点降临，对城市所有成员进行问候，并给我们带来甜点，那曾是我生命中最快乐的时光。此外，莱克会给我们带来阳光，照亮地下的一切。" },
+            { "Verlia and Gothivia are sisters, although they don't look it anymore, they used to be twins yet they couldn't be different from each other. Verlia was always rambunctious and outgoing while Gothivia was a calm and loving soul, the two got along.", "虽然薇莉亚和歌瑟梵看起来并不像，而且性格也截然不同，但实际上她们两个是双胞胎姐妹。薇莉亚总是活泼好动，歌瑟梵静雅且富有爱心，两人相处得十分融洽" },
+            { "Of all the inventions Irradia made, by far my favorite was a rendition of Gothivia's Rek called Havoc. It was a magnificent beast. It held it's own against Verlia in the shows, if only I could go back to those days. ", "在伊瑞蒂安制造的所有发明中，我最喜欢的是模仿歌瑟梵的莱克制作的”浩劫”。它是一头壮丽的巨兽。在演示中，它甚至能够与薇莉亚抗衡，要是能回到过去的那些时光该多好啊。" },
+            { "Verlia always would be training the army, the gintze army wasn't exactly the most reliable mainly because of Verlia's idiocity and lack of care for danger. The army would always charge head first without a care for defense. I wonder where the army was when we were defending against the Carian warriors and knights", "薇莉亚训练的玄铁军队实际上并不可靠的，主要是因为薇莉亚的愚昧与缺少危机意识。那支玄铁军队总是不顾防御，只管冲锋在前面。我在想，当我们在抵御卡利亚战士和骑士的时候，这支军队在哪里呢？" },
+            { "Some days I look back on the Harboring Morrow and wonder why we fell so hard. I remember BORDOC, an excellent blacksmith but too arrogant to read his ways. Irradia taught me some amazing things I carry with me today and all the people. the people.. ", "有时候，我不自矜会回忆起在“幽曦城堡”的时光，思考我们为何会如此彻底地衰落。我记得有一个名为BORDOC的出色的铁匠，但他过于自负，不愿改变自己的生活方式。伊瑞蒂安教给了我一些令我至今受益匪浅的惊人之事，还有所有的人们……那些人们……" },
             { "You know, I had loved Irradia, until we seperated through war our connection was magically I would say. Damn witches and their artistry. I don't hate magic, but its the reason I lost so much. That commander, I will never forget the smirk on that face. So called Fenix and her army of Carian knights. ", "填入汉化文本" },
             { "One day in the Harboring Morrow, the most joyous of days, some collectors came back infected by some strange disease, as you may know now it's called the Virulent. An acid like corruption that eats at the soul. It tore our village apart like the black plague. It weakened us, right before a Carian army swept us away at our worst, we stood no chance.", "填入汉化文本" },
             { "Verlia one day left the Morrow to search and make peace with the witches in the upcoming villages, she was by far the most magical out of the three of them, so she would stand a chance to help, when she came back, she was out of her mind.", "填入汉化文本" },
