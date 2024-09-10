@@ -417,24 +417,24 @@ public class TownNPCLocalizer : ModSystem {
         #endregion
         #region Sirestias 希丝忒莉亚
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Sirestias), nameof(Sirestias.SetBestiary), new() {
-            { "Your eternal bonding with this individual resonates with everyone throughout!", "填入汉化文本" },
-            { "Sirestias", "填入汉化文本" },
+            { "Your eternal bonding with this individual resonates with everyone throughout!", "你与这位存在之间永恒的羁绊回荡不绝..." },
+            { "Sirestias", "希丝忒莉亚" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Sirestias), nameof(Sirestias.GetChat), new() {
-            { "Here to give me some company I see?", "填入汉化文本" },
-            { "Hmph how's Aimacra doing? Nevermind I already know that answer.", "填入汉化文本" },
-            { "Enjoying yourself?", "填入汉化文本" },
-            { "Sometimes I forget you're bounded with me always", "填入汉化文本" },
-            { "Its always sweet to see you do things for me", "填入汉化文本" },
-            { "...", "填入汉化文本" },
+            { "Here to give me some company I see?", "哦？来陪陪我吗？" },
+            { "Hmph how's Aimacra doing? Nevermind I already know that answer.", "嗯，安魅凯拉怎么样了？算了，我又不是不知道." },
+            { "Enjoying yourself?", "玩的还开心吗？" },
+            { "Sometimes I forget you're bounded with me always", "我都快忘了你和我已经绑定在一起." },
+            { "Its always sweet to see you do things for me", "你愿意为我做事，我真是欣慰啊." },
+            { "...", "..." },
         });
         ForceLocalizeSystem.LocalizeInOrderByTypeName(nameof(Sirestias), nameof(Sirestias.SetNPCNameList), new() {
-            { "Sirestias", "填入汉化文本" },
-            { "Sirestias", "填入汉化文本" },
+            { "Sirestias", "希丝忒莉亚" },
+            { "Sirestias", "希丝忒莉亚" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Sirestias), nameof(Sirestias.SetChatButtons), new() {
-            { "What do I do next?", "填入汉化文本" },
-            { "Give Completion Idol", "填入汉化文本" },
+            { "What do I do next?", "接下来做什么？" },
+            { "Give Completion Idol", "给予陨神之像" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Sirestias), nameof(Sirestias.OnChatButtonClicked), new() {
             { "Kill the stone guardian, commander gintzia will soon raid you with his army of failed troops from the govheil. He will be very easy so take him swiftly and beat him into submission hun. ", "填入汉化文本" },
@@ -444,21 +444,22 @@ public class TownNPCLocalizer : ModSystem {
             { "You're next target is Daedus, he's a strong one. Hes a very loyal Guardian to one of the biggest threats here being Gothivia, we need him gone to get to the big fish in the sea. For some reason he holds some power of a singularity so beware. He resides low in the temple in the Fabled Swamp, no extra preperation needed.", "填入汉化文本" },
             { "Oh my gosh nice, so here's where things are going to get difficult. If a blood moon happens we need to exterminate Dreadmire, she spawns after killing a blood cyst during a blood moon, you can also get some terror fragments too! She'll pose too much of a threat if we let her live. She's I think one of the three sisters, formally known as cozmire. She needs to die and after that I'll give some great rewards.", "填入汉化文本" },
             { "We are making big progress now! I don't know if you have been killing other ravenous monsters but I'd recommend doing so as the next one on our list is Verlia but to get to her we have quite a few things to do first. Make yourself a void key and find a temple deep in the ice biome, there should be some loot and hopefully an alter that'll give you a lantern. She was trapped by Fenix but she needs to die so we can bring out Gothivia.", "填入汉化文本" },
-            { "Ok you got the lantern! Go to the cathedral overtop the ice biome and summon her at the top at night. This will be our biggest foe yet but I know you can kill her, sorry Aimacra is tired of being my assasin so it's your turn.", "填入汉化文本" },
-            { "Oh damn this is great. I think that completes our list for now, check back in with me in Hardmode! We'll purify this world of all danger and create peace and then we can be together and move on. Thank you again.", "填入汉化文本" },
-            { "Welp here we go again. So theres a strange issue we have, so Daedus isn't the only barrier to trying to stop us from getting to Gothivia, Aimacra just went and explored around and found some new places and there was this castle underground in a green biome? I noticed Gothivia's marks on it and the Sun hasnt started turning green, could you look at that? There should be some catacombs underground in the desert, ocean and caverns to help power up too.", "填入汉化文本" },
-            { "There was a person down there claiming to be Gothiva? Thats strange. Gothivia seems to be making an appearance on the world. Apparently things are changing the skies and things are falling from them, Beware of STARBOMBERS, Aimacra warned me that they were manufactured here as well as Ekrose and you have experience with them.", "填入汉化文本" },
-            { "I didn't think Rosemary's creations would've made it here. Ekrose sure does have an affect on this world. I saw some strange disturbance on the left side of the underworld though, can you check that out? I went to talk to Veldris and he told me Sylia may be up to some demonic magic that could ruin our process, so killing her is a good option. ", "填入汉化文本" },
-            { "It was a void witch... Interesting. Must be related to that Merena person Aimacra talked about. I haven't been to the Royal Capital much, mainly because it's so far out but maybe we should kill the Queen there, she is definitely extremely powerful but I don't really know how to talk to her, I haven't seen her yet. If you can could you go kill her for us? ", "填入汉化文本" },
-            { "Ereshkigal huh? I think I know her, she also isn't supposed to be here. However she got lost I guess we can give her some sense", "填入汉化文本" },
-            { "Weheeee! You're doing so well! I can like get off to this! I'm kidding :(. Maybe you can try and explore around some more. We need to prepare for moonlord!", "填入汉化文本" },
-            { "I did not expect you to want to kill her honestly. I went and explored around and she seemed nice. Wait you didn't kill her? Oh dang, well she isn't on our list anyway so it's fine lmao. She isn't causing us any issues.", "填入汉化文本" },
-            { "Ok ok we got some good stuff done. Time for Gothivia as she's not particularly the worst but she keeps inspiring bad people to do ad things and we need to teach her not to do that.", "填入汉化文本" },
-            { "Maybe we shouldn't have killed her, I don't know if there was a reason to kill Niivi. You just wanted weapons and gear? I mean if it helps I guess. She was doing more good than harm", "填入汉化文本" },
-            { "Okie dokie, Gothivia has agree to stay calm so we aren't going to assassinate her anymore, I feel bad for killing her sister now. I hope Vixyl doesn't find out.", "填入汉化文本" },
-            { "YESSS, we're getting closer to our goals!! Aren't you excited <3", "填入汉化文本" },
-            { "I couldnt find anything more so I'll give you an extra token!", "填入汉化文本" },
-            { "Please go do something for me, we don't have all day you know ;P", "填入汉化文本" },
+            我们的计划正大步前进！
+            { "Ok you got the lantern! Go to the cathedral overtop the ice biome and summon her at the top at night. This will be our biggest foe yet but I know you can kill her, sorry Aimacra is tired of being my assasin so it's your turn.", "OK，你拿到那盏灯了！等到晚上去到冰雪地圣殿的顶端释放她.这是直到如今我们最大的挑战，但我相信你的能力.抱歉，安魅凯拉不想再被我当刺客使唤了，这次轮到你上了！" },
+            { "Oh damn this is great. I think that completes our list for now, check back in with me in Hardmode! We'll purify this world of all danger and create peace and then we can be together and move on. Thank you again.", "哦天，这也太棒了！我们现阶段的任务全都完成了！等到你打败了血肉墙再来找我吧！我们一定能净化这个世界上的一切威胁，一起向前.感谢你的付出." },
+            { "Welp here we go again. So theres a strange issue we have, so Daedus isn't the only barrier to trying to stop us from getting to Gothivia, Aimacra just went and explored around and found some new places and there was this castle underground in a green biome? I noticed Gothivia's marks on it and the Sun hasnt started turning green, could you look at that? There should be some catacombs underground in the desert, ocean and caverns to help power up too.", "哟，又见面了.我发现了个问题，代达斯并不是歌瑟梵筑起的唯一一道障碍.安魅凯拉刚在那个绿油油的地方地下找到了一座城堡，上面有歌瑟梵的印记，你能去看看吗？至少太阳还没变绿，说明我们还有时间.还有，沙漠地下，海洋里，洞穴中存在着三座墓穴，里面的东西应该会帮到你." },
+            { "There was a person down there claiming to be Gothiva? Thats strange. Gothivia seems to be making an appearance on the world. Apparently things are changing the skies and things are falling from them, Beware of STARBOMBERS, Aimacra warned me that they were manufactured here as well as Ekrose and you have experience with them.", "那边有个人在假装歌瑟梵？奇怪.歌瑟梵本人貌似也正在赶回这个世界.再者，这个世界的天空好像出现了些异变，掉下奇怪的东西.小心 星 爆 者，安魅凯拉告诉我它们在这里也有被制造，和在艾科洛斯一样." },
+            { "I didn't think Rosemary's creations would've made it here. Ekrose sure does have an affect on this world. I saw some strange disturbance on the left side of the underworld though, can you check that out? I went to talk to Veldris and he told me Sylia may be up to some demonic magic that could ruin our process, so killing her is a good option. ", "我之前还觉得迷迭香城的造物不会出现在这里呢.看来艾科洛斯和这个世界确实有一定联系.我感受到地狱的左侧有个奇异的能量扰动，维尔德斯告诉我那可能是赛莉亚搞的鬼，她的黑暗魔法可能会阻碍我们，我们要先发制人把她除掉." },
+            { "It was a void witch... Interesting. Must be related to that Merena person Aimacra talked about. I haven't been to the Royal Capital much, mainly because it's so far out but maybe we should kill the Queen there, she is definitely extremely powerful but I don't really know how to talk to her, I haven't seen her yet. If you can could you go kill her for us? ", "虚空女巫...真有意思.应该和安魅凯拉说的那个梅瑞娜有点关系.我没怎么去过皇室首都，那里太远，但那个女王也在我们的名单上.她的力量很强，而且我没和她沟通过.要不你去把她干掉？" },
+            { "Ereshkigal huh? I think I know her, she also isn't supposed to be here. However she got lost I guess we can give her some sense", "厄莉什基迦勒？我知道这个名字.她也不应该出现在这里的.如果她是迷路了，我们也许可以帮帮她？" },
+            { "Weheeee! You're doing so well! I can like get off to this! I'm kidding :(. Maybe you can try and explore around some more. We need to prepare for moonlord!", "哇呜！你也太高效了！我要不要直接让你接手整个计划呢...开玩笑的啦.接下来你就自由探索吧，好好准备迎战月球领主." },
+            { "I did not expect you to want to kill her honestly. I went and explored around and she seemed nice. Wait you didn't kill her? Oh dang, well she isn't on our list anyway so it's fine lmao. She isn't causing us any issues.", "我真没想到你去打她...我在四处转悠的时候遇见了她，感觉她还不错的.你说你没杀了她？也好，反正她也不在我们的名单上，也没给我们添乱." },
+            { "Ok ok we got some good stuff done. Time for Gothivia as she's not particularly the worst but she keeps inspiring bad people to do ad things and we need to teach her not to do that.", "干得不错.是时候去找歌瑟梵了.凭心而论她并不坏，但她的领导力总能激励坏人去干坏事，我们就给她一个教训，让她停止这样." },
+            { "Maybe we shouldn't have killed her, I don't know if there was a reason to kill Niivi. You just wanted weapons and gear? I mean if it helps I guess. She was doing more good than harm", "我本来没想杀她的，我们没有理由对尼伊维下手.你想要装备？要是有帮助的话，那好吧，但她可没有做任何恶事." },
+            { "Okie dokie, Gothivia has agree to stay calm so we aren't going to assassinate her anymore, I feel bad for killing her sister now. I hope Vixyl doesn't find out.", "好好，歌瑟梵答应暂时保持冷静，我们应该不用刺杀她了.我现在对杀了她的姐妹感到有些抱歉...希望维西尔不会发现吧." },
+            { "YESSS, we're getting closer to our goals!! Aren't you excited <3", "好耶！！我们距离目标又进了一步！你不觉得激动吗？<3" },
+            { "I couldnt find anything more so I'll give you an extra token!", "我也没找到什么更好的东西，所以多给你一颗宝珠吧！" },
+            { "Please go do something for me, we don't have all day you know ;P", "去做些我规划的事吧，咱们的时间可不多啊." },
 
         });
         #endregion
@@ -527,20 +528,20 @@ public class TownNPCLocalizer : ModSystem {
             { "Zui the Traveller", "旅者 蕊" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Zui), nameof(Zui.GetChat), new() {
-            { "The dryad is pretty fun after all, she's pretty sweet and helps us with the gardening!", "填入汉化文本" },
-            { "We've had to kick a few witches out of this town you know, its quite a shame..", "填入汉化文本" },
-            { "I keep going out to find more plants but somehow you're always here when I return. ", "填入汉化文本" },
-            { "I'm trying to find a way to stop the corruption and virulent from spreading but I have no fix currently.", "填入汉化文本" },
-            { "Hey love, you know you could be collecting stuff for me!", "填入汉化文本" },
-            { "Sirestias? Oh um yeahh we go pretty far back.", "填入汉化文本" },
-            { "Aimacra is cool too, this is my first time meeting her lol", "填入汉化文本" },
-            { "I wouldn't say I'm too powerful, afterall I a just a traveller", "填入汉化文本" },
-            { "Sometimes I wonder what they did in Vodhome after we all left. I really have to catch up with Sirestias and the others.", "填入汉化文本" },
-            { "Are you here with Sirestias?", "填入汉化文本" },
-            { "All these plants are so cool! I did just arrive here before Sirestias, there was some commotion and I think people here are trying to disrupt time and power.", "填入汉化文本" },
-            { "Sirestias is a balancer, same goes for me but I like to just collect things.", "填入汉化文本" },
-            { "Hey if you collect some items for me I can give you some stuff!", "填入汉化文本" },
-            { "Hey can you go collect for me?", "填入汉化文本" },
+            { "The dryad is pretty fun after all, she's pretty sweet and helps us with the gardening!", "树妖是个好人呀！她对我们都很友好，还帮我做些种花的杂务！" },
+            { "We've had to kick a few witches out of this town you know, its quite a shame..", "我们之前不得不把几名女巫从这里赶了出去，真可惜啊..." },
+            { "I keep going out to find more plants but somehow you're always here when I return. ", "我其实没有一直站在这里不动.只是碰巧每次你来我都在这里而已." },
+            { "I'm trying to find a way to stop the corruption and virulent from spreading but I have no fix currently.", "我在想办法阻止邪恶地形和瘴煞之地的扩散，但目前为止我还没想出什么良策." },
+            { "Hey love, you know you could be collecting stuff for me!", "如果你正闲着，去给我收集一些东西如何？" },
+            { "Sirestias? Oh um yeahh we go pretty far back.", "希丝忒莉亚？啊...对...我和她有过一段交情." },
+            { "Aimacra is cool too, this is my first time meeting her lol", "安魅凯拉也挺棒的，虽然我才认识她." },
+            { "I wouldn't say I'm too powerful, afterall I a just a traveller", "我很强吗？不不不，我只是个旅者而已." },
+            { "Sometimes I wonder what they did in Vodhome after we all left. I really have to catch up with Sirestias and the others.", "我在想，我们离开了那里之后，沃德府怎么样了.看来有必要去和她们叙叙旧了." },
+            { "Are you here with Sirestias?", "你是和希丝忒莉亚一起来这里的吗？" },
+            { "All these plants are so cool! I did just arrive here before Sirestias, there was some commotion and I think people here are trying to disrupt time and power.", "这里的植物太棒了！我比希丝忒莉亚早一小会来的，当时正赶上一片骚乱，好像是有人想要扰乱时间和能量." },
+            { "Sirestias is a balancer, same goes for me but I like to just collect things.", "希丝忒莉亚的目标是“平衡”.其实我也一样，但我还是更喜欢干些悠闲一点的事，比如收集些植物." },
+            { "Hey if you collect some items for me I can give you some stuff!", "帮我收集我想要的东西，我能给你奖励！" },
+            { "Hey can you go collect for me?", "帮帮我嘛~" },
         });
         ForceLocalizeSystem.LocalizeInOrderByTypeName(nameof(Zui), nameof(Zui.SetNPCNameList), new() {
             { "Zui The Traveller", "旅者 蕊" },
@@ -550,34 +551,34 @@ public class TownNPCLocalizer : ModSystem {
             { "Zui's Quests", "任务" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Zui), "Quest_NotCheckmarked", new() {
-            { "Hi hii! Thanks for asking! Could you fetch me some plants, you can use this bag! Just fill it up with some different types of plants and I'll give you some stuff afterwards!", "填入汉化文本" },
+            { "Hi hii! Thanks for asking! Could you fetch me some plants, you can use this bag! Just fill it up with some different types of plants and I'll give you some stuff afterwards!", "嗨~谢谢你来帮我！给我收集一些植物之类的吧，就装在这个袋子里！我会给你回礼的！" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Zui), "Quest_NotCheckmarkedHardmode", new() {
-            { "Hehe I'm gonna up the difficulty of these, I'm gonna need some bigger plants, so you'll need to fill up this bag! Thanks!", "填入汉化文本" },
+            { "Hehe I'm gonna up the difficulty of these, I'm gonna need some bigger plants, so you'll need to fill up this bag! Thanks!", "嘿嘿，接下来的任务有点难了哦.去给我找一些更加稀有的植物吧，装满这个袋子就行！感谢！" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Zui), "Quest_1Complete", new() {
-            { "Nice nice, I'll take these, could you fetch some more for me!  ", "填入汉化文本" },
+            { "Nice nice, I'll take these, could you fetch some more for me!  ", "好的，这些我就收下了，拿好你的奖励！能再给我收集一点吗？" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Zui), "Quest_16Complete", new() {
-            { "Nice nice, I'll take these, could you fetch some more for me!  ", "填入汉化文本" },
+            { "Nice nice, I'll take these, could you fetch some more for me!  ", "好的，这些我就收下了，拿好你的奖励！能再给我收集一点吗？" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Zui), "Quest_3Complete", new() {
-            { "Ok ok, 3 quests is kind of good, thanks for caring a lot about this! I've got more items in my shop for you, bring me 3 more and I'll get more for ya!", "填入汉化文本" },
+            { "Ok ok, 3 quests is kind of good, thanks for caring a lot about this! I've got more items in my shop for you, bring me 3 more and I'll get more for ya!", "完成3个任务了，棒哎！我在商店里给你准备了更多好东西！再来3个，还有更多惊喜！" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Zui), "Quest_6Complete", new() {
-            { "6 Quests is actually kind of crazy, I've opened up with a few more items for you if you want! Bring me 4 more ;p", "填入汉化文本" },
+            { "6 Quests is actually kind of crazy, I've opened up with a few more items for you if you want! Bring me 4 more ;p", "6个任务，疯狂！我又进了一批你可能想要的好东西！再给我收集4个吧 ;p" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Zui), "Quest_10Complete", new() {
-            { "Damn, 10 quests? You're on a role you know! I've got some more items for you in my shop actually, I went travelling and Sirestias gave me a few items! I'll give you some more items if you can do 10 more!", "填入汉化文本" },
+            { "Damn, 10 quests? You're on a role you know! I've got some more items for you in my shop actually, I went travelling and Sirestias gave me a few items! I'll give you some more items if you can do 10 more!", "哎呀，10个任务完成了？你真是前所未有啊！正好前段时间我去找希丝忒莉亚，她给了我些东西我都放在商店里了，你看看吧.再做10个任务，还有好东西！" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Zui), "Quest_20Complete", new() {
-            { "You have finished 20 quests for me! Thank you! I've got more items in my shop because of it too! If you want more from me bring me ten more and maybe we can have some fun! ", "填入汉化文本" },
+            { "You have finished 20 quests for me! Thank you! I've got more items in my shop because of it too! If you want more from me bring me ten more and maybe we can have some fun! ", "你完成了20个任务！万分感激！我的商店里又有新东西啦！还想要更多？再完成10个任务，就差不多到了咱们的玩乐时间啦！" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Zui), "Quest_30Complete", new() {
-            { "My graditude is of the utmost thanks, in return you can have anything in my shop! And I'll help you out personally sometime if you need me ;p ", "填入汉化文本" },
+            { "My graditude is of the utmost thanks, in return you can have anything in my shop! And I'll help you out personally sometime if you need me ;p ", "真是太太太感谢你了！我的商店完全对你开放了！等以后你需要我的帮助时，我一定会答应的 ;p" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Zui), "StartQuests", new() {
-            { "Hiya! I think that's all the things I need, you can get some stuff in my shop but thanks babe!", "填入汉化文本" },
+            { "Hiya! I think that's all the things I need, you can get some stuff in my shop but thanks babe!", "嗨呀！我觉得我需要的东西已经够用了.谢谢你的好意，看看我的商店如何？" },
         });
         #endregion
 
