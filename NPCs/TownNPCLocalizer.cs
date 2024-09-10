@@ -7,8 +7,8 @@ public class TownNPCLocalizer : ModSystem {
     public override void Load() {
         #region Aimacra 安魅凯拉
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Aimacra), nameof(Aimacra.SetBestiary), new() {
-            { "Aimacra??? From Diari?? Crazy", "填入汉化文本" },
-            { "Aimacra", "填入汉化文本" },
+            { "Aimacra??? From Diari?? Crazy", "安魅凯拉？？？从Diari来的？？好疯狂噢！" },
+            { "Aimacra", "安魅凯拉" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Aimacra), nameof(Aimacra.GetChat), new() {
             { "They also have fox ears like me lmao", "填入汉化文本" },
@@ -25,12 +25,12 @@ public class TownNPCLocalizer : ModSystem {
         });
         ForceLocalizeSystem.LocalizeInOrderByTypeName(nameof(Aimacra), nameof(Aimacra.SetNPCNameList), new() {
             // 安魅凯拉有三个名字,  一个是 Aimacra, 一个是 Aimacra, 一个还是 Aimacra
-            { "Aimacra", "填入汉化文本" },
-            { "Aimacra", "填入汉化文本" },
-            { "Aimacra", "填入汉化文本" },
+            { "Aimacra", "Aimacra" },
+            { "Aimacra", "Aimacra" },
+            { "Aimacra", "Aimacra" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Aimacra), nameof(Aimacra.SetChatButtons), new() {
-            { "Talk", "填入汉化文本" },
+            { "Talk", "闲聊" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Aimacra), nameof(Aimacra.OnChatButtonClicked), new() {
             { "Heyyy at least we're out of Ekrose alive! I'm glad Vixyl is safe back at the main house.", "填入汉化文本" },
@@ -47,45 +47,45 @@ public class TownNPCLocalizer : ModSystem {
         #endregion
         #region Bordoc 波尔杜克
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Bordoc), nameof(Bordoc.SetBestiary), new() {
-            { "Steaming from the depths", "填入汉化文本" },
-            { "Bordoc the eternal blacksmith", "填入汉化文本" },
+            { "Steaming from the depths", "燃烧，冒烟" },
+            { "Bordoc the eternal blacksmith", "铁匠波尔杜克" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Bordoc), nameof(Bordoc.GetChat), new() {
             { "Shes got some great cogs", "填入汉化文本" },
-            { "BRMMMM", "填入汉化文本" },
-            { "Everyone always uses me but never asked how I'm able to talk.. ", "填入汉化文本" },
-            { "I don't care I need to gamble", "填入汉化文本" },
-            { "My armors are the best in the lands", "填入汉化文本" },
-            { "Sirestias and Aimacra game by recently and they laughed at me because they thought my shop was useless", "填入汉化文本" },
-            { "Im always feeling hot!", "填入汉化文本" },
-            { "Heh, nobody is as good as me", "填入汉化文本" },
-            { "Burning Burning, heat and heat", "填入汉化文本" },
-            { "I'm inpenetrable", "填入汉化文本" },
-            { "Damn we have some hot shit here", "填入汉化文本" },
-            { "Only I know that Gothivia has so many barriers between her and the rest of the world, nobody will be able to kill her.", "填入汉化文本" },
-            { "Those idiot gintze have made a horrible decision, now they can't use my armors I made for them.", "填入汉化文本" },
-            { "KRMMMKTEYYYMMMM BRMMMMM", "填入汉化文本" },
+            { "BRMMMM", "喀 喀" },
+            { "Everyone always uses me but never asked how I'm able to talk.. ", "所有认识我的人中，没人问过我是怎么说话的..." },
+            { "I don't care I need to gamble", "我对赌博不屑一顾" },
+            { "My armors are the best in the lands", "我打造的盔甲无可匹敌！" },
+            { "Sirestias and Aimacra game by recently and they laughed at me because they thought my shop was useless", "希丝忒莉亚和安魅凯拉最近过来转了一圈，她们居然敢嘲笑我的工艺！" },
+            { "Im always feeling hot!", "我炎热无比！" },
+            { "Heh, nobody is as good as me", "我的技巧天下无双！" },
+            { "Burning Burning, heat and heat", "燃烧，燃烧，热量，热量！" },
+            { "I'm inpenetrable", "我坚固无比！" },
+            { "Damn we have some hot shit here", "这里有点热啊" },
+            { "Only I know that Gothivia has so many barriers between her and the rest of the world, nobody will be able to kill her.", "我只知道，歌瑟梵在她与世界之间设下了重重阻碍，没人能找到她." },
+            { "Those idiot gintze have made a horrible decision, now they can't use my armors I made for them.", "那些玄铁蠢货们真是不识时务，现在他们用不了我造的盔甲了." },
+            { "KRMMMKTEYYYMMMM BRMMMMM", "咯咯咯咯 嗡嗡嗡 咯吱咯吱" },
         });
         ForceLocalizeSystem.LocalizeInOrderByTypeName(nameof(Bordoc), nameof(Bordoc.SetNPCNameList), new() {
-            { "Blacksmith BORDOC", "填入汉化文本" },
-            { "Blacksmith BORDOC", "填入汉化文本" },
+            { "Blacksmith BORDOC", "铁匠波尔杜克" },
+            { "Blacksmith BORDOC", "铁匠波尔杜克" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Bordoc), nameof(Bordoc.SetChatButtons), new() {
-            { "Heart of the Morrow", "填入汉化文本" },
+            { "Heart of the Morrow", "幽曦之心" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Bordoc), nameof(Bordoc.OnChatButtonClicked), new() {
-            { "I want you to prove to me you're ready to obtain this, I've given you a broken core, if you restore its power, it's all yours. Show me your determination to be Gothivia's doll! You won't be the first to fail.. And maybe she'll come to thank you one day. ", "填入汉化文本" },
+            { "I want you to prove to me you're ready to obtain this, I've given you a broken core, if you restore its power, it's all yours. Show me your determination to be Gothivia's doll! You won't be the first to fail.. And maybe she'll come to thank you one day. ", "向我证明你值得拥有它：这是一个破损的核心，如果你能修复它，它就归你了.你对歌瑟梵的忠诚能够支持你走出这一步吗？如果你失败了,你可不是第一个.如果你成功了，她会由衷感谢你的." },
         });
         #endregion
         #region BoundGia 受缚的吉娅
         ForceLocalizeSystem.LocalizeByTypeName(nameof(BoundGia), nameof(BoundGia.OnKill), new() {
-            { "Im being taken away help!", "填入汉化文本" },
+            { "Im being taken away help!", "我被抓走了！救命！" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(BoundGia), nameof(BoundGia.SetBestiary), new() {
-            { "A bound scientist lurking in the Virulent", "填入汉化文本" },
+            { "A bound scientist lurking in the Virulent", "瘴煞之地的一名被绑架的科学家" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(BoundGia), nameof(BoundGia.GetChat), new() {
-            { "Oh goodness thank you for saving me. I dont know how long I was tied up... I got stranded down here by a bunch of scouts I presume are from the morrow. I really caused a mess this time but I am really glad you saved me. D'you have a place to stay?", "填入汉化文本" },
+            { "Oh goodness thank you for saving me. I dont know how long I was tied up... I got stranded down here by a bunch of scouts I presume are from the morrow. I really caused a mess this time but I am really glad you saved me. D'you have a place to stay?", "天哪，太谢谢你帮我松绑了！我都记不清我在这里呆了多久...一群应该是幽曦那里的斥候把我扔到这就走了.正当我要放弃的时候你就把我救了！你有能住的地方吗？" },
         });
         #endregion
         #region CellConverter 分子转换器
@@ -96,7 +96,7 @@ public class TownNPCLocalizer : ModSystem {
         ForceLocalizeSystem.LocalizeByTypeFullName(typeof(CellConverter).FullName, nameof(CellConverter.GetChat), new() {
             { "KRTTCAVSJKSC", "咯咯 哒哒 吱 喀" },
             { "I WANT SCRAP", "我 要 废料" },
-            { "MAKE YOUR SCRAP TOKENS FOR TRADE. KRM", "做 一些 废料 来 交换. 喀." },
+            { "MAKE YOUR SCRAP TOKENS FOR TRADE. KRM", "请 做 一些 废料 来 交换. 喀." },
             { "YEEERRRM", "呜呜呜 轰" },
         });
         ForceLocalizeSystem.LocalizeInOrderByTypeFullName(typeof(CellConverter).FullName, nameof(CellConverter.SetNPCNameList), new() {
@@ -108,16 +108,16 @@ public class TownNPCLocalizer : ModSystem {
         });
         ForceLocalizeSystem.LocalizeByTypeFullName(typeof(CellConverter).FullName, nameof(CellConverter.OnChatButtonClicked), new() {
             { "Weapon Converted!", "武器 类型 已 转化 完成" },
-            { "KRRRT, Sensors say you have inputed a token, here you go per request.", "咯， 传感器 检测 到 废料， 给 你 东西" },
-            { "Womp womp, looks like nothing for you!", "呜 呜， 没有 东西 给你" },
-            { "Error, try again.", "错误 请 重新 尝试" },
+            { "KRRRT, Sensors say you have inputed a token, here you go per request.", "咯咯， 传感器 检测 到 废料， 给 你 东西" },
+            { "Womp womp, looks like nothing for you!", "呜 呜， 没有 东西 给 你" },
+            { "Error, try again.", "出现 错误， 请 再次 尝试" },
             { "Put in another token.", "请 继续 放入 废料" },
         });
         #endregion
         #region Delgrim 戴尔格林
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Delgrim), nameof(Delgrim.SetBestiary), new() {
-            { "A magical engineer huh?", "填入汉化文本" },
-            { "Delgrim the eternal engineer.", "填入汉化文本" },
+            { "A magical engineer huh?", "魔法，工匠？有趣..." },
+            { "Delgrim the eternal engineer.", "永世工匠戴尔格林" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Delgrim), nameof(Delgrim.GetChat), new() {
             { "You're chill aren't ya?", "填入汉化文本" },
@@ -128,11 +128,11 @@ public class TownNPCLocalizer : ModSystem {
             { "...", "填入汉化文本" },
         });
         ForceLocalizeSystem.LocalizeInOrderByTypeName(nameof(Delgrim), nameof(Delgrim.SetNPCNameList), new() {
-            { "Magical Engineer Delgrim", "填入汉化文本" },
-            { "Magical Engineer Delgrim", "填入汉化文本" },
+            { "Magical Engineer Delgrim", "魔法工匠戴尔格林" },
+            { "Magical Engineer Delgrim", "魔法工匠戴尔格林" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Delgrim), nameof(Delgrim.SetChatButtons), new() {
-            { "Old Tales", "填入汉化文本" },
+            { "Old Tales", "听他讲些往事" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Delgrim), nameof(Delgrim.OnChatButtonClicked), new() {
             { "An old time there was a thriving capital, we used to call it the Harboring Morrow. It was a thriving city under the protection of Gothivia, Verlia, and Irradia. I used to be a member. Gothivia loved every one of us, Verlia would be off directing armies and Irradia well she spent time making electronics. ", "填入汉化文本" },
@@ -167,7 +167,7 @@ public class TownNPCLocalizer : ModSystem {
             { "Of all my years to live and ever to live, I will never understand things like Fenix, her torturous additude, why she went to such lengths to kill us, why the infection was so hard to fend off, and why I couldn't stay, these are all for you, Irradia. ", "填入汉化文本" },
         });
         #endregion
-        #region Gambit 赌博骰子
+        #region Gambit 赌徒
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Gambit), nameof(Gambit.SetBestiary), new() {
             { "She loves those ruin medals huh?, so much so that she is now attracted to you :(", "她太喜欢那些遗迹勋章了！以至于她已经对你生出了感情 :(" },
             { "Zielie the Gambit", "赌徒泽丽" },
@@ -177,7 +177,7 @@ public class TownNPCLocalizer : ModSystem {
             { "Hii, it is a me, Zielie! I'm frantic at moments but what can you expect when your in a world full of death and loooove?", "嗨~，我叫泽丽！我有时会有点神经质，但在一个充满爱与死亡的世界中这样不是最好了吗！！" },
             { "Ive heard that the morrow is very pretty, I talked to veribloom and she said her society is falling apart though so maybe not.", "听说幽曦之地很漂亮，但我问薇绿的时候她说那里的社会已经快要完全失控了，我还是先不去那里了为妙." },
             { "I have some things on the market for you, I go around collecting items and I get more stuff when you beat bosses and honestly, you seem really cool! :0", "我这里有点好东西卖给你！都是我自己捡来的和你打Boss剩下的东西~你也很棒哟！" },
-            { "You know who is responsible for your dice rolling righttt? You know, uh after you beat bosses? Yeah, thats me ya silly lovebug", "就是，你知道你的赌博骰子都是谁在扔对吧？就是我呀你个小傻瓜." },
+            { "You know who is responsible for your dice rolling righttt? You know, uh after you beat bosses? Yeah, thats me ya silly lovebug", "哎，你知道你的赌博骰子都是谁在扔对吧？就是我呀你个小傻瓜." },
             { "Can we get married?", "咱们来结个婚，你意下如何？" },
             { "Soo are we gonna get married or are you gonna buy something?", "买点东西吧！难不成你想把自己卖给我？" },
         });
@@ -199,8 +199,8 @@ public class TownNPCLocalizer : ModSystem {
         #endregion
         #region Gia 吉娅
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Gia), nameof(Gia.SetBestiary), new() {
-            { "Wow you done messed up this time with the Virulent spill huh.", "填入汉化文本" },
-            { "Gia the Scientist", "填入汉化文本" },
+            { "Wow you done messed up this time with the Virulent spill huh.", "看看这瘴煞的势头，你这次可真惹上大麻烦了." },
+            { "Gia the Scientist", "研究员吉娅" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Gia), nameof(Gia.GetChat), new() {
             { "So many cool contraptions she has, I love them!", "她有那么多超棒的机械！我好想要啊." },
@@ -243,7 +243,7 @@ public class TownNPCLocalizer : ModSystem {
         #endregion
         #region Ginztel 玄铁军官
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Ginztel), nameof(Ginztel.SetBestiary), new() {
-            { "Dumbfounded by your strength, the commander retired and came to your base for a visit and a free hotel.", "退休玄铁军官被你的力量大为震惊，他决定来看看...以及蹭个住处." },
+            { "Dumbfounded by your strength, the commander retired and came to your base for a visit and a free hotel.", "这名已退休的玄铁军官被你的力量大为震惊，他决定来看看...以及蹭个住处." },
         });
         ForceLocalizeSystem.LocalizeInOrderByTypeName(nameof(Ginztel), nameof(Ginztel.SetNPCNameList), new() {
             { "Gintzia", "Gintzia" },
@@ -312,8 +312,8 @@ public class TownNPCLocalizer : ModSystem {
         #endregion
         #region Merena 梅瑞娜
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Merena), nameof(Merena.SetBestiary), new() {
-            { "Magic Magic MAGIC", "填入汉化文本" },
-            { "Merena the bewitched sorcerer", "填入汉化文本" },
+            { "Magic Magic MAGIC", "魔法，魔法，还有更多魔法！" },
+            { "Merena the bewitched sorcerer", "着迷术士梅瑞娜" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Merena), nameof(Merena.GetChat), new() {
             { "Funny enough the clothier used to come through here all the time for some of our amazing fabrics", "填入汉化文本" },
@@ -332,11 +332,11 @@ public class TownNPCLocalizer : ModSystem {
             { "Can you go collect some runes for me? I'd love for you to get working.", "填入汉化文本" },
         });
         ForceLocalizeSystem.LocalizeInOrderByTypeName(nameof(Merena), nameof(Merena.SetNPCNameList), new() {
-            { "Merena the Sorcerer", "填入汉化文本" },
-            { "Merena the Sorcerer", "填入汉化文本" },
+            { "Merena the Sorcerer", "术士梅瑞娜" },
+            { "Merena the Sorcerer", "术士梅瑞娜" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Merena), nameof(Merena.SetChatButtons), new() {
-            { "Merenas Quest", "填入汉化文本" },
+            { "Merenas Quest", "任务" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Merena), "Quest_VerliaStart", new() {
             { "What are you standing there for, go kill Verlia! She's an enemy of the royal capital and she has a book I need lmao", "填入汉化文本" },
@@ -374,13 +374,13 @@ public class TownNPCLocalizer : ModSystem {
         #endregion
         #region NaturalWitch 自然女巫
         ForceLocalizeSystem.LocalizeByTypeName(nameof(NaturalWitch), nameof(NaturalWitch.SetBestiary), new() {
-            { "A Captain of Gofria's ranks, be careful", "填入汉化文本" },
+            { "A Captain of Gofria's ranks, be careful", "当心歌瑟梵军团的小队长." },
         });
         #endregion
         #region Ordin 奥丁
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Ordin), nameof(Ordin.SetBestiary), new() {
-            { "Steaming from the depths", "填入汉化文本" },
-            { "Ordin, The New Monarch", "填入汉化文本" },
+            { "Steaming from the depths", "地下深处的火焰与浓烟" },
+            { "Ordin, The New Monarch", "星树新君奥丁" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Ordin), nameof(Ordin.GetChat), new() {
             { "Shes got some great cogs", "填入汉化文本" },
@@ -393,8 +393,8 @@ public class TownNPCLocalizer : ModSystem {
             { "Bring me their Manifestations", "填入汉化文本" },
         });
         ForceLocalizeSystem.LocalizeInOrderByTypeName(nameof(Ordin), nameof(Ordin.SetNPCNameList), new() {
-            { "Ordin, Illurian Monarch", "填入汉化文本" },
-            { "Ordin, Illurian Monarch", "填入汉化文本" },
+            { "Ordin, Illurian Monarch", "星树之君奥丁" },
+            { "Ordin, Illurian Monarch", "星树之君奥丁" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Ordin), nameof(Ordin.SetChatButtons), new() {
             { "Reminisce of Sigfried", "填入汉化文本" },
@@ -464,26 +464,26 @@ public class TownNPCLocalizer : ModSystem {
         #endregion
         #region UnknownSignal 神秘信号源
         ForceLocalizeSystem.LocalizeByTypeName(nameof(UnknownSignal), nameof(UnknownSignal.SetBestiary), new() {
-            { "An Unknown Signal", "填入汉化文本" },
-            { "Unknown Signal", "填入汉化文本" },
+            { "An Unknown Signal", "一个未知的信号从这里发出" },
+            { "Unknown Signal", "神秘信号源" },
         });
         ForceLocalizeSystem.LocalizeInOrderByTypeName(nameof(UnknownSignal), nameof(UnknownSignal.GetChat), new() {
-            { "A static voice confirms the identity of the user, you are in the right place.", "填入汉化文本" },
-            { "A static voice confirms the identity of the user, you are in the right place.", "填入汉化文本" },
-            { "...", "填入汉化文本" },
+            { "A static voice confirms the identity of the user, you are in the right place.", "一个模糊的声音确认了你的身份.看来这里是对的." },
+            { "A static voice confirms the identity of the user, you are in the right place.", "一个模糊的声音确认了你的身份.看来这里是对的." },
+            { "...", "..." },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(UnknownSignal), nameof(UnknownSignal.SetChatButtons), new() {
-            { "Touch Unknown Circuitry", "填入汉化文本" },
+            { "Touch Unknown Circuitry", "触碰" },
         });
         ForceLocalizeSystem.LocalizeInOrderByTypeName(nameof(UnknownSignal), nameof(UnknownSignal.SetNPCNameList), new() {
-            { "Unknown Signal Source", "填入汉化文本" },
-            { "Unknown Signal Source", "填入汉化文本" },
+            { "Unknown Signal Source", "神秘信号源" },
+            { "Unknown Signal Source", "神秘信号源" },
         });
         #endregion
         #region Veldris 维尔迪斯
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Veldris), nameof(Veldris.SetBestiary), new() {
-            { "Freezing to death", "填入汉化文本" },
-            { "Veldris the assassin", "填入汉化文本" },
+            { "Freezing to death", "冰寒刺骨" },
+            { "Veldris the assassin", "刺客维尔迪斯" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Veldris), nameof(Veldris.GetChat), new() {
             { "Shes got some great cogs", "填入汉化文本" },
@@ -502,11 +502,11 @@ public class TownNPCLocalizer : ModSystem {
             { "You gonna buy something lad?", "填入汉化文本" },
         });
         ForceLocalizeSystem.LocalizeInOrderByTypeName(nameof(Veldris), nameof(Veldris.SetNPCNameList), new() {
-            { "Veldris the Calm Assassin", "填入汉化文本" },
-            { "Veldris the Calm Assassin", "填入汉化文本" },
+            { "Veldris the Calm Assassin", "沉静刺客维尔迪斯" },
+            { "Veldris the Calm Assassin", "沉静刺客维尔迪斯" },
         });
         ForceLocalizeSystem.LocalizeInOrderByTypeName(nameof(Veldris), nameof(Veldris.SetChatButtons), new() {
-            { "Talk", "填入汉化文本" },
+            { "Talk", "闲聊" },
         });
         ForceLocalizeSystem.LocalizeInOrderByTypeName(nameof(Veldris), nameof(Veldris.OnChatButtonClicked), new() {
             { "You doing good? I mean it's a hellhole out here. Sometimes I even start to wonder what brings you here. I'm just some lonesome seller, just be sure not to get on someone's deadlist or else I'll be seeing ya. ", "填入汉化文本" },
@@ -523,8 +523,8 @@ public class TownNPCLocalizer : ModSystem {
         #endregion
         #region Zui 蕊
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Zui), nameof(Zui.SetBestiary), new() {
-            { "A traveller of the lands who may hold great power", "填入汉化文本" },
-            { "Zui the Traveller", "填入汉化文本" },
+            { "A traveller of the lands who may hold great power", "一名周游大陆的旅者，似乎掌握着强大的力量." },
+            { "Zui the Traveller", "旅者 蕊" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Zui), nameof(Zui.GetChat), new() {
             { "The dryad is pretty fun after all, she's pretty sweet and helps us with the gardening!", "填入汉化文本" },
@@ -543,11 +543,11 @@ public class TownNPCLocalizer : ModSystem {
             { "Hey can you go collect for me?", "填入汉化文本" },
         });
         ForceLocalizeSystem.LocalizeInOrderByTypeName(nameof(Zui), nameof(Zui.SetNPCNameList), new() {
-            { "Zui The Traveller", "填入汉化文本" },
-            { "Zui The Traveller", "填入汉化文本" },
+            { "Zui The Traveller", "旅者 蕊" },
+            { "Zui The Traveller", "旅者 蕊" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Zui), nameof(Zui.SetChatButtons), new() {
-            { "Zui's Quests", "填入汉化文本" },
+            { "Zui's Quests", "任务" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Zui), "Quest_NotCheckmarked", new() {
             { "Hi hii! Thanks for asking! Could you fetch me some plants, you can use this bag! Just fill it up with some different types of plants and I'll give you some stuff afterwards!", "填入汉化文本" },
@@ -583,8 +583,8 @@ public class TownNPCLocalizer : ModSystem {
 
         #region ZuiDeath
         ForceLocalizeSystem.LocalizeByTypeName(nameof(ZuiDeath), nameof(ZuiDeath.AI), new() {
-            { "I think I have a headache..", "填入汉化文本" },
-            { "I'll see you later at my shop! Fun time :)", "填入汉化文本" },
+            { "I think I have a headache..", "我的头好晕..." },
+            { "I'll see you later at my shop! Fun time :)", "干得好！想要找我的话就再来我的商店吧！" },
         });
         #endregion
         #region EreshkigalIdle
@@ -593,11 +593,11 @@ public class TownNPCLocalizer : ModSystem {
             { "Ereshkigal the Lover", "痴恋者厄莉什基迦勒" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(EreshkigalIdle), nameof(EreshkigalIdle.GetChat), new() {
-            { "Leave me and my husband alone", "填入汉化文本" },
-            { "You should all be jealous that I'm here.", "填入汉化文本" },
-            { "Welcome welcome! Come here to feast your eyes on us?", "填入汉化文本" },
-            { "Oh dear Sigfried how we've met..", "填入汉化文本" },
-            { "Come and go you will, you'll be broken more than the others.", "填入汉化文本" },
+            { "Leave me and my husband alone", "让我和我的丈夫在这里独享二人时光吧" },
+            { "You should all be jealous that I'm here.", "你们都应该羡慕我！" },
+            { "Welcome welcome! Come here to feast your eyes on us?", "欢迎！欢迎！来一饱眼福吧" },
+            { "Oh dear Sigfried how we've met..", "亲爱的齐格飞...我还记得我们相遇的那天..." },
+            { "Come and go you will, you'll be broken more than the others.", "匆忙的来，匆忙的走，将自己搞得支离破碎..." },
         });
         ForceLocalizeSystem.LocalizeInOrderByTypeName(nameof(EreshkigalIdle), nameof(EreshkigalIdle.SetNPCNameList), new() {
             { "Ereshkigal the Lover", "痴恋者厄莉什基迦勒" },
@@ -609,14 +609,14 @@ public class TownNPCLocalizer : ModSystem {
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(EreshkigalIdle), nameof(EreshkigalIdle.OnChatButtonClicked), new() {
             { "OMG, OMG OMG OMG OMG", "天哪天哪天哪天哪！！" },
-            { "What is this? Nothing of importance to me... You are worthless, you're life is as valuable as a cinderspark summer ant, you mean nothing. You should get me something good NOW. You should burn in the Cinderspark..", "填入汉化文本" },
-            { "Oh what a darling he is. Too bad I'm tasked with keeping him here forever right? He can't escape me :3 ", "填入汉化文本" },
-            { "Sigfried is my husband you know. We met on the sacred lands of the Illuria, I may have been kicked out numerous times to talk to my king but I'd do anything to get with him", "填入汉化文本" },
-            { "He's so pure, going for such high level threats such as Lumi and stealing her singularity. That's the type of man I like, one who isn't afraid to get their hands dirty.", "填入汉化文本" },
-            { "I wish we could stay together always.", "填入汉化文本" },
-            { "Oh his dear Mordred, I bet he doesn't even know hit wife was trapped within a weapon :)", "填入汉化文本" },
-            { "Stupid dragon always getting in the way to getting to my wonderous babe, I would trap it as well but then it'd anger my dearest here.", "填入汉化文本" },
-            { "How many doors do I need to store Lumi? I don't really know but I don't care. As long as she doesn't come after my husband.", "填入汉化文本" },
+            { "What is this? Nothing of importance to me... You are worthless, you're life is as valuable as a cinderspark summer ant, you mean nothing. You should get me something good NOW. You should burn in the Cinderspark..", "这是什么...不要紧，它和你一样毫无用处，像一只蚂蚁一样不值一提.赶紧给我找到点有价值的东西，不然我就把你扔到烬火之地永世焚烧." },
+            { "Oh what a darling he is. Too bad I'm tasked with keeping him here forever right? He can't escape me :3 ", "我的任务就是把他永远关在这里，对他来说可不是什么好消息对吧 :3" },
+            { "Sigfried is my husband you know. We met on the sacred lands of the Illuria, I may have been kicked out numerous times to talk to my king but I'd do anything to get with him", "我丈夫就是齐格飞.我们初次见面是在星树的圣地，我已经被他的守卫赶出那里不知道多少次了，但为了他这一切都值得." },
+            { "He's so pure, going for such high level threats such as Lumi and stealing her singularity. That's the type of man I like, one who isn't afraid to get their hands dirty.", "他是那么的纯粹，敢向琉明那样的高级威胁下手，还偷走了她的奇点！我就喜欢这种干事干净利落毫无顾忌的男人." },
+            { "I wish we could stay together always.", "我们要永远在一起~" },
+            { "Oh his dear Mordred, I bet he doesn't even know hit wife was trapped within a weapon :)", "哦，那个莫德雷德呀...我敢肯定他都不知道他的妻子已经被囚禁在一把武器里了." },
+            { "Stupid dragon always getting in the way to getting to my wonderous babe, I would trap it as well but then it'd anger my dearest here.", "那条蠢龙，总是守着我的宝贝不让我靠近...要不是他会生气，我早就把那龙也关到这里了." },
+            { "How many doors do I need to store Lumi? I don't really know but I don't care. As long as she doesn't come after my husband.", "我要用多少扇门才能困住琉明？算了，也不重要，只要她不来找我的丈夫就行." },
         });
         #endregion
     }
