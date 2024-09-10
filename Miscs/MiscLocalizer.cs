@@ -36,7 +36,7 @@ public class MiscLocalizer : ModSystem {
         #endregion
         #region 条件
         // 主要用于商店注册, 如果同时启用 Shop Expand 能在查询商店时看到汉化效果
-        ForceLocalizeSystem.LocalizeByType(typeof(CustomConditions), ".cctor", new() {
+        ForceLocalizeSystem.LocalizeByTypeFullName("Stellamod.CustomConditions", ".cctor", new() {
             { "Defeated Fenix", "填入汉化文本" },
             { "Killed Singularity Fragment", "填入汉化文本" },
             { "Defeated Daedus", "填入汉化文本" },

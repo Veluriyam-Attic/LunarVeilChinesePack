@@ -4,23 +4,11 @@
 	<Import Project="..\tModLoader.targets" />
 
 	<!-- General -->
-	<PropertyGroup>
-		
-	</PropertyGroup>
-	<ItemGroup>
-	  <PackageReference Include="Krafs.Publicizer" Version="2.2.1">
-	    <PrivateAssets>all</PrivateAssets>
-	    <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
-	  </PackageReference>
-	</ItemGroup>
 	<ItemGroup>
 	  <Reference Include="Stellamod">
 	    <HintPath>lib\Stellamod.dll</HintPath>
 	  </Reference>
 	</ItemGroup>
-  <PropertyGroup>
-    <PublicizeAll>true</PublicizeAll>
-  </PropertyGroup>
 	<!-- References -->
 
 </Project>
