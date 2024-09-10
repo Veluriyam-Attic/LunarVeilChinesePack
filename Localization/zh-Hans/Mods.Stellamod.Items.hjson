@@ -755,7 +755,7 @@ ShrineI: {
 }
 
 Flowersummon: {
-	DisplayName: 心石之花
+	DisplayName: 石心之花
 	Tooltip: 你不应该有这个东西的 :(
 }
 
@@ -835,7 +835,7 @@ StandN: {
 }
 
 VeriBossRel: {
-	DisplayName: 心石圣卫圣物
+	DisplayName: 石心圣卫圣物
 	Tooltip: 它本身都已经算是个遗物了
 }
 
@@ -3385,7 +3385,7 @@ AuroreanStarI: {
 }
 
 StoneKey: {
-	DisplayName: 心石之钥
+	DisplayName: 石心之钥
 	Tooltip: ""
 }
 
@@ -3395,7 +3395,7 @@ NoxianWood: {
 }
 
 StoneChesti: {
-	DisplayName: 心石箱
+	DisplayName: 石心箱
 	Tooltip: ""
 }
 
@@ -3537,7 +3537,7 @@ FireflyCannon: {
 }
 
 StoniaBroochA: {
-	DisplayName: 心石饰符
+	DisplayName: 石心饰符
 	Tooltip:
 		'''
 		免疫摔落伤害，+2防御！
