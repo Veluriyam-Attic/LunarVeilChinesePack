@@ -22,7 +22,7 @@ namespace LunarVeilChinesePack.BossChecklist
             base.Load();
             #endregion
 
-            #region DoJackIntegration(漂浪焰华)
+            #region DoJackIntegration(灯笼杰克)
             ForceLocalizeSystem.LocalizeByTypeName("ModIntegrationsSystem", "DoJackIntegration",
                 new()
                 {
@@ -69,7 +69,7 @@ namespace LunarVeilChinesePack.BossChecklist
             base.Load();
             #endregion
 
-            #region DoSingularityFragmentIntegration(破损奇点)
+            #region DoSingularityFragmentIntegration(破碎奇点)
             ForceLocalizeSystem.LocalizeByTypeName("ModIntegrationsSystem", "DoSingularityFragmentIntegration",
                 new()
                 {
@@ -154,7 +154,7 @@ namespace LunarVeilChinesePack.BossChecklist
             base.Load();
             #endregion
 
-            #region DoBlazingSerpentIntegration(不息炽龙头)
+            #region DoBlazingSerpentIntegration(烈焰长蛇)
             ForceLocalizeSystem.LocalizeByTypeName("ModIntegrationsSystem", "DoBlazingSerpentIntegration",
                 new()
                 {
