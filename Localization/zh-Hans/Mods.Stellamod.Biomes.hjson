@@ -74,8 +74,8 @@ CatacombTrap: {
 }
 
 CatacombFlames: {
-	TownNPCDialogueName: 璃火墓穴
-	DisplayName: 璃火墓穴
+	TownNPCDialogueName: 烈火墓穴
+	DisplayName: 烈火墓穴
 }
 
 AurelusBiome: {
