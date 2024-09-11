@@ -37,24 +37,24 @@ public class MiscLocalizer : ModSystem {
         #region 条件
         // 主要用于商店注册, 如果同时启用 Shop Expand 能在查询商店时看到汉化效果
         ForceLocalizeSystem.LocalizeByTypeFullName("Stellamod.CustomConditions", ".cctor", new() {
-            { "Defeated Fenix", "填入汉化文本" },
-            { "Killed Singularity Fragment", "填入汉化文本" },
-            { "Defeated Daedus", "填入汉化文本" },
-            { "Sewing Kit must be Equipped", "填入汉化文本" },
+            { "Defeated Fenix", "击败凤涅克丝" },
+            { "Killed Singularity Fragment", "击败破碎奇点" },
+            { "Defeated Daedus", "击败代达斯" },
+            { "Sewing Kit must be Equipped", "必须装备着织影套件包" },
         });
         #endregion
         #region 掉落条件
         ForceLocalizeSystem.LocalizeByType(typeof(BloodmoonDropRule), nameof(BloodmoonDropRule.GetConditionDescription), new() {
-            { "During a Bloodmoon", "填入汉化文本" },
+            { "During a Bloodmoon", "在血月时" },
         });
         ForceLocalizeSystem.LocalizeByType(typeof(HardmodeDropRule), nameof(HardmodeDropRule.GetConditionDescription), new() {
-            { "During Hardmode", "填入汉化文本" },
+            { "During Hardmode", "在困难模式中" },
         });
         ForceLocalizeSystem.LocalizeByType(typeof(PlanteraDropRule), nameof(PlanteraDropRule.GetConditionDescription), new() {
-            { "After skeletron is defeated", "填入汉化文本" },
+            { "After skeletron is defeated", "在骷髅王被击败后" },
         });
         ForceLocalizeSystem.LocalizeByType(typeof(SkeletronDropRule), nameof(SkeletronDropRule.GetConditionDescription), new() {
-            { "After skeletron is defeated", "填入汉化文本" },
+            { "After skeletron is defeated", "在骷髅王被击败后" },
         });
         #endregion
         #region 报错信息
@@ -106,7 +106,7 @@ public class MiscLocalizer : ModSystem {
         #endregion
         #region UI
         ForceLocalizeSystem.LocalizeByTypeFullName("Stellamod.UI.Dialogue.DialoguePanel", "OnInitialize", new() {
-            { "Hi There :D", "输入汉化文本" },
+            { "Hi There :D", "你好啊 :D" },
         });
         ForceLocalizeSystem.LocalizeByType(typeof(ScripturePanel), "OnInitialize", new() {
             { "Hello world!", "Hello world!" },
@@ -114,54 +114,54 @@ public class MiscLocalizer : ModSystem {
         #endregion
         #region 世界生成
         Dictionary<string, string> worldGenLocalizations = new(){
-            { "The Veiled people planting trees!", "输入汉化文本" },
-            { "Golden Ambience ruining the world", "输入汉化文本" },
-            { "Buring the landscape with Cinder and Fable", "输入汉化文本" },
-            { "Ereshkigal secretly hiding Sigfried", "输入汉化文本" },
-            { "Creating life near spawn :)", "输入汉化文本" },
-            { "Witches spreading love all inside you!", "输入汉化文本" },
-            { "You aren't escaping the Kill Pillars", "输入汉化文本" },
-            { "Adding life to the world!", "输入汉化文本" },
-            { "Building Gintze houses", "输入汉化文本" },
-            { "Bird building alters", "输入汉化文本" },
-            { "Gia living fruitfully", "输入汉化文本" },
-            { "Definitely not making elder guardians from minecraft.", "输入汉化文本" },
-            { "Definitely not making even more trapped elder guardians", "输入汉化文本" },
-            { "Definitely not making some trapped elder guardians", "输入汉化文本" },
-            { "The Almighty weapon being burried", "输入汉化文本" },
-            { "Burning the world with catacombs", "输入汉化文本" },
-            { "Trapping the world with catacombs", "输入汉化文本" },
-            { "Rallad killing people", "输入汉化文本" },
-            { "Finding a place for the shop", "输入汉化文本" },
-            { "Singularities singing!", "输入汉化文本" },
-            { "Irradia marrying Paraffin instead of Delgrim", "输入汉化文本" },
-            { "Shifting Shadows deep in the Ice", "输入汉化文本" },
-            { "Virulifying the Morrow", "输入汉化文本" },
-            { "Residents of the veil believing in a god", "输入汉化文本" },
-            { "Residents of the veil crafting chasms", "输入汉化文本" },
-            { "Fighting the Virulent with magic", "输入汉化文本" },
-            { "Niivi protecting the cities above.", "输入汉化文本" },
-            { "Leaving the Royal Capital", "输入汉化文本" },
-            { "Scorching Gild and Arnchar burning into the world", "输入汉化文本" },
-            { "Scorching Arnchar into the world", "输入汉化文本" },
-            { "Scorching more Arnchar into the world", "输入汉化文本" },
-            { "Freezing the world with Frile", "输入汉化文本" },
-            { "Blackening Stones for racist effect", "输入汉化文本" },
-            { "Veribloom forgetting their memories", "输入汉化文本" },
-            { "Getting shafted", "输入汉化文本" },
-            { "Sylia using magic in the Underworld", "输入汉化文本" },
-            { "Hunters getting kicked out", "输入汉化文本" },
-            { "Hunters settling down", "输入汉化文本" },
-            { "Praising our lord and savior Niivi", "输入汉化文本" },
-            { "Verlia Ark", "输入汉化文本" },
-            { "Veldris Building his house", "输入汉化文本" },
-            { "Sigfried being demoralized", "输入汉化文本" },
-            { "Azurerin Sleeping the whole time", "输入汉化文本" },
-            { "Cozmire getting her singularity stolen", "输入汉化文本" },
-            { "Lumi collecting singularities", "输入汉化文本" },
-            { "Gothivia preparing her escape.", "输入汉化文本" },
-            { "Dreading..", "输入汉化文本" },
-            { "Gild settling in the ground", "输入汉化文本" },
+            { "The Veiled people planting trees!", "正在观察天纱臣民种树" },
+            { "Golden Ambience ruining the world", "正在准备BGM" },
+            { "Buring the landscape with Cinder and Fable", "正在用古谕之火灼烧大地" },
+            { "Ereshkigal secretly hiding Sigfried", "厄莉什基迦勒正在藏起齐格飞" },
+            { "Creating life near spawn :)", "正在为出生点附近带去生机" },
+            { "Witches spreading love all inside you!", "正在感受女巫们的爱意" },
+            { "You aren't escaping the Kill Pillars", "你可逃不脱打四柱的命运" },
+            { "Adding life to the world!", "正在为世界增加更多生灵" },
+            { "Building Gintze houses", "正在为玄铁军团盖房子" },
+            { "Bird building alters", "正在看鸟筑巢" },
+            { "Gia living fruitfully", "正在观察吉娅做实验" },
+            { "Definitely not making elder guardians from minecraft.", "绝对不是正在将我的世界中的远古守卫者偷过来" },
+            { "Definitely not making even more trapped elder guardians", "绝对不是正在将我的世界中的更多远古守卫者偷过来" },
+            { "Definitely not making some trapped elder guardians", "绝对不是正在将我的世界中的远古守卫者和陷阱偷过来" },
+            { "The Almighty weapon being burried", "正在埋藏远古神兵" },
+            { "Burning the world with catacombs", "正在建造烈火墓穴" },
+            { "Trapping the world with catacombs", "正在建造陷阱墓穴" },
+            { "Rallad killing people", "正在往死里嗨" },
+            { "Finding a place for the shop", "正在找地方建造商店" },
+            { "Singularities singing!", "正在听奇点歌唱" },
+            { "Irradia marrying Paraffin instead of Delgrim", "正在劝说伊瑞蒂安和帕拉芬结婚，而不是戴尔格林" },
+            { "Shifting Shadows deep in the Ice", "正在冰雪的深处挪动阴影" },
+            { "Virulifying the Morrow", "正在散播瘴煞" },
+            { "Residents of the veil believing in a god", "正在观察天纱臣民祭拜神明" },
+            { "Residents of the veil crafting chasms", "正在观察天纱臣民制作物品" },
+            { "Fighting the Virulent with magic", "正在用魔法对抗瘴煞" },
+            { "Niivi protecting the cities above.", "正在观察尼伊维保卫城市" },
+            { "Leaving the Royal Capital", "正在撤出皇都" },
+            { "Scorching Gild and Arnchar burning into the world", "正在加入赤铁和炽金" },
+            { "Scorching Arnchar into the world", "正在加入赤铁" },
+            { "Scorching more Arnchar into the world", "正在加入更多赤铁" },
+            { "Freezing the world with Frile", "正在冻结月冰" },
+            { "Blackening Stones for racist effect", "正在把墙壁涂黑" },
+            { "Veribloom forgetting their memories", "正在让薇绿失忆" },
+            { "Getting shafted", "正在被诈骗" },
+            { "Sylia using magic in the Underworld", "正在观察赛利亚在地狱作法" },
+            { "Hunters getting kicked out", "正在驱逐猎人" },
+            { "Hunters settling down", "正在引导猎人定居" },
+            { "Praising our lord and savior Niivi", "正在歌颂我们伟大的尼伊维" },
+            { "Verlia Ark", "正在发电" },
+            { "Veldris Building his house", "正在观察维尔德斯造房子" },
+            { "Sigfried being demoralized", "正在让齐格飞破防" },
+            { "Azurerin Sleeping the whole time", "正在偷窥艾祖瑞霖睡觉" },
+            { "Cozmire getting her singularity stolen", "正在偷取天寰神巫的奇点" },
+            { "Lumi collecting singularities", "正在观察琉明收集奇点" },
+            { "Gothivia preparing her escape.", "正在祝歌瑟梵逃脱顺利" },
+            { "Dreading..", "正在害怕" },
+            { "Gild settling in the ground", "正在稳定地层中的金光" },
         };
         if (AlwaysFalse()) {
             // 这一块不用汉化
