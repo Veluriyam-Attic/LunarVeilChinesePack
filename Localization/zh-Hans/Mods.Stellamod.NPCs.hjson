@@ -148,7 +148,7 @@ DreadMirePentagram.DisplayName: 绛渊恶巫大魔星
 DreadMire.DisplayName: 绛渊恶巫
 DreadFireCircle.DisplayName: 恐惧火圈
 DreadFireBomb.DisplayName: 恐惧火焰爆破
-BloodCystDead.DisplayName: 血肉囊死亡
+BloodCystDead.DisplayName: 血肉囊
 BloodCyst.DisplayName: 血肉囊
 SolarSingularity.DisplayName: 太阳奇点
 SolarPortal.DisplayName: 太阳传送门
@@ -321,17 +321,17 @@ UnknownSignal.DisplayName: 神秘信号源
 AlcaricVoidBig.DisplayName: 巨型阿卡里亚虚空凝聚体
 ZuiLASERWARN.DisplayName: 蕊激光警告
 GoldBeamWarn.DisplayName: 金色激光警告
-ZuiDeath.DisplayName: 蕊死亡
+ZuiDeath.DisplayName: 辉光女神 蕊
 LuminullSpiritCrystal.DisplayName: 黯光灵晶
 IceRune.DisplayName: 冰雪符文
 VerliaSpawn.DisplayName: 薇莉娅生成
 Bossdeath1.DisplayName: Boss死亡1
-DeathVerlia.DisplayName: 薇莉娅死亡
+DeathVerlia.DisplayName: 薇莉娅
 VerliaDP.DisplayName: 薇莉娅死亡光球
 Niivi.DisplayName: 尼伊维
 IllurianMage.DisplayName: 星树法师
 IllurianGuard.DisplayName: 星树守卫
-SyliaDeath.DisplayName: 赛莉亚死亡
+SyliaDeath.DisplayName: 赛莉亚
 Veldris.DisplayName: 维尔迪斯
 SupernovaZapwarn.DisplayName: 超新星电击警告
 SupernovaOrb.DisplayName: 超新星球体
@@ -373,9 +373,9 @@ GothiviaIyx.DisplayName: 青黯琉曦 歌瑟梵•伊斯
 Carmody.DisplayName: 阳炎爆
 CarmodyGreen.DisplayName: 碧绿阳炎爆
 SupernovaZapwarnFinal.DisplayName: 超新星电击警告
-GothiviaIdle.DisplayName: 歌瑟梵 闲置状态
+GothiviaIdle.DisplayName: 歌瑟梵
 StartGoth.DisplayName: 唤醒歌瑟梵
-RekSnakeIdle.DisplayName: 莱克 闲置状态
+RekSnakeIdle.DisplayName: 莱克
 CentipedeTail.DisplayName: 蜈蚣尾部
 CentipedeHead.DisplayName: 蜈蚣头部
 CentipedeBody.DisplayName: 蜈蚣身体
@@ -388,8 +388,8 @@ Tulacrowe.DisplayName: 图拉克罗
 NiiviCrystalStars.DisplayName: 尼伊维星状水晶
 NiiviCrystalLightning.DisplayName: 尼伊维闪电水晶
 NiiviCrystalFrost.DisplayName: 尼伊维冰冻水晶
-NiiviRoaming.DisplayName: 尼伊维 漫游状态
-GothiviaDeath.DisplayName: 歌瑟梵死亡
-EreshkigalIdle.DisplayName: 厄莉什基迦勒 闲置状态
+NiiviRoaming.DisplayName: 尼伊维
+GothiviaDeath.DisplayName: 歌瑟梵
+EreshkigalIdle.DisplayName: 厄莉什基迦勒
 GraveSeeker.DisplayName: 墓地探寻者
 Azurerin.DisplayName: 艾祖瑞霖
