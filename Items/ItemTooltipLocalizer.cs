@@ -15,7 +15,7 @@ public class ItemTooltipLocalizer : ModSystem {
             { "I shall arrive with you soon - Gintzia", "马上到你家门口 ——金戈亚" },
             { "This'll drive you insane for one minion", "为了一个随从栏位，至于吗？" },
             { "A+ Accessory!", "超级棒的饰品！" },
-            { "S+ Accessory!", "填入汉化文本" },
+            { "S+ Accessory!", "比超级棒更棒的饰品！" },
             { "You need an Radiant Brooches Backpack for this!", "你需要辉映饰符背包才能让此饰品发挥效果！" },
             { "Love you and have fun -Sirestias", "爱你哟，玩的开心！ ——希丝忒莉亚" },
             { "Please check out my game Diari!", "有空的话也请去看看我的游戏Diari！" },
@@ -80,33 +80,33 @@ public class ItemTooltipLocalizer : ModSystem {
             { "She'll just love you forever I guess.", "那，就让她永远爱着你吧" },
             { "Put one on as an accessory, eat for temporary effects!", "既可以作为饰品佩戴，也可以吃下去以获得临时效果！" },
             { "(C) Medium Damage Scaling (Fireballs) On Hit!", "（C）击中时产生中等伤害修正的火球" },
-            { "Creates a very good voidal explosion on dust explosions and constants!", "填入汉化文本" },
-            { "Use an insource to put something in the flask, then drink it! It acts like an infinite potion!", "填入汉化文本" },
-            { "(B) Good Damage Scaling (Alcarish Blobs) On Hit!", "填入汉化文本" },
-            { "(C) Medium Damage Scaling (Stingers) On Hit!", "填入汉化文本" },
-            { "(B) Medium Damage Scaling (Grail shot) On Hit!", "填入汉化文本" },
-            { "(C) Medium Damage Scaling (spikyballs) On Hit!", "填入汉化文本" },
+            { "Creates a very good voidal explosion on dust explosions and constants!", "魔法尘引爆时释放强力的虚空爆炸！" },
+            { "Use an insource to put something in the flask, then drink it! It acts like an infinite potion!", "使用瓶内容物来将其放入瓶中，然后左键将其喝下！像一瓶无限使用的药水！" },
+            { "(B) Good Damage Scaling (Alcarish Blobs) On Hit!", "（B）击中时产生不错伤害修正的混溶块" },
+            { "(C) Medium Damage Scaling (Stingers) On Hit!", "（C）击中时产生中等伤害修正的毒刺" },
+            { "(B) Medium Damage Scaling (Grail shot) On Hit!", "（B）击中时产生中等伤害修正的砾金" },
+            { "(C) Medium Damage Scaling (spikyballs) On Hit!", "（C）击中时产生中等伤害修正的刺球" },
         };
         ForceLocalizeSystem.LocalizeDerivedByType(typeof(ModItem), nameof(ModItem.ModifyTooltips), localizations);
         ForceLocalizeSystem.LocalizeByType(typeof(ClassSwapItem), nameof(ModItem.ModifyTooltips), new() {
-            { "Can be changed to", "填入汉化文本" },
-            { "Damage Type Swapped!", "填入汉化文本" },
+            { "Can be changed to", "可使用宝珠转换为" },
+            { "Damage Type Swapped!", "武器职业已被改变！" },
         });
         ForceLocalizeSystem.LocalizeByTypeFullName("Stellamod.Items.GlobalItemEdits", nameof(ModItem.ModifyTooltips), new() {
-            { "Lunar Veil: 8% decreased ranged damage", "填入汉化文本" },
-            { "Lunar Veil: Stealth is MUCH less effective", "填入汉化文本" },
-            { "Lunar Veil: 6% decreased ranged damage", "填入汉化文本" },
-            { "Lunar Veil: 6% decreased ranged critical strike chance", "填入汉化文本" },
-            { "Lunar Veil: 4% decreased ranged damage", "填入汉化文本" },
-            { "Lunar Veil: Damage boosters are 50% less effective", "填入汉化文本" },
+            { "Lunar Veil: 8% decreased ranged damage", "【穹月天纱】减少8%远程伤害" },
+            { "Lunar Veil: Stealth is MUCH less effective", "【穹月天纱】潜行的收益大大降低" },
+            { "Lunar Veil: 6% decreased ranged damage", "【穹月天纱】减少6%远程伤害" },
+            { "Lunar Veil: 6% decreased ranged critical strike chance", "【穹月天纱】减少6%远程暴击率" },
+            { "Lunar Veil: 4% decreased ranged damage", "【穹月天纱】减少4%远程伤害" },
+            { "Lunar Veil: Damage boosters are 50% less effective", "【穹月天纱】所有伤害增幅效果减少50%" },
         });
 
         // 应该是测试用物品
         ForceLocalizeSystem.LocalizeByTypeFullName("Stellamod.Items.Test.HavocSignaler", nameof(ModItem.ModifyTooltips), new() {
-            { "Use this item to signal Havoc for an attack\nRight click to swap attacks", "填入汉化文本" },
-            { "Attack: Charge", "填入汉化文本" },
-            { "Attack: Mini Laser", "填入汉化文本" },
-            { "Attack: Big Laser", "填入汉化文本" },
+            { "Use this item to signal Havoc for an attack\nRight click to swap attacks", "使用此物品来控制浩劫龙械的攻击，右键切换攻击模式" },
+            { "Attack: Charge", "攻击模式：冲撞" },
+            { "Attack: Mini Laser", "攻击模式：小型激光" },
+            { "Attack: Big Laser", "攻击模式：大型激光" },
         });
         if (AlwaysFalse()) {
             // 这一段不会被执行, 只是展示另外一种方式
