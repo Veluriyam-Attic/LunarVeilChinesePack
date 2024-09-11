@@ -108,7 +108,7 @@ public class MiscNPCLocalizer : ModSystem {
             { "Lonely Feeble Sorceress", "孤独可怜的魔法少女" },
         });
         ForceLocalizeSystem.LocalizeByType(typeof(LonelySorceress), "SetChatButtons", new() {
-            { "Spar with your new wife", "和你的新老婆来一场切磋！" },
+            { "Spar with your new wife", "和你的新老婆切磋一番！" },
         });
         #endregion
 
@@ -124,31 +124,31 @@ public class MiscNPCLocalizer : ModSystem {
 
         #region EreshkigalIdle
         ForceLocalizeSystem.LocalizeByType(typeof(EreshkigalIdle), nameof(EreshkigalIdle.GetChat), new() {
-            { "Leave me and my husband alone", "填入汉化文本" },
-            { "You should all be jealous that I'm here.", "填入汉化文本" },
-            { "Welcome welcome! Come here to feast your eyes on us?", "填入汉化文本" },
-            { "Oh dear Sigfried how we've met..", "填入汉化文本" },
-            { "Come and go you will, you'll be broken more than the others.", "填入汉化文本" },
+            { "Leave me and my husband alone", "让我和我的丈夫在这里独享二人时光吧" },
+            { "You should all be jealous that I'm here.", "你们都应该羡慕我！" },
+            { "Welcome welcome! Come here to feast your eyes on us?", "欢迎！欢迎！来一饱眼福吧" },
+            { "Oh dear Sigfried how we've met..", "亲爱的齐格飞...我还记得我们相遇的那天..." },
+            { "Come and go you will, you'll be broken more than the others.", "匆忙的来，匆忙的走，将自己搞得支离破碎..." },
             { "...", "..." },
         });
         ForceLocalizeSystem.LocalizeInOrderByType(typeof(EreshkigalIdle), nameof(EreshkigalIdle.SetNPCNameList), new() {
-            { "Ereshkigal the Lover", "填入汉化文本" },
-            { "Ereshkigal the Lover", "填入汉化文本" },
+            { "Ereshkigal the Lover", "痴恋者厄莉什基迦勒" },
+            { "Ereshkigal the Lover", "痴恋者厄莉什基迦勒" },
         });
         ForceLocalizeSystem.LocalizeByType(typeof(EreshkigalIdle), nameof(EreshkigalIdle.SetChatButtons), new() {
-            { "Give her something.", "填入汉化文本" },
-            { "Sigfried?", "填入汉化文本" },
+            { "Give her something.", "给她送一件礼物" },
+            { "Sigfried?", "询问关于齐格飞" },
         });
         ForceLocalizeSystem.LocalizeByType(typeof(EreshkigalIdle), nameof(EreshkigalIdle.OnChatButtonClicked), new() {
-            { "OMG, OMG OMG OMG OMG", "填入汉化文本" },
-            { "What is this? Nothing of importance to me... You are worthless, you're life is as valuable as a cinderspark summer ant, you mean nothing. You should get me something good NOW. You should burn in the Cinderspark..", "填入汉化文本" },
-            { "Oh what a darling he is. Too bad I'm tasked with keeping him here forever right? He can't escape me :3 ", "填入汉化文本" },
-            { "Sigfried is my husband you know. We met on the sacred lands of the Illuria, I may have been kicked out numerous times to talk to my king but I'd do anything to get with him", "填入汉化文本" },
-            { "He's so pure, going for such high level threats such as Lumi and stealing her singularity. That's the type of man I like, one who isn't afraid to get their hands dirty.", "填入汉化文本" },
-            { "I wish we could stay together always.", "填入汉化文本" },
-            { "Oh his dear Mordred, I bet he doesn't even know hit wife was trapped within a weapon :)", "填入汉化文本" },
-            { "Stupid dragon always getting in the way to getting to my wonderous babe, I would trap it as well but then it'd anger my dearest here.", "填入汉化文本" },
-            { "How many doors do I need to store Lumi? I don't really know but I don't care. As long as she doesn't come after my husband.", "填入汉化文本" },
+            { "OMG, OMG OMG OMG OMG", "天哪天哪天哪天哪！！" },
+            { "What is this? Nothing of importance to me... You are worthless, you're life is as valuable as a cinderspark summer ant, you mean nothing. You should get me something good NOW. You should burn in the Cinderspark..", "这是什么...不要紧，它和你一样毫无用处，像一只蚂蚁一样不值一提.赶紧给我找到点有价值的东西，不然我就把你扔到烬火之地永世焚烧." },
+            { "Oh what a darling he is. Too bad I'm tasked with keeping him here forever right? He can't escape me :3 ", "我的任务就是把他永远关在这里，对他来说可不是什么好消息对吧 :3" },
+            { "Sigfried is my husband you know. We met on the sacred lands of the Illuria, I may have been kicked out numerous times to talk to my king but I'd do anything to get with him", "我丈夫就是齐格飞.我们初次见面是在星树的圣地，我已经被他的守卫赶出那里不知道多少次了，但为了他这一切都值得." },
+            { "He's so pure, going for such high level threats such as Lumi and stealing her singularity. That's the type of man I like, one who isn't afraid to get their hands dirty.", "他是那么的纯粹，敢向琉明那样的高级威胁下手，还偷走了她的奇点！我就喜欢这种干事干净利落毫无顾忌的男人." },
+            { "I wish we could stay together always.", "我们要永远在一起~" },
+            { "Oh his dear Mordred, I bet he doesn't even know hit wife was trapped within a weapon :)", ""哦，那个莫德雷德呀...我敢肯定他都不知道他的妻子已经被囚禁在一把武器里了." },
+            { "Stupid dragon always getting in the way to getting to my wonderous babe, I would trap it as well but then it'd anger my dearest here.", "那条蠢龙，总是守着我的宝贝不让我靠近...要不是我丈夫会生气，我早就把那龙也关到这里了." },
+            { "How many doors do I need to store Lumi? I don't really know but I don't care. As long as she doesn't come after my husband.", "我要用多少扇门才能困住琉明？算了，也不重要，只要她不来找我的丈夫就行." },
         });
         #endregion
 
@@ -160,21 +160,21 @@ public class MiscNPCLocalizer : ModSystem {
         #endregion
         #region GothiviaIdle
         ForceLocalizeSystem.LocalizeByType(typeof(GothiviaIdle), nameof(GothiviaIdle.GetChat), new() {
-            { "...", "填入汉化文本" },
-            { "I shouldn't have left..", "填入汉化文本" },
-            { "Verlia.. Irradia...", "填入汉化文本" },
-            { "A monster you are", "填入汉化文本" },
-            { "...Interesting...", "填入汉化文本" },
+            { "...", "..." },
+            { "I shouldn't have left..", "或许我就不该离开..." },
+            { "Verlia.. Irradia...", "薇莉娅...伊瑞蒂安..." },
+            { "A monster you are", "你真是个怪物" },
+            { "...Interesting...", "...有点东西..." },
         });
         ForceLocalizeSystem.LocalizeInOrderByType(typeof(GothiviaIdle), nameof(GothiviaIdle.SetNPCNameList), new() {
-            { "Gothivia The Enraged", "填入汉化文本" },
-            { "Gothivia The Enraged", "填入汉化文本" },
+            { "Gothivia The Enraged", "盛怒烈阳 歌瑟梵" },
+            { "Gothivia The Enraged", "盛怒烈阳 歌瑟梵" },
         });
         ForceLocalizeSystem.LocalizeByType(typeof(GothiviaIdle), nameof(GothiviaIdle.SetChatButtons), new() {
-            { "Challenge.", "填入汉化文本" },
+            { "Challenge.", "挑战" },
         });
         ForceLocalizeSystem.LocalizeByType(typeof(GothiviaIdle), nameof(GothiviaIdle.OnChatButtonClicked), new() {
-            { "You're not worth the effort, Rek can avenge them for me. Idiot.", "填入汉化文本" },
+            { "You're not worth the effort, Rek can avenge them for me. Idiot.", "让莱克为她们复仇吧.对付你不需要我亲自出手，蠢货." },
         });
         #endregion
         
@@ -190,21 +190,21 @@ public class MiscNPCLocalizer : ModSystem {
 
         #region IrradiaIdle
         ForceLocalizeSystem.LocalizeByType(typeof(IrradiaIdle), nameof(IrradiaIdle.GetChat), new() {
-            { "...", "填入汉化文本" },
-            { "Leave before you too become corrupt", "填入汉化文本" },
-            { "Get away from here.", "填入汉化文本" },
-            { "I miss them", "填入汉化文本" },
-            { "... Delgrim...", "填入汉化文本" },
+            { "...", "..." },
+            { "Leave before you too become corrupt", "在你也被腐化之前离开这里" },
+            { "Get away from here.", "滚出这里." },
+            { "I miss them", "我想她们..." },
+            { "... Delgrim...", "...戴尔格林..." },
         });
         ForceLocalizeSystem.LocalizeInOrderByType(typeof(IrradiaIdle), nameof(IrradiaIdle.SetNPCNameList), new() {
-            { "???", "填入汉化文本" },
-            { "???", "填入汉化文本" },
+            { "???", "???" },
+            { "???", "???" },
         });
         ForceLocalizeSystem.LocalizeByType(typeof(IrradiaIdle), nameof(IrradiaIdle.SetChatButtons), new() {
-            { "Show Verlia's Manifested Bravery", "填入汉化文本" },
+            { "Show Verlia's Manifested Bravery", "展示薇莉娅的灵魂核心" },
         });
         ForceLocalizeSystem.LocalizeByType(typeof(IrradiaIdle), nameof(IrradiaIdle.OnChatButtonClicked), new() {
-            { "Stop bothering me, you don't deserve to die.", "填入汉化文本" },
+            { "Stop bothering me, you don't deserve to die.", "别来烦我.你都不值得被我亲手杀死." },
         });
         #endregion
 
@@ -228,11 +228,11 @@ public class MiscNPCLocalizer : ModSystem {
             { "...", "..." },
         });
         ForceLocalizeSystem.LocalizeInOrderByType(typeof(UnderworldRift), nameof(UnderworldRift.SetNPCNameList), new() {
-            { "Underworld Rift", "填入汉化文本" },
-            { "Underworld Rift", "填入汉化文本" },
+            { "Underworld Rift", "地狱裂隙" },
+            { "Underworld Rift", "地狱裂隙" },
         });
         ForceLocalizeSystem.LocalizeByType(typeof(UnderworldRift), nameof(UnderworldRift.SetChatButtons), new() {
-            { "Disturb Rift", "填入汉化文本" },
+            { "Disturb Rift", "试探裂隙" },
         });
         #endregion
 
