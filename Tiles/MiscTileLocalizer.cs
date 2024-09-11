@@ -25,7 +25,7 @@ public class MiscTileLocalizer : ModSystem {
         #endregion
         #region FlowerSummon
         ForceLocalizeSystem.LocalizeByType(typeof(FlowerSummon), nameof(FlowerSummon.MouseOver), new() {
-            { "Old Guard's Shrine", "输入汉化文本" },
+            { "Old Guard's Shrine", "老守卫的石坛" },
         });
         ForceLocalizeSystem.LocalizeByType(typeof(FlowerSummon), nameof(FlowerSummon.RightClick), new() {
             { "The Stone Guardian has awoken!", "石心圣卫已苏醒！" },
@@ -37,7 +37,7 @@ public class MiscTileLocalizer : ModSystem {
             { "...", "..." },
         });
         ForceLocalizeSystem.LocalizeByType(typeof(Gothiv), nameof(Gothiv.MouseOver), new() {
-            { "Gothivia's sleeping hut", "输入汉化文本" },
+            { "Gothivia's sleeping hut", "歌瑟梵的小棚屋" },
         });
         #endregion
         #region JackPost
@@ -57,7 +57,7 @@ public class MiscTileLocalizer : ModSystem {
             { "I cannot raise my axe to one of such dedication to our goddess Gothivia, thank you for your efforts..", "面对为歌瑟梵如此付出之人，我无从下手...感谢您的努力." },
         });
         ForceLocalizeSystem.LocalizeByType(typeof(RestingGrounds), nameof(RestingGrounds.MouseOver), new() {
-            { "Disturb Ruined Tablet?", "输入汉化文本" },
+            { "Disturb Ruined Tablet?", "扰动遗迹石碑？" },
         });
         #endregion
         #region CathedralChest
@@ -72,7 +72,7 @@ public class MiscTileLocalizer : ModSystem {
             { "Come at night with our kindred in hand, see you soon for our dance will commend :)", "三更来见灯在手，舞醉月下不知愁" },
         });
         ForceLocalizeSystem.LocalizeByTypeName("VerliasShrine", "RightClick", new() {
-            { "Verlia's Shrine", "输入汉化文本" },
+            { "Verlia's Shrine", "薇莉娅圣坛" },
         });
         #endregion
         #region MorrowChest
@@ -90,7 +90,7 @@ public class MiscTileLocalizer : ModSystem {
             { "...", "..." },
         });
         ForceLocalizeSystem.LocalizeByType(typeof(UnstableRift), nameof(UnstableRift.MouseOver), new() {
-            { "Disturb the Unstable Rift...?", "输入汉化文本" },
+            { "Disturb the Unstable Rift...?", "试探不稳定裂隙...？" },
         });
         #endregion
         #region SunAlter
@@ -113,28 +113,28 @@ public class MiscTileLocalizer : ModSystem {
 
         #region AurelusDoorClosed
         ForceLocalizeSystem.LocalizeByType(typeof(AurelusDoorClosed), "get_FailString", new() {
-            { "You're not ready yet! Key needed!", "输入汉化文本" },
+            { "You're not ready yet! Key needed!", "你还需要一把钥匙！" },
         });
         #endregion
         #region CatacombsDoorClosed
         ForceLocalizeSystem.LocalizeByType(typeof(CatacombsDoorClosed), "get_FailString", new() {
-            { "Kill wall of flesh! Key needed!", "输入汉化文本" },
+            { "Kill wall of flesh! Key needed!", "先击杀血肉之墙并拿到钥匙！" },
         });
         #endregion
         #region IshtarDoorClosed
         ForceLocalizeSystem.LocalizeByType(typeof(IshtarDoorClosed), "get_FailString", new() {
-            { "The door requires an Ishtar Key.", "输入汉化文本" },
+            { "The door requires an Ishtar Key.", "需要狂渊钥匙" },
         });
         #endregion
         #region GothivDoorClosed
         ForceLocalizeSystem.LocalizeByType(typeof(GothivDoorClosed), "get_FailString", new() {
-            { "Hun, you cant open this door yet :(", "输入汉化文本" },
+            { "Hun, you cant open this door yet :(", "嗯...你还开不了这扇门" },
         });
         #endregion
 
         #region 一些 MouseOver
         Dictionary<string, string> breakMeLocalization = new(){
-            { "Break Me!", "输入汉化文本" },
+            { "Break Me!", "打破我！" },
         };
         ForceLocalizeSystem.LocalizeByType(typeof(ShrineAlcaPowderC), nameof(ShrineAlcaPowderC.MouseOver), breakMeLocalization);
         ForceLocalizeSystem.LocalizeByType(typeof(ShrineBUAN), nameof(ShrineBUAN.MouseOver), breakMeLocalization);
@@ -143,10 +143,10 @@ public class MiscTileLocalizer : ModSystem {
         ForceLocalizeSystem.LocalizeByType(typeof(ShrineLights), nameof(ShrineLights.MouseOver), breakMeLocalization);
         ForceLocalizeSystem.LocalizeByType(typeof(ShrineSolMothC), nameof(ShrineSolMothC.MouseOver), breakMeLocalization);
         ForceLocalizeSystem.LocalizeByType(typeof(ShrineBridgetC), nameof(ShrineBridgetC.MouseOver), new() {
-            { "Hey hey over here break me please :(", "输入汉化文本" },
+            { "Hey hey over here break me please :(", "嘿！嘿！那边的！过来救我出去！" },
         });
         ForceLocalizeSystem.LocalizeByType(typeof(LabCrystal), nameof(LabCrystal.MouseOver), new() {
-            { "Insert a Focal Crystal", "输入汉化文本" },
+            { "Insert a Focal Crystal", "插入聚焦水晶" },
         });
         #endregion
     }
