@@ -8,7 +8,7 @@ using Stellamod.Trails;
 using Stellamod.UI.Scripture;
 using Stellamod.WorldG;
 using System.Reflection;
-using Terraria.ModLoader.Core;
+using Terraria.Localization;
 
 namespace LunarVeilChinesePack.Miscs;
 
@@ -268,10 +268,11 @@ public class MiscLocalizer : ModSystem {
             ForceLocalizeSystem.Localize(method, worldGenLocalizations);
         }
         #endregion
-
-        // TODO: Config 的 Headers
-        // TODO: Currency (in Mod.Load)
-        // TODO: Stellamenu.DisplayName?
+        #region 菜单界面名
+        MonoModHooks.Add(typeof(Stellamenu).GetMethod("get_DisplayName"), (Func<Stellamenu, string> orig, Stellamenu self) => {
+            return Language.GetTextValue("Mods.Stellamod.Menus.Stellamenu.DisplayName");
+        });
+        #endregion
     }
     private static bool AlwaysFalse() => false;
 }

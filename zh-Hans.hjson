@@ -1,34 +1,36 @@
 Mods: {
 	Stellamod: {
+		Menus.Stellamenu.DisplayName: 穹月天纱    // 这东西没法挪出去, 因为作者就是放这儿的. 大概是改名时把 LunarVeilConfig 改成了 LunarVeilClientConfig, 但又没把本地化改了, 然后 TML 就自动给它生成到这儿来了
+
 		Configs: {
 			LunarVeilClientConfig: {
-				// DisplayName: Lunar Veil Config
+				DisplayName: 穹月天纱模组配置
 
 				Headers: {
-					// ReplaceVanillaTextures: Replace Vanilla Textures Header
-					// BiomeParticles: Biome Particles Header
-					// ModdedBiomeParticles: Modded Biome Particles Header
-					// Screenshake: Screenshake Header
+					ReplaceVanillaTextures: 替换原版材质
+					BiomeParticles: 环境粒子效果
+					ModdedBiomeParticles: 模组环境粒子效果
+					Screenshake: Screenshake (输入汉化文本)
 				}
 
 				VanillaParticlesToggle: {
-					// Label: Vanilla Particles Toggle
-					// Tooltip: ""
+					Label: 使用原版粒子
+					Tooltip: ""
 				}
 
 				ParticlesToggle: {
-					// Label: Particles Toggle
-					// Tooltip: ""
+					Label: 粒子效果
+					Tooltip: ""
 				}
 
 				VanillaTexturesToggle: {
-					// Label: Vanilla Textures Toggle
-					// Tooltip: ""
+					Label: 使用原版材质
+					Tooltip: ""
 				}
 
 				ShakeToggle: {
-					// Tooltip: ""
-					// Label: Shake Toggle
+					Tooltip: ""
+					Label: Shake Toggle (输入汉化文本)
 				}
 			}
 

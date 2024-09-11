@@ -1,5 +1,7 @@
 Mods: {
 	Stellamod: {
+		Menus.Stellamenu.DisplayName: Lunar Veil
+
 		Configs: {
 			LunarVeilClientConfig: {
 				DisplayName: Lunar Veil Config

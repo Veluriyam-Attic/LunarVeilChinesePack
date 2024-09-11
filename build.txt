@@ -3,3 +3,4 @@ author = 虞悖
 version = 1.1
 modReferences = Stellamod
 translationMod = true
+side = Client

@@ -7,6 +7,7 @@ Headers: {
 	ReplaceVanillaTextures: 替换原版材质
 	BiomeParticles: 环境粒子效果
 	ModdedBiomeParticles: 模组环境粒子效果
+	Screenshake: Screenshake // 在这儿写没用, 去 zh-Hans.hjson 写去
 }
 
 DisplayName: 穹月天纱模组配置
@@ -18,5 +19,10 @@ VanillaParticlesToggle: {
 
 ParticlesToggle: {
 	Label: 粒子效果
+	Tooltip: ""
+}
+
+ShakeToggle: {
+	Label: Shake Toggle // 在这儿写没用, 去 zh-Hans.hjson 写去
 	Tooltip: ""
 }
