@@ -146,7 +146,7 @@ public class MiscNPCLocalizer : ModSystem {
             { "Sigfried is my husband you know. We met on the sacred lands of the Illuria, I may have been kicked out numerous times to talk to my king but I'd do anything to get with him", "我丈夫就是齐格飞.我们初次见面是在星树的圣地，我已经被他的守卫赶出那里不知道多少次了，但为了他这一切都值得." },
             { "He's so pure, going for such high level threats such as Lumi and stealing her singularity. That's the type of man I like, one who isn't afraid to get their hands dirty.", "他是那么的纯粹，敢向琉明那样的高级威胁下手，还偷走了她的奇点！我就喜欢这种干事干净利落毫无顾忌的男人." },
             { "I wish we could stay together always.", "我们要永远在一起~" },
-            { "Oh his dear Mordred, I bet he doesn't even know hit wife was trapped within a weapon :)", ""哦，那个莫德雷德呀...我敢肯定他都不知道他的妻子已经被囚禁在一把武器里了." },
+            { "Oh his dear Mordred, I bet he doesn't even know hit wife was trapped within a weapon :)", "哦，那个莫德雷德呀...我敢肯定他都不知道他的妻子已经被囚禁在一把武器里了." },
             { "Stupid dragon always getting in the way to getting to my wonderous babe, I would trap it as well but then it'd anger my dearest here.", "那条蠢龙，总是守着我的宝贝不让我靠近...要不是我丈夫会生气，我早就把那龙也关到这里了." },
             { "How many doors do I need to store Lumi? I don't really know but I don't care. As long as she doesn't come after my husband.", "我要用多少扇门才能困住琉明？算了，也不重要，只要她不来找我的丈夫就行." },
         });
