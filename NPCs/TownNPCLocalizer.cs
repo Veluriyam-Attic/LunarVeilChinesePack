@@ -12,17 +12,17 @@ public class TownNPCLocalizer : ModSystem {
             { "Aimacra", "安魅凯拉" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Aimacra), nameof(Aimacra.GetChat), new() {
-            { "They also have fox ears like me lmao", "他们也像我一样拥有狐狸的耳朵（憋笑）" },
-            { "This world seems a bit off don't you think?", "你是否也曾觉得这个世界有点不对劲？" },
+            { "They also have fox ears like me lmao", "她也像我一样拥有狐狸的耳朵（憋笑）" },
+            { "This world seems a bit off don't you think?", "你是否也觉得这个世界有点不对劲？" },
             { "I'm not one to brag but this place is so much better than Ekrose", "我不是喜欢吹嘘的人，但这个地方确实比艾科洛斯好多了。" },
             { "Did Sirestias ask me to find her again?", "希丝忒莉亚又叫我去找她了吗？" },
-            { "Yeah I've been traveling while you were out.", "你遇到你之前我一直在游荡" },
+            { "Yeah I've been traveling while you were out.", "遇到你之前我一直在游荡" },
             { "Go play Diari on steam? I have no idea what that means", "要不要试着steam下载个Diari玩玩？等等，我在说什么" },
             { "Do people think I'm not into pans?", "是不是大家都认为我没有穿裤子呢？" },
             { "Sooo can we forget about everything that happened in Ekrose?", "我们可以忘记在艾科洛斯发生的一切吗？" },
             { "I am really sorry for what we went through but now were here you know?", "我真的很抱歉我们曾经所经历的一切，但是现在我们在这里应该有个新的开始，不是吗？" },
-            { "Sirestias went out again, and this time I'm not finding her.", "希丝忒莉亚又出去了，但是这次我不会去找她" },
-            { "Hey could you go do something, I'm about to get dressed, but honestly I say that like you haven't seen me before.", "嘿，我要换衣服，你能去做点别的事情吗？但说实在的，你以前又不是没见过我换衣服似的。" },
+            { "Sirestias went out again, and this time I'm not finding her.", "希丝忒莉亚又出去了，这次我可不会再去找她了" },
+            { "Hey could you go do something, I'm about to get dressed, but honestly I say that like you haven't seen me before.", "嘿，我要换衣服，你能去做点别的事情吗？但说实在的，你以前又不是没见过我换衣服." },
         });
         ForceLocalizeSystem.LocalizeInOrderByTypeName(nameof(Aimacra), nameof(Aimacra.SetNPCNameList), new() {
             // 安魅凯拉有三个名字,  一个是 Aimacra, 一个是 Aimacra, 一个还是 Aimacra
@@ -38,11 +38,11 @@ public class TownNPCLocalizer : ModSystem {
             { "I hate being Sirestias's Assassin.. Speaking of I met a guy named Veldris and he's totally cool!", "我不喜欢当希丝忒莉亚的杀手，emmmmm，说到这个，我今天遇到了一个叫威狄尔斯（Veldris）的家伙，他超酷的好吧" },
             { "I'll be back I may go to look for some new stuff underground. ", "我会回来的，我可能会去地下寻找一些新东西" },
             { "What is a thug shaker? To shake or not to shake? Sometimes I wonder if life truly does give lemons.", "什么才算是一个狂热摇滚者呢?随音乐摇摆还是不随音乐摇摆，这是一个问题...唉，有时候我感觉生活真是苦涩啊" },
-            { "What class would I even be? ", "在你眼里我是什么样子的呢?" },
+            { "What class would I even be? ", "我在这里算什么职业呢...?" },
             { "Hey sorry for what may of happened on Ekrose but I hope we can still be friends and make up to each other.", "对于在艾科洛斯发生的事情，我深感抱歉，我们还可以继续作患难与共的朋友吗?" },
-            { "STARBOMBERS ARE ON THIS PLANET TOOOOO!!!", "这个世界居然有星绽之地，这太酷了!!!!!!" },
+            { "STARBOMBERS ARE ON THIS PLANET TOOOOO!!!", "这里怎么也有星爆者啊！！！" },
             { "I totally haven't been playing geometry dash.", "我今天没有摸鱼玩几何冲刺，快夸我(•ω•`)" },
-            { "I've seen some weird things in my life, but never would I have thought Fenix would be more chronically horny than Sirestias, but to be fair Sirestias just gets more power doing that.", "我短暂的一生中，我见识过各种各样事物，即便如此，我不认为凤涅克斯能比希丝忒莉亚更漂亮，毕竟希丝忒莉亚在爱美这件事上比凤涅克斯投入了更多精力。" },
+            { "I've seen some weird things in my life, but never would I have thought Fenix would be more chronically horny than Sirestias, but to be fair Sirestias just gets more power doing that.", "我短暂的一生中，我见识过各种各样事物，但我真没想到会有人比希丝忒莉亚还要欲望高涨——指凤涅克丝.那可是希丝忒莉亚的力量来源啊！" },
             { "I hate being part human.", "在对于自己有一半人类的血统这件事情上，我非常讨厌" },
         });
         #endregion
@@ -52,7 +52,7 @@ public class TownNPCLocalizer : ModSystem {
             { "Bordoc the eternal blacksmith", "铁匠波尔杜克" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Bordoc), nameof(Bordoc.GetChat), new() {
-            { "Shes got some great cogs", "填入汉化文本" },
+            { "Shes got some great cogs", "她的零件不错" },
             { "BRMMMM", "喀 喀" },
             { "Everyone always uses me but never asked how I'm able to talk.. ", "所有认识我的人中，没人问过我是怎么说话的..." },
             { "I don't care I need to gamble", "我对赌博不屑一顾" },
@@ -125,7 +125,7 @@ public class TownNPCLocalizer : ModSystem {
             { "Everyone comes in for the same stuff, come and go please.", "每个人都为了锻造相关事情来到和离开这里，想必你也一样吧" },
             { "Another visitor?", "啊,又一位访客？" },
             { "What goes on in the world nowadays?", "现在世界形势如何？" },
-            { "I don't mean trouble, but do as you please.", "我不想惹麻烦，但请随意行事。" },
+            { "I don't mean trouble, but do as you please.", "我不想惹麻烦，但你也不必过于拘谨." },
             { "...", "..." },
         });
         ForceLocalizeSystem.LocalizeInOrderByTypeName(nameof(Delgrim), nameof(Delgrim.SetNPCNameList), new() {
@@ -180,7 +180,7 @@ public class TownNPCLocalizer : ModSystem {
             { "I have some things on the market for you, I go around collecting items and I get more stuff when you beat bosses and honestly, you seem really cool! :0", "我这里有点好东西卖给你！都是我自己捡来的和你打Boss剩下的东西~你也很棒哟！" },
             { "You know who is responsible for your dice rolling righttt? You know, uh after you beat bosses? Yeah, thats me ya silly lovebug", "哎，你知道你的赌博骰子都是谁在扔对吧？就是我呀你个小傻瓜." },
             { "Can we get married?", "咱们来结个婚，你意下如何？" },
-            { "Soo are we gonna get married or are you gonna buy something?", "买点东西吧！难不成你想把自己卖给我？" },
+            { "Soo are we gonna get married or are you gonna buy something?", "买点东西吧！难不成~你想把自己卖给我？" },
         });
         ForceLocalizeSystem.LocalizeInOrderByTypeName(nameof(Delgrim), nameof(Delgrim.SetNPCNameList), new() {
             { "Zielie", "Zielie" },
@@ -296,7 +296,7 @@ public class TownNPCLocalizer : ModSystem {
             { "Mardenth", "填入汉化文本" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Mardenth), nameof(Mardenth.SetChatButtons), new() {
-            { "Talk", "填入汉化文本" },
+            { "Talk", "闲聊" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Mardenth), nameof(Mardenth.OnChatButtonClicked), new() {
             { "Heheheh, I like to eat little wormy guys but they won't stop squiggling. Reminds me of when our dad Daeden left us. ", "填入汉化文本" },
@@ -375,11 +375,11 @@ public class TownNPCLocalizer : ModSystem {
 
         // 主要用于商店注册, 如果同时启用 Shop Expand 能在查询商店时看到汉化效果
         ForceLocalizeSystem.LocalizeByTypeFullName("Stellamod.NPCs.Town.MerenaQuestSystem", ".cctor", new() {
-            { "KillVerlia", "填入汉化文本" },
-            { "ExploreMorrowedVillage", "填入汉化文本" },
-            { "Give100DustBags", "填入汉化文本" },
-            { "MakeMagicPaper", "填入汉化文本" },
-            { "Tome", "填入汉化文本" }, // MakeTomeOfInfiniteSorceryCompleted
+            { "KillVerlia", "击败薇莉娅完成" },
+            { "ExploreMorrowedVillage", "探索古谕村落完成" },
+            { "Give100DustBags", "上交100个粉尘袋完成" },
+            { "MakeMagicPaper", "制作魔法纸张完成" },
+            { "Tome", "制作终极魔导书完成" }, // MakeTomeOfInfiniteSorceryCompleted
         });
         #endregion
         #region NaturalWitch 自然女巫
@@ -608,8 +608,8 @@ public class TownNPCLocalizer : ModSystem {
         #endregion
         #region ZuiTheTraveller
         ForceLocalizeSystem.LocalizeByType(typeof(ZuiTheTraveller), nameof(ZuiTheTraveller.SetBestiary), new() {
-            { "Zui, not exactly someone that can be killed but loves to play around I guess? Sirestias is closely accompanied with her", "填入汉化文本" },
-            { "Zui the Radiance", "填入汉化文本" },
+            { "Zui, not exactly someone that can be killed but loves to play around I guess? Sirestias is closely accompanied with her", "蕊，绝不是什么等闲之辈，但看样子很喜欢休闲玩乐.希丝忒莉亚与她有不浅的交情." },
+            { "Zui the Radiance", "辉光女神 蕊" },
         });
         #endregion
         #region EreshkigalIdle
