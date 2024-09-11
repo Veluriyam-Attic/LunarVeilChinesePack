@@ -21,7 +21,7 @@ namespace LunarVeilChinesePack.BossChecklist
 
             #region DoJackIntegration(灯笼杰克)
             ForceLocalizeSystem.LocalizeByTypeName("ModIntegrationsSystem", "DoJackIntegration", new() {
-                { "Use a [i:","在夜晚进入古谕遗境的城堡并使用[i:" },
+                { "Use a [i:","在夜晚进入古谕遗境并使用[i:" },
                 {"] at a post in the Fabled Castle to the right at night.","]以召唤." }
             });
             #endregion
@@ -105,7 +105,7 @@ namespace LunarVeilChinesePack.BossChecklist
 
             #region DoStoneGolemIntegration(石心圣卫)
             ForceLocalizeSystem.LocalizeByTypeName("ModIntegrationsSystem", "DoStoneGolemIntegration", new() {
-                {"Interact with the Old Guard's Shrine. After using the rock in your Starter bag.","使用新手礼包中的石头以传送到召唤地点，右键圣卫神龛以召唤." }
+                {"Interact with the Old Guard's Shrine. After using the rock in your Starter bag.","使用新手礼包中的石头以传送到召唤地点，右键石心之花以召唤." }
             });
             #endregion
 
