@@ -3,12 +3,12 @@
 public class ArmorSetLocalizer : ModSystem {
     public override void Load() {
         ForceLocalizeSystem.LocalizeDerivedByType(typeof(ModItem), nameof(ModItem.UpdateArmorSet), new() {
-            { "Stand still to emit a toxic aura!", "填入汉化文本" }, // AcidHelm, AcidMask, AcidRobe, AcidVisor
+            { "Stand still to emit a toxic aura!", "站立不动以散发出有毒的气息!" }, // AcidHelm, AcidMask, AcidRobe, AcidVisor
             { "\n+1 max minions" +
-                "\nThe stars of Illuria protect you!", "填入汉化文本" }, // AlcaliteMask
+                "\nThe stars of Illuria protect you!", "\n+1 随从栏\n星树之地的明星会护佑着你!" }, // AlcaliteMask
             { "You are a true mage..." +
                 "\nGain the effects of a mana flower, magic cuffs, and retrieve magic stars from afar " +
-                "\nMana costs are reduced by 70% and increased magic regeneration", "填入汉化文本" }, // AlsisMask
+                "\nMana costs are reduced by 70% and increased magic regeneration", "你是真正的法师...\n获得魔力花、星力手环并收集远处的星星!\n减少70%的魔力消耗并提升魔力再生速度" }, // AlsisMask
             { "3, 2, 1 .. Smile! Act like you're on stage will ya :p" +
                 "\nEvery little while you'll get a countdown, and when you hear Zero," +
                 "\nyour crit is 100% and damage output is doubled! " +
