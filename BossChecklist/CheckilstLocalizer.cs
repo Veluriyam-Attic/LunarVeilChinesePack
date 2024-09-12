@@ -74,7 +74,7 @@ namespace LunarVeilChinesePack.BossChecklist
 
             #region DoIrradiaIntegration(辐射巢穴)
             ForceLocalizeSystem.LocalizeByTypeName("ModIntegrationsSystem", "DoIrradiaIntegration", new() {
-                { "Give Irradia a [i:","在瘴煞深处的歌维赫堡深处给予伊瑞蒂安 [i:" },
+                { "Give Irradia a [i:","在瘴煞深处的歌维赫堡给予伊瑞蒂安 [i:" },
                 {"] at a bottom of the Govheil Castle, underneath the Virulent.","] 以召唤." }
             });
             #endregion
