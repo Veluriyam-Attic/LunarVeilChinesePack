@@ -147,7 +147,7 @@ namespace LunarVeilChinesePack.BossChecklist
 
             #region DoRekIntegration(不熄炽龙 莱克)
             ForceLocalizeSystem.LocalizeByTypeName("ModIntegrationsSystem", "DoRekIntegration", new() {
-                {"Gothivia's sworn protector, you must take him down before you can get to Gothivia.","歌瑟梵的忠卫 只有你击败它才有资格挑战歌瑟梵." }
+                {"Gothivia's sworn protector, you must take him down before you can get to Gothivia.","歌瑟梵的忠卫，只有你击败他才有资格挑战歌瑟梵." }
             });
             #endregion
 
