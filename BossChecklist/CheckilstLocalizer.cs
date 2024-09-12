@@ -68,7 +68,7 @@ namespace LunarVeilChinesePack.BossChecklist
 
             #region DoGothiviaIntegration(青黯琉曦 歌瑟梵•伊斯)
             ForceLocalizeSystem.LocalizeByTypeName("ModIntegrationsSystem", "DoGothiviaIntegration", new() {
-                { "After killing her friend Irradia, Green sun will start and she will await your arrival, kill Rek to challenge her.","在你杀死伊瑞蒂安后，歌瑟梵将等待着你. 当你击杀莱克后将获得挑战她的资格." },
+                { "After killing her friend Irradia, Green sun will start and she will await your arrival, kill Rek to challenge her.","在你杀死伊瑞蒂安后，歌瑟梵将等待着你. 击杀莱克后你将获得挑战她的资格." },
             });
             #endregion
 
