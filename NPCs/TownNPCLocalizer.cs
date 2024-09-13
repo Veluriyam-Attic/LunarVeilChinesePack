@@ -317,20 +317,20 @@ public class TownNPCLocalizer : ModSystem {
             { "Merena the bewitched sorcerer", "着迷术士梅瑞娜" },
         });
         ForceLocalizeSystem.LocalizeByType(typeof(Merena), nameof(Merena.GetChat), new() {
-            { "Funny enough the clothier used to come through here all the time for some of our amazing fabrics", "填入汉化文本" },
-            { "I wonder what my sister Sylia is up to nowadays, do you know her?", "填入汉化文本" },
-            { "I'm gonna be the very best, like no one ever was... ", "填入汉化文本" },
-            { "Fenix is the best queen there will ever be! She gives us all what we want :P", "填入汉化文本" },
-            { "This place is so calming, I can't stand it but I would give everything to be near Fenix", "填入汉化文本" },
-            { "Aimacra seems pretty cool, she came here recently looking for some brooches", "填入汉化文本" },
-            { "Hey uh could you do something for me? I have a little favor, just ask what it is!", "填入汉化文本" },
-            { "I've always wanted to be the best witch there is! I've always been outshined by exiles though, including my sisters sadly.", "填入汉化文本" },
-            { "I really need to beat my sister in a battle someday.", "填入汉化文本" },
-            { "It's strange, the economic system here is almost like communism", "填入汉化文本" },
-            { "Damn we have some cool shit here", "填入汉化文本" },
-            { "No doubt about it but Fenix is truly the strongest witch in all of the lands, maybe even more powerful than the witch of light in the hallow, I don't like her.", "填入汉化文本" },
-            { "Hahh, I remember that goon Verlia, she's kind of dumb but shes at least powerful, I remember she got exiled for stealing tomes, I might need that from her.", "填入汉化文本" },
-            { "Can you go collect some runes for me? I'd love for you to get working.", "填入汉化文本" },
+            { "Funny enough the clothier used to come through here all the time for some of our amazing fabrics", "说起来，服装商经常来这里买我们的魔法丝绸和布." },
+            { "I wonder what my sister Sylia is up to nowadays, do you know her?", "你最近有见过一个叫赛利亚的人吗？她跑哪去了..." },
+            { "I'm gonna be the very best, like no one ever was... ", "我要成为史上最强的魔法师！" },
+            { "Fenix is the best queen there will ever be! She gives us all what we want :P", "凤涅克丝真是理想中的皇后！她给了我们一切！" },
+            { "This place is so calming, I can't stand it but I would give everything to be near Fenix", "这地方太安静了，我不喜欢，但能够站在凤涅克丝身边，这点小事不算什么." },
+            { "Aimacra seems pretty cool, she came here recently looking for some brooches", "安魅凯拉很棒哎.她最近来这里寻找饰符来着." },
+            { "Hey uh could you do something for me? I have a little favor, just ask what it is!", "呃..你能稍微帮我个忙吗？会有回报的！" },
+            { "I've always wanted to be the best witch there is! I've always been outshined by exiles though, including my sisters sadly.", "我一生的梦想就是成为最强的女巫！但我总是被人超越，尤其是我的姐妹." },
+            { "I really need to beat my sister in a battle someday.", "哪天我见到她了，一定要当场打败她！" },
+            { "It's strange, the economic system here is almost like communism", "奇怪，这里的经济怎么这么像...共产主义？" },
+            { "Damn we have some cool shit here", "这里的东西都好棒啊！" },
+            { "No doubt about it but Fenix is truly the strongest witch in all of the lands, maybe even more powerful than the witch of light in the hallow, I don't like her.", "毫无争议，凤涅克丝才是这片大陆上最强的女巫.可能比神圣的光之巫女还强.我恨那家伙." },
+            { "Hahh, I remember that goon Verlia, she's kind of dumb but shes at least powerful, I remember she got exiled for stealing tomes, I might need that from her.", "哈，我还记得那个薇莉娅.脑袋一根筋，但力量还挺强.她因为从皇都偷了魔法书而被流放.我可能还需要那本书." },
+            { "Can you go collect some runes for me? I'd love for you to get working.", "呃..你能稍微帮我个忙吗？会有回报的！" },
         });
         ForceLocalizeSystem.LocalizeInOrderByType(typeof(Merena), nameof(Merena.SetNPCNameList), new() {
             { "Merena the Sorcerer", "术士梅瑞娜" },
@@ -340,37 +340,37 @@ public class TownNPCLocalizer : ModSystem {
             { "Merenas Quest", "任务" },
         });
         ForceLocalizeSystem.LocalizeByType(typeof(Merena), "Quest_VerliaStart", new() {
-            { "What are you standing there for, go kill Verlia! She's an enemy of the royal capital and she has a book I need lmao", "填入汉化文本" },
+            { "What are you standing there for, go kill Verlia! She's an enemy of the royal capital and she has a book I need lmao", "别光站着，去干掉薇莉娅！她从皇都偷了一本书，我需要！" },
         });
         ForceLocalizeSystem.LocalizeByType(typeof(Merena), "Quest_VerliaComplete", new() {
-            { "Oh damn thanks! Next on the list I need you to steal an orb from a village in an underground morrowed village, the orb contains a magic unlike any other. I have no idea how it was manifested but it's needed for this tome.", "填入汉化文本" },
+            { "Oh damn thanks! Next on the list I need you to steal an orb from a village in an underground morrowed village, the orb contains a magic unlike any other. I have no idea how it was manifested but it's needed for this tome.", "哇，谢了！接下来我想要幽曦村落里的一个特殊球体，那里面蕴藏着世间独一无二的魔法，我想好好研究一下它到底是怎么形成的，而且这本书里也提到了需要它." },
         });
         ForceLocalizeSystem.LocalizeByType(typeof(Merena), "Quest_MorrowStart", new() {
-            { "Oh damn thanks! Next on the list I need you to steal an orb from a village in an underground morrowed village, the orb contains a magic unlike any other. I have no idea how it was manifested but it's needed for this tome.", "填入汉化文本" },
+            { "Oh damn thanks! Next on the list I need you to steal an orb from a village in an underground morrowed village, the orb contains a magic unlike any other. I have no idea how it was manifested but it's needed for this tome.", "哇，谢了！接下来我想要幽曦村落里的一个特殊球体，那里面蕴藏着世间独一无二的魔法，我想好好研究一下它到底是怎么形成的，而且这本书里也提到了需要它." },
         });
         ForceLocalizeSystem.LocalizeByType(typeof(Merena), "Quest_MorrowComplete", new() {
-            { "Woa, the energy is pouring out of this one with seamless orange stripes! How did you even get your hands on this?? Either way thanks, now I just need 100 dust bags, it helps with the brewery.", "填入汉化文本" },
+            { "Woa, the energy is pouring out of this one with seamless orange stripes! How did you even get your hands on this?? Either way thanks, now I just need 100 dust bags, it helps with the brewery.", "哇哦~看看这精美的橙色条纹，看看从这里流出的魔力！你居然真的把它搞到手了！非常感谢！接下来拿给我100个粉尘袋就好了，是酿造药水用的." },
         });
         ForceLocalizeSystem.LocalizeByType(typeof(Merena), "Quest_DustBagsStart", new() {
-            { "Woa, the energy is pouring out of this one with seamless orange stripes! How did you even get your hands on this?? Either way thanks, now I just need 100 dust bags, it helps with the brewery.", "填入汉化文本" },
+            { "Woa, the energy is pouring out of this one with seamless orange stripes! How did you even get your hands on this?? Either way thanks, now I just need 100 dust bags, it helps with the brewery.", "哇哦~看看这精美的橙色条纹，看看从这里流出的魔力！你居然真的把它搞到手了！非常感谢！接下来拿给我100个粉尘袋就好了，是酿造药水用的." },
         });
         ForceLocalizeSystem.LocalizeByType(typeof(Merena), "Quest_DustBagsComplete", new() {
-            { "Neat neat, that shouldn't have been too bad for you I think. Next I need some magical paper, there are magical creatures all over the world of hardmode who drop these, most of them being rare and unique creatures, go get em'!", "填入汉化文本" },
+            { "Neat neat, that shouldn't have been too bad for you I think. Next I need some magical paper, there are magical creatures all over the world of hardmode who drop these, most of them being rare and unique creatures, go get em'!", "好样的，这对你来说没什么难度吧？接下来我需要一些含有魔法的纸张.困难模式各地都出现了特别的怪物，从它们身上收集材料.去吧！" },
         });
         ForceLocalizeSystem.LocalizeByType(typeof(Merena), "Quest_MagicPaperStart", new() {
-            { "Neat neat, that shouldn't have been too bad for you I think. Next I need some magical paper, there are magical creatures all over the world of hardmode who drop these, most of them being rare and unique creatures, go get em'!", "填入汉化文本" },
+            { "Neat neat, that shouldn't have been too bad for you I think. Next I need some magical paper, there are magical creatures all over the world of hardmode who drop these, most of them being rare and unique creatures, go get em'!", "好样的，这对你来说没什么难度吧？接下来我需要一些含有魔法的纸张.困难模式各地都出现了特别的怪物，从它们身上收集材料.去吧！" },
         });
         ForceLocalizeSystem.LocalizeByType(typeof(Merena), "Quest_MagicPaperComplete", new() {
-            { "OHH Great lmao. Ok we have one more thing we need to do. Legend has it an old thief of this Royal Capital stole an extremely special Carian tome, they stay deep underground hidden far away underneath the abyss. Even if the rumors arent true I'd love for you to find this scroll, it may take years...", "填入汉化文本" },
+            { "OHH Great lmao. Ok we have one more thing we need to do. Legend has it an old thief of this Royal Capital stole an extremely special Carian tome, they stay deep underground hidden far away underneath the abyss. Even if the rumors arent true I'd love for you to find this scroll, it may take years...", "哦哦哦太棒了！还有最后一件事想要拜托你.传说，古时候有个贼偷了一本极其重要的古籍，并藏在无尽深渊之下.你能去找找它是不是真的存在吗？无论花多久都是值得的..." },
         });
         ForceLocalizeSystem.LocalizeByType(typeof(Merena), "Quest_TomeStart", new() {
-            { "OHH Great lmao. Ok we have one more thing we need to do. Legend has it an old thief of this Royal Capital stole an extremely special Carian tome, they stay deep underground hidden far away underneath the abysm. Even if the rumors arent true I'd love for you to find this scroll, it may take years...", "填入汉化文本" },
+            { "OHH Great lmao. Ok we have one more thing we need to do. Legend has it an old thief of this Royal Capital stole an extremely special Carian tome, they stay deep underground hidden far away underneath the abysm. Even if the rumors arent true I'd love for you to find this scroll, it may take years...", "哦哦哦太棒了！还有最后一件事想要拜托你.传说，古时候有个贼偷了一本极其重要的古籍，并藏在无尽深渊之下.你能去找找它是不是真的存在吗？无论花多久都是值得的..." },
         });
         ForceLocalizeSystem.LocalizeByType(typeof(Merena), "Quest_TomeComplete", new() {
-            { "THANK YOU THANK YOU THANK YOU, omg this is the best day of my life! I never knew this actually existed! Were the rumors true??! dsfjhnbhfribdhs- Nevermind who cares anymore, we can both be the best mages ever! I open my shop to you and here, a token of my graditude. ", "填入汉化文本" },
+            { "THANK YOU THANK YOU THANK YOU, omg this is the best day of my life! I never knew this actually existed! Were the rumors true??! dsfjhnbhfribdhs- Nevermind who cares anymore, we can both be the best mages ever! I open my shop to you and here, a token of my graditude. ", "我的天呐！！！我一生都在等这一天！！它居然真的存在！那些故事都是真的...哇哇哇哇哇——谁还管那些啊！我们一起来做世界上最厉害的魔法师吧！！感激不尽，我会把我有的一切都卖给你！" },
         });
         ForceLocalizeSystem.LocalizeByType(typeof(Merena), "StartQuests", new() {
-            { "Hey, I have nothing else for you to do! Thanks for all of your help, have you checked out my shop yet?", "填入汉化文本" },
+            { "Hey, I have nothing else for you to do! Thanks for all of your help, have you checked out my shop yet?", "感谢你，我心愿已了！来看看我的商店吧！" },
         });
 
         // 主要用于商店注册, 如果同时启用 Shop Expand 能在查询商店时看到汉化效果
