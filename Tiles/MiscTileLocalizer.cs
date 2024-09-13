@@ -15,7 +15,7 @@ public class MiscTileLocalizer : ModSystem {
         ForceLocalizeSystem.LocalizeByTypeName("AurelusSummon", "RightClick", new() {
             { "Singularity has awoken!", "奇点已苏醒！" },
             { "What are you doing?? Trying to summon another?", "你要干什么？还要再召唤一个吗？" },
-            { "Come at with the key of void and moon, Verlia's Singularity awaits.", "持有虚无与皎月之钥者，方可与薇莉娅共舞" },
+            { "Come at with the key of void and moon, Verlia's Singularity awaits.", "唯有持有虚无与皎月之钥者，方可与薇莉娅共舞" },
         });
         #endregion
         #region CinderChest
@@ -52,7 +52,7 @@ public class MiscTileLocalizer : ModSystem {
         #endregion
         #region RestingGrounds
         ForceLocalizeSystem.LocalizeByType(typeof(RestingGrounds), nameof(RestingGrounds.RightClick), new() {
-            { "Forgotten Puppet Daedus has Awoken!", "遗世石偶代达斯已苏醒!" },
+            { "Forgotten Puppet Daedus has Awoken!", "遗世石偶，代达斯已苏醒!" },
             { "...", "..." },
             { "I cannot raise my axe to one of such dedication to our goddess Gothivia, thank you for your efforts..", "面对为歌瑟梵如此付出之人，我无从下手...感谢您的努力." },
         });
