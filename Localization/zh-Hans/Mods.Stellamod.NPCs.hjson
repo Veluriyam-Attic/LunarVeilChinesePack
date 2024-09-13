@@ -177,10 +177,10 @@ Cogwork.DisplayName: 废旧齿轮
 BlazingSerpentHead.DisplayName: 烈焰长蛇
 StarrVeriplant.DisplayName: 石心圣卫
 Sylia.DisplayName: 赛莉亚
-VerliaB.DisplayName: 皎月薇莉娅
+VerliaB.DisplayName: 皎月，薇莉娅
 SingularityFragment.DisplayName: 破碎奇点
 CommanderGintzia.DisplayName: 金戈亚指挥官
-DaedusR.DisplayName: 世遗者代达斯
+DaedusR.DisplayName: 世遗者，代达斯
 
 Aimacra: {
 	DisplayName: 安魅凯拉
@@ -321,7 +321,7 @@ UnknownSignal.DisplayName: 神秘信号源
 AlcaricVoidBig.DisplayName: 巨型阿卡里亚虚空凝聚体
 ZuiLASERWARN.DisplayName: 蕊激光警告
 GoldBeamWarn.DisplayName: 金色激光警告
-ZuiDeath.DisplayName: 辉光女神 蕊
+ZuiDeath.DisplayName: 辉光女神，蕊
 LuminullSpiritCrystal.DisplayName: 黯光灵晶
 IceRune.DisplayName: 冰雪符文
 VerliaSpawn.DisplayName: 薇莉娅生成
@@ -365,11 +365,11 @@ Ordin.DisplayName: 奥丁
 DustNadoSpawner.DisplayName: 龙卷风生成
 Stalker.DisplayName: 潜行者
 StalkerSpawner.DisplayName: 潜行者生成
-RekSnake.DisplayName: 不熄炽龙 莱克
+RekSnake.DisplayName: 不熄炽龙，莱克
 RekFireCrystal.DisplayName: 莱克火晶
 RekFireEye.DisplayName: 火焰之眼
 Sun2.DisplayName: 太阳
-GothiviaIyx.DisplayName: 青黯琉曦 歌瑟梵•伊斯
+GothiviaIyx.DisplayName: 青黯琉曦，歌瑟梵•伊斯
 Carmody.DisplayName: 阳炎爆
 CarmodyGreen.DisplayName: 碧绿阳炎爆
 SupernovaZapwarnFinal.DisplayName: 超新星电击警告
