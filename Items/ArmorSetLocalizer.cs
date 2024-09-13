@@ -13,12 +13,12 @@ public class ArmorSetLocalizer : ModSystem {
                 "\nEvery little while you'll get a countdown, and when you hear Zero," +
                 "\nyour crit is 100% and damage output is doubled! " +
                 "\nSmall bits of paint left in your tracks." +
-                "\nCrit chance and armor penetration increased by 20!", "填入汉化文本" }, // ArtisanMask
-            { "Stars orbit around you\nHit an enemy 5 times to rain down a gigantic star upon them!", "填入汉化文本" }, // AstrasilkHead
+                "\nCrit chance and armor penetration increased by 20!", "3，2，1..大声笑出来！像你在舞台上表演一样！:p\n每隔一小段时间进行一次倒计时，当你听到“Zero“时\n你将必定暴击，伤害加倍！\n在你走过的地方留下印记\n暴击率和护甲穿透提高20%" }, // ArtisanMask
+            { "Stars orbit around you\nHit an enemy 5 times to rain down a gigantic star upon them!", "一颗璀璨的明星在围绕着你运动！\n每攻击五次敌人明星将会从他们上方坠落!" }, // AstrasilkHead
             { "Increases life regen by a great amount!" +
-                "\nMove faster and enemies that hit you take damage back! ", "填入汉化文本" }, // CelestiaMoonHelmet
+                "\nMove faster and enemies that hit you take damage back! ", "大量增加生命再生速度！\n￥￥￥￥待补全￥￥￥￥" }, // CelestiaMoonHelmet
             { "Increases life regen by a great amount!" +
-                "\nMove faster and gain the effects of magic cuffs! ", "填入汉化文本" }, // CelestiaMoonMask
+                "\nMove faster and gain the effects of magic cuffs! ", "大量增加生命再生速度！\n" }, // CelestiaMoonMask
             { "This armor is really scuffed..." +
                 "\nGives the ability of a molten quiver!" +
                 "\n-Stuck at 400 max HP, but 20% increased damage for Rangers", "填入汉化文本" }, // DaedenMask
