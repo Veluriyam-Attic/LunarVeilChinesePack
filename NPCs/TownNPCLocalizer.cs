@@ -383,44 +383,39 @@ public class TownNPCLocalizer : ModSystem {
         });
         #endregion
         #region NaturalWitch 自然女巫
-        ForceLocalizeSystem.LocalizeByTypeName(nameof(NaturalWitch), nameof(NaturalWitch.SetBestiary), new() {
-            { "A Captain of Gofria's ranks, be careful", "当心歌瑟梵军团的小队长." },
-        });
-        #endregion
-        #region Ordin 奥丁
-        ForceLocalizeSystem.LocalizeByTypeName(nameof(Ordin), nameof(Ordin.SetBestiary), new() {
-            { "Steaming from the depths", "地下深处的火焰与浓烟" },
-            { "Ordin, The New Monarch", "星树新君奥丁" },
-        });
-        ForceLocalizeSystem.LocalizeByTypeName(nameof(Ordin), nameof(Ordin.GetChat), new() {
-            { "Shes got some great cogs", "填入汉化文本" },
-            { "Remove yourself from my sight", "填入汉化文本" },
-            { "You walk like an infant with no tucas", "填入汉化文本" },
-            { "What a pitiful endearment, praise to the ones above.", "填入汉化文本" },
-            { "...", "填入汉化文本" },
-            { "You are not fit to become a god", "填入汉化文本" },
-            { "Oh Sigfried, return in good health or I shall slay you with my own hands from such a succubus!", "填入汉化文本" },
-            { "Bring me their Manifestations", "填入汉化文本" },
-        });
-        ForceLocalizeSystem.LocalizeInOrderByTypeName(nameof(Ordin), nameof(Ordin.SetNPCNameList), new() {
-            { "Ordin, Illurian Monarch", "星树之君奥丁" },
-            { "Ordin, Illurian Monarch", "星树之君奥丁" },
-        });
-        ForceLocalizeSystem.LocalizeByTypeName(nameof(Ordin), nameof(Ordin.SetChatButtons), new() {
-            { "Reminisce of Sigfried", "回想齐格飞" },
-        });
-        ForceLocalizeSystem.LocalizeByTypeName(nameof(Ordin), nameof(Ordin.OnChatButtonClicked), new() {
-            { "Thy is so resilient, unhand me from these this trecherous nagging and take this for thy shall not be astute to your prescence no longer.", "填入汉化文本" },
-            { "To be one of the forth or forward, the lands that I rest in reek of falsification of hypocrisy and power.", "填入汉化文本" },
-            { "Sigfried was once a young fellow, thy brother in one's eye's and a villian in anothers'.", "填入汉化文本" },
-            { "Our sacred castle falls ill to such burning. Our wishes have been grafted under the curse of Sigfried's unveiling.", "填入汉化文本" },
-            { "Fall away, dear brother ", "填入汉化文本" },
-            { "Mark thy words with caution. Ereshkigal is a loveless harlet who took the life of the brother of many. Yet thy fulfills their prophecy among lovers, hence she is not a false goddess.", "填入汉化文本" },
-            { "All our goals are put to rest following the lands of the veil. Finish all those who have wronged our beloved world.", "填入汉化文本" },
-            { "Manifest their souls and bring them to my company. You shall be rewarded until the rekoning begs for your place to be silenced. ", "填入汉化文本" },
-            { "Niivi, the protector of the lands of the veil, yet curse all upon thy brother to be selfish and steal among those of power and wealth. He was greedy and in his expense payed the lovers' prison.", "填入汉化文本" },
-            { "Now I sit ill waiting for the lands of the veil to change.", "填入汉化文本" },
-        });
+       ForceLocalizeSystem.LocalizeByTypeName(nameof(Ordin), nameof(Ordin.SetBestiary), new() {
+           { "Steaming from the depths", "地下深处的火焰与浓烟" },
+           { "Ordin, The New Monarch", "星树新君奥丁" },
+       });
+       ForceLocalizeSystem.LocalizeByTypeName(nameof(Ordin), nameof(Ordin.GetChat), new() {
+           { "Shes got some great cogs", "此女身怀绝技，机巧非凡" },
+           { "Remove yourself from my sight", "速速退出吾之视线！" },
+           { "You walk like an infant with no tucas", "汝行步蹒跚，犹如初生之犊未谙世故" },
+           { "What a pitiful endearment, praise to the ones above.", "何其微薄之宠爱，竟上达天听" },
+           { "...", "。。。" },
+           { "You are not fit to become a god", "尔非神格之材，何足论天地主宰" },
+           { "Oh Sigfried, return in good health or I shall slay you with my own hands from such a succubus!", "齐格飞，汝必全躯而返，否则吾将亲往，以吾之手，将汝从那妖妇之爪中解脱！" },
+           { "Bring me their Manifestations", "将彼等之显化，悉数呈于吾前" },
+       });
+       ForceLocalizeSystem.LocalizeInOrderByTypeName(nameof(Ordin), nameof(Ordin.SetNPCNameList), new() {
+           { "Ordin, Illurian Monarch", "星树之君奥丁" },
+           { "Ordin, Illurian Monarch", "星树之君奥丁" },
+       });
+       ForceLocalizeSystem.LocalizeByTypeName(nameof(Ordin), nameof(Ordin.SetChatButtons), new() {
+           { "Reminisce of Sigfried", "回想齐格飞" },
+       });
+       ForceLocalizeSystem.LocalizeByTypeName(nameof(Ordin), nameof(Ordin.OnChatButtonClicked), new() {
+           { "Thy is so resilient, unhand me from these this trecherous nagging and take this for thy shall not be astute to your prescence no longer.", "汝之韧性，深为吾所许。释吾于这烦扰之中，汝应接此任务，不再掩藏才智，常侍吾侧" },
+           { "To be one of the forth or forward, the lands that I rest in reek of falsification of hypocrisy and power.", "欲居人先，而吾所驻之地，充斥伪善与权力之虚饰" },
+           { "Sigfried was once a young fellow, thy brother in one's eye's and a villian in anothers'.", "昔日齐格飞亦是少年郎，于汝眼中似兄弟，于他人则如恶徒" },
+           { "Our sacred castle falls ill to such burning. Our wishes have been grafted under the curse of Sigfried's unveiling.", "吾等圣堡，竟罹此焚劫。吾心所愿，悉于齐格飞揭咒之下，已非昔比" },
+           { "Fall away, dear brother ", "退下吧，吾之挚兄" },
+           { "Mark thy words with caution. Ereshkigal is a loveless harlet who took the life of the brother of many. Yet thy fulfills their prophecy among lovers, hence she is not a false goddess.", "慎尔言辞。厄莉什基迦勒，痴恋之狂渊巫女也，夺多兄之命。然其于恋人中预言成真，故非伪神" },
+           { "All our goals are put to rest following the lands of the veil. Finish all those who have wronged our beloved world.", "吾等宏图，随天纱之土而偃息。凡逆吾心爱之世者，必尽数了断" },
+           { "Manifest their souls and bring them to my company. You shall be rewarded until the rekoning begs for your place to be silenced. ", "昭其灵魄，引之吾侧。厚赏于尔，迨天命缄默" },
+           { "Niivi, the protector of the lands of the veil, yet curse all upon thy brother to be selfish and steal among those of power and wealth. He was greedy and in his expense payed the lovers' prison.", "尼伊维，天纱之域守护者，竟诅咒汝兄，令其于权财中独占且窃。贪婪之行，致恋人陷囹圄" },
+           { "Now I sit ill waiting for the lands of the veil to change.", "今吾抱恙而坐，静待天纱之域变迁" },
+       });
         #endregion
         #region PULSARHOLE 脉 冲 黑 洞
         // 暂无需要强制本地化的内容
