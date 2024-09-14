@@ -395,7 +395,7 @@ public class TownNPCLocalizer : ModSystem {
            { "...", "。。。" },
            { "You are not fit to become a god", "尔非神格之材，何足论天地主宰" },
            { "Oh Sigfried, return in good health or I shall slay you with my own hands from such a succubus!", "齐格飞，汝必全躯而返，否则吾将亲往，以吾之手，将汝从那妖妇之爪中解脱！" },
-           { "Bring me their Manifestations", "将彼等之显化，悉数呈于吾前" },
+           { "Bring me their Manifestations", "将彼等之具现体，悉数呈于吾前" },
        });
        ForceLocalizeSystem.LocalizeInOrderByTypeName(nameof(Ordin), nameof(Ordin.SetNPCNameList), new() {
            { "Ordin, Illurian Monarch", "星树之君奥丁" },
