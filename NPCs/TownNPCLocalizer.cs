@@ -35,7 +35,7 @@ public class TownNPCLocalizer : ModSystem {
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Aimacra), nameof(Aimacra.OnChatButtonClicked), new() {
             { "Heyyy at least we're out of Ekrose alive! I'm glad Vixyl is safe back at the main house.", "唉，至少我们活着离开了艾科洛斯，维西尔也安全回到家乡，这已经是很好的结果了" },
-            { "I hate being Sirestias's Assassin.. Speaking of I met a guy named Veldris and he's totally cool!", "我不喜欢当希丝忒莉亚的杀手，emmmmm，说到这个，我今天遇到了一个叫威狄尔斯（Veldris）的家伙，他超酷的好吧" },
+            { "I hate being Sirestias's Assassin.. Speaking of I met a guy named Veldris and he's totally cool!", "我不喜欢当希丝忒莉亚的杀手，emmmmm，说到这个，我今天遇到了一个叫威狄尔斯的家伙，他超酷的好吧" },
             { "I'll be back I may go to look for some new stuff underground. ", "我会回来的，我可能会去地下寻找一些新东西" },
             { "What is a thug shaker? To shake or not to shake? Sometimes I wonder if life truly does give lemons.", "什么才算是一个狂热摇滚者呢?随音乐摇摆还是不随音乐摇摆，这是一个问题...唉，有时候我感觉生活真是苦涩啊" },
             { "What class would I even be? ", "我在这里算什么职业呢...?" },
@@ -281,11 +281,11 @@ public class TownNPCLocalizer : ModSystem {
             { "So many cool contraptions she has, I love them!", "她有那么多酷炫的装置，我喜欢它们！" },
             { "Damn that Sigfried guy.", "那个叫齐格飞的家伙真是该死啊" },
             { "Where's Ereshkigal?", "厄莉什基迦勒在哪" },
-            { "Daedus, Jovhia, Daeden? Where'd you all go?", "代达斯，Jovhia, Daeden?你们都去哪里了？" },
+            { "Daedus, Jovhia, Daeden? Where'd you all go?", "代达斯，乔维亚, 达登?你们都去哪里了？" },
             { "I'm quite formiddable you see. I can destroy anything with my hands.", "你瞧，我相当可怕。我可以用我的手摧毁任何东西。" },
-            { "I need to study up on my electric magic. If my dad wasn't dead he'd be proud of me. Gosh I wish you were here Daeden", "我需要进一步学习我的电系魔法。如果我父亲还活着，他一定会为我感到骄傲的。天哪，我真希望你能在这里，Daeden" },
+            { "I need to study up on my electric magic. If my dad wasn't dead he'd be proud of me. Gosh I wish you were here Daeden", "我需要进一步学习我的电系魔法。如果我父亲还活着，他一定会为我感到骄傲的。天哪，我真希望你能在这里，达登" },
             { "I never knew my mom..", "我从不知道我的母亲..." },
-            { "Why is Jovhia always in the sky?", "为什么Jovhia总是在天上呢？" },
+            { "Why is Jovhia always in the sky?", "为什么乔维亚总是在天上呢？" },
             { "Hey you, get out of here!", "嘿，你，滚出去！" },
             { "Scadabble you women harrasser.", "你这个骚扰女性的家伙！" },
         });
@@ -299,7 +299,7 @@ public class TownNPCLocalizer : ModSystem {
             { "Talk", "闲聊" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Mardenth), nameof(Mardenth.OnChatButtonClicked), new() {
-            { "Heheheh, I like to eat little wormy guys but they won't stop squiggling. Reminds me of when our dad Daeden left us. ", "呵呵呵，我喜欢吃那些小虫子，但它们总是不停地扭动。这让我想起了我们父亲Daeden离开我们的时候。" },
+            { "Heheheh, I like to eat little wormy guys but they won't stop squiggling. Reminds me of when our dad Daeden left us. ", "呵呵呵，我喜欢吃那些小虫子，但它们总是不停地扭动。这让我想起了我们父亲达登离开我们的时候。" },
             { "Where did Daedus go?  He left us so long ago. I hope he wasn't swayed by that Harlet Gothivia. She seemed power obsessed and hungry. Maybe that's just me though", "代达斯去哪了？他很久以前就离开我们了。我希望他没有被歌瑟梵影响。她似乎对权力着迷并且渴望权力。也许这只是我这么觉得吧。" },
             { "I might be the only one but, Ereshkigal is kind of hot isn't she? Hell you wouldn't even know would you. You're taste in women is flat.", "或许只有我一个人觉得，但是厄莉什基迦勒确实有些性感，不是吗？什么，你说你不知道？！不是？哥们！你对女人的品味也太差了吧！" },
             { "You don't understand how we are. We're higher than all below us, which is everyone except a god. Only they can be held to such high status. Squirm off you worm.", "你不会明白我们是怎样的存在。我们比除了神之外的所有人都高贵。只有神才能拥有如此高的地位。扭动吧，你这虫豸。" },
