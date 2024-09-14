@@ -25,7 +25,7 @@ public class BestiaryLocalizer : ModSystem {
             { "Ereshkigal the Lover", "痴恋者厄莉什基迦勒" }, // EreshkigalIdle
             
             { "Searching for a lover, this particular Queen lacks anyone she can socialize with as she tries to gain power of the void to kill Sigfried for revenge, so much power yet so lonely.", "这名皇后几乎封闭了自我，在积蓄力量对齐格飞发起复仇的途中她舍弃了几乎其他一切.强大而孤独." }, // Fenix
-            { "Fenix the Vengeful", "逐仇者凤涅克丝" }, // Fenix
+            { "Fenix the Vengeful", "逐仇者，凤涅克丝" }, // Fenix
             
             { "This person isn't the real gothivia, where is she?", "这不是真的歌瑟梵.她在哪？" }, // Gothiviab
             { "I guess she knows you destroyed her singularity inside Daedus, oops", "看来她已经知道你摧毁了代达斯和那颗奇点.哎呦." }, // Gothiviabb
@@ -46,7 +46,7 @@ public class BestiaryLocalizer : ModSystem {
             
             { "A scarecrow reanimated by the passion of wandering flames, exploring out of the veil.", "一只稻草人，被漂浪火焰中的热情唤醒.在天纱之外的凡尘中游荡." }, // Jack
             
-            { "Niivi, The First Dragon", "太初祖龙 尼伊维" }, // Niivi
+            { "Niivi, The First Dragon", "太初祖龙，尼伊维" }, // Niivi
             
             { "A poisonous slime mutated from normal green slimes", "曾经是一只普通的绿史莱姆，在酸蚀之地变异成了此毒物." }, // LazerOrb, SingularityOrb, SupernovaOrb, DreadFireCircle
             { "A powerful gift that was given to Cozmire, yet was stolen away by Fenix to seal away Verlia.", "天寰神巫获赠的宝物，被凤涅克丝盗走后用于封印薇莉娅." }, // SingularityFragment
@@ -58,42 +58,42 @@ public class BestiaryLocalizer : ModSystem {
             { "A beloved magical stone guardian, protected the natural life and would petrify anyone who disturbs it.", "一具倍受喜爱的魔力石偶，保卫着自然生灵，擅闯者统统被其化作顽石." }, // StarrVeriplant
             
             { "Former flyer and born where all big birds were born, in the cinderspark.", "曾经的空中猛将，与所有巨鸟一样，出生于烬火之地." }, // SunStalker
-            { "SunStalker, the Last Talon", "风沙遗爪 猎日游隼" }, // SunStalker
+            { "SunStalker, the Last Talon", "风沙遗爪，猎日游隼" }, // SunStalker
             
             { "A powerful gift from Lumi V. to her trusted sisters.", "天纱琉明给予她姐妹的礼物." }, // SupernovaFragment
             { "Supernova Fragment", "破碎超新星" }, // SupernovaFragment
             
-            { "Someone who was consumed by their dark magic, even more so than Fenix would bother with.", "填入汉化文本" }, // Sylia
-            { "Sylia, Merena's Sister.", "填入汉化文本" }, // Sylia
-            { "A strange rift to void, disturbing it may yield catastrophic results...", "填入汉化文本" }, // UnderworldRift
+            { "Someone who was consumed by their dark magic, even more so than Fenix would bother with.", "一个被他们的黑魔法吞噬的人，甚至比凤涅克丝更愿意费心的人." }, // Sylia
+            { "Sylia, Merena's Sister.", "赛莉亚，梅瑞娜的妹妹" }, // Sylia
+            { "A strange rift to void, disturbing it may yield catastrophic results...", "一个怪异的虚空裂缝，扰乱它可能会产生灾难性的后果......" }, // UnderworldRift
             
-            { "Clone of a powerful sexy goddess :)", "填入汉化文本" }, // CloneV, DeathVerlia, StarteV
+            { "Clone of a powerful sexy goddess :)", "力量与性感女神的克隆体:)" }, // CloneV, DeathVerlia, StarteV
             
             { "???", "???" }, // GothiviaIdle, IrradiaIdle
 
             #endregion
 
-            { "Burining with passion I guess.", "填入汉化文本" }, // BlazingSerpentHead
-            { "They guard what is theirs!", "填入汉化文本" }, // BlazingSerpentHead
-            { "The most adorable goodest spicy child. Do not dare be mean to him!", "填入汉化文本" }, // SandWalker, SnowWalker
-            { "He's evil yet so weak. This fellow betrayed Gothivia during their war against Fenix and his part of the army joined the other side for power.", "填入汉化文本" }, // CommanderGintzia
-            { "Commander Gintzia, the betrayer", "填入汉化文本" }, // CommanderGintzia, GintziaHand
-            { "A Captain of Gothivia's ranks, be careful", "填入汉化文本" }, // GintzeCaptain
-            { "A Captain of Gofria's ranks, be careful", "填入汉化文本" }, // GintzeSolider
-            { "Lowest of the Gintze but can wipe you out fast! They need food too yknow :(", "填入汉化文本" }, // Gintzling
-            { "The highest form of worshippers of Gothivia corrupted and risen from the grounds of the fallen Govheil Castle", "填入汉化文本" }, // Tulacrowe
-            { "A lowly civilian who bought old parts from Irradia before being contaminated. They now seek revenge after having their minds altered by the acid.", "填入汉化文本" }, // IrravheilSprayer
-            { "Guardians who are ready to die for Gothivia?", "填入汉化文本" }, // GovheilGuardian
+            { "Burining with passion I guess.", "我想是在燃烧着自己的芳华吧." }, // BlazingSerpentHead
+            { "They guard what is theirs!", "他们捍卫着属于他们的东西." }, // BlazingSerpentHead
+            { "The most adorable goodest spicy child. Do not dare be mean to him!", "怎能对最可爱、最善良、最辣的孩子刻薄？" }, // SandWalker, SnowWalker
+            { "He's evil yet so weak. This fellow betrayed Gothivia during their war against Fenix and his part of the army joined the other side for power.", "他很邪恶，但又是个纸老虎.这家伙在与凤涅克丝的战争中背叛了歌瑟梵，他的军队加入了另一方去争夺权力." }, // CommanderGintzia
+            { "Commander Gintzia, the betrayer", "变节者，金戈亚指挥官" }, // CommanderGintzia, GintziaHand
+            { "A Captain of Gothivia's ranks, be careful", "歌瑟梵麾下的队长！小心点！" }, // GintzeCaptain
+            { "A Captain of Gofria's ranks, be careful", "戈弗雷麾下的队长！小心点！" }, // GintzeSolider
+            { "Lowest of the Gintze but can wipe you out fast! They need food too yknow :(", "最少的玄铁，但可以很快消灭你！你知道吗，即使是他们也需要食物:(" }, // Gintzling
+            { "The highest form of worshippers of Gothivia corrupted and risen from the grounds of the fallen Govheil Castle", "在不复往日的歌维赫堡，昔日歌瑟梵最虔诚的崇拜者们在腐疫的驱使下，再次起身为其而战." }, // Tulacrowe
+            { "A lowly civilian who bought old parts from Irradia before being contaminated. They now seek revenge after having their minds altered by the acid.", "一位在被污染一直之前从伊瑞蒂安购买旧零件的卑微平民。酸改变了他们的主意，促使着他们转而寻求报复." }, // IrravheilSprayer
+            { "Guardians who are ready to die for Gothivia?", "何人愿为歌瑟梵献出自己？" }, // GovheilGuardian
             { "The last protectors of the govheil, and they are pretty formidable...", "填入汉化文本" }, // GovheilProtector
-            { "A respected sorcerer from Sigfried's old rein", "填入汉化文本" }, // IllurianMage
-            { "Extremely powerful jellyfish that has been aflicted by the gild in the morrow, very dangerour", "填入汉化文本" }, // MorrowedJellyFish
-            { "Even the weakest, most poor among the warriors in the morrow are still decent foes..", "填入汉化文本" }, // TribalPeasant
-            { "A much richer form of the trible worshippers", "填入汉化文本" }, // TribalPriest
-            { "The slime kings Royal heir, it will take his place opon death...", "填入汉化文本" }, // RoyalSlime
-            { "A slime formed of pure darkness conjured by powerful beasts", "填入汉化文本" }, // ShadeSlime
+            { "A respected sorcerer from Sigfried's old rein", "歌维赫最后的保护者，他们非常强大..." }, // IllurianMage
+            { "Extremely powerful jellyfish that has been aflicted by the gild in the morrow, very dangerour", "一只异常强大的水母，受幽曦的力量影响后变得更加危险." }, // MorrowedJellyFish
+            { "Even the weakest, most poor among the warriors in the morrow are still decent foes..", "即使是幽曦战士中最弱小、最贫穷的人，他们仍然是体面的.." }, // TribalPeasant
+            { "A much richer form of the trible worshippers", "歌瑟梵崇拜者的一种更丰富的形式" }, // TribalPriest
+            { "The slime kings Royal heir, it will take his place opon death...", "填入" }, // RoyalSlime
+            { "A slime formed of pure darkness conjured by powerful beasts", "史莱姆王皇室继承人，死后将接替他的位置..." }, // ShadeSlime
             { "A strange lady, she seems to overflow with magical energy!", "一名奇怪的女士.她身上的魔力几乎满溢..." }, // LonelySorceress
-            { "Lonely Feeble Sorceress", "孤独可怜的魔法少女" }, // LonelySorceress
-            { "An old rusted cog with some magical abilities", "填入汉化文本" }, // Rustwork
+            { "Lonely Feeble Sorceress", "孤独可怜的魔法少女." }, // LonelySorceress
+            { "An old rusted cog with some magical abilities", "一个生锈的齿轮，或许有一些神奇的能力." }, // Rustwork
         });
     }
 }
