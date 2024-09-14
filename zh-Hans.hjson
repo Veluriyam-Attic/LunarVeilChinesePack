@@ -30,7 +30,7 @@ Mods: {
 
 				ShakeToggle: {
 					Tooltip: ""
-					Label: Shake Toggle (输入汉化文本)
+					Label: 屏幕震动切换
 				}
 			}
 
