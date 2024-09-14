@@ -159,13 +159,13 @@ public class TownNPCLocalizer : ModSystem {
             { "After the last healing in from Gothivia, I'd say about 90% of our village was wiped out from the Virulent, our soliders, our love, and will to live all started to fall apart. ", "虽然最后瘟疫被歌瑟梵治愈了，但是我们村庄大约有90%的人被“瘴煞”瘟疫夺去了生命。瘟疫之后，我们的军队、对生活的热爱、和生活的意志都开始慢慢瓦解。" },
             { "I could recall me laying on a bed as I watched our city crumble, Irradia would stay by my side and we'd comfort each other as the world caved in for us.", "我现在还记得当时自己躺在床上，伊瑞蒂安就陪在我身边，我们一起看着我们的城市一点点走向破败，一起互相安慰。" },
             { "After a while of our suffering in the city Gothivia would leave to seek vengence and power to save her sister, leaving Irradia to be at the helm. Take a guess who arrived not so soon afterwards? Fenix, she came to take what was left of us.", "在我们城市遭受瘟疫一段时间后，歌赫梵离开了城市去追寻力量来拯救薇莉亚与复仇，留下了伊瑞蒂安来管理整个城市。你猜猜谁不久之后谁来了？是凤涅克凤涅克丝这个恶魔！她来摧毁了我们剩下的一切。" },
-            { "Fenix is like a scouraging raven looking for its next feast, and we were on the menu. I was forced to split from my love due to her sacrifices of being a leader. We haven't seen each other since, yet I know she's out there somewhere. No way would she loose to Fenix..", "填入汉化文本" },
-            { "The Great Departure, that's what I call the leaving from what was left in our city. As the Carian army approached, we hid through underground tunnels to escape, some of us, including me, haven't gone back to the surface. I was even invited to come to the Fable.", "填入汉化文本" },
-            { "Those who made it to the surface from the Great Departure reinvented the Harboring Morrow yet from all the messages from BORDOC, it isn't the same. They close their doors to everyone in fear and they look for Gothivia, she never said where she went.", "填入汉化文本" },
-            { "I was in tunnels underground for 10 of my years, now I lay here with all the corpses and electronics that I bear, I've travelled every part of this world except the surface, to ever find Fenix again would send me over my limit.", "填入汉化文本" },
-            { "You know, maybe I should have travelled with the rest of the members of the morrow, many of us split up in our escape, many died, hell, maybe I'm the only standing survivor, but I'm here.", "填入汉化文本" },
-            { "My creations that I make now are from my explorations, I will find Irradia again, I need to apologize, to say something. These are all for her anyway. If only I could have stopped this from getting this way, maybe I could have stayed against her will.", "填入汉化文本" },
-            { "Of all my years to live and ever to live, I will never understand things like Fenix, her torturous additude, why she went to such lengths to kill us, why the infection was so hard to fend off, and why I couldn't stay, these are all for you, Irradia. ", "填入汉化文本" },
+            { "Fenix is like a scouraging raven looking for its next feast, and we were on the menu. I was forced to split from my love due to her sacrifices of being a leader. We haven't seen each other since, yet I know she's out there somewhere. No way would she loose to Fenix..", "凤涅克丝就像一只猎食的秃鹫，而我们则是她的食物。伊瑞蒂安践行了作为领袖的责任，她牺牲自己吸引凤涅克丝，我被迫与她分开。从那以后我再也没有见过她，但我知道我在某处一定能找到她。她是绝不会输给凤涅克丝的..." },
+            { "The Great Departure, that's what I call the leaving from what was left in our city. As the Carian army approached, we hid through underground tunnels to escape, some of us, including me, haven't gone back to the surface. I was even invited to come to the Fable.", "“大迁徙”，这就是我对逃离我们城市进行远行的称呼。随着卡利亚军队的逼近，我们通过地下隧道躲避，包括我在内的一些人，再也没有回到地面。我甚至被邀请过前往“古谕遗境”。" },
+            { "Those who made it to the surface from the Great Departure reinvented the Harboring Morrow yet from all the messages from BORDOC, it isn't the same. They close their doors to everyone in fear and they look for Gothivia, she never said where she went.", "那些在“大迁徙”中成功到达地面的人重建了“幽曦城堡”，但从波尔杜克的消息来看，“幽曦城堡”已经不再是原来的“幽曦城堡”了。居民出于恐惧对所有人关闭了城门，并且他们在寻找歌赫梵，但是歌赫梵从未说过她去了哪里，因此寻找起来犹如大海捞针。" },
+            { "I was in tunnels underground for 10 of my years, now I lay here with all the corpses and electronics that I bear, I've travelled every part of this world except the surface, to ever find Fenix again would send me over my limit.", "我在地下隧道里待了10年，现在我和我所携带的所有物品与电子设备都在这里。为了寻找伊瑞蒂安，我走遍了这个世界除地面的每个角落。我现在已经力不从心了，如果再次遇到凤涅克丝，我就只能接受天命引颈受戮了吧" },
+            { "You know, maybe I should have travelled with the rest of the members of the morrow, many of us split up in our escape, many died, hell, maybe I'm the only standing survivor, but I'm here.", "你知道吗，或许我应该和幽曦城堡的其他成员一起逃亡，在我们逃跑时很多人分开了，很多人死了，见鬼，我或许是唯一的幸存者，但我却在这里独自苟活。" },
+            { "My creations that I make now are from my explorations, I will find Irradia again, I need to apologize, to say something. These are all for her anyway. If only I could have stopped this from getting this way, maybe I could have stayed against her will.", "我现在创作的作品都来自于我的探索，我会再次找到伊瑞蒂安，我会说些什么向她道歉。如果我当初能阻止这一切发生，我会不顾她的意愿留下来。" },
+            { "Of all my years to live and ever to live, I will never understand things like Fenix, her torturous additude, why she went to such lengths to kill us, why the infection was so hard to fend off, and why I couldn't stay, these are all for you, Irradia. ", "在我过去和未来的所有年岁里，我永远无法理解像凤涅克丝这样的人。她折磨人的态度，她为什么要费尽心思杀死我们，为什么瘟疫如此难以抵挡，以及为什么我不能留下来，这些都是为了你，伊瑞蒂安。" },
         });
         #endregion
         #region Gambit 赌徒
@@ -274,14 +274,14 @@ public class TownNPCLocalizer : ModSystem {
         #endregion
         #region Mardenth 玛登斯
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Mardenth), nameof(Mardenth.SetBestiary), new() {
-            { "One of the 3 Children of Daeden, this one being the most useless", "填入汉化文本" },
-            { "Mardenth of the Veil", "填入汉化文本" },
+            { "One of the 3 Children of Daeden, this one being the most useless", "Daeden的三个孩子里面，这个是最没用的那个" },
+            { "Mardenth of the Veil", "玛登斯的面纱" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Mardenth), nameof(Mardenth.GetChat), new() {
-            { "So many cool contraptions she has, I love them!", "填入汉化文本" },
-            { "Damn that Sigfried guy.", "填入汉化文本" },
-            { "Where's Ereshkigal?", "填入汉化文本" },
-            { "Daedus, Jovhia, Daeden? Where'd you all go?", "填入汉化文本" },
+            { "So many cool contraptions she has, I love them!", "她有那么多酷炫的装置，我喜欢它们！" },
+            { "Damn that Sigfried guy.", "那个叫齐格飞的家伙真是该死啊" },
+            { "Where's Ereshkigal?", "厄莉什基迦勒在哪" },
+            { "Daedus, Jovhia, Daeden? Where'd you all go?", "代达斯" },
             { "I'm quite formiddable you see. I can destroy anything with my hands.", "填入汉化文本" },
             { "I need to study up on my electric magic. If my dad wasn't dead he'd be proud of me. Gosh I wish you were here Daeden", "填入汉化文本" },
             { "I never knew my mom..", "填入汉化文本" },
