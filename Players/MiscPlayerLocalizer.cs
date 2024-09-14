@@ -7,7 +7,7 @@ public class MiscPlayerLocalizer : ModSystem {
     public override void Load() {
         #region 进入世界时的消息
         ForceLocalizeSystem.LocalizeByType(typeof(MyPlayer), nameof(MyPlayer.OnEnterWorld), new() {
-            { "[Lunar Veil] Hi hi! Thank you for checking out the mod! If you want more, you can check out my game Diari!", "【穹月天纱作者】你好啊！感谢你游玩我的mod！如果你还想要看看我做的其他东西，上steam搜Diari就好！\n汉化交流反馈群号：909428503\n特别鸣谢：Tiger" },
+            { "[Lunar Veil] Hi hi! Thank you for checking out the mod! If you want more, you can check out my game Diari!", "【穹月天纱作者】你好啊！感谢你游玩我的mod！如果你还想要看看我做的其他东西，上steam搜Diari就好！\n汉化交流反馈群号：909428503" },
         });
         #endregion
         #region FlamecrestPlayer

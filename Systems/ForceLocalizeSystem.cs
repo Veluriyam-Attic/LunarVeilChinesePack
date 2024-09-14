@@ -8,12 +8,19 @@ using Terraria.ModLoader.Core;
 
 namespace LunarVeilChinesePack.Systems;
 
-internal class ForceLocalizeSystem : ForceLocalizeSystem<Stellamod.Stellamod> { }
+internal class ForceLocalizeSystem : ForceLocalizeSystem<Stellamod.Stellamod> {
+    static ForceLocalizeSystem() {
+        ReplaceFunction = (old, @new) => @new == "填入汉化文本" ? old : @new;
+    }
+}
 
 /// <summary>
 /// 如果是弱依赖的话要加上 <see cref="ExtendsFromModAttribute"/>
 /// </summary>
 public abstract class ForceLocalizeSystem<T> : ModSystem /* where T : Mod */ {
+    protected delegate string ReplaceDelegate(string old, string @new);
+    protected static ReplaceDelegate ReplaceFunction { get; set; } = DefaultReplaceFunction;
+    protected static string DefaultReplaceFunction(string old, string @new) => @new;
     #region Localize
     /// <summary>
     /// <br/>替换一个方法中的字符串
@@ -34,7 +41,7 @@ public abstract class ForceLocalizeSystem<T> : ModSystem /* where T : Mod */ {
             string? str = null;
             while (cursor.TryGotoNext(i => i.MatchLdstr(out str))) {
                 if (str != null && cursor.Next != null && localizations.TryGetValue(str, out var value)) {
-                    cursor.Next.Operand = value;
+                    cursor.Next.Operand = ReplaceFunction(str, value);
                 }
             }
         });

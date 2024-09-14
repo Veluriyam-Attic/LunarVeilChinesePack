@@ -10,7 +10,7 @@ Mods: {
 					ReplaceVanillaTextures: 替换原版材质
 					BiomeParticles: 环境粒子效果
 					ModdedBiomeParticles: 模组环境粒子效果
-					Screenshake: Screenshake (输入汉化文本)
+					Screenshake: 屏幕震动
 				}
 
 				VanillaParticlesToggle: {
