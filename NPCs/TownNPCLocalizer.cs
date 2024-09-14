@@ -155,7 +155,7 @@ public class TownNPCLocalizer : ModSystem {
             { "The illnesses started to rack up and since Verlia disappeared, our Harboring Morrow was not complete, there was nobody to keep our armies in check, Gothivia wasn't mentally there anymore and Irradia was trying her best to get everyone to calm down. It was a horrible time.", "自从薇莉娅消失后，瘟疫快速蔓延，“幽曦城堡”已经名存实亡，没人维持军队秩序，歌瑟梵深受打击一蹶不振，伊瑞蒂安则在尽力安抚着所有人。那真是一段可怕的岁月。" },
             { "Irradia did explain what happened to Verlia, but I thought it was just downright evil. Fenix trapped Verlia's soul inside a lantern and bounded it to a secret power for experimentation because she stole a book from their village. We'll never get to see her again will we?", "伊瑞蒂安向我解释了在薇莉娅身上发生了什么。因为薇莉娅从凤涅克丝的村庄偷了一本书，凤涅克丝将薇莉娅的灵魂困在灯笼里，并用秘密力量上在她身上进行实验，凤涅克丝真是太邪恶了。我们或许再也见不到她了，对吧？" },
             { "I think Irradia's way of coping to the loss of Verlia was teaching me now that Im starting to recollect. She may have used it as a way of reflecting, and I didn't see that she was hurting yet I was always there for her.", "我曾经认为伊瑞蒂安教导我是为了冲淡失去薇莉娅的悲伤。但是我现在反应过来，她可能用这种方式来思念薇莉娅，虽然我当时没有意识到她的情绪，但我始终陪在她身边。" },
-            { "I kept on living, hell I even got sick from the Virulent, yet I was Gothivia's last person to get healed from her. Rek eventually got infected too yet since havoc was electronic, he stayed normal. The creatures that lived the best were mostly metallic, its what remains of our old village.", "时间匆匆，不曾停留，我甚至也曾感染“瘴煞”，但最后歌瑟梵治愈了我。就算是莱克，最终也没有逃过被感染的命运，但由于浩劫龙械是机械的，它不会被感染。在我们古老村庄的遗迹中，生活得好的大多是金属生物。" },
+            { "I kept on living, hell I even got sick from the Virulent, yet I was Gothivia's last person to get healed from her. Rek eventually got infected too yet since havoc was electronic, he stayed normal. The creatures that lived the best were mostly metallic, its what remains of our old village.", "时间匆匆，不曾停留，我甚至也曾感染“瘴煞”，但最后歌瑟梵治愈了我。就算是雷克，最终也没有逃过被感染的命运，但由于浩劫龙械是机械的，它不会被感染。在我们古老村庄的遗迹中，生活得好的大多是金属生物。" },
             { "After the last healing in from Gothivia, I'd say about 90% of our village was wiped out from the Virulent, our soliders, our love, and will to live all started to fall apart. ", "虽然最后瘟疫被歌瑟梵治愈了，但是我们村庄大约有90%的人被“瘴煞”瘟疫夺去了生命。瘟疫之后，我们的军队、对生活的热爱、和生活的意志都开始慢慢瓦解。" },
             { "I could recall me laying on a bed as I watched our city crumble, Irradia would stay by my side and we'd comfort each other as the world caved in for us.", "我现在还记得当时自己躺在床上，伊瑞蒂安就陪在我身边，我们一起看着我们的城市一点点走向破败，一起互相安慰。" },
             { "After a while of our suffering in the city Gothivia would leave to seek vengence and power to save her sister, leaving Irradia to be at the helm. Take a guess who arrived not so soon afterwards? Fenix, she came to take what was left of us.", "在我们城市遭受瘟疫一段时间后，歌赫梵离开了城市去追寻力量来拯救薇莉亚与复仇，留下了伊瑞蒂安来管理整个城市。你猜猜谁不久之后谁来了？是凤涅克凤涅克丝这个恶魔！她来摧毁了我们剩下的一切。" },
@@ -193,9 +193,9 @@ public class TownNPCLocalizer : ModSystem {
             { "Marry", "求婚！" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Gambit), nameof(Gambit.OnChatButtonClicked), new() {
-            { "OMG YOU DOOOO? Aww youre so sweet \nwe can hold off until a bit later :3", "天哪你答应了？？？！！！当然啦甜心~但我们还是可以再等一会的吧:3" },
-            { "Aww cmon, don't be so silly, \nlets wait until we fix this world, \nlet me help you out :P", "小傻瓜~等这个世界的问题解决了再说吧.让我来帮帮你！" },
-            { "Awaaaaaaaaaaaaaaaaaaaaaaaa~ \n(Zielie is too flustered to continue)", "哇啊啊啊啊啊啊啊啊啊啊~（泽丽激动到语无伦次）" },
+            { "OMG YOU DOOOO? Aww youre so sweet \nwe can hold off until a bit later :3", "天哪你答应了？？？！！！当然啦甜心~\n但我们还是可以再等一会的吧:3" },
+            { "Aww cmon, don't be so silly, \nlets wait until we fix this world, \nlet me help you out :P", "小傻瓜~\n等这个世界的问题解决了再说吧.\n让我来帮帮你！" },
+            { "Awaaaaaaaaaaaaaaaaaaaaaaaa~ \n(Zielie is too flustered to continue)", "哇啊啊啊啊啊啊啊啊啊啊~\n（泽丽激动到语无伦次）" },
         });
         #endregion
         #region Gia 吉娅
