@@ -16,22 +16,22 @@ public class ArmorSetLocalizer : ModSystem {
                 "\nCrit chance and armor penetration increased by 20!", "3，2，1..大声笑出来！像你在舞台上表演一样！:p\n每隔一小段时间进行一次倒计时，当你听到“Zero“时\n你将必定暴击，伤害加倍！\n在你走过的地方留下印记\n暴击率和护甲穿透提高20%" }, // ArtisanMask
             { "Stars orbit around you\nHit an enemy 5 times to rain down a gigantic star upon them!", "一颗璀璨的明星在围绕着你运动！\n每攻击五次敌人明星将会从他们上方坠落!" }, // AstrasilkHead
             { "Increases life regen by a great amount!" +
-                "\nMove faster and enemies that hit you take damage back! ", "大量增加生命再生速度！\n￥￥￥￥待补全￥￥￥￥" }, // CelestiaMoonHelmet
+                "\nMove faster and enemies that hit you take damage back! ", "大量增加生命再生速度！\n更快的移速并且攻击你的敌人会受到伤害！" }, // CelestiaMoonHelmet
             { "Increases life regen by a great amount!" +
-                "\nMove faster and gain the effects of magic cuffs! ", "大量增加生命再生速度！\n" }, // CelestiaMoonMask
+                "\nMove faster and gain the effects of magic cuffs! ", "大量增加生命再生速度！\n更快的移速并获得魔法手铐的效果." }, // CelestiaMoonMask
             { "This armor is really scuffed..." +
                 "\nGives the ability of a molten quiver!" +
-                "\n-Stuck at 400 max HP, but 20% increased damage for Rangers", "填入汉化文本" }, // DaedenMask
+                "\n-Stuck at 400 max HP, but 20% increased damage for Rangers", "这个盔甲已经磨损了...\n给予熔火箭袋的效果\n增加20%远程伤害但是生命值上限为400" }, // DaedenMask
             { "Increases life regen by decent amount!" +
                 "\nEnemies become lovestruck when you are hit, or when you hit them!" +
                 "\nThis weakens, burns and confuses, slows and does exponential damage " +
                 "\nSpirit balls come from a portal on your armor and attack enemies " +
                 "\nNo fall Damage " +
-                "\nPick up hearts from afar!", "填入汉化文本" }, // DaediaMask
+                "\nPick up hearts from afar!", "大量增加生命再生速度!\n当你被击中或者击中敌人时，敌人将坠入爱河\n￥￥￥\n会有魂球从你盔甲上的传送门出来并攻击敌人\n免疫掉落伤害\n从更远处拾取爱心！" }, // DaediaMask
             { "Enemies are less likely to target you!" +
                 "\nBlades of Cinder and Rhamenthal will fight alongside you" +
                 "\nEvery few seconds you'll gain a major increase to Melee Damage" +
-                "\nAn upgraded Govheil set essentially. ", "填入汉化文本" }, // DucanblitzCap
+                "\nAn upgraded Govheil set essentially. ", "敌怪不太可能以你为目标\n烬火之刃和雷曼索织魔将会与你并肩作战！\n￥￥￥\n￥￥￥" }, // DucanblitzCap
             { "+1 Max Minions\n+45 Max Life \nHit enemies have a rare chance to be assaulted by angelic power!", "填入汉化文本" }, // ElagentHead
             { "Grants immunity to knockback!\n" +
                 "When you take a hit, gain a temporary attack speed boost based on the amount of damage you took!", "填入汉化文本" }, // EldritchianHood
