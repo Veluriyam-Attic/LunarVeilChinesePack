@@ -89,7 +89,7 @@ public class ArmorSetLocalizer : ModSystem {
                 "\nEnemies will be attacked by your power of music!" +
                 "\nEvery few seconds you'll gain a major increase to Ranged and Magic damage!", "获得魔法箭袋的效果并增加5%远程伤害\n唤起音韵之力痛击你的敌人！\n每过几秒钟，你的魔法和远程伤害将大幅提升！" }, // VerlMask
             { "Gain the accessory effects of desert boots!" +
-                "\nAutomatically run at fast speeds without boots! " +yin
+                "\nAutomatically run at fast speeds without boots! " +
                 "\n +3 Defense!", "获得沙丘行者靴的效果\n无需靴子即可高速行走！\n+3防御力" }, // VextinMask
             { "I am wind in a million" +
                 "\n30% Increased throwing attack speed!" +
