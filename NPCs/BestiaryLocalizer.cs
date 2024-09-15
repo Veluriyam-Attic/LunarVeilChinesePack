@@ -84,8 +84,8 @@ public class BestiaryLocalizer : ModSystem {
             { "The highest form of worshippers of Gothivia corrupted and risen from the grounds of the fallen Govheil Castle", "在不复往日的歌维赫堡，昔日歌瑟梵最虔诚的崇拜者们在腐疫的驱使下，再次起身为其而战." }, // Tulacrowe
             { "A lowly civilian who bought old parts from Irradia before being contaminated. They now seek revenge after having their minds altered by the acid.", "一位在被污染一直之前从伊瑞蒂安购买旧零件的卑微平民。酸改变了他们的主意，促使着他们转而寻求报复." }, // IrravheilSprayer
             { "Guardians who are ready to die for Gothivia?", "何人愿为歌瑟梵献出自己？" }, // GovheilGuardian
-            { "The last protectors of the govheil, and they are pretty formidable...", "填入汉化文本" }, // GovheilProtector
-            { "A respected sorcerer from Sigfried's old rein", "歌维赫最后的保护者，他们非常强大..." }, // IllurianMage
+            { "The last protectors of the govheil, and they are pretty formidable...", "歌维赫最后的保护者，他们非常强大..." }, // GovheilProtector
+            { "A respected sorcerer from Sigfried's old rein", "一名来自齐格飞时代受人尊敬的魔法师" }, // IllurianMage
             { "Extremely powerful jellyfish that has been aflicted by the gild in the morrow, very dangerour", "一只异常强大的水母，受幽曦的力量影响后变得更加危险." }, // MorrowedJellyFish
             { "Even the weakest, most poor among the warriors in the morrow are still decent foes..", "即使是幽曦战士中最弱小、最贫穷的人，他们仍然是体面的.." }, // TribalPeasant
             { "A much richer form of the trible worshippers", "歌瑟梵崇拜者的一种更丰富的形式" }, // TribalPriest
