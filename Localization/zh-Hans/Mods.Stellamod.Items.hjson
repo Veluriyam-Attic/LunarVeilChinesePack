@@ -4932,7 +4932,7 @@ PerfectionStaff: {
 
 XixianFlask: {
 	DisplayName: 希克斯之瓶
-	Tooltip: 由蕊与圣巫们传承下来的宝物！
+	Tooltip: 由蕊与圣巫们传承下来的宝物！需要召唤瓶内容物来灌满才能使用！
 }
 
 VitalityInsource: {
