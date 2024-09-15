@@ -274,17 +274,17 @@ public class TownNPCLocalizer : ModSystem {
         #endregion
         #region Mardenth 玛登斯
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Mardenth), nameof(Mardenth.SetBestiary), new() {
-            { "One of the 3 Children of Daeden, this one being the most useless", "Daeden的三个孩子里面，这个是最没用的那个" },
-            { "Mardenth of the Veil", "玛登斯的面纱" },
+            { "One of the 3 Children of Daeden, this one being the most useless", "达登的三个孩子里面，最弱小的一个" },
+            { "Mardenth of the Veil", "天纱之玛登斯" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Mardenth), nameof(Mardenth.GetChat), new() {
             { "So many cool contraptions she has, I love them!", "她有那么多酷炫的装置，我喜欢它们！" },
             { "Damn that Sigfried guy.", "那个叫齐格飞的家伙真是该死啊" },
             { "Where's Ereshkigal?", "厄莉什基迦勒在哪" },
             { "Daedus, Jovhia, Daeden? Where'd you all go?", "代达斯，乔维亚, 达登?你们都去哪里了？" },
-            { "I'm quite formiddable you see. I can destroy anything with my hands.", "你瞧，我相当可怕。我可以用我的手摧毁任何东西。" },
+            { "I'm quite formiddable you see. I can destroy anything with my hands.", "你瞧，我相当可怕。我可以用我的双手摧毁一切。" },
             { "I need to study up on my electric magic. If my dad wasn't dead he'd be proud of me. Gosh I wish you were here Daeden", "我需要进一步学习我的电系魔法。如果我父亲还活着，他一定会为我感到骄傲的。天哪，我真希望你能在这里，达登" },
-            { "I never knew my mom..", "我从不知道我的母亲..." },
+            { "I never knew my mom..", "我从没见过我的母亲..." },
             { "Why is Jovhia always in the sky?", "为什么乔维亚总是在天上呢？" },
             { "Hey you, get out of here!", "嘿，你，滚出去！" },
             { "Scadabble you women harrasser.", "你这个骚扰女性的家伙！" },
@@ -302,12 +302,12 @@ public class TownNPCLocalizer : ModSystem {
             { "Heheheh, I like to eat little wormy guys but they won't stop squiggling. Reminds me of when our dad Daeden left us. ", "呵呵呵，我喜欢吃那些小虫子，但它们总是不停地扭动。这让我想起了我们父亲达登离开我们的时候。" },
             { "Where did Daedus go?  He left us so long ago. I hope he wasn't swayed by that Harlet Gothivia. She seemed power obsessed and hungry. Maybe that's just me though", "代达斯去哪了？他很久以前就离开我们了。我希望他没有被歌瑟梵影响。她似乎对权力着迷并且渴望权力。也许这只是我这么觉得吧。" },
             { "I might be the only one but, Ereshkigal is kind of hot isn't she? Hell you wouldn't even know would you. You're taste in women is flat.", "或许只有我一个人觉得，但是厄莉什基迦勒确实有些性感，不是吗？什么，你说你不知道？！不是？哥们！你对女人的品味也太差了吧！" },
-            { "You don't understand how we are. We're higher than all below us, which is everyone except a god. Only they can be held to such high status. Squirm off you worm.", "你不会明白我们是怎样的存在。我们比除了神之外的所有人都高贵。只有神才能拥有如此高的地位。扭动吧，你这虫豸。" },
+            { "You don't understand how we are. We're higher than all below us, which is everyone except a god. Only they can be held to such high status. Squirm off you worm.", "你不会明白我们是怎样的存在。我们比除了神之外的所有人都高贵。只有神才能拥有如此高的地位。爬吧，你这虫豸。" },
             { "I wish Sigfried didn't go insane. He's such an asshole, even our dear Ereshkigal left with him to seal him away...  ", "我希望齐格飞没有发疯。他真是个混蛋，就连我们亲爱的厄莉什基迦勒也离开我们去封印他了……" },
             { "Maybe I may be the only person to question the gene pools of these people. Like where do they all look so pretty from??? Im wearing this mask cuz I look like a goblin.", "也许我是唯一一个质疑这些人基因的人。比如他们都是从哪里遗传来的美貌？？？我之所以戴着这个面具，是因为我长得像哥布林一样..." },
             { "I want a beach episode with Zui and Ereshkigal now! ", "我现在就想看到蕊和厄莉什基迦勒的海滩写真集！" },
             { "I would want to be more powerful but that takes a lot of training. Anyone who dares to take more than what they are given should be punished. ", "我想要变得更强大，但这需要大量的训练。任何敢于索取超出所给予的人都应该受到惩罚。" },
-            { "Those guys in the well? They are trapped down there because they made some goofy deals in their lives to get more power and just like the great Veil people we are, we trapped them away for good.", "那些在井里的人？他们被困在那里，因为他们在生活中做了一些愚蠢的交易来获得更多的力量，就像我们这些伟大的星纱人一样，我们永远地困住了他们。" },
+            { "Those guys in the well? They are trapped down there because they made some goofy deals in their lives to get more power and just like the great Veil people we are, we trapped them away for good.", "那些在井里的人？他们被困在那里，因为他们在生活中做了一些愚蠢的交易来获得更多的力量，就像我们这些伟大的天纱人一样，我们永远地困住了他们。" },
             { "I don't know what the outside world is like.", "我不知道外面的世界是什么样子的。" },
         });
         #endregion
@@ -494,7 +494,7 @@ public class TownNPCLocalizer : ModSystem {
             { "Shes got some great cogs", "她的零件不错" },
             { "Who's next on this list to kill?", "下一个杀谁？" },
             { "How are you doing? ", "近来如何？" },
-            { "I need to gamble a bit more today", "一会我还得再去赌几把." },
+            { "I need to gamble a bit more today", "一会我还得再去赌几局." },
             { "That Sirestias woman creeps me out.", "那个希丝忒莉亚真的很吓人" },
             { "I gotta get to the Royal Capital some day. Maybe they can empower my weapons.", "哪天我一定要去一趟皇都.他们应该能让我的武器更强" },
             { "So coldddd", "好冷——" },
