@@ -405,7 +405,7 @@ public class TownNPCLocalizer : ModSystem {
            { "Reminisce of Sigfried", "回想齐格飞" },
        });
        ForceLocalizeSystem.LocalizeByTypeName(nameof(Ordin), nameof(Ordin.OnChatButtonClicked), new() {
-           { "Thy is so resilient, unhand me from these this trecherous nagging and take this for thy shall not be astute to your prescence no longer.", "汝之韧性，深为吾所许。释吾于这烦扰之中，汝应接此任务，不再掩藏才智，常侍吾侧" },
+           { "Thy is so resilient, unhand me from these this trecherous nagging and take this for thy shall not be astute to your prescence no longer.", "汝之纠缠，已至厌烦。速速离去，莫再扰吾安宁，汝之行径，实难容忍" },
            { "To be one of the forth or forward, the lands that I rest in reek of falsification of hypocrisy and power.", "欲居人先，而吾所驻之地，充斥伪善与权力之虚饰" },
            { "Sigfried was once a young fellow, thy brother in one's eye's and a villian in anothers'.", "昔日齐格飞亦是少年郎，于汝眼中似兄弟，于他人则如恶徒" },
            { "Our sacred castle falls ill to such burning. Our wishes have been grafted under the curse of Sigfried's unveiling.", "吾等圣堡，竟罹此焚劫。吾心所愿，悉于齐格飞揭咒之下，已非昔比" },
