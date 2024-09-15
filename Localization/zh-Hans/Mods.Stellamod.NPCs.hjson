@@ -88,8 +88,8 @@ GhostCharger.DisplayName: 幽灵奇兵
 CloneV.DisplayName: 薇莉亚分身
 Zapwarn.DisplayName: 打击警告
 Veiizal.DisplayName: 维依佐
-VoidWall.DisplayName: 虚空墙
-UnderworldRift.DisplayName: 异次元裂缝
+VoidWall.DisplayName: 虚空之墙
+UnderworldRift.DisplayName: 地狱裂隙
 VoidWormTail.DisplayName: 虚空虫尾
 VoidWormHead.DisplayName: 虚空虫头
 VoidWormBody.DisplayName: 虚空虫体
@@ -97,10 +97,10 @@ SunStalkerRayLightBig.DisplayName: 猎日游隼大射线
 SunStalkerRayLight.DisplayName: 猎日游隼射线
 SunStalkerPreSpawn.DisplayName: 猎日游隼预生成
 SunStalkerLighting.DisplayName: 猎日游隼之光
-SunStalkerDeath.DisplayName: 猎日游隼死亡
+SunStalkerDeath.DisplayName: 猎日游隼
 SunStalker.DisplayName: 猎日游隼
 Sun.DisplayName: 太阳
-StoneDeath.DisplayName: 心石守卫死亡
+StoneDeath.DisplayName: 心石圣卫
 Flowerball.DisplayName: 闪光精灵
 STARBOMBERGUN.DisplayName: 星 爆 轰 炸 枪
 STARLINGBIG.DisplayName: 大 型 星 际 混 沌
@@ -116,9 +116,9 @@ SingularityLazer2.DisplayName: 奇点消亡
 SingularityLazer.DisplayName: 奇点消亡
 LazerOrb.DisplayName: 激光球
 Jackoslime.DisplayName: 灯笼杰克史莱姆
-JackDeath.DisplayName: 灯笼杰克死亡
+JackDeath.DisplayName: 灯笼杰克
 Jack.DisplayName: 灯笼杰克
-IrradiatedNestDeath.DisplayName: 辐射巢穴死亡
+IrradiatedNestDeath.DisplayName: 辐射巢穴
 IrradiatedNest.DisplayName: 辐射巢穴
 IrradiatedCreeper.DisplayName: 辐射爬行者
 IRNDeathBomb.DisplayName: 辐射巢穴死亡炸弹
@@ -177,10 +177,10 @@ Cogwork.DisplayName: 废旧齿轮
 BlazingSerpentHead.DisplayName: 烈焰长蛇
 StarrVeriplant.DisplayName: 石心圣卫
 Sylia.DisplayName: 赛莉亚
-VerliaB.DisplayName: 皎月，薇莉娅
+VerliaB.DisplayName: 皎月薇莉娅
 SingularityFragment.DisplayName: 破碎奇点
 CommanderGintzia.DisplayName: 金戈亚指挥官
-DaedusR.DisplayName: 世遗者，代达斯
+DaedusR.DisplayName: 世遗者代达斯
 
 Aimacra: {
 	DisplayName: 安魅凯拉
