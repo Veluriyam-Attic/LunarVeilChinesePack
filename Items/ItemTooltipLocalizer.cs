@@ -29,7 +29,7 @@ public class ItemTooltipLocalizer : ModSystem {
             { "(A) Very High Damage Scaling with knives!", "（A）很高的飞刀伤害修正！" },
             { "Stein Weapon Type", "武器类型：冲击拳套" },
             { "The sorrowing souls within are crying", "聆听那灵魂的哀嚎..." },
-            { "This weapon is bound by Fenix", "凤涅克丝的力量缠绕于其上" },
+            { "This weapon is bound by Fenix", "绯琦的力量缠绕于其上" },
             { "(S) Explosion damage is out of this world!", "（S）超神的爆炸伤害修正！" },
             { "(A) Honestly could wipe out many wide varieties of enemies!", "（A）威力强劲，横扫千军！" },
             { "A weapon so powerful, it holds a gravitation pull and can change forms!", "有股力量将周围的一切吸向它...还可以改变形态！" },
