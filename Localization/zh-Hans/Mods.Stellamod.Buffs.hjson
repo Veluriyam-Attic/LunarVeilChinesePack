@@ -49,7 +49,7 @@ IvyakenMinionBuff: {
 }
 
 IrradiatedCreeperMinionBuff: {
-	Description: 是“爬行者”哦，泰拉瑞亚里的，不是别的
+	Description: 苦力怕？
 	DisplayName: 辐射爬行者
 }
 
@@ -330,7 +330,7 @@ DreadB: {
 
 Diarii: {
 	Description: 感谢你的游玩!
-	DisplayName: Diarii
+	DisplayName: Diari
 }
 
 BurningGB: {

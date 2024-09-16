@@ -54,8 +54,8 @@ DrakonicManor: {
 }
 
 CindersparkBiome: {
-	TownNPCDialogueName: 炽星烬土
-	DisplayName: 炽星烬土
+	TownNPCDialogueName: 烬火之地
+	DisplayName: 烬火之地
 }
 
 CathedralBiome: {
