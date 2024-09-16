@@ -25,7 +25,7 @@ public class BestiaryLocalizer : ModSystem {
             { "Ereshkigal the Lover", "痴恋者厄莉什基迦勒" }, // EreshkigalIdle
             
             { "Searching for a lover, this particular Queen lacks anyone she can socialize with as she tries to gain power of the void to kill Sigfried for revenge, so much power yet so lonely.", "这名皇后几乎封闭了自我，在积蓄力量对齐格飞发起复仇的途中她舍弃了几乎其他一切.强大而孤独." }, // Fenix
-            { "Fenix the Vengeful", "逐仇者，凤涅克丝" }, // Fenix
+            { "Fenix the Vengeful", "逐仇者，绯琦" }, // Fenix
             
             { "This person isn't the real gothivia, where is she?", "这不是真的歌瑟梵.她在哪？" }, // Gothiviab
             { "I guess she knows you destroyed her singularity inside Daedus, oops", "看来她已经知道你摧毁了代达斯和那颗奇点.哎呦." }, // Gothiviabb
@@ -49,10 +49,10 @@ public class BestiaryLocalizer : ModSystem {
             { "Niivi, The First Dragon", "太初祖龙，尼伊维" }, // Niivi
             
             { "A poisonous slime mutated from normal green slimes", "曾经是一只普通的绿史莱姆，在酸蚀之地变异成了此毒物." }, // LazerOrb, SingularityOrb, SupernovaOrb, DreadFireCircle
-            { "A powerful gift that was given to Cozmire, yet was stolen away by Fenix to seal away Verlia.", "天寰神巫获赠的宝物，被凤涅克丝盗走后用于封印薇莉娅." }, // SingularityFragment
+            { "A powerful gift that was given to Cozmire, yet was stolen away by Fenix to seal away Verlia.", "天寰神巫获赠的宝物，被绯琦盗走后用于封印薇莉娅." }, // SingularityFragment
             { "Singularity Fragment", "破碎奇点" }, // SingularityFragment
             
-            { "Destruction is what these bring, Fenix may of purchased some things off the black market, destroy these immediately...", "毁灭是此物唯一的用途.凤涅克丝可能是在黑市买到的它们，见到它一定要悉数摧毁." }, // STARBOMBER
+            { "Destruction is what these bring, Fenix may of purchased some things off the black market, destroy these immediately...", "毁灭是此物唯一的用途.绯琦可能是在黑市买到的它们，见到它一定要悉数摧毁." }, // STARBOMBER
             { "STARBOMBER", "星 爆 者" }, // STARBOMBER
             
             { "A beloved magical stone guardian, protected the natural life and would petrify anyone who disturbs it.", "一具倍受喜爱的魔力石偶，保卫着自然生灵，擅闯者统统被其化作顽石." }, // StarrVeriplant
@@ -63,7 +63,7 @@ public class BestiaryLocalizer : ModSystem {
             { "A powerful gift from Lumi V. to her trusted sisters.", "天纱琉明给予她姐妹的礼物." }, // SupernovaFragment
             { "Supernova Fragment", "破碎超新星" }, // SupernovaFragment
             
-            { "Someone who was consumed by their dark magic, even more so than Fenix would bother with.", "一个被黑暗魔法吞噬的人，甚至比凤涅克丝还要走火入魔." }, // Sylia
+            { "Someone who was consumed by their dark magic, even more so than Fenix would bother with.", "一个被黑暗魔法吞噬的人，甚至比绯琦还要走火入魔." }, // Sylia
             { "Sylia, Merena's Sister.", "赛莉亚，梅瑞娜的妹妹" }, // Sylia
             { "A strange rift to void, disturbing it may yield catastrophic results...", "一个怪异的虚空裂缝，扰动它可能会产生灾难性的后果......" }, // UnderworldRift
             
@@ -76,7 +76,7 @@ public class BestiaryLocalizer : ModSystem {
             { "Burining with passion I guess.", "我想是在燃烧着自己的芳华吧." }, // BlazingSerpentHead
             { "They guard what is theirs!", "他们捍卫着属于他们自己的东西." }, // BlazingSerpentHead
             { "The most adorable goodest spicy child. Do not dare be mean to him!", "最可爱最好的小家伙！不要对它们那么残忍！" }, // SandWalker, SnowWalker
-            { "He's evil yet so weak. This fellow betrayed Gothivia during their war against Fenix and his part of the army joined the other side for power.", "他很邪恶，但又是个纸老虎.这家伙在与凤涅克丝的战争中背叛了歌瑟梵，他的军队加入了另一方去争夺权力." }, // CommanderGintzia
+            { "He's evil yet so weak. This fellow betrayed Gothivia during their war against Fenix and his part of the army joined the other side for power.", "他很邪恶，但又是个纸老虎.这家伙在与绯琦的战争中背叛了歌瑟梵，他的军队加入了另一方去争夺权力." }, // CommanderGintzia
             { "Commander Gintzia, the betrayer", "变节者，金戈亚指挥官" }, // CommanderGintzia, GintziaHand
             { "A Captain of Gothivia's ranks, be careful", "歌瑟梵麾下的队长！需谨慎应对" }, // GintzeCaptain
             { "A Captain of Gofria's ranks, be careful", "歌瑟梵麾下的士兵！需谨慎应对" }, // GintzeSolider
