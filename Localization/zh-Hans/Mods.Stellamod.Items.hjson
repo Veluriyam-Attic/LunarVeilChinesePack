@@ -1895,7 +1895,7 @@ OceanScroll: {
 
 OceansTrinket: {
 	DisplayName: 海之奇珍
-	Tooltip: +1仆从上限，+8%召唤伤害！
+	Tooltip: +1仆从栏，+8%召唤伤害！
 }
 
 RuneOfCorsage: {
