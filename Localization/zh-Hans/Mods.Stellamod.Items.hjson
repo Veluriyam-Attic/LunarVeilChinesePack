@@ -523,7 +523,7 @@ FlowerBatch: {
 	DisplayName: 繁花束
 	Tooltip:
 		'''
-		野芳发而幽香..
+		"野芳发而幽香"
 		从某处收获来的花束
 		最适合用于制作植物相关物品！
 		'''
@@ -1216,7 +1216,7 @@ Hornet: {
 		风度翩翩，高贵非凡！
 		射出优雅炸弹与弹丸，数量惊人，如星辰般璀璨
 		弹雨盛宴，彰显力量与尊贵，一场视觉与战斗的双重盛宴
-		无关《空洞骑士》，纯属灵感巧合
+				无关《空洞骑士》，纯属灵感巧合
 		'''
 }
 
@@ -1265,7 +1265,7 @@ AlcadizDagger: {
 		'''
 		你的召唤物将优先攻击被集火的敌人
 		召唤物将从你的盾中显现出来
-		它们将作为临时召唤物，为你的其他随从提供支援！
+		它们将作为临时召唤物，为你的其他仆从提供支援！
 		当它激活时，它会为你加持，让你的防御力提升10点！
 		'''
 }
@@ -1875,7 +1875,7 @@ LeatherGlove: {
 	Tooltip:
 		'''
 		+10%投掷伤害
-		增加投掷物速度
+		增加投掷速度
 		'''
 }
 
@@ -1895,7 +1895,7 @@ OceanScroll: {
 
 OceansTrinket: {
 	DisplayName: 海之奇珍
-	Tooltip: +1仆从栏，+8%召唤伤害！
+	Tooltip: +1仆从上限，+8%召唤伤害！
 }
 
 RuneOfCorsage: {
@@ -1965,7 +1965,7 @@ StarflareBand: {
 	Tooltip:
 		'''
 		+10%魔法伤害
-		增加魔力回复速度！
+		增加魔力再生速度！
 		降低魔力消耗 :o
 		'''
 }
@@ -2033,7 +2033,7 @@ AstrasilkBody: {
 
 AstrasilkHead: {
 	DisplayName: 星丝织帽
-	Tooltip: 小幅提升魔力回复
+	Tooltip: 小幅提升魔力再生
 }
 
 AstrasilkLegs: {
@@ -2048,7 +2048,7 @@ ElagentBody: {
 
 ElagentHead: {
 	DisplayName: 典雅头冠
-	Tooltip: +20%随从伤害
+	Tooltip: +20%仆从伤害
 }
 
 ElagentLegs: {
@@ -2068,7 +2068,7 @@ ForestCoreBody: {
 
 ForestCoreHead: {
 	DisplayName: 森之核心面具
-	Tooltip: +2伤害
+	Tooltip: +2%伤害
 }
 
 ForestCoreLegs: {
@@ -2151,7 +2151,7 @@ WinterbornBody: {
 
 WinterbornHead: {
 	DisplayName: 寒冬旅鸫面具
-	Tooltip: 增加魔力回复
+	Tooltip: 增加魔力再生
 }
 
 WinterbornLegs: {
@@ -2724,7 +2724,7 @@ VoidStaff: {
 	Tooltip:
 		'''
 		召唤迷你奇点为你战斗！
-		需两个召唤槽位
+		需两个仆从栏
 		'''
 }
 
@@ -3130,7 +3130,7 @@ DaedenMask: {
 		'''
 		肯定只有受虐狂会戴它吧...
 		+20%远程伤害
-		大幅提升魔力回复！
+		大幅提升魔力再生！
 		+5%暴击率
 		'''
 }
@@ -3956,7 +3956,7 @@ BridgetII: {
 
 BlackWallBlock: {
 	DisplayName: 黑
-	Tooltip: 真tm的黑啊
+	Tooltip: 铁粉都是黑的:)
 }
 
 MossyStones: {
@@ -4173,12 +4173,12 @@ MushyExtenderPowder: {
 
 TomedDustingFlames: {
 	DisplayName: 火焰魔法尘指南
-	Tooltip: ""
+	Tooltip: "引爆某些魔法粉尘时产生火焰爆破"
 }
 
 TomedDustingMagic: {
 	DisplayName: 魔能魔法尘指南
-	Tooltip: ""
+	Tooltip: "引爆魔法粉尘时有概率产生魔尘爆破"
 }
 
 JacksonPollock: {
@@ -4193,7 +4193,7 @@ Rhamenthal: {
 
 Angelenthal: {
 	DisplayName: 天谷圣剑
-	Tooltip: ""
+	Tooltip: "右键扔出进行天谷爆破"
 }
 
 RoseBroochA: {
@@ -4355,7 +4355,7 @@ DarkButcher: {
 
 TheButcher: {
 	DisplayName: 屠夫
-	Tooltip: ""
+	Tooltip: "投掷能跟踪敌人的屠刀"
 }
 
 BookOfSkullsII: {
@@ -4793,7 +4793,7 @@ DucanblitzThighs: {
 
 FenixBag: {
 	DisplayName: 宝藏袋（凤涅克丝）
-	Tooltip: ""
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 }
 
 EldritchianCloak: {
@@ -4926,7 +4926,7 @@ WindmillShuriken: {
 }
 
 PerfectionStaff: {
-	Tooltip: ""
+	Tooltip: 发射能跟踪敌人的护身射弹
 	DisplayName: 完美法杖
 }
 
@@ -5262,31 +5262,31 @@ VeroshotBow: {
 
 AzaleanChestplate: {
 	DisplayName: Azalean的胸甲
-	Tooltip: 一名开发者给了你这套装备... 以及+12%远程伤害！
+	Tooltip: 一名开发者(Azza)给了你这套装备... 以及+12%远程伤害！
 }
 
 AzaleanHat: {
 	DisplayName: Azalean的帽子
-	Tooltip: 一名开发者给了你这套装备！
+	Tooltip: 一名开发者(Azza)给了你这套装备！
 }
 
 AzaleanLeggings: {
 	DisplayName: Azalean的护腿
-	Tooltip: 一名开发者给了你这套装备！
+	Tooltip: 一名开发者(Azza)给了你这套装备！
 }
 
 SolarianChestplate: {
-	DisplayName: 太阳胸甲
+	DisplayName: Scolon胸甲
 	Tooltip: 一名开发者（Scolon）给了你这套装备... 以及+1仆从栏！
 }
 
 SolarianHat: {
-	DisplayName: 太阳头盔
+	DisplayName: Scolon头盔
 	Tooltip: 一名开发者（Scolon）给了你这套装备！
 }
 
 SolarianPants: {
-	DisplayName: 太阳护腿
+	DisplayName: Scolon护腿
 	Tooltip: 一名开发者（Scolon）给了你这套装备！
 }
 
@@ -5657,7 +5657,7 @@ SandyBearBroochA: {
 		'''
 		成为真正的黄沙斗士！
 		获得禁忌套装奖励!
-		+2召唤物栏位
+		+2召唤栏
 		极大增加魔力再生！
 		'''
 }
@@ -5710,7 +5710,7 @@ Shredder: {
 }
 
 LuminullSpiritFragments: {
-	Tooltip: ""
+	Tooltip: 科兹米尔体内的卢玫气息
 	DisplayName: 黯光残魂
 }
 
@@ -5780,7 +5780,7 @@ ThePenetrator: {
 
 SingularDive: {
 	DisplayName: 孤行深潜
-	Tooltip: 右键轻启，随从涌现；长旋一击，敌溃如云！
+	Tooltip: 右键轻启，仆从涌现；长旋一击，敌溃如云！
 }
 
 DelgrimsHammer: {
@@ -7139,7 +7139,7 @@ CleanestCleaver: {
 
 GothiviaIyxBag: {
 	DisplayName: 宝藏袋（歌瑟梵·伊斯）
-	Tooltip: ""
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 }
 
 GothiviaBossRel: {
@@ -7188,7 +7188,7 @@ SerpentStaff: {
 	Tooltip:
 		'''
 		召唤巨蛇为你而战
-		召唤槽位越多，蛇身渐长，力量倍增
+		仆从栏越多，蛇身渐长，力量倍增
 		'''
 }
 
@@ -7236,11 +7236,11 @@ VeiledScriptureMiner4: {
 	Content:
 		'''
 
-		BOOGLE DOOA YUI SWIGGLE DIGGLE MCDOOM
-		EKBOFNAR YAT GY ATT GRIM YUM BIGGLE POP
+		卟蛤…豆押…退…摇…葬…麥乧…
+		嗳壳…伢…更…呵塔…挖…薬色…
 
-		WE IN HERE LIKE SQUIDWARDS
-		I SAW THE SHADOW MAN
+		我 们 像 鱿 鱼 一 样 喷 墨
+		因 为 我 看 到 了 暗 影 人
 
 		- 冰邦！！！
 
@@ -7464,7 +7464,7 @@ IllurianBible: {
 
 SupernovaBag: {
 	DisplayName: 宝藏袋（破碎超新星）
-	Tooltip: ""
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 }
 
 SupernovaBossRel: {
@@ -7478,7 +7478,7 @@ Pegasus: {
 		'''
 		召唤尼伊维的三颗晶石环绕
 		发射各种元素攻击，攻势连绵不绝
-		这套晶石独一无二，需要三个随从槽位才能使用
+		这套晶石独一无二，需要三个仆从槽位才能使用
 		'''
 }
 
@@ -7575,7 +7575,7 @@ IllurineHoops: {
 		'''
 		月亮敌人被守护者降下天雷霹雳，血量减半
 		+10%魔法伤害
-		增加魔力回复，减少魔力消耗
+		增加魔力再生，减少魔力消耗
 		'''
 }
 
