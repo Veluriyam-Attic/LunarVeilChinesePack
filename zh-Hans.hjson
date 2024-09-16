@@ -1,6 +1,6 @@
 Mods: {
 	Stellamod: {
-		Menus.Stellamenu.DisplayName: 穹月天纱    // 这东西没法挪出去, 因为作者就是放这儿的. 大概是改名时把 LunarVeilConfig 改成了 LunarVeilClientConfig, 但又没把本地化改了, 然后 TML 就自动给它生成到这儿来了
+		Menus.Stellamenu.DisplayName: 穹月天纱
 
 		Configs: {
 			LunarVeilClientConfig: {
