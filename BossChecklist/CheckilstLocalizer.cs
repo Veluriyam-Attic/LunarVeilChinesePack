@@ -91,7 +91,7 @@ namespace LunarVeilChinesePack.BossChecklist
             });
             #endregion
 
-            #region DoFenixIntegration(凤涅克丝)
+            #region DoFenixIntegration(绯琦)
             ForceLocalizeSystem.LocalizeByTypeName("ModIntegrationsSystem", "DoFenixIntegration", new() {
                 {"She resides in the royal capital far to the left, she may want to play with you!","在左面天空的皇都上找到她，她很想和你一起玩！" }
             });
