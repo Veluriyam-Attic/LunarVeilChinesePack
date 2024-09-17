@@ -4173,12 +4173,12 @@ MushyExtenderPowder: {
 
 TomedDustingFlames: {
 	DisplayName: 火焰魔法尘指南
-	Tooltip: "引爆某些魔法粉尘时产生火焰爆破"
+	Tooltip: 引爆某些魔法粉尘时产生火焰爆破
 }
 
 TomedDustingMagic: {
 	DisplayName: 魔能魔法尘指南
-	Tooltip: "引爆魔法粉尘时有概率产生魔尘爆破"
+	Tooltip: 引爆魔法粉尘时有概率产生魔尘爆破
 }
 
 JacksonPollock: {
@@ -4193,7 +4193,7 @@ Rhamenthal: {
 
 Angelenthal: {
 	DisplayName: 天谷圣剑
-	Tooltip: "右键扔出进行天谷爆破"
+	Tooltip: 右键扔出进行天谷爆破
 }
 
 RoseBroochA: {
@@ -4355,7 +4355,7 @@ DarkButcher: {
 
 TheButcher: {
 	DisplayName: 屠夫
-	Tooltip: "投掷能跟踪敌人的屠刀"
+	Tooltip: 投掷能跟踪敌人的屠刀
 }
 
 BookOfSkullsII: {
@@ -5976,7 +5976,7 @@ SirestiasToken: {
 	Tooltip:
 		'''
 		为希丝忒莉亚完成目标后获赠的感恩谢礼
-		使用它在电子分子转换器处转换武器的职业！
+		使用它在分子转换器处转换武器的职业！
 		'''
 	DisplayName: 希丝忒莉亚的宝珠
 }
@@ -7367,7 +7367,7 @@ LumiPaintingI: {
 }
 
 VeiledScriptureLumi: {
-	Tooltip: '''左键阅读		'''
+	Tooltip: 左键阅读
 	DisplayName: 天纱圣典·琉明
 	Content:
 		'''
