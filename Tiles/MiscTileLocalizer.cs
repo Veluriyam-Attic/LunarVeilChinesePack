@@ -71,7 +71,7 @@ public class MiscTileLocalizer : ModSystem {
             { "See me in the moonlight!", "月下最宜见面！" },
             { "Come at night with our kindred in hand, see you soon for our dance will commend :)", "三更来见灯在手，舞醉月下不知愁" },
         });
-        ForceLocalizeSystem.LocalizeByTypeName("VerliasShrine", "RightClick", new() {
+        ForceLocalizeSystem.LocalizeByTypeName("VerliasShrine", "MouseOver", new() {
             { "Verlia's Shrine", "薇莉娅圣坛" },
         });
         #endregion
@@ -140,8 +140,10 @@ public class MiscTileLocalizer : ModSystem {
         ForceLocalizeSystem.LocalizeByType(typeof(ShrineBUAN), nameof(ShrineBUAN.MouseOver), breakMeLocalization);
         ForceLocalizeSystem.LocalizeByType(typeof(ShrineGardenWreckerC), nameof(ShrineGardenWreckerC.MouseOver), breakMeLocalization);
         ForceLocalizeSystem.LocalizeByType(typeof(ShrineHalhurishC), nameof(ShrineHalhurishC.MouseOver), breakMeLocalization);
+        ForceLocalizeSystem.LocalizeByType(typeof(ShrineLifeC), nameof(ShrineSolMothC.MouseOver), breakMeLocalization);
         ForceLocalizeSystem.LocalizeByType(typeof(ShrineLights), nameof(ShrineLights.MouseOver), breakMeLocalization);
         ForceLocalizeSystem.LocalizeByType(typeof(ShrineSolMothC), nameof(ShrineSolMothC.MouseOver), breakMeLocalization);
+
         ForceLocalizeSystem.LocalizeByType(typeof(ShrineBridgetC), nameof(ShrineBridgetC.MouseOver), new() {
             { "Hey hey over here break me please :(", "嘿！嘿！那边的！过来救我出去！" },
         });

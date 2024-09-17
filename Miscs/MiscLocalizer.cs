@@ -1,4 +1,5 @@
-﻿using Microsoft.Xna.Framework;
+﻿using LunarVeilChinesePackPublicizerPart;
+using Microsoft.Xna.Framework;
 using Stellamod;
 using Stellamod.DropRules;
 using Stellamod.Effects;
@@ -36,12 +37,17 @@ public class MiscLocalizer : ModSystem {
         #endregion
         #region 条件
         // 主要用于商店注册, 如果同时启用 Shop Expand 能在查询商店时看到汉化效果
+
+        // 挪到了 Mods.Stellamod.Conditions.hjson 中
+        /*
         ForceLocalizeSystem.LocalizeByTypeFullName("Stellamod.CustomConditions", ".cctor", new() {
             { "Defeated Fenix", "击败绯琦" },
             { "Killed Singularity Fragment", "击败破碎奇点" },
             { "Defeated Daedus", "击败代达斯" },
             { "Sewing Kit must be Equipped", "必须装备着织影套件包" },
         });
+        */
+        CustomConditionsHelper.Localize();
         #endregion
         #region 掉落条件
         ForceLocalizeSystem.LocalizeByType(typeof(BloodmoonDropRule), nameof(BloodmoonDropRule.GetConditionDescription), new() {

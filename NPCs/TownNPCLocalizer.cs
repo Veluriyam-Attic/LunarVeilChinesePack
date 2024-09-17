@@ -374,13 +374,18 @@ public class TownNPCLocalizer : ModSystem {
         });
 
         // 主要用于商店注册, 如果同时启用 Shop Expand 能在查询商店时看到汉化效果
-        ForceLocalizeSystem.LocalizeByTypeFullName("Stellamod.NPCs.Town.MerenaQuestSystem", ".cctor", new() {
-            { "KillVerlia", "击败薇莉娅完成" },
-            { "ExploreMorrowedVillage", "探索古谕村落完成" },
-            { "Give100DustBags", "上交100个粉尘袋完成" },
-            { "MakeMagicPaper", "制作魔法纸张完成" },
-            { "Tome", "制作终极魔导书完成" }, // MakeTomeOfInfiniteSorceryCompleted
-        });
+        Dictionary<string, string> merenaQuestSystemConditionLocalizations = new() {
+            { "KillVerlia", "需要击败薇莉娅" },
+            { "ExploreMorrowedVillage", "需要探索古谕村落" },
+            { "Give100DustBags", "需要上交 100 个粉尘袋" },
+            { "MakeMagicPaper", "需要制作魔法纸张" },
+            { "Tome", "需要制作终极魔导书" }, // MakeTomeOfInfiniteSorceryCompleted
+        };
+        ForceLocalizeSystem.LocalizeByTypeFullName("Stellamod.NPCs.Town.MerenaQuestSystem", "get_ShopConditionKillVerlia", merenaQuestSystemConditionLocalizations);
+        ForceLocalizeSystem.LocalizeByTypeFullName("Stellamod.NPCs.Town.MerenaQuestSystem", "get_ShopConditionExploreMorrowedVillage", merenaQuestSystemConditionLocalizations);
+        ForceLocalizeSystem.LocalizeByTypeFullName("Stellamod.NPCs.Town.MerenaQuestSystem", "get_ShopConditionGive100DustBags", merenaQuestSystemConditionLocalizations);
+        ForceLocalizeSystem.LocalizeByTypeFullName("Stellamod.NPCs.Town.MerenaQuestSystem", "get_ShopConditionMakeMagicPaper", merenaQuestSystemConditionLocalizations);
+        ForceLocalizeSystem.LocalizeByTypeFullName("Stellamod.NPCs.Town.MerenaQuestSystem", "get_ShopConditionTome", merenaQuestSystemConditionLocalizations);
         #endregion
         #region NaturalWitch 自然女巫
        ForceLocalizeSystem.LocalizeByTypeName(nameof(Ordin), nameof(Ordin.SetBestiary), new() {
@@ -586,13 +591,18 @@ public class TownNPCLocalizer : ModSystem {
         });
 
         // 主要用于商店注册, 如果同时启用 Shop Expand 能在查询商店时看到汉化效果
-        ForceLocalizeSystem.LocalizeByTypeFullName("Stellamod.NPCs.Town.ZuiQuestSystem", ".cctor", new() {
-            { "ThreeQuests", "完成三个任务" },
-            { "SixQuests", "完成六个任务" },
-            { "TenQuests", "完成十个任务" },
-            { "TwentyQuests", "完成二十个任务" },
-            { "ThirtyQuests", "完成三十个任务" },
-        });
+        Dictionary<string, string> zuiQuestSystemConditionLocalizations = new() {
+            { "ThreeQuests", "需要完成三个任务" },
+            { "SixQuests", "需要完成六个任务" },
+            { "TenQuests", "需要完成十个任务" },
+            { "TwentyQuests", "需要完成二十个任务" },
+            { "ThirtyQuests", "需要完成三十个任务" },
+        };
+        ForceLocalizeSystem.LocalizeByTypeFullName("Stellamod.NPCs.Town.ZuiQuestSystem", "get_ShopCondition3", zuiQuestSystemConditionLocalizations);
+        ForceLocalizeSystem.LocalizeByTypeFullName("Stellamod.NPCs.Town.ZuiQuestSystem", "get_ShopCondition6", zuiQuestSystemConditionLocalizations);
+        ForceLocalizeSystem.LocalizeByTypeFullName("Stellamod.NPCs.Town.ZuiQuestSystem", "get_ShopCondition10", zuiQuestSystemConditionLocalizations);
+        ForceLocalizeSystem.LocalizeByTypeFullName("Stellamod.NPCs.Town.ZuiQuestSystem", "get_ShopCondition20", zuiQuestSystemConditionLocalizations);
+        ForceLocalizeSystem.LocalizeByTypeFullName("Stellamod.NPCs.Town.ZuiQuestSystem", "get_ShopCondition30", zuiQuestSystemConditionLocalizations);
         #endregion
 
         #region ZuiDeath

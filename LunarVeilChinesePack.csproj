@@ -10,12 +10,10 @@
     <Nullable>enable</Nullable>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
   </PropertyGroup>
-  
+
 	<!-- General -->
 	<ItemGroup>
-	  <Reference Include="Stellamod">
-	    <HintPath>lib\Stellamod.dll</HintPath>
-	  </Reference>
+    <Reference Include="lib\*.dll" />
 	</ItemGroup>
 	<!-- References -->
 
