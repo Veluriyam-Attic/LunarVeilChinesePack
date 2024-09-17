@@ -5386,7 +5386,7 @@ MechanicI: {
 }
 
 ScrapToken: {
-	Tooltip: 把它放进魔法工程师戴尔格林旁的电子转换器里
+	Tooltip: 把它放进魔法工程师戴尔格林旁的分子转换器里
 	DisplayName: 废料
 }
 
@@ -5976,7 +5976,7 @@ SirestiasToken: {
 	Tooltip:
 		'''
 		为希丝忒莉亚完成目标后获赠的感恩谢礼
-		使用它在电子转换器处转换武器的职业！
+		使用它在电子分子转换器处转换武器的职业！
 		'''
 	DisplayName: 希丝忒莉亚的宝珠
 }
