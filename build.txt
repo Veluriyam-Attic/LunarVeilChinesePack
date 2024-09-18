@@ -5,3 +5,5 @@ modReferences = Stellamod
 dllReferences = LunarVeilChinesePackPublicizerPart
 translationMod = true
 side = Client
+hideResources = true
+hideCode = true
