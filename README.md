@@ -1,6 +1,6 @@
-这里是Lunar Veil穹月天纱汉化Beta！
-微信号：zlzhaidou
+這裏是Lunar Veil穹月天紗漢化Beta！
+微信號：zlzhaidou
 QQ：3412615165
-邮箱：@qq.com
+郵箱：@qq.com
 https://github.com/Zenoviaa/LunarVielmod
-风卷残云! 刮骨疗毒! 大刀阔斧! 涤荡旧弊!
+風卷殘雲! 刮骨療毒! 大刀闊斧! 滌蕩舊弊!

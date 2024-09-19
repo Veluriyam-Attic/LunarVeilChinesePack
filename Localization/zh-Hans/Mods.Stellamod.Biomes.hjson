@@ -4,23 +4,23 @@ XixVillage: {
 }
 
 VeriplantUndergroundBiome: {
-	TownNPCDialogueName: 地下殆绿之地
-	DisplayName: 地下殆绿之地
+	TownNPCDialogueName: 地下殆綠之地
+	DisplayName: 地下殆綠之地
 }
 
 StarbloomBiome: {
-	TownNPCDialogueName: 星绽之地
-	DisplayName: 星绽之地
+	TownNPCDialogueName: 星綻之地
+	DisplayName: 星綻之地
 }
 
 SeaTemple: {
-	TownNPCDialogueName: 渊海秘殿
-	DisplayName: 渊海秘殿
+	TownNPCDialogueName: 淵海秘殿
+	DisplayName: 淵海秘殿
 }
 
 NaxtrinTemple: {
-	TownNPCDialogueName: 纳克特林圣殿
-	DisplayName: 纳克特林圣殿
+	TownNPCDialogueName: 納克特林聖殿
+	DisplayName: 納克特林聖殿
 }
 
 MorrowUndergroundBiome: {
@@ -34,13 +34,13 @@ MarrowSurfaceBiome: {
 }
 
 GovheilCastle: {
-	TownNPCDialogueName: 歌维赫堡
-	DisplayName: 歌维赫堡
+	TownNPCDialogueName: 歌維赫堡
+	DisplayName: 歌維赫堡
 }
 
 FableBiome: {
-	TownNPCDialogueName: 古谕遗境
-	DisplayName: 古谕遗境
+	TownNPCDialogueName: 古諭遺境
+	DisplayName: 古諭遺境
 }
 
 EngineerShop: {
@@ -54,13 +54,13 @@ DrakonicManor: {
 }
 
 CindersparkBiome: {
-	TownNPCDialogueName: 烬火之地
-	DisplayName: 烬火之地
+	TownNPCDialogueName: 燼火之地
+	DisplayName: 燼火之地
 }
 
 CathedralBiome: {
-	TownNPCDialogueName: 穹月仪殿
-	DisplayName: 穹月仪殿
+	TownNPCDialogueName: 穹月儀殿
+	DisplayName: 穹月儀殿
 }
 
 CatacombWater: {
@@ -84,36 +84,36 @@ AurelusBiome: {
 }
 
 AlcadziaBiome: {
-	TownNPCDialogueName: 阿尔卡迪亚
-	DisplayName: 阿尔卡迪亚
+	TownNPCDialogueName: 阿爾卡迪亞
+	DisplayName: 阿爾卡迪亞
 }
 
 AcidBiome: {
-	TownNPCDialogueName: 酸蚀之地
-	DisplayName: 酸蚀之地
+	TownNPCDialogueName: 酸蝕之地
+	DisplayName: 酸蝕之地
 }
 
 AbyssBiome: {
-	TownNPCDialogueName: 无尽深渊
-	DisplayName: 无尽深渊
+	TownNPCDialogueName: 無盡深淵
+	DisplayName: 無盡深淵
 }
 
 Laboratory: {
-	DisplayName: 实验室
-	TownNPCDialogueName: 实验室
+	DisplayName: 實驗室
+	TownNPCDialogueName: 實驗室
 }
 
 IlluriaBiome: {
-	TownNPCDialogueName: 星树
-	DisplayName: 星树
+	TownNPCDialogueName: 星樹
+	DisplayName: 星樹
 }
 
 IshtarBiome: {
-	TownNPCDialogueName: 狂渊
-	DisplayName: 狂渊
+	TownNPCDialogueName: 狂淵
+	DisplayName: 狂淵
 }
 
 VeilBiome: {
-	TownNPCDialogueName: 天纱环境
-	DisplayName: 天纱环境
+	TownNPCDialogueName: 天紗環境
+	DisplayName: 天紗環境
 }
