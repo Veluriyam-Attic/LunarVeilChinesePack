@@ -1,13 +1,14 @@
-﻿<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+﻿<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{64EDB323-475E-4530-9A65-12B7948AD0F1}</ProjectGuid>
+    <ProjectGuid>{724CE656-D055-4542-8DED-5C6F31DA4E36}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <NoStandardLibraries>false</NoStandardLibraries>
     <AssemblyName>ConsoleApplication</AssemblyName>
-    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
-    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
@@ -19,6 +20,7 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <PlatformTarget>x86</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
     <DebugType>pdbonly</DebugType>
@@ -28,9 +30,10 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <PlatformTarget>x86</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup>
-    <RootNamespace>LVTC</RootNamespace>
+    <RootNamespace>LunarVeilChinesePack</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.CSharp" />
@@ -43,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitignore" />
+    <None Include=".git\COMMIT_EDITMSG" />
     <None Include=".git\config" />
     <None Include=".git\description" />
     <None Include=".git\FETCH_HEAD" />
@@ -65,38 +69,103 @@
     <None Include=".git\info\exclude" />
     <None Include=".git\logs\HEAD" />
     <None Include=".git\logs\refs\heads\main" />
+    <None Include=".git\logs\refs\heads\繁体汉化" />
     <None Include=".git\logs\refs\remotes\origin\HEAD" />
     <None Include=".git\logs\refs\remotes\origin\main" />
+    <None Include=".git\logs\refs\remotes\origin\繁体汉化" />
+    <None Include=".git\objects\03\a0017b1957efd11e6532dc18398876fe2cacf5" />
+    <None Include=".git\objects\08\a6a0a57901bfc070a3db6b798fc56c539fdcad" />
+    <None Include=".git\objects\0a\24c3334e006b8658563e52432e4ad81dfcceee" />
+    <None Include=".git\objects\0a\ae56ddc9e957d21822500151e3dc16359b05f1" />
+    <None Include=".git\objects\0e\33e740c279f4a214139c60545c28979a62c076" />
+    <None Include=".git\objects\11\112d19df1a859f21ce779aedb3196b9f9171de" />
+    <None Include=".git\objects\15\758f99fdf7d9360b0f97b95bd02d7233316e61" />
+    <None Include=".git\objects\17\1001a3015592dab470ee006e13a6b26bbcc99a" />
+    <None Include=".git\objects\24\0107926e8419a6b7c56b174ace70e34e58ba06" />
+    <None Include=".git\objects\28\38e254e6293dff5d46f01b1f02c024f46b8c0e" />
+    <None Include=".git\objects\2b\ab783b6603c346eec028b42050eb8556ea7e7a" />
+    <None Include=".git\objects\37\fb90849051439fc9e68532fe06adca64e95663" />
+    <None Include=".git\objects\3c\859bfec9ac211202b466a03ff3c0e844ff3334" />
+    <None Include=".git\objects\43\dd089090c587991c72bb0955c593e38f590e44" />
+    <None Include=".git\objects\4b\752e9b61d64fa1bce7388007f1e9eea44b2bf4" />
+    <None Include=".git\objects\52\189b1dabd18e0afe13b775f34fdc597a966d54" />
+    <None Include=".git\objects\52\4246a872a0eded4c8ee9a246dfee7c4cdd1008" />
     <None Include=".git\objects\53\a65a04932be52b58f10e09b5cae0a698cb145b" />
+    <None Include=".git\objects\5c\51dd673e1e4d85ca3bb3d97888bb3b6a773f05" />
+    <None Include=".git\objects\66\7406891aceace8ec66d0447874607821c128a1" />
+    <None Include=".git\objects\69\eb942bf272f921998e0965f3741a2cfec1dc9e" />
     <None Include=".git\objects\6f\95a89843ecbc3bf826d347c59749730ca50111" />
+    <None Include=".git\objects\6f\a802ed9baa4410af46a407d5f360e0fcba342d" />
+    <None Include=".git\objects\76\4d48f243fb7be161a58a979ca3997cdcf5d51e" />
+    <None Include=".git\objects\7d\6bad00b1749e38faff09a7ce494975b0943b30" />
+    <None Include=".git\objects\86\db46d52966ebe72b67d9e2ed3d6f0e9ee1835c" />
+    <None Include=".git\objects\87\5d2eee54d4a5aef9c2556327f7f11d302177a8" />
+    <None Include=".git\objects\8c\eebcb924dc20da9d370a025a2b1d2079f2fd01" />
+    <None Include=".git\objects\8d\262739a273957a7ec4c2fca0a537bbf293bd29" />
+    <None Include=".git\objects\8e\93614d0cd5ec9730762d0b37e1f3c139b1c0a3" />
+    <None Include=".git\objects\8f\4bb6cad7abd92237a1b6dd70893bb099cebd1b" />
+    <None Include=".git\objects\90\c10ecb8d6e23b73598dda863817a76604dfe79" />
     <None Include=".git\objects\96\dec94d265e8bff3aad182c0b55493dc147a812" />
+    <None Include=".git\objects\9c\3f620642ff006f3513794c7beb9667fb7c4730" />
+    <None Include=".git\objects\9c\85f3e576b8dcf45f484a5d75a0dbb359d7cb22" />
+    <None Include=".git\objects\9e\456889009f9e2ea37327e0a6ba43957ae9720c" />
+    <None Include=".git\objects\a0\cd08a59a14aad5ce70d1529a644f9317b9d77e" />
+    <None Include=".git\objects\a1\b37555b6a63b5ad6cbf7487eb0449ae1c88e62" />
+    <None Include=".git\objects\a2\cd54636499df9cf4622fcc170d0243f4b3f6c4" />
+    <None Include=".git\objects\a3\048ee6af1211ecce92c0c8c4d452b57c471320" />
+    <None Include=".git\objects\a4\1db4d2a2b65516f99e3e77fefb0dc3ff095317" />
+    <None Include=".git\objects\a8\ede20beb725a3e9f251476ea8ab8ede31aa2ee" />
+    <None Include=".git\objects\a9\37b27470f62c0be18a208316502d94a02a3357" />
+    <None Include=".git\objects\aa\2b8b2da7d0ff43693b92f16c87f4df40ce39c1" />
+    <None Include=".git\objects\ac\c444b7f8f645a636f3fdbd138da5531ebbd89c" />
+    <None Include=".git\objects\b0\0cf37fe02895bc5a252097cdb4e925b9d5cbab" />
+    <None Include=".git\objects\b0\37386b9c8e404d0eb42dc2a8855c102ed117c8" />
+    <None Include=".git\objects\b4\63749a821a70b1f4ca6bf998737a4cf5a75c53" />
     <None Include=".git\objects\c0\1df2931928b249909fce610e48235d496bf837" />
+    <None Include=".git\objects\c0\4f28bcc5104ce530c55abd0578beeb4467446a" />
+    <None Include=".git\objects\c1\c95ca6628404cd3a8ec263e3eaee2b198340bd" />
+    <None Include=".git\objects\d0\678bb1ead518f850a6a3362dfc2df770e9163c" />
+    <None Include=".git\objects\d2\2472e538b14b4b105d7f1e8097552819a9590f" />
     <None Include=".git\objects\d2\d701c47859ee464342fa8018d6a7383f01ec4c" />
+    <None Include=".git\objects\d4\192818b17b022b8e4b26ee0423593e2de7bc48" />
+    <None Include=".git\objects\d4\9d95967240a06fa1541ae2ce7ba5fe412c983b" />
+    <None Include=".git\objects\d4\f0fc2b445fec6c0832d4307d8f6ec1fdd47359" />
+    <None Include=".git\objects\db\c1b3430ed9aa845e304af2ccf1dced2e4183ab" />
+    <None Include=".git\objects\df\3ac41dd1a8d6388636e3695ee0553d13931232" />
+    <None Include=".git\objects\e4\59f595ecfb9be260bb7122daa0adf583ce023b" />
+    <None Include=".git\objects\e6\4d9f6a016b60208a4d3b6347c3230045c2c87a" />
     <None Include=".git\objects\e9\1492d4e1b383ac0924ec4f202bc80087e931ea" />
+    <None Include=".git\objects\ef\dfb0f76e5923bc6980ff33a50669b2b6a907dd" />
+    <None Include=".git\objects\fd\2405a5f9443c9f3536ff209e3d03b8f83f228e" />
     <None Include=".git\objects\pack\pack-b9e4f85941db002454889742799e68a6e99074cc.idx" />
     <None Include=".git\objects\pack\pack-b9e4f85941db002454889742799e68a6e99074cc.pack" />
     <None Include=".git\objects\pack\pack-b9e4f85941db002454889742799e68a6e99074cc.rev" />
     <None Include=".git\ORIG_HEAD" />
     <None Include=".git\packed-refs" />
     <None Include=".git\refs\heads\main" />
+    <None Include=".git\refs\heads\繁体汉化" />
     <None Include=".git\refs\remotes\origin\HEAD" />
     <None Include=".git\refs\remotes\origin\main" />
+    <None Include=".git\refs\remotes\origin\繁体汉化" />
     <None Include=".git\refs\tags\v1.3.3.1" />
     <None Include=".vs\LunarVeilChinesePack\DesignTimeBuild\.dtbcache.v2" />
-    <None Include=".vs\LunarVeilChinesePack\FileContentIndex\45c897ab-9aff-4d38-96ad-4f62e7c081ef.vsidx" />
-    <None Include=".vs\LunarVeilChinesePack\FileContentIndex\5e2a70b5-1b57-4a9a-b41d-f4e8b455782a.vsidx" />
-    <None Include=".vs\LunarVeilChinesePack\FileContentIndex\977f3da9-87b4-47da-bc48-be1a1e47af05.vsidx" />
-    <None Include=".vs\LunarVeilChinesePack\FileContentIndex\e2ff5b16-ec19-4fda-b13a-34df2aa43f49.vsidx" />
+    <None Include=".vs\LunarVeilChinesePack\FileContentIndex\353fbc58-79ad-4c65-868f-2318967f6f5a.vsidx" />
+    <None Include=".vs\LunarVeilChinesePack\FileContentIndex\5ece11bf-40b9-415c-9713-cbabe64e5109.vsidx" />
+    <None Include=".vs\LunarVeilChinesePack\FileContentIndex\74a399a9-428d-44e0-aa42-2a5faa0da729.vsidx" />
     <None Include=".vs\LunarVeilChinesePack\v17\.futdcache.v2" />
     <None Include=".vs\LunarVeilChinesePack\v17\.suo" />
     <None Include=".vs\LunarVeilChinesePack\v17\DocumentLayout.backup.json" />
     <None Include=".vs\LunarVeilChinesePack\v17\DocumentLayout.json" />
+    <None Include=".vs\LVTC\FileContentIndex\3eee6318-41f2-47a9-9ed0-0debbd2ca2b1.vsidx" />
+    <None Include=".vs\LVTC\FileContentIndex\c7b9b792-9c7b-4fdc-9f3b-c2f6fddb0930.vsidx" />
+    <None Include=".vs\LVTC\FileContentIndex\dab4c187-07c3-4054-b5f6-5c2d57360653.vsidx" />
     <None Include=".vs\LVTC\v17\.suo" />
     <None Include=".vs\LVTC\v17\DocumentLayout.backup.json" />
     <None Include=".vs\LVTC\v17\DocumentLayout.json" />
     <None Include=".vs\ProjectEvaluation\lunarveilchinesepack.metadata.v9.bin" />
     <None Include=".vs\ProjectEvaluation\lunarveilchinesepack.projects.v9.bin" />
     <None Include=".vs\ProjectEvaluation\lunarveilchinesepack.strings.v9.bin" />
+    <None Include="app.config" />
     <None Include="en-US.hjson" />
     <None Include="Localization\en-US\Mods.Stellamod.Biomes.hjson" />
     <None Include="Localization\en-US\Mods.Stellamod.Buffs.hjson" />
@@ -118,7 +187,7 @@
     <None Include="Localization\zh-Hans\Mods.Stellamod.NPCs.hjson" />
     <None Include="Localization\zh-Hans\Mods.Stellamod.Projectiles.hjson" />
     <None Include="Localization\zh-Hans\Mods.Stellamod.Tiles.hjson" />
-    <None Include="LVTC.csproj.bak" />
+    <None Include="LunarVeilChinesePack.csproj.bak" />
     <None Include="Properties\launchSettings.json" />
     <None Include="README.md" />
     <None Include="zh-Hans.hjson" />
@@ -139,7 +208,7 @@
     <Compile Include="Items\ArmorSetLocalizer.cs" />
     <Compile Include="Items\ItemTooltipLocalizer.cs" />
     <Compile Include="Items\MiscItemLocalizer.cs" />
-    <Compile Include="LVTC.cs" />
+    <Compile Include="LunarVeilChinesePack.cs" />
     <Compile Include="Miscs\CurrencyLocalizer.cs" />
     <Compile Include="Miscs\MiscLocalizer.cs" />
     <Compile Include="NPCs\BestiaryLocalizer.cs" />

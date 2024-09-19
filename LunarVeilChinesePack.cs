@@ -1,10 +1,10 @@
-global using LVTC.Systems;
+global using LunarVeilChinesePack.Systems;
 global using System;
 global using System.Collections.Generic;
 global using Terraria;
 global using Terraria.ModLoader;
 
-namespace LVTC;
+namespace LunarVeilChinesePack;
 
 public class LunarVeilChinesePack : Mod
 {

@@ -9,21 +9,21 @@ using System.Linq;
 using System.Reflection;
 using Terraria.ModLoader.Core;
 
-namespace LVTC.Systems;
+namespace LunarVeilChinesePack.Systems;
 
 internal class ForceLocalizeSystem : ForceLocalizeSystem<Stellamod.Stellamod, ForceLocalizeSystem>
 {
-    protected override string ReplaceString(string old, string @new) => @new == "填入漢化文本" ? old : @new;
+    protected override string ReplaceString(string old, string @new) => @new == "填入汉化文本" ? old : @new;
 #if DEBUG
     protected override bool ThrowException => true;
 #endif
 }
 
 /// <summary>
-/// 如果是弱依賴的話要加上 <see cref="ExtendsFromModAttribute"/>
+/// 如果是弱依赖的话要加上 <see cref="ExtendsFromModAttribute"/>
 /// </summary>
-/// <typeparam name="TMod">要漢化的模組的類</typeparam>
-/// <typeparam name="TSelf">繼承了此類的類自己</typeparam>
+/// <typeparam name="TMod">要汉化的模组的类</typeparam>
+/// <typeparam name="TSelf">继承了此类的类自己</typeparam>
 public abstract class ForceLocalizeSystem<TMod, TSelf> where TSelf : ForceLocalizeSystem<TMod, TSelf> /* where T : Mod */
 {
     #region Instance
@@ -37,15 +37,15 @@ public abstract class ForceLocalizeSystem<TMod, TSelf> where TSelf : ForceLocali
     #endregion
     #region Localize
     /// <summary>
-    /// <br/>替換一個方法中的字符串
-    /// <br/>只能在加載階段使用
+    /// <br/>替换一个方法中的字符串
+    /// <br/>只能在加载阶段使用
     /// <br/>如果不想用反射, 可以使用<see cref="LocalizeByTypeFullName"/>
     /// <br/>或 <see cref="LocalizeByTypeName"/>
     /// <br/>或 <see cref="LocalizeByType"/>
-    /// <br/>註意如果此方法有多個重載 (即多個重名的方法), 則上述三個無法使用 (只能用這個)
+    /// <br/>注意如果此方法有多个重载 (即多个重名的方法), 则上述三个无法使用 (只能用这个)
     /// </summary>
     /// <param name="methodInfo">此方法, 由反射得到</param>
-    /// <param name="localizations">需要替換的字符串, 鍵為替換前, 值為替換後</param>
+    /// <param name="localizations">需要替换的字符串, 键为替换前, 值为替换后</param>
     public static void Localize(MethodInfo? methodInfo, Dictionary<string, string> localizations)
     {
         if (methodInfo == null)
@@ -70,10 +70,10 @@ public abstract class ForceLocalizeSystem<TMod, TSelf> where TSelf : ForceLocali
         });
     }
     /// <summary>
-    /// <br/>替換一個方法中的字符串
-    /// <br/>只能在加載階段使用
+    /// <br/>替换一个方法中的字符串
+    /// <br/>只能在加载阶段使用
     /// </summary>
-    /// <param name="type">包含此方法的類型</param>
+    /// <param name="type">包含此方法的类型</param>
     /// <param name="methodName">此方法名</param>
     /// <inheritdoc cref="Localize"/>
     public static void LocalizeByType(Type type, string methodName, Dictionary<string, string> localizations)
@@ -95,7 +95,7 @@ public abstract class ForceLocalizeSystem<TMod, TSelf> where TSelf : ForceLocali
         }
         Localize(methodInfo, localizations);
     }
-    /// <param name="typeName">包含此方法的類型的名字, 註意此類型必須在需漢化的模組中</param>
+    /// <param name="typeName">包含此方法的类型的名字, 注意此类型必须在需汉化的模组中</param>
     /// <param name="methodName">此方法名</param>
     /// <inheritdoc cref="LocalizeByType"/>
     public static void LocalizeByTypeName(string typeName, string methodName, Dictionary<string, string> localizations)
@@ -112,11 +112,11 @@ public abstract class ForceLocalizeSystem<TMod, TSelf> where TSelf : ForceLocali
         LocalizeByType(type, methodName, localizations);
     }
     /// <param name="typeFullName">
-    /// <br/>包含此方法的類型的全名, 註意此類型必須在需漢化的模組中
-    /// <br/>包含命名空間, 由 '.' 分隔
-    /// <br/>例: LVTC.Systems.ForceLocalizeSystem
-    /// <br/>如果是內嵌類型, 則用 '+' 連接
-    /// <br/>例: LVTC.Systems.ForceLocalizeSystem+TypeHelper
+    /// <br/>包含此方法的类型的全名, 注意此类型必须在需汉化的模组中
+    /// <br/>包含命名空间, 由 '.' 分隔
+    /// <br/>例: LunarVeilChinesePack.Systems.ForceLocalizeSystem
+    /// <br/>如果是内嵌类型, 则用 '+' 连接
+    /// <br/>例: LunarVeilChinesePack.Systems.ForceLocalizeSystem+TypeHelper
     /// </param>
     /// <inheritdoc cref="LocalizeByTypeName"/>
     public static void LocalizeByTypeFullName(string typeFullName, string methodName, Dictionary<string, string> localizations)
@@ -130,16 +130,16 @@ public abstract class ForceLocalizeSystem<TMod, TSelf> where TSelf : ForceLocali
     }
 
     /// <summary>
-    /// <br/>替換一個方法中的字符串
-    /// <br/>只能在加載階段使用
+    /// <br/>替换一个方法中的字符串
+    /// <br/>只能在加载阶段使用
     /// <br/>如果不想用反射, 可以使用<see cref="LocalizeInOrderByTypeFullName"/>
     /// <br/>或 <see cref="LocalizeInOrderByTypeName"/>
     /// <br/>或 <see cref="LocalizeInOrderByType"/>
-    /// <br/>註意如果此方法有多個重載 (即多個重名的方法), 則上述三個無法使用 (只能用這個)
+    /// <br/>注意如果此方法有多个重载 (即多个重名的方法), 则上述三个无法使用 (只能用这个)
     /// </summary>
     /// <param name="localizationsInOrder">
-    /// <br/>需要替換的字符串, 需按順序裝有 (替換前, 替換後) 的值
-    /// <br/>即使不需要替換也要寫上一項 (替換前和替換後相同的值)
+    /// <br/>需要替换的字符串, 需按顺序装有 (替换前, 替换后) 的值
+    /// <br/>即使不需要替换也要写上一项 (替换前和替换后相同的值)
     /// </param>
     /// <inheritdoc cref="Localize"/>
     public static void LocalizeInOrder(MethodInfo? methodInfo, List<(string Key, string Value)> localizationsInOrder)
@@ -221,12 +221,12 @@ public abstract class ForceLocalizeSystem<TMod, TSelf> where TSelf : ForceLocali
     }
 
     /// <summary>
-    /// <br/>替換所有子類中此方法的重寫中的字符串
-    /// <br/>只能在加載階段使用
+    /// <br/>替换所有子类中此方法的重写中的字符串
+    /// <br/>只能在加载阶段使用
     /// <br/>如果不想用反射, 可以使用<see cref="LocalizeDerivedByType"/>
-    /// <br/>註意如果此方法有多個重載 (即多個重名的方法), 則上面那個無法使用 (只能用這個)
+    /// <br/>注意如果此方法有多个重载 (即多个重名的方法), 则上面那个无法使用 (只能用这个)
     /// </summary>
-    /// <param name="includeSelf">是否同時替換此方法下的字符串</param>
+    /// <param name="includeSelf">是否同时替换此方法下的字符串</param>
     /// <inheritdoc cref="Localize"/>
     public static void LocalizeDerived(MethodInfo? methodInfo, Dictionary<string, string> localizations, bool includeSelf = false)
     {
@@ -265,8 +265,8 @@ public abstract class ForceLocalizeSystem<TMod, TSelf> where TSelf : ForceLocali
         }
     }
     /// <summary>
-    /// <br/>替換所有子類中此方法的重寫中的字符串
-    /// <br/>只能在加載階段使用
+    /// <br/>替换所有子类中此方法的重写中的字符串
+    /// <br/>只能在加载阶段使用
     /// </summary>
     /// <inheritdoc cref="LocalizeDerived"/>
     /// <inheritdoc cref="LocalizeByType"/>
@@ -460,11 +460,11 @@ public abstract class ForceLocalizeSystem<TMod, TSelf> where TSelf : ForceLocali
         {
             if (cleared)
             {
-                throw new Exception("在完成後初始化!");
+                throw new Exception("在完成后初始化!");
             }
             if (initialized)
             {
-                throw new Exception("重復初始化!");
+                throw new Exception("重复初始化!");
             }
             initialized = true;
             modAssembly = typeof(TMod).Assembly; // mod.Code??

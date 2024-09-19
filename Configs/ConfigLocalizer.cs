@@ -3,7 +3,7 @@ using MonoMod.Utils;
 using System.Reflection;
 using Terraria.ModLoader.Config;
 
-namespace LVTC.Configs;
+namespace LunarVeilChinesePack.Configs;
 
 public class ConfigLocalizer : ModSystem
 {
@@ -12,7 +12,7 @@ public class ConfigLocalizer : ModSystem
     public override void Load()
     {
         #region Header
-        // 它 Header 都硬編碼, 呃呃呃呃呃呃啊啊啊
+        // 它 Header 都硬编码, 呃呃呃呃呃呃啊啊啊
         var uiModConfigType = typeof(Main).Assembly.GetType("Terraria.ModLoader.Config.UI.UIModConfig", true) ?? throw new Exception("Can't find UIModConfig");
         var uiModConfigModField = uiModConfigType.GetField("mod", BFALL) ?? throw new Exception("Can't find UIModConfig.mod");
         var uiModConfigModConfigField = uiModConfigType.GetField("modConfig", BFALL) ?? throw new Exception("Can't find UIModConfig.modConfig");

@@ -4,92 +4,92 @@ Accessories: {
 		Description:
 			'''
 			+1 生命再生速度*
-			+3% 傷害
-			在你走過的路上留下樹根！
+			+3% 伤害
+			在你走过的路上留下树根！
 			'''
 	}
 }
 
 PlaceItem: {
-	DisplayName: 放置物品[應該是作者用來測試的]
+	DisplayName: 放置物品[应该是作者用来测试的]
 	Tooltip: ""
 }
 
 SaveItem: {
-	DisplayName: 保存物品[應該是作者用來測試的]
+	DisplayName: 保存物品[应该是作者用来测试的]
 	Tooltip: ""
 }
 
 AdvancedBroochesBackpack: {
-	DisplayName: 高級飾符背包
+	DisplayName: 高级饰符背包
 	Tooltip:
 		'''
-		+1遠程傷害
-		+4%傷害
-		允許你裝備高級飾符！這非常有用！
+		+1远程伤害
+		+4%伤害
+		允许你装备高级饰符！这非常有用！
 		包含了旅者的行囊所有效果！
 		'''
 }
 
 DiariBroochA: {
-	DisplayName: Diari飾符
+	DisplayName: Diari饰符
 	Tooltip:
 		'''
-		+2防禦
+		+2防御
 		火焰行走特效？
-		還有永久飽腹！
+		还有永久饱腹！
 		+10最大生命值值上限和最大魔力值值上限
-		+5%傷害！
-		（Diari是作者在Steam上的一款遊戲）
+		+5%伤害！
+		（Diari是作者在Steam上的一款游戏）
 		'''
 }
 
 FlyingFishBroochA: {
-	DisplayName: 飛魚飾符
+	DisplayName: 飞鱼饰符
 	Tooltip:
 		'''
-		增加速度，+2防禦！
-		鹹魚都會飛了，你還有什麽理由躺平呢？？？
+		增加速度，+2防御！
+		咸鱼都会飞了，你还有什么理由躺平呢？？？
 		'''
 }
 
 FrileBroochA: {
-	DisplayName: 月冰飾符
+	DisplayName: 月冰饰符
 	Tooltip:
 		'''
-		令受到攻擊的敵人結冰！
-		對他使用冰雪的力量吧：P
+		令受到攻击的敌人结冰！
+		对他使用冰雪的力量吧：P
 		'''
 }
 
 MorrowedBroochA: {
-	DisplayName: 古諭獵手飾符
+	DisplayName: 古谕猎手饰符
 	Tooltip:
 		'''
-		+2防禦
-		+2%遠程傷害
-		+25%弓箭傷害
-		這就是Deep Dark ♂ 寓言的力量嗎
+		+2防御
+		+2%远程伤害
+		+25%弓箭伤害
+		这就是Deep Dark ♂ 寓言的力量吗
 		'''
 }
 
 SlimeBroochA: {
-	DisplayName: 萌萌史萊姆飾符
+	DisplayName: 萌萌史莱姆饰符
 	Tooltip:
 		'''
 		跳得更高！
-		快速下落，彈彈的！
-		（漢化者註：不免疫摔落傷害）
+		快速下落，弹弹的！
+		（汉化者注：不免疫摔落伤害）
 		好可耐~ ：P
 		'''
 }
 
 SpragaldBroochA: {
-	DisplayName: 蜘蛛飾符
+	DisplayName: 蜘蛛饰符
 	Tooltip:
 		'''
-		+10防禦
-		令蜘蛛恐懼癥患者當場去世
+		+10防御
+		令蜘蛛恐惧症患者当场去世
 		'''
 }
 
@@ -98,28 +98,28 @@ HikersBackpack: {
 	Tooltip:
 		'''
 		增加生命再生！
-		+3%傷害
-		在你走過的路上留下樹根！
+		+3%伤害
+		在你走过的路上留下树根！
 		'''
 }
 
 IllusionistBook: {
-	DisplayName: 木遁秘術書
+	DisplayName: 木遁秘术书
 	Tooltip:
 		'''
 		增加生命再生！
-		+3%傷害
-		+5%暴擊率
+		+3%伤害
+		+5%暴击率
 		'''
 }
 
 JellyfishTissue: {
-	DisplayName: 水母組織
+	DisplayName: 水母组织
 	Tooltip:
 		'''
-		哇哦，好東西！
-		+40防禦
-		但代價是減少40%傷害...
+		哇哦，好东西！
+		+40防御
+		但代价是减少40%伤害...
 		'''
 }
 
@@ -127,27 +127,27 @@ MOTT: {
 	DisplayName: M.O.T.T
 	Tooltip:
 		'''
-		每10秒鐘在地上留下刺球
-		+5%遠程傷害
+		每10秒钟在地上留下刺球
+		+5%远程伤害
 		'''
 }
 
 PaperPaws: {
-	DisplayName: 爪印紙符
+	DisplayName: 爪印纸符
 	Tooltip:
 		'''
-		你的召喚物們已經很努力啦，關照一下它們吧
-		+1仆從欄
+		你的召唤物们已经很努力啦，关照一下它们吧
+		+1仆从栏
 		'''
 }
 
 PlantH: {
-	DisplayName: 傳承盛花
+	DisplayName: 传承盛花
 	Tooltip:
 		'''
-		百花草木之力與你同在！
-		+40生命 +15防禦
-		但你的速度會降低 0v0
+		百花草木之力与你同在！
+		+40生命 +15防御
+		但你的速度会降低 0v0
 		'''
 }
 
@@ -155,40 +155,40 @@ SapContainer: {
 	DisplayName: 甘露瓶
 	Tooltip:
 		'''
-		每10秒鐘喝下其中甘露並獲得巨大的魔法傷害提升
-		常駐+7%魔法傷害
+		每10秒钟喝下其中甘露并获得巨大的魔法伤害提升
+		常驻+7%魔法伤害
 		'''
 }
 
 WoodenShield: {
-	DisplayName: 木製盾牌
+	DisplayName: 木制盾牌
 	Tooltip:
 		'''
 		真棒，一面木盾？
-		你想要擋住什麽，弓箭嗎？
-		不知為何完全不能用來格擋
-		+1防禦並增加生命再生！
+		你想要挡住什么，弓箭吗？
+		不知为何完全不能用来格挡
+		+1防御并增加生命再生！
 		'''
 }
 
 Steali: {
-	DisplayName: 潛遁披巾
+	DisplayName: 潜遁披巾
 	Tooltip:
 		'''
-		雙擊方向鍵沖刺，沖刺過程中無敵！
+		双击方向键冲刺，冲刺过程中无敌！
 		增加生命再生
-		沖刺過程中不能攻擊
-		某穿著黑色披風的白色小騎士表示很贊
+		冲刺过程中不能攻击
+		某穿著黑色披风的白色小骑士表示很赞
 		'''
 }
 
 ThornedBook: {
-	DisplayName: 荊棘秘術書
+	DisplayName: 荆棘秘术书
 	Tooltip:
 		'''
-		攻擊你的敵人會受到巨額反傷！
-		+3%近戰傷害
-		-5防禦
+		攻击你的敌人会受到巨额反伤！
+		+3%近战伤害
+		-5防御
 		'''
 }
 
@@ -196,8 +196,8 @@ CelestiaMoonBreastplate: {
 	DisplayName: 星月胸甲
 	Tooltip:
 		'''
-		女皇的魔法精華！
-		+60最大魔力值，+1仆從欄
+		女皇的魔法精华！
+		+60最大魔力值，+1仆从栏
 		+20最大生命值
 		'''
 }
@@ -206,18 +206,18 @@ CelestiaMoonHelmet: {
 	DisplayName: 星月之盔
 	Tooltip:
 		'''
-		帝王的魔法精華！
-		+2%近戰與遠程傷害
+		帝王的魔法精华！
+		+2%近战与远程伤害
 		+35最大生命值
 		'''
 }
 
 CelestiaMoonLegs: {
-	DisplayName: 星月護腿
+	DisplayName: 星月护腿
 	Tooltip:
 		'''
-		女皇的魔法精華！
-		+3%移動速度
+		女皇的魔法精华！
+		+3%移动速度
 		+20最大生命值
 		'''
 }
@@ -226,78 +226,78 @@ CelestiaMoonMask: {
 	DisplayName: 星月假面
 	Tooltip:
 		'''
-		女皇的魔法精華！
-		+20最大魔力值，+1仆從欄
+		女皇的魔法精华！
+		+20最大魔力值，+1仆从栏
 		'''
 }
 
 HuntrianBoots: {
-	DisplayName: 銹斑獵手靴
+	DisplayName: 锈斑猎手靴
 	Tooltip:
 		'''
-		腐蝕之木
-		+5%傷害
+		腐蚀之木
+		+5%伤害
 		-10最大生命值
-		+7%暴擊率
+		+7%暴击率
 		'''
 }
 
 HuntrianChestplate: {
-	DisplayName: 銹斑獵手甲
+	DisplayName: 锈斑猎手甲
 	Tooltip:
 		'''
-		腐蝕之木
-		+5%傷害
+		腐蚀之木
+		+5%伤害
 		+10最大生命值 
-		+10%暴擊率
+		+10%暴击率
 		'''
 }
 
 HuntrianHelmet: {
-	DisplayName: 銹斑獵手盔
+	DisplayName: 锈斑猎手盔
 	Tooltip:
 		'''
-		腐蝕之木
-		+5%傷害
+		腐蚀之木
+		+5%伤害
 		+20最大生命值
 		'''
 }
 
 LovestruckBreastplate: {
-	DisplayName: 戀欲胸甲
+	DisplayName: 恋欲胸甲
 	Tooltip:
 		'''
-		感受愛意
-		+60最大生命值，+1仆從欄
+		感受爱意
+		+60最大生命值，+1仆从栏
 		'''
 }
 
 LovestruckLegs: {
-	DisplayName: 戀欲護腿
+	DisplayName: 恋欲护腿
 	Tooltip:
 		'''
 		性感！
-		+10%移動速度
+		+10%移动速度
 		+60最大生命值
 		'''
 }
 
 LovestruckMask: {
-	DisplayName: 戀欲面具
+	DisplayName: 恋欲面具
 	Tooltip:
 		'''
-		欲望女神的精華
-		+7%傷害
+		欲望女神的精华
+		+7%伤害
 		+40最大生命值
 		'''
 }
 
 GintzeMask: {
-	DisplayName: 玄鐵面具
+	DisplayName: 玄铁面具
 	Tooltip:
 		'''
-		稀有金屬製成！
-		+2仆從欄
+		稀有金属制成！
+		+2仆从栏
 		+50最大生命值
 		'''
 }
@@ -306,10 +306,10 @@ StoniaBoots: {
 	DisplayName: 石心靴
 	Tooltip:
 		'''
-		酷酷的石頭
-		+2%傷害
+		酷酷的石头
+		+2%伤害
 		高速下落！
-		滾石！
+		滚石！
 		'''
 }
 
@@ -317,10 +317,10 @@ StoniaChestplate: {
 	DisplayName: 石心胸甲
 	Tooltip:
 		'''
-		脆弱的石頭？
-		+1%傷害
+		脆弱的石头？
+		+1%伤害
 		+2盔甲穿透
-		+2%暴擊率
+		+2%暴击率
 		'''
 }
 
@@ -328,15 +328,15 @@ StoniaHat: {
 	DisplayName: 石心帽
 	Tooltip:
 		'''
-		開心的石頭？
-		+3%傷害
+		开心的石头？
+		+3%伤害
 		+5盔甲穿透
-		+5%暴擊率
+		+5%暴击率
 		'''
 }
 
 AstolfoBody: {
-	DisplayName: 阿斯托弗的襯衫
+	DisplayName: 阿斯托弗的衬衫
 	Tooltip:
 		'''
 		捏呀~
@@ -346,11 +346,11 @@ AstolfoBody: {
 }
 
 AstolfoMask: {
-	DisplayName: 阿斯托弗的假發
+	DisplayName: 阿斯托弗的假发
 	Tooltip:
 		'''
 		美味哦 :3
-		+2%傷害
+		+2%伤害
 		+35最大生命值
 		增加挖掘速度！
 		'''
@@ -360,9 +360,9 @@ AstolfoSkirt: {
 	DisplayName: 阿斯托弗的短裙
 	Tooltip:
 		'''
-		聞起來像...水？
-		+5%移動速度
-		豐滿的大腿prpr
+		闻起来像...水？
+		+5%移动速度
+		丰满的大腿prpr
 		'''
 }
 
@@ -370,10 +370,10 @@ VerlBreastplate: {
 	DisplayName: 薇月胸甲
 	Tooltip:
 		'''
-		"只為和你守候那皎白月光~"
-		+10%遠程與魔法傷害
+		"只为和你守候那皎白月光~"
+		+10%远程与魔法伤害
 		+12盔甲穿透
-		+5%暴擊率！
+		+5%暴击率！
 		+20最大生命值
 		'''
 }
@@ -382,8 +382,8 @@ VerlHat: {
 	DisplayName: 薇月法帽
 	Tooltip:
 		'''
-		戴上它你瞬間就覺得自己變漂亮了！
-		+7%魔法傷害！
+		戴上它你瞬间就觉得自己变漂亮了！
+		+7%魔法伤害！
 		提高魔力再生速度！
 		+100最大魔力值
 		+40最大生命值
@@ -391,12 +391,12 @@ VerlHat: {
 }
 
 VerlLeggings: {
-	DisplayName: 薇月護腿
+	DisplayName: 薇月护腿
 	Tooltip:
 		'''
-		足夠優雅！
-		+7%魔法與遠程傷害
-		增加移動速度
+		足够优雅！
+		+7%魔法与远程伤害
+		增加移动速度
 		+40最大生命值
 		'''
 }
@@ -405,35 +405,35 @@ VerlMask: {
 	DisplayName: 薇月面具
 	Tooltip:
 		'''
-		戴上它你瞬間就覺得自己變漂亮了！
-		+7%遠程傷害
-		+15暴擊率！
+		戴上它你瞬间就觉得自己变漂亮了！
+		+7%远程伤害
+		+15暴击率！
 		+20最大生命值
 		'''
 }
 
 VextinBoots: {
-	DisplayName: 風沙戰靴
+	DisplayName: 风沙战靴
 	Tooltip:
 		'''
-		隱於飛沙
-		+5%傷害
+		隐于飞沙
+		+5%伤害
 		+20最大生命值
 		'''
 }
 
 VextinMask: {
-	DisplayName: 風沙頭巾
+	DisplayName: 风沙头巾
 	Tooltip:
 		'''
-		你能感受到沙漠的脈搏
-		+7%傷害
+		你能感受到沙漠的脉搏
+		+7%伤害
 		+20最大生命值
 		'''
 }
 
 VextinRobe: {
-	DisplayName: 風沙旅袍
+	DisplayName: 风沙旅袍
 	Tooltip:
 		'''
 		在大漠中穿行自如	
@@ -442,80 +442,80 @@ VextinRobe: {
 }
 
 Gambit: {
-	DisplayName: 賭博骰子
+	DisplayName: 赌博骰子
 	Tooltip:
 		'''
 		{$CommonItemTooltip.RightClickToOpen}
-		孤註一擲，來贏得獎勵吧！
+		孤注一掷，来赢得奖励吧！
 		'''
 }
 
 GambitToken: {
-	DisplayName: 賭博代幣
-	Tooltip: 在擲骰子的時候用它來一場真正的賭博吧！
+	DisplayName: 赌博代币
+	Tooltip: 在掷骰子的时候用它来一场真正的赌博吧！
 }
 
 GildedBag1: {
-	DisplayName: 鑲金寶袋
+	DisplayName: 镶金宝袋
 	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 }
 
 MoonflameLantern: {
-	DisplayName: 月輝提燈
+	DisplayName: 月辉提灯
 	Tooltip:
 		'''
-		歌瑟梵的姐妹薇莉婭之靈魂被囚於此物
-		夜幕之中，穹月儀殿之巔，借助聖壇將她釋放
+		歌瑟梵的姐妹薇莉娅之灵魂被囚于此物
+		夜幕之中，穹月仪殿之巅，借助圣坛将她释放
 		'''
 }
 
 SirestiasStarterBag: {
-	DisplayName: 希絲忒莉亞友情贊助新手禮包
+	DisplayName: 希丝忒莉亚友情赞助新手礼包
 	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 }
 
 VeribossBag: {
-	DisplayName: 殆綠boss袋
+	DisplayName: 殆绿boss袋
 	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 }
 
 AlcadizMetal: {
-	DisplayName: 阿爾卡迪亞合金
+	DisplayName: 阿尔卡迪亚合金
 	Tooltip:
 		'''
-		堅硬而充滿魔力！
-		這麽好的材料是從哪來的？
-		最適合用於製作金屬武器與魔法物品！
+		坚硬而充满魔力！
+		这么好的材料是从哪来的？
+		最适合用于制作金属武器与魔法物品！
 		'''
 }
 
 Bagitem: {
-	DisplayName: 粉塵袋
+	DisplayName: 粉尘袋
 	Tooltip:
 		'''
-		裝滿易燃粉塵的袋子
-		這又是從哪來的？
-		用於製作魔法塵！
+		装满易燃粉尘的袋子
+		这又是从哪来的？
+		用于制作魔法尘！
 		'''
 }
 
 Cinderscrap: {
-	DisplayName: 燼火碎片
+	DisplayName: 烬火碎片
 	Tooltip:
 		'''
-		燼火殘余，見證無盡燃燒
-		經歷過無盡的燃燒
-		在植物中找到了歸宿
+		烬火残余，见证无尽燃烧
+		经历过无尽的燃烧
+		在植物中找到了归宿
 		'''
 }
 
 CondensedDirt: {
-	DisplayName: 凝土精華
+	DisplayName: 凝土精华
 	Tooltip:
 		'''
-		惡心！它黏糊糊的！怎麽會這樣？？
-		一種從地下挖出的，像泥巴一樣的黏糊糊的東西！
-		最適合用來做肥料和類似泥巴的物品！
+		恶心！它黏糊糊的！怎么会这样？？
+		一种从地下挖出的，像泥巴一样的黏糊糊的东西！
+		最适合用来做肥料和类似泥巴的物品！
 		'''
 }
 
@@ -523,270 +523,270 @@ FlowerBatch: {
 	DisplayName: 繁花束
 	Tooltip:
 		'''
-		"野芳發而幽香"
-		從某處收獲來的花束
-		最適合用於製作植物相關物品！
+		"野芳发而幽香"
+		从某处收获来的花束
+		最适合用于制作植物相关物品！
 		'''
 }
 
 MorrowRocks: {
-	DisplayName: 古諭石塊
-	Tooltip: 古諭遺境深處的巖石
+	DisplayName: 古谕石块
+	Tooltip: 古谕遗境深处的岩石
 }
 
 Morrowshroom: {
-	DisplayName: 古諭蘑菇
-	Tooltip: 蘑菇小俠
+	DisplayName: 古谕蘑菇
+	Tooltip: 蘑菇小侠
 }
 
 MorrowVine: {
 	DisplayName: 春蔓
-	Tooltip: 它如地下蔓延的藤蔓，無聲無息，卻遍布世界，展現生命的力量
+	Tooltip: 它如地下蔓延的藤蔓，无声无息，却遍布世界，展现生命的力量
 }
 
 Mushroom: {
 	DisplayName: 春蘑菇
-	Tooltip: 生長在地下的蘑菇
+	Tooltip: 生长在地下的蘑菇
 }
 
 Stick: {
-	DisplayName: 木靈棒
+	DisplayName: 木灵棒
 	Tooltip:
 		'''
-		這根棒子由林間嫩枝精製而成，雖然它在美學上堪稱藝術品
-		但在實戰中卻顯得有些力不從心，它或許更適合在你成為傳奇英雄的傳記中，作為一段有趣的開始
-		提醒你即便是最不起眼的起點，也可能預示著偉大的冒險旅程
+		这根棒子由林间嫩枝精制而成，虽然它在美学上堪称艺术品
+		但在实战中却显得有些力不从心，它或许更适合在你成为传奇英雄的传记中，作为一段有趣的开始
+		提醒你即便是最不起眼的起点，也可能预示著伟大的冒险旅程
 		'''
 }
 
 ViolinStick: {
-	DisplayName: 弦鳴戰棍
+	DisplayName: 弦鸣战棍
 	Tooltip:
 		'''
-		哼，這玩意兒有何用途？
-		最佳的武器與音樂的結合！
+		哼，这玩意儿有何用途？
+		最佳的武器与音乐的结合！
 		'''
 }
 
 EmptyMoonflameLantern: {
-	DisplayName: 暗淡的月之提燈
+	DisplayName: 暗淡的月之提灯
 	Tooltip:
 		'''
-		地獄深處的烈火將它燃起
-		霜與月的精華融入火焰中
-		皎月當空之時，於儀巔邀其共舞
+		地狱深处的烈火将它燃起
+		霜与月的精华融入火焰中
+		皎月当空之时，于仪巅邀其共舞
 		'''
 }
 
 HuntiacBlock: {
-	DisplayName: 亨提亞塊
-	Tooltip: 危險
+	DisplayName: 亨提亚块
+	Tooltip: 危险
 }
 
 HuntiacwallBlock: {
-	DisplayName: 亨提亞墻
-	Tooltip: 更加危險
+	DisplayName: 亨提亚墙
+	Tooltip: 更加危险
 }
 
 Medal: {
-	DisplayName: 遺跡勛章
+	DisplayName: 遗迹勋章
 	Tooltip:
 		'''
-		一枚勛章，看起來十分古老
-		把他放在你的物品欄中，可以吸引某人，雙重意義上的...
+		一枚勋章，看起来十分古老
+		把他放在你的物品栏中，可以吸引某人，双重意义上的...
 		'''
 }
 
 OvermorrowDirt: {
-	DisplayName: 古諭土
+	DisplayName: 古谕土
 	Tooltip: ""
 }
 
 OvermorrowdirtwallBlock: {
-	DisplayName: 古諭墻
+	DisplayName: 古谕墙
 	Tooltip: ""
 }
 
 OvermorrowWall: {
-	DisplayName: 古諭墻
+	DisplayName: 古谕墙
 	Tooltip: ""
 }
 
 OvermorrowWood: {
-	DisplayName: 古諭木
-	Tooltip: 美味的木頭，我說得對吧？
+	DisplayName: 古谕木
+	Tooltip: 美味的木头，我说得对吧？
 }
 
 PearlescentScrap: {
-	DisplayName: 月華晶片
+	DisplayName: 月华晶片
 	Tooltip:
 		'''
-		月華灑落，晶片閃爍夜的低語
-		星辰共舞，旋律回蕩天際的詩篇
+		月华洒落，晶片闪烁夜的低语
+		星辰共舞，旋律回荡天际的诗篇
 		'''
 }
 
 RippedFabric: {
-	DisplayName: 報賞華葉
+	DisplayName: 报赏华叶
 	Tooltip:
 		'''
-		為梅瑞娜、希絲忒莉亞、吉婭和蕊做任務的獎賞！
-		完成的任務越多，獎勵越多
-		困難模式下打開鑲金寶袋也可能獲得它
+		为梅瑞娜、希丝忒莉亚、吉娅和蕊做任务的奖赏！
+		完成的任务越多，奖励越多
+		困难模式下打开镶金宝袋也可能获得它
 		'''
 }
 
 Starrdew: {
-	DisplayName: 星爍露
+	DisplayName: 星烁露
 	Tooltip:
 		'''
-		惡！好粘啊！什麽東西這麽粘啊！
-		一種粘稠的物質，與古諭和群星有著聯系
+		恶！好粘啊！什么东西这么粘啊！
+		一种粘稠的物质，与古谕和群星有著联系
 		'''
 }
 
 Stelleanbrick: {
-	DisplayName: 群星磚
+	DisplayName: 群星砖
 	Tooltip: ""
 }
 
 VerianRuneBlock: {
-	DisplayName: 熾金符文石
+	DisplayName: 炽金符文石
 	Tooltip: ""
 }
 
 VerianWood: {
-	DisplayName: 古諭木
+	DisplayName: 古谕木
 	Tooltip: ""
 }
 
 FrileBar: {
-	DisplayName: 月冰錠
-	Tooltip: 由內到外都是冰冷無比，凝聚著冰霜與皎月的精華
+	DisplayName: 月冰锭
+	Tooltip: 由内到外都是冰冷无比，凝聚著冰霜与皎月的精华
 }
 
 FrileOre: {
-	DisplayName: 月冰礦
-	Tooltip: 超出常識的寒冷.用於製作寒冰物品！
+	DisplayName: 月冰矿
+	Tooltip: 超出常识的寒冷.用于制作寒冰物品！
 }
 
 VerianBar: {
-	DisplayName: 熾金錠
+	DisplayName: 炽金锭
 	Tooltip:
 		'''
-		散發著熱量，充盈著部族戰士們的光輝與榮耀
-		摸上去滾燙，必須用隔熱布才能拿起來
+		散发著热量，充盈著部族战士们的光辉与荣耀
+		摸上去滚烫，必须用隔热布才能拿起来
 		'''
 }
 
 VerianOre: {
-	DisplayName: 熾金礦
-	Tooltip: 一種焦熱的礦物，與熱熔金融為一體
+	DisplayName: 炽金矿
+	Tooltip: 一种焦热的矿物，与热熔金融为一体
 }
 
 AlcaologyI: {
-	DisplayName: 阿爾卡迪亞研究臺
-	Tooltip: 用於製作粉塵，和利用一些有用的材料
+	DisplayName: 阿尔卡迪亚研究台
+	Tooltip: 用于制作粉尘，和利用一些有用的材料
 }
 
 Bar: {
-	DisplayName: 古諭架臺
+	DisplayName: 古谕架台
 	Tooltip: ""
 }
 
 Bench: {
-	DisplayName: 古諭長椅
+	DisplayName: 古谕长椅
 	Tooltip: ""
 }
 
 BroochesTableI: {
-	DisplayName: 符飾雕琢臺
-	Tooltip: 在這裏製作精美的飾符與符文吧！
+	DisplayName: 符饰雕琢台
+	Tooltip: 在这里制作精美的饰符与符文吧！
 }
 
 CathediteBlock: {
-	DisplayName: 儀殿磚
+	DisplayName: 仪殿砖
 	Tooltip: ""
 }
 
 CathediteGrassBlock: {
-	DisplayName: 儀殿草塊
+	DisplayName: 仪殿草块
 	Tooltip: ""
 }
 
 CathediteGrassWall: {
-	DisplayName: 儀殿草墻
+	DisplayName: 仪殿草墙
 	Tooltip: ""
 }
 
 CathediteWall: {
-	DisplayName: 儀殿墻
+	DisplayName: 仪殿墙
 	Tooltip: ""
 }
 
 CathedralChestI: {
-	DisplayName: 儀殿箱
+	DisplayName: 仪殿箱
 	Tooltip: ""
 }
 
 Crystal1I: {
-	DisplayName: 月輝晶
-	Tooltip: 你不應該有這個東西的 :(
+	DisplayName: 月辉晶
+	Tooltip: 你不应该有这个东西的 :(
 }
 
 Crystal2I: {
-	DisplayName: 月輝晶
-	Tooltip: 你不應該有這個東西的 :(
+	DisplayName: 月辉晶
+	Tooltip: 你不应该有这个东西的 :(
 }
 
 FlowerMultiI: {
-	DisplayName: 花叢
-	Tooltip: 你不應該有這個東西的 :(
+	DisplayName: 花丛
+	Tooltip: 你不应该有这个东西的 :(
 }
 
 Orb1I: {
-	DisplayName: 月輝晶球
+	DisplayName: 月辉晶球
 	Tooltip: 花哨又漂亮的家具！
 }
 
 ShrineI: {
-	DisplayName: 薇莉亞月華聖壇
+	DisplayName: 薇莉亚月华圣坛
 	Tooltip: ""
 }
 
 Flowersummon: {
 	DisplayName: 石心之花
-	Tooltip: 你不應該有這個東西的 :(
+	Tooltip: 你不应该有这个东西的 :(
 }
 
 GrassBig: {
 	DisplayName: 大型苔草
-	Tooltip: 你不應該有這個東西的 :(
+	Tooltip: 你不应该有这个东西的 :(
 }
 
 GrassMoss: {
 	DisplayName: 苔草
-	Tooltip: 你不應該有這個東西的 :(
+	Tooltip: 你不应该有这个东西的 :(
 }
 
 CurtainLeftI: {
-	DisplayName: 左簾幕
-	Tooltip: 你不應該有這個東西的 :(
+	DisplayName: 左帘幕
+	Tooltip: 你不应该有这个东西的 :(
 }
 
 CurtainRightI: {
-	DisplayName: 右簾幕
-	Tooltip: 你不應該有這個東西的 :(
+	DisplayName: 右帘幕
+	Tooltip: 你不应该有这个东西的 :(
 }
 
 Log: {
-	DisplayName: 空心樹幹
-	Tooltip: 你不應該有這個東西的 :(
+	DisplayName: 空心树干
+	Tooltip: 你不应该有这个东西的 :(
 }
 
 MediumPot: {
 	DisplayName: 中型花瓶
-	Tooltip: 你不應該有這個東西的 :(
+	Tooltip: 你不应该有这个东西的 :(
 }
 
 MorrowChesti: {
@@ -795,18 +795,18 @@ MorrowChesti: {
 }
 
 MorrowChestKey: {
-	DisplayName: 古諭秘鑰
-	Tooltip: 深夜降臨，古諭秘鑰在手，各地神秘寶箱，一觸即開，奇珍異寶等你探索！
+	DisplayName: 古谕秘钥
+	Tooltip: 深夜降临，古谕秘钥在手，各地神秘宝箱，一触即开，奇珍异宝等你探索！
 }
 
 MorrowDeath: {
-	DisplayName: 幽曦劍骨
-	Tooltip: 你不應該有這個東西的 :(
+	DisplayName: 幽曦剑骨
+	Tooltip: 你不应该有这个东西的 :(
 }
 
 MorrowDeath2: {
-	DisplayName: 幽曦劍骨
-	Tooltip: 你不應該有這個東西的 :(
+	DisplayName: 幽曦剑骨
+	Tooltip: 你不应该有这个东西的 :(
 }
 
 MorrowSpike: {
@@ -815,13 +815,13 @@ MorrowSpike: {
 }
 
 MorrowStone: {
-	DisplayName: 幽曦巖石
-	Tooltip: 你不應該有這個東西的 :(
+	DisplayName: 幽曦岩石
+	Tooltip: 你不应该有这个东西的 :(
 }
 
 MushroomBig: {
-	DisplayName: 大叢蘑菇
-	Tooltip: 綠傘傘，綠桿桿
+	DisplayName: 大丛蘑菇
+	Tooltip: 绿伞伞，绿杆杆
 }
 
 SmallShroom: {
@@ -830,56 +830,56 @@ SmallShroom: {
 }
 
 StandN: {
-	DisplayName: 古諭臺架
-	Tooltip: 你不應該有這個東西的 :(
+	DisplayName: 古谕台架
+	Tooltip: 你不应该有这个东西的 :(
 }
 
 VeriBossRel: {
-	DisplayName: 石心聖衛聖物
-	Tooltip: 它本身都已經算是個遺物了
+	DisplayName: 石心圣卫圣物
+	Tooltip: 它本身都已经算是个遗物了
 }
 
 walla: {
-	DisplayName: 墻a
+	DisplayName: 墙a
 	Tooltip: ""
 }
 
 wallb: {
-	DisplayName: 墻b
+	DisplayName: 墙b
 	Tooltip: ""
 }
 
 wallc: {
-	DisplayName: 墻c
+	DisplayName: 墙c
 	Tooltip: ""
 }
 
 walld: {
-	DisplayName: 墻d
+	DisplayName: 墙d
 	Tooltip: ""
 }
 
 walle: {
-	DisplayName: 墻e
+	DisplayName: 墙e
 	Tooltip: ""
 }
 
 wallf: {
-	DisplayName: 墻f
+	DisplayName: 墙f
 	Tooltip: ""
 }
 
 wallg: {
-	DisplayName: 墻g
+	DisplayName: 墙g
 	Tooltip: ""
 }
 
 BonePicklerCard: {
-	DisplayName: 骨塵引爆符牌
+	DisplayName: 骨尘引爆符牌
 	Tooltip:
 		'''
-		以神秘粉末標記敵手以神秘粉末標記敵手
-		揮動「骨塵引爆符牌」，長按攻擊，連鎖爆炸席卷戰場，敵手瞬間化為塵埃
+		以神秘粉末标记敌手以神秘粉末标记敌手
+		挥动“骨尘引爆符牌”，长按攻击，连锁爆炸席卷战场，敌手瞬间化为尘埃
 		'''
 }
 
@@ -887,8 +887,8 @@ DaedCard: {
 	DisplayName: 幽冥符牌
 	Tooltip:
 		'''
-		以神秘粉末標記敵手
-		長按攻擊，引爆標記處，幽冥之火瞬間吞噬敵人，戰場為之震動
+		以神秘粉末标记敌手
+		长按攻击，引爆标记处，幽冥之火瞬间吞噬敌人，战场为之震动
 		'''
 }
 
@@ -896,8 +896,8 @@ EYIgniter: {
 	DisplayName: 天眼符牌
 	Tooltip:
 		'''
-		以神秘粉末標記敵手
-		長按攻擊按鈕，釋放出毀滅性的能量，讓敵人無處遁形
+		以神秘粉末标记敌手
+		长按攻击按钮，释放出毁灭性的能量，让敌人无处遁形
 		'''
 }
 
@@ -905,8 +905,8 @@ FrostCard: {
 	DisplayName: 霜寒符牌
 	Tooltip:
 		'''
-		以神秘粉末標記敵手
-		長按攻擊按鈕，釋放霜凍能量，引爆標記，讓敵人在冰霜中顫抖，化為寒霜之下的塵埃
+		以神秘粉末标记敌手
+		长按攻击按钮，释放霜冻能量，引爆标记，让敌人在冰霜中颤抖，化为寒霜之下的尘埃
 		'''
 }
 
@@ -914,17 +914,17 @@ GothivCard: {
 	DisplayName: 哥特符牌
 	Tooltip:
 		'''
-		以神秘粉末標記敵手
-		長按攻擊按鈕，引爆標記，造成爆炸傷害
+		以神秘粉末标记敌手
+		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
 }
 
 LovestruckCard: {
-	DisplayName: 戀心符牌
+	DisplayName: 恋心符牌
 	Tooltip:
 		'''
-		以神秘粉末標記敵手
-		長按攻擊按鈕，引爆標記，造成爆炸傷害
+		以神秘粉末标记敌手
+		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
 }
 
@@ -932,17 +932,17 @@ ScorcheCard: {
 	DisplayName: 炙炎符牌
 	Tooltip:
 		'''
-		以神秘粉末標記敵手
-		長按攻擊按鈕，引爆標記，造成爆炸傷害
+		以神秘粉末标记敌手
+		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
 }
 
 StarrCard: {
-	DisplayName: 星輝符牌
+	DisplayName: 星辉符牌
 	Tooltip:
 		'''
-		以神秘粉末標記敵手
-		長按攻擊按鈕，引爆標記，造成爆炸傷害
+		以神秘粉末标记敌手
+		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
 }
 
@@ -950,138 +950,138 @@ StarterCard: {
 	DisplayName: 起始符牌
 	Tooltip:
 		'''
-		以神秘粉末標記敵手
-		長按攻擊按鈕，引爆標記，造成爆炸傷害
+		以神秘粉末标记敌手
+		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
 }
 
 WCIgniter: {
-	DisplayName: 萬能符牌
+	DisplayName: 万能符牌
 	Tooltip:
 		'''
-		以神秘粉末標記敵手
-		長按攻擊按鈕，引爆標記，造成爆炸傷害
+		以神秘粉末标记敌手
+		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
 }
 
 Bongos: {
-	DisplayName: 星鍍鼓王
-	Tooltip: 在光標處，嘭嘭嘭，奏響鼓樂
+	DisplayName: 星镀鼓王
+	Tooltip: 在光标处，嘭嘭嘭，奏响鼓乐
 }
 
 CocoSpark: {
 	DisplayName: 椰果秘典
-	Tooltip: 瞧，主人，我能召喚椰果！
+	Tooltip: 瞧，主人，我能召唤椰果！
 }
 
 EvasiveBalls: {
-	DisplayName: 珍珠冰晶彈
-	Tooltip: 快速追蹤，光芒四射！
+	DisplayName: 珍珠冰晶弹
+	Tooltip: 快速追踪，光芒四射！
 }
 
 FlameburstBalls: {
-	DisplayName: 熔殼火球
-	Tooltip: 快速追蹤，釋放烈火！
+	DisplayName: 熔壳火球
+	Tooltip: 快速追踪，释放烈火！
 }
 
 GildedStaff: {
-	DisplayName: 金靈法杖
-	Tooltip: 向敵人發射兩片旋轉的精神魔法碎片，如同金光蝶舞！
+	DisplayName: 金灵法杖
+	Tooltip: 向敌人发射两片旋转的精神魔法碎片，如同金光蝶舞！
 }
 
 PrismaticBalls: {
 	DisplayName: 虹彩晶球
-	Tooltip: 發射追蹤的永恒水晶光芒，快速而準確！
+	Tooltip: 发射追踪的永恒水晶光芒，快速而准确！
 }
 
 Splitflame: {
-	DisplayName: 裂焰燭
-	Tooltip: 絕非尋常燭，裂變雙焰，照亮黑暗，驅散邪靈
+	DisplayName: 裂焰烛
+	Tooltip: 绝非寻常烛，裂变双焰，照亮黑暗，驱散邪灵
 }
 
 Antaciz: {
-	DisplayName: 安塔奇飛刃
-	Tooltip: 飛轉利刃 掃清障礙
+	DisplayName: 安塔奇飞刃
+	Tooltip: 飞转利刃 扫清障碍
 }
 
 Auroran: {
-	DisplayName: 極光
+	DisplayName: 极光
 	Tooltip:
 		'''
-		在空中引發沖擊波
-		用刀刃擊中敵人會提升你的攻擊速度！
-		靈感迸發！
+		在空中引发冲击波
+		用刀刃击中敌人会提升你的攻击速度！
+		灵感迸发！
 		'''
 }
 
 EnergizedNail: {
-	DisplayName: 能量之釘
-	Tooltip: 帶電的釘子，真不可思議
+	DisplayName: 能量之钉
+	Tooltip: 带电的钉子，真不可思议
 }
 
 FrostSwing: {
-	DisplayName: 雙巫槲劍
+	DisplayName: 双巫槲剑
 	Tooltip:
 		'''
-		世代相傳於皇家首都的精英巫師家族，此劍最終傳至維爾德裏斯之手
-		如今，輪到你來揮舞這份美麗與力量
+		世代相传于皇家首都的精英巫师家族，此剑最终传至维尔德里斯之手
+		如今，轮到你来挥舞这份美丽与力量
 		'''
 }
 
 Gutinier: {
-	DisplayName: 古蒂尼爾
+	DisplayName: 古蒂尼尔
 	Tooltip:
 		'''
-		卓絕之兵！
-		異界靈啟！
+		卓绝之兵！
+		异界灵启！
 		'''
 }
 
 HornedNail: {
-	DisplayName: 角刺之釘
-	Tooltip: 於滑稽之爪下，凈滌塵埃，笑意盎然
+	DisplayName: 角刺之钉
+	Tooltip: 于滑稽之爪下，净涤尘埃，笑意盎然
 }
 
 MorrowRapier: {
-	DisplayName: 幽曦之鋒
-	Tooltip: 戳刺武器，功能明確——就是戳
+	DisplayName: 幽曦之锋
+	Tooltip: 戳刺武器，功能明确——就是戳
 }
 
 MorrowSword: {
-	DisplayName: 幽曦之劍
-	Tooltip: 這把劍摸起來很溫暖，這是什麽材質的？
+	DisplayName: 幽曦之剑
+	Tooltip: 这把剑摸起来很温暖，这是什么材质的？
 }
 
 MorrowValswa: {
-	DisplayName: 幽曦鳴華
-	Tooltip: 一把噴射火焰火花的劍
+	DisplayName: 幽曦鸣华
+	Tooltip: 一把喷射火焰火花的剑
 }
 
 PalmThrower: {
-	DisplayName: 掌心戰斧
-	Tooltip: 隨意揮舞著由掌心大小的戰斧，聽起來真乏味
+	DisplayName: 掌心战斧
+	Tooltip: 随意挥舞著由掌心大小的战斧，听起来真乏味
 }
 
 Halhurish: {
-	DisplayName: 熾焰赫爾修裏斯
+	DisplayName: 炽焰赫尔修里斯
 	Tooltip:
 		'''
-		淩空揮鞭，製敵於無形
-		觸敵即爆，震撼天地間
+		凌空挥鞭，制敌于无形
+		触敌即爆，震撼天地间
 		'''
 }
 
 Verstibloom: {
-	DisplayName: 荊巫秘刃
-	Tooltip: 揮劍斬敵影，守護梅瑞娜與賽莉亞
+	DisplayName: 荆巫秘刃
+	Tooltip: 挥剑斩敌影，守护梅瑞娜与赛莉亚
 }
 
 VerstiDance: {
-	DisplayName: 韻律之舞
+	DisplayName: 韵律之舞
 	Tooltip:
 		'''
-		這技能宛如一場花瓣飛舞的舞蹈，它能顯著提升你的移動速度與防禦
-		但同時，高風險也潛藏其中，務必小心應對
+		这技能宛如一场花瓣飞舞的舞蹈，它能显著提升你的移动速度与防御
+		但同时，高风险也潜藏其中，务必小心应对
 		'''
 }
 
@@ -1089,154 +1089,154 @@ PocketSand: {
 	DisplayName: 秘袋金沙
 	Tooltip:
 		'''
-		向他們灑下魔法塵
-		穿透鎧甲，敵人無處遁形，沙粒成刃
-		神秘之塵，戰鬥中不可或缺，巧用製勝
+		向他们洒下魔法尘
+		穿透铠甲，敌人无处遁形，沙粒成刃
+		神秘之尘，战斗中不可或缺，巧用制胜
 		'''
 }
 
 ArcanalPowder: {
-	DisplayName: 星爍魔法塵
+	DisplayName: 星烁魔法尘
 	Tooltip:
 		'''
-		向他們灑下魔法塵
-		這是一種閃爍的星光魔法塵，作為引燃物時能造成雙倍傷害！
-		用這個擊中敵人後，使用符牌引爆！
+		向他们洒下魔法尘
+		这是一种闪烁的星光魔法尘，作为引燃物时能造成双倍伤害！
+		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
 BloodPowder: {
-	DisplayName: 燃血魔法塵
+	DisplayName: 燃血魔法尘
 	Tooltip:
 		'''
-		向他們投擲魔法塵並點燃
-		一種與符牌配合使用、能造成高額傷害的血色魔法塵
-		用這個擊中敵人後，使用符牌引爆！
+		向他们投掷魔法尘并点燃
+		一种与符牌配合使用、能造成高额伤害的血色魔法尘
+		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
 CoalDust: {
-	DisplayName: 墨煤魔法塵
+	DisplayName: 墨煤魔法尘
 	Tooltip:
 		'''
-		向他們灑下魔法塵
-		用這個擊中敵人後，使用符牌引爆！
-		由你收集的寶石鍛造而成！
+		向他们洒下魔法尘
+		用这个击中敌人后，使用符牌引爆！
+		由你收集的宝石锻造而成！
 		'''
 }
 
 FlamePowder: {
-	DisplayName: 焰火魔法塵
+	DisplayName: 焰火魔法尘
 	Tooltip:
 		'''
-		向他們灑下魔法塵
-		一種火焰般的粉塵，當你用符牌引爆時，它會爆炸！
-		用這個擊中敵人後，使用符牌引爆！
+		向他们洒下魔法尘
+		一种火焰般的粉尘，当你用符牌引爆时，它会爆炸！
+		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
 FrostedPowder: {
-	DisplayName: 霜凍魔法塵
+	DisplayName: 霜冻魔法尘
 	Tooltip:
 		'''
-		向他們灑下魔法塵
-		一種塵埃般的冰霜粉塵，當與符牌一同使用時，能夠造成持續的傷害！
-		用這個擊中敵人後，使用符牌引爆！
+		向他们洒下魔法尘
+		一种尘埃般的冰霜粉尘，当与符牌一同使用时，能够造成持续的伤害！
+		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
 GrassDirtPowder: {
-	DisplayName: 塵土魔法粉
+	DisplayName: 尘土魔法粉
 	Tooltip:
 		'''
-		向敵人投擲魔法塵埃！
-		這看似骯臟的塵埃，竟然能造成傷害？！
-		用這個擊中敵人後，使用符牌引爆！
+		向敌人投掷魔法尘埃！
+		这看似肮脏的尘埃，竟然能造成伤害？！
+		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
 LenaSongPowder: {
-	DisplayName: 萊娜之歌魔法塵
+	DisplayName: 莱娜之歌魔法尘
 	Tooltip:
 		'''
-		向他們灑下魔法塵
-		一種音樂魔法塵，與你的符牌一同爆炸！
-		用這個擊中敵人後，使用符牌引爆！
+		向他们洒下魔法尘
+		一种音乐魔法尘，与你的符牌一同爆炸！
+		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
 ShadowFlamePowder: {
-	DisplayName: 暗焰魔法塵
+	DisplayName: 暗焰魔法尘
 	Tooltip:
 		'''
-		向他們灑下魔法塵
-		一種暗影魔法塵，使用你的符牌引爆時會發生爆炸！
-		用這個擊中敵人後，使用符牌引爆！
+		向他们洒下魔法尘
+		一种暗影魔法尘，使用你的符牌引爆时会发生爆炸！
+		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
 TrickPowder: {
-	DisplayName: 詭術魔法塵
+	DisplayName: 诡术魔法尘
 	Tooltip:
 		'''
-		向他們灑下魔法塵
-		閃爍著詭計的魔法塵，造成大量傷害
-		用這個擊中敵人後，使用符牌引爆！
+		向他们洒下魔法尘
+		闪烁著诡计的魔法尘，造成大量伤害
+		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
 Verstidust: {
-	DisplayName: 旋律魔法塵
+	DisplayName: 旋律魔法尘
 	Tooltip:
 		'''
-		向他們灑下魔法塵
-		一種蘊含著寧靜花香的旋律魔法塵
-		用這個擊中敵人後，使用符牌引爆！
+		向他们洒下魔法尘
+		一种蕴含著宁静花香的旋律魔法尘
+		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
 BoneNail: {
-	DisplayName: 骨釘
-	Tooltip: 怒火中燒
+	DisplayName: 骨钉
+	Tooltip: 怒火中烧
 }
 
 WoodenCrossbow: {
 	DisplayName: 木弩
 	Tooltip:
 		'''
-		這把簡約的弩，一次三箭齊發，破空之聲，震撼人心
-		只需輕按，連珠箭矢，如流星劃破夜空，璀璨奪目
+		这把简约的弩，一次三箭齐发，破空之声，震撼人心
+		只需轻按，连珠箭矢，如流星划破夜空，璀璨夺目
 		'''
 }
 
 Hornet: {
-	DisplayName: 火焰蜂鳴
+	DisplayName: 火焰蜂鸣
 	Tooltip:
 		'''
-		風度翩翩，高貴非凡！
-		射出優雅炸彈與彈丸，數量驚人，如星辰般璀璨
-		彈雨盛宴，彰顯力量與尊貴，一場視覺與戰鬥的雙重盛宴
-				無關《空洞騎士》，純屬靈感巧合
+		风度翩翩，高贵非凡！
+		射出优雅炸弹与弹丸，数量惊人，如星辰般璀璨
+		弹雨盛宴，彰显力量与尊贵，一场视觉与战斗的双重盛宴
+				无关《空洞骑士》，纯属灵感巧合
 		'''
 }
 
 MorrowSalface: {
-	DisplayName: 古諭薩爾法斯
-	Tooltip: 先連射三箭，隨後施放巨大秘法箭，古諭之力，破敵於無形
+	DisplayName: 古谕萨尔法斯
+	Tooltip: 先连射三箭，随后施放巨大秘法箭，古谕之力，破敌于无形
 }
 
 SteamedNail: {
-	DisplayName: 蒸氣鐵錐
-	Tooltip: 用力撞他們（我說的就是這個意思）
+	DisplayName: 蒸气铁锥
+	Tooltip: 用力撞他们（我说的就是这个意思）
 }
 
 Teraciz: {
-	DisplayName: 彩繪魔炮
+	DisplayName: 彩绘魔炮
 	Tooltip:
 		'''
-		油漆子彈，現實重繪新畫卷
-		現實塗鴉，一發入魂笑開顏
-		精準打擊，色彩斑斕敵消散
+		油漆子弹，现实重绘新画卷
+		现实涂鸦，一发入魂笑开颜
+		精准打击，色彩斑斓敌消散
 		'''
 }
 
@@ -1244,9 +1244,9 @@ Violar: {
 	DisplayName: 爆音琴
 	Tooltip:
 		'''
-		讓火焰與之共鳴！
-		由星輝磚石與古諭植物熱力鑄成的簡樸武器
-		雖不實用，卻收獲非凡
+		让火焰与之共鸣！
+		由星辉砖石与古谕植物热力铸成的简朴武器
+		虽不实用，却收获非凡
 		'''
 }
 
@@ -1254,84 +1254,84 @@ wowgun: {
 	DisplayName: WOW
 	Tooltip:
 		'''
-		你用木頭造槍，想象它威力無邊
-		我以聲音為彈，助你擊中所願之地
+		你用木头造枪，想象它威力无边
+		我以声音为弹，助你击中所愿之地
 		'''
 }
 
 AlcadizDagger: {
-	DisplayName: 古諭繩系靈符
+	DisplayName: 古谕绳系灵符
 	Tooltip:
 		'''
-		你的召喚物將優先攻擊被集火的敵人
-		召喚物將從你的盾中顯現出來
-		它們將作為臨時召喚物，為你的其他仆從提供支援！
-		當它激活時，它會為你加持，讓你的防禦力提升10點！
+		你的召唤物将优先攻击被集火的敌人
+		召唤物将从你的盾中显现出来
+		它们将作为临时召唤物，为你的其他仆从提供支援！
+		当它激活时，它会为你加持，让你的防御力提升10点！
 		'''
 }
 
 BloodLamp: {
-	DisplayName: 血怒聖燈
+	DisplayName: 血怒圣灯
 	Tooltip:
 		'''
-		攻擊敵人，使你的召喚獸狂怒，標記血紅印記！
-		召喚紅色爆裂晶石，痛擊對手！
-		連帶召喚獸都染上嗜血之徑，戰力飆升！
+		攻击敌人，使你的召唤兽狂怒，标记血红印记！
+		召唤红色爆裂晶石，痛击对手！
+		连带召唤兽都染上嗜血之径，战力飙升！
 		'''
 }
 
 CanOfLeaves: {
-	DisplayName: 葉靈盒
-	Tooltip: 召喚自帶魔法的葉子攻擊敵人
+	DisplayName: 叶灵盒
+	Tooltip: 召唤自带魔法的叶子攻击敌人
 }
 
 StarCall: {
-	DisplayName: 星爆投彈者
+	DisplayName: 星爆投弹者
 	Tooltip:
 		'''
-		召喚物將炸裂成壯觀的星辰碎片！
-		召喚需兩個單位
-		它們將作為臨時召喚物，造成巨大傷害
-		Diari（模組作者製作的遊戲）發布後，這絕對會勾起你的回憶.
+		召唤物将炸裂成壮观的星辰碎片！
+		召唤需两个单位
+		它们将作为临时召唤物，造成巨大伤害
+		Diari（模组作者制作的游戏）发布后，这绝对会勾起你的回忆.
 		'''
 }
 
 StumpBuster: {
-	DisplayName: 樹樁破擊者
-	Tooltip: 用樹樁之力，粉碎一切！
+	DisplayName: 树桩破击者
+	Tooltip: 用树桩之力，粉碎一切！
 }
 
 MorrowWhipI: {
-	DisplayName: 古諭晨昏之鞭
+	DisplayName: 古谕晨昏之鞭
 	Tooltip:
 		'''
-		召喚夥伴，鎖定敵人，傷害加倍
-		攻擊敵人後，使你的防禦降低
-		戰鬥中，小心別死
-		標記敵人，要慎之又慎，生死一念間
+		召唤伙伴，锁定敌人，伤害加倍
+		攻击敌人后，使你的防御降低
+		战斗中，小心别死
+		标记敌人，要慎之又慎，生死一念间
 		'''
 }
 
 GovheilBlock: {
-	DisplayName: 歌維赫城堡磚塊
+	DisplayName: 歌维赫城堡砖块
 	Tooltip: ""
 }
 
 GardenWrecker: {
 	Tooltip:
 		'''
-		頭骨子彈一旦發射，若不幸擊中，後果不堪設想！
-		沒錯，他們把我心愛的花園破壞得面目全非！我一直都是科研團隊中的一員！
+		头骨子弹一旦发射，若不幸击中，后果不堪设想！
+		没错，他们把我心爱的花园破坏得面目全非！我一直都是科研团队中的一员！
 		'''
 	DisplayName: 翠破焰炮
 }
 
 AlcadizScrap: {
-	DisplayName: 古諭碎片
+	DisplayName: 古谕碎片
 	Tooltip:
 		'''
-		古諭碎片，頂級材料之魂
-		蘊含三相之力，握此碎片，即握傳奇
+		古谕碎片，顶级材料之魂
+		蕴含三相之力，握此碎片，即握传奇
 		'''
 }
 
@@ -1339,14 +1339,14 @@ BurningAngel: {
 	DisplayName: 烈焰天使
 	Tooltip:
 		'''
-		斧雨連天，觸地轟鳴
-		風向隨心，連擊加速
-		重金鑄斧，力撼千鈞
+		斧雨连天，触地轰鸣
+		风向随心，连击加速
+		重金铸斧，力撼千钧
 		'''
 }
 
 GovheilBoreI: {
-	DisplayName: 歌維赫聖像
+	DisplayName: 歌维赫圣像
 	Tooltip: ""
 }
 
@@ -1361,12 +1361,12 @@ MasistRI: {
 }
 
 VheilCurtainLI: {
-	DisplayName: 維爾拉汀簾幕左
+	DisplayName: 维尔拉汀帘幕左
 	Tooltip: ""
 }
 
 VheilCurtainRI: {
-	DisplayName: 維爾拉汀簾幕右
+	DisplayName: 维尔拉汀帘幕右
 	Tooltip: ""
 }
 
@@ -1382,180 +1382,180 @@ ZebiI: {
 
 ShrineLifeCI: {
 	Tooltip: ""
-	DisplayName: 生命水晶聖壇
+	DisplayName: 生命水晶圣坛
 }
 
 Curlistine: {
-	DisplayName: 星河鎖願·夜語劍
+	DisplayName: 星河锁愿·夜语剑
 	Tooltip:
 		'''
-		唯有敵影臨近，星辰漩渦始動，鎖劍如流星雨傾瀉而下，精準無遺.
-		維爾利亞之願，化作守護之光，於你身畔綻放，賜予無盡勇氣與希望.
+		唯有敌影临近，星辰漩涡始动，锁剑如流星雨倾泻而下，精准无遗.
+		维尔利亚之愿，化作守护之光，于你身畔绽放，赐予无尽勇气与希望.
 		'''
 }
 
 AlcadizPowder: {
-	DisplayName: 古諭魔法塵
+	DisplayName: 古谕魔法尘
 	Tooltip:
 		'''
-		向他們灑下魔法塵
-		這是一種猶如火花般爆炸的魔法塵，能造成巨大的傷害！
-		它源自於古諭中隕落的遺跡……
+		向他们洒下魔法尘
+		这是一种犹如火花般爆炸的魔法尘，能造成巨大的伤害！
+		它源自于古谕中陨落的遗迹……
 		'''
 }
 
 VerliaBossBag: {
-	DisplayName: 寶藏袋（薇莉婭）
+	DisplayName: 宝藏袋（薇莉娅）
 	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 }
 
 VerliaHat: {
 	Tooltip:
 		'''
-		非常時髦！
+		非常时髦！
 		+50最大生命值！
 		+100最大魔力值！
 		我就知道你想戴上它...
 		'''
-	DisplayName: 薇莉婭的魔法帽
+	DisplayName: 薇莉娅的魔法帽
 }
 
 VerliaBroochA: {
 	Tooltip:
 		'''
-		愛你呦~
-		攻擊敵人時有概率釋放強力傷害雪花！
+		爱你呦~
+		攻击敌人时有概率释放强力伤害雪花！
 		+50最大魔力值！
-		+5防禦！
+		+5防御！
 		'''
-	DisplayName: 薇莉婭的蘊魔飾符
+	DisplayName: 薇莉娅的蕴魔饰符
 }
 
 SwordsOfRevengence: {
 	Tooltip:
 		'''
-		我心永恒，愛意不滅！
-		召喚一把卡裏斯汀之劍，喚醒薇莉亞小劍的生命力！
-		僅在敵人近身時激活
-		激發薇莉亞胸針效果！
-		（魔力提升50，防禦加5，擊中時有密集雪花！）
+		我心永恒，爱意不灭！
+		召唤一把卡里斯汀之剑，唤醒薇莉亚小剑的生命力！
+		仅在敌人近身时激活
+		激发薇莉亚胸针效果！
+		（魔力提升50，防御加5，击中时有密集雪花！）
 		'''
-	DisplayName: 復仇之劍
+	DisplayName: 复仇之剑
 }
 
 HarmonicBlasphemy: {
-	DisplayName: 和鳴褻神
+	DisplayName: 和鸣亵神
 	Tooltip:
 		'''
-		愛意滿滿，宇宙回響！
-		月光炮強，威力無雙！
-		薇莉亞贈，小月為彈，
-		音樂之力，響徹雲霄.
+		爱意满满，宇宙回响！
+		月光炮强，威力无双！
+		薇莉亚赠，小月为弹，
+		音乐之力，响彻云霄.
 		'''
 }
 
 SupernovaSitar: {
-	DisplayName: 超星閃弦
+	DisplayName: 超星闪弦
 	Tooltip:
 		'''
-		愛意濃濃
-		月與星，薇莉亞之力
-		專屬禮物，為你定製
+		爱意浓浓
+		月与星，薇莉亚之力
+		专属礼物，为你定制
 		'''
 }
 
 Parendine: {
 	DisplayName: 霜寒鞭刃
-	Tooltip: 霜凍鞭擊！
+	Tooltip: 霜冻鞭击！
 }
 
 AuroranSeeker: {
 	Tooltip:
 		'''
-		這是一本超能魔法書，施展時
-		召喚出的書冊對敵人釋放七種法術，花樣繁多！
+		这是一本超能魔法书，施展时
+		召唤出的书册对敌人释放七种法术，花样繁多！
 		'''
-	DisplayName: 光淵覓法者
+	DisplayName: 光渊觅法者
 }
 
 GovheilMask: {
-	DisplayName: 歌維赫面具
+	DisplayName: 歌维赫面具
 	Tooltip:
 		'''
-		+8%魔法與召喚傷害！
+		+8%魔法与召唤伤害！
 		+10最大魔力值
-		+12%暴擊率
-		那朵小紅花能提升你的印象分哦
+		+12%暴击率
+		那朵小红花能提升你的印象分哦
 		'''
 }
 
 GovheilHelmet: {
 	Tooltip:
 		'''
-		+12%遠程與近戰傷害！
-		允許自動揮舞
-		+10%暴擊率
-		你想要變酷嗎？
+		+12%远程与近战伤害！
+		允许自动挥舞
+		+10%暴击率
+		你想要变酷吗？
 		'''
-	DisplayName: 歌維赫頭盔
+	DisplayName: 歌维赫头盔
 }
 
 GovheilChainplate: {
 	Tooltip:
 		'''
-		+12%遠程與近戰傷害！
+		+12%远程与近战伤害！
 		+50最大生命值
-		獲得魔法箭袋效果！
+		获得魔法箭袋效果！
 		'''
-	DisplayName: 歌維赫鏈甲
+	DisplayName: 歌维赫链甲
 }
 
 GovheilBreastplate: {
 	Tooltip:
 		'''
-		6%魔法與召喚傷害！
+		6%魔法与召唤伤害！
 		+50最大魔力值
 		+10最大生命值
-		+1仆從欄
+		+1仆从栏
 		'''
-	DisplayName: 歌維赫胸甲
+	DisplayName: 歌维赫胸甲
 }
 
 GovheilThighs: {
-	DisplayName: 歌維赫護腿
+	DisplayName: 歌维赫护腿
 	Tooltip:
 		'''
-		+7%移動速度
+		+7%移动速度
 		+10最大生命值
-		+5%傷害
+		+5%伤害
 		+15盔甲穿透
-		超豐滿！
+		超丰满！
 		'''
 }
 
 XexterianLeggings: {
-	Tooltip: +5%傷害
-	DisplayName: 熔鎏金護腿
+	Tooltip: +5%伤害
+	DisplayName: 熔鎏金护腿
 }
 
 XexterianHat: {
-	DisplayName: 熔鎏金寬帽
+	DisplayName: 熔鎏金宽帽
 	Tooltip:
 		'''
-		+5%傷害
+		+5%伤害
 		+20最大生命值
-		你覺得是這個好還是禁戒套好？
+		你觉得是这个好还是禁戒套好？
 		'''
 }
 
 XexterianHeatplate: {
-	DisplayName: 熔鎏金熾甲
+	DisplayName: 熔鎏金炽甲
 	Tooltip:
 		'''
 		+10盔甲穿透
 		+20最大生命值
-		+6%傷害
-		+5%暴擊率
+		+6%伤害
+		+5%暴击率
 		'''
 }
 
@@ -1563,174 +1563,174 @@ DaediaThighs: {
 	Tooltip:
 		'''
 		+40最大生命值
-		+30%移動速度
+		+30%移动速度
 		像一名花之女神般行走！
 		'''
-	DisplayName: 黛蒂亞護腿
+	DisplayName: 黛蒂亚护腿
 }
 
 DaediaMask: {
 	Tooltip:
 		'''
 		+65最大生命值
-		神靈配光環~
+		神灵配光环~
 		'''
-	DisplayName: 黛蒂亞面具
+	DisplayName: 黛蒂亚面具
 }
 
 DaediaBreastplate: {
 	Tooltip:
 		'''
 		+60最大生命值
-		+2仆從欄
+		+2仆从栏
 		'''
-	DisplayName: 黛蒂亞胸甲
+	DisplayName: 黛蒂亚胸甲
 }
 
 PotionOfLifeWand: {
-	DisplayName: 生命藥劑魔杖
-	Tooltip: 召喚一瓶甜甜的藥劑靈，偶爾會掉下紅心！
+	DisplayName: 生命药剂魔杖
+	Tooltip: 召唤一瓶甜甜的药剂灵，偶尔会掉下红心！
 }
 
 PotionOfManaWand: {
-	Tooltip: 召喚一瓶甜甜的藥劑靈，偶爾會掉下魔力星星！
-	DisplayName: 魔力藥劑魔杖
+	Tooltip: 召唤一瓶甜甜的药剂灵，偶尔会掉下魔力星星！
+	DisplayName: 魔力药剂魔杖
 }
 
 Ebistar: {
-	DisplayName: 星河破曉
+	DisplayName: 星河破晓
 	Tooltip:
 		'''
-		這絕非你所願的結局，卻是一場星辰箭雨的華麗演出
-		無數旋轉的星箭劃破夜空，如同銀河傾瀉，將夢想與現實交織成最璀璨的篇章
+		这绝非你所愿的结局，却是一场星辰箭雨的华丽演出
+		无数旋转的星箭划破夜空，如同银河倾泻，将梦想与现实交织成最璀璨的篇章
 		'''
 }
 
 Hearstspire: {
-	DisplayName: 心之靈塔
-	Tooltip: 夢縈愛神，黛蒂亞！
+	DisplayName: 心之灵塔
+	Tooltip: 梦萦爱神，黛蒂亚！
 }
 
 Pearlinator: {
-	DisplayName: 愛之焰
+	DisplayName: 爱之焰
 	Tooltip:
 		'''
-		夢中的愛神，黛蒂亞！
-		這是愛與熱情的火焰，美麗而熾烈
+		梦中的爱神，黛蒂亚！
+		这是爱与热情的火焰，美丽而炽烈
 		'''
 }
 
 MerchantCrossbow: {
-	DisplayName: 商賈之弩
+	DisplayName: 商贾之弩
 	Tooltip:
 		'''
-		誰料商賈亦武行，售賣兵器顯神通，跨界經營展宏圖
-		手持弩弓顯威風，商道江湖兩相宜，剛柔並濟顯英姿
-		笑談間，慷慨贈弩，商海浮沈皆從容，豪情灑脫笑江湖
+		谁料商贾亦武行，售卖兵器显神通，跨界经营展宏图
+		手持弩弓显威风，商道江湖两相宜，刚柔并济显英姿
+		笑谈间，慷慨赠弩，商海浮沉皆从容，豪情洒脱笑江湖
 		'''
 }
 
 LeadCrossbow: {
-	Tooltip: 輕握簡弩，蓄力傾瀉箭雨，於戰場織就一曲鋼鐵與勇氣的頌歌.
-	DisplayName: 鉛弩
+	Tooltip: 轻握简弩，蓄力倾泻箭雨，于战场织就一曲钢铁与勇气的颂歌.
+	DisplayName: 铅弩
 }
 
 IronCrossbow: {
-	Tooltip: 簡約之弩，蓄力一按，化靜為動，傾瀉無盡箭矢，編織成夜空中最致命的流星雨.
-	DisplayName: 鐵弩
+	Tooltip: 简约之弩，蓄力一按，化静为动，倾泻无尽箭矢，编织成夜空中最致命的流星雨.
+	DisplayName: 铁弩
 }
 
 DungeonCrossbow: {
 	Tooltip:
 		'''
-		哦，真有點陰森...
-		一把簡單的弩弓，蓄力一按，射出弩箭
-		擊中目標，骨骼顯現，驚異無比
+		哦，真有点阴森...
+		一把简单的弩弓，蓄力一按，射出弩箭
+		击中目标，骨骼显现，惊异无比
 		'''
-	DisplayName: 骨織弩
+	DisplayName: 骨织弩
 }
 
 GoldCrossbow: {
-	DisplayName: 黃金弩
+	DisplayName: 黄金弩
 	Tooltip:
 		'''
-		這柄弩，簡約設計中蘊含著連續射擊的力量，只需蓄力一按，箭矢如雨傾瀉而出
-		它更鑲嵌了紅寶石箭頭，每一次發射，都是瑰麗與力量的交織，讓對手在驚艷中敗退！
+		这柄弩，简约设计中蕴含著连续射击的力量，只需蓄力一按，箭矢如雨倾泻而出
+		它更镶嵌了红宝石箭头，每一次发射，都是瑰丽与力量的交织，让对手在惊艳中败退！
 		'''
 }
 
 PlatinumCrossbow: {
-	DisplayName: 鉑金弩
+	DisplayName: 铂金弩
 	Tooltip:
 		'''
-		尋常之弩，連珠射矢破長空
-		紅寶石箭，璀璨光芒映血紅
+		寻常之弩，连珠射矢破长空
+		红宝石箭，璀璨光芒映血红
 		'''
 }
 
 SilverCrossbow: {
-	DisplayName: 銀弩
+	DisplayName: 银弩
 	Tooltip:
 		'''
-		尋常之弩，連珠射矢破長空
-		藍寶石箭藏於簡易之弩，射出的瞬間，夜空劃過深邃的光芒
+		寻常之弩，连珠射矢破长空
+		蓝宝石箭藏于简易之弩，射出的瞬间，夜空划过深邃的光芒
 		'''
 }
 
 TungstenCrossbow: {
-	DisplayName: 鎢鋼弩
+	DisplayName: 钨钢弩
 	Tooltip:
 		'''
-		這把樸素的弩，只需輕按，便能連發箭矢，穿梭於風中
-		內藏藍寶石箭，光芒四射，於暗夜中點亮一抹璀璨
+		这把朴素的弩，只需轻按，便能连发箭矢，穿梭于风中
+		内藏蓝宝石箭，光芒四射，于暗夜中点亮一抹璀璨
 		'''
 }
 
 MorrowedCrossbow: {
-	DisplayName: 古諭之弩
+	DisplayName: 古谕之弩
 	Tooltip:
 		'''
-		狙擊之弩，連珠發矢疾如風
-		古諭蘇醒，心中燃起傳說之火！
+		狙击之弩，连珠发矢疾如风
+		古谕苏醒，心中燃起传说之火！
 		'''
 }
 
 DustedSilk: {
-	DisplayName: 落塵絲綢
+	DisplayName: 落尘丝绸
 	Tooltip:
 		'''
-		從蜘蛛收集來的特別材料
-		用於製作各種織物與繩子類物品！
+		从蜘蛛收集来的特别材料
+		用于制作各种织物与绳子类物品！
 		'''
 }
 
 SpiderillaCrossbow: {
-	DisplayName: 蛛靈之弩
+	DisplayName: 蛛灵之弩
 	Tooltip:
 		'''
-		狙型弩，連發速矢，穿梭如風，破敵無聲息
-		奇技突現，蛛卵四散，生命之舞，自然之謎
-		恐蛛者慎，此弩非彼，挑戰心魔，勇者無懼
+		狙型弩，连发速矢，穿梭如风，破敌无声息
+		奇技突现，蛛卵四散，生命之舞，自然之谜
+		恐蛛者慎，此弩非彼，挑战心魔，勇者无惧
 		'''
 }
 
 DesertCrossbow: {
 	Tooltip:
 		'''
-		霰彈弩，弩箭紛飛，四散如雨
-		蓄力一按，風暴射擊，力量與美
-		比風迅疾，傳說中的速度，無人能及
+		霰弹弩，弩箭纷飞，四散如雨
+		蓄力一按，风暴射击，力量与美
+		比风迅疾，传说中的速度，无人能及
 		'''
-	DisplayName: 旋風沙弩
+	DisplayName: 旋风沙弩
 }
 
 FrostyCrossbow: {
-	DisplayName: 極光霜弩
+	DisplayName: 极光霜弩
 	Tooltip:
 		'''
-		這把霰彈弩，如同冬神的怒吼，向四周撒播冰霜的種子！
-		蓄力一按，召喚一場寒冰風暴，將敵人凍結在時間的裂縫中！
-		讓你成為冰雪世界的主宰，讓每一發箭矢都成為冰封的使者！
+		这把霰弹弩，如同冬神的怒吼，向四周撒播冰霜的种子！
+		蓄力一按，召唤一场寒冰风暴，将敌人冻结在时间的裂缝中！
+		让你成为冰雪世界的主宰，让每一发箭矢都成为冰封的使者！
 		'''
 }
 
@@ -1738,19 +1738,19 @@ CoralCrossbow: {
 	DisplayName: 夜珊瑚弩
 	Tooltip:
 		'''
-		這是一把專為獵人打造的速度型弩弓
-		蓄力一按，射出疾風之箭！
-		絕對的力量，憤怒的咆哮，混亂的熵，終章的序曲！
+		这是一把专为猎人打造的速度型弩弓
+		蓄力一按，射出疾风之箭！
+		绝对的力量，愤怒的咆哮，混乱的熵，终章的序曲！
 		'''
 }
 
 MoltenCrossbow: {
-	DisplayName: 熾焰之弩
+	DisplayName: 炽焰之弩
 	Tooltip:
 		'''
-		獵者之弩，速如疾風，專為狩獵而生
-		持而射之，箭矢連綿，如夜空流星雨
-		世間紛擾，吾欲觀其燎原，以火照天，映人心之暗
+		猎者之弩，速如疾风，专为狩猎而生
+		持而射之，箭矢连绵，如夜空流星雨
+		世间纷扰，吾欲观其燎原，以火照天，映人心之暗
 		'''
 }
 
@@ -1758,9 +1758,9 @@ FabiliaCrossbow: {
 	DisplayName: 赤炎翔隼
 	Tooltip:
 		'''
-		這款霰彈弩炮，猶如狂風中的暴雨，能向四面八方噴射箭矢！
-		蓄力一按，釋放你的火力風暴！
-		用這把威力十足的赤炎翔隼，讓敵人在爆炸中灰飛煙滅，享受勝利的喜悅吧！
+		这款霰弹弩炮，犹如狂风中的暴雨，能向四面八方喷射箭矢！
+		蓄力一按，释放你的火力风暴！
+		用这把威力十足的赤炎翔隼，让敌人在爆炸中灰飞烟灭，享受胜利的喜悦吧！
 		'''
 }
 
@@ -1768,203 +1768,203 @@ JadeJungleCrossbow: {
 	DisplayName: 翠林幽弩
 	Tooltip:
 		'''
-		狙擊之弩，蓄力一瞬，釋放疾風箭雨，穿梭於戰場的縫隙
-		箭矢尾隨綠葉，輕舞飛揚，為死寂的戰鬥添上一抹生機的翠綠
-		偶爾，草香四溢，箭尖輕觸，自然的甘甜在緊張的戰鬥中悄然綻放
+		狙击之弩，蓄力一瞬，释放疾风箭雨，穿梭于战场的缝隙
+		箭矢尾随绿叶，轻舞飞扬，为死寂的战斗添上一抹生机的翠绿
+		偶尔，草香四溢，箭尖轻触，自然的甘甜在紧张的战斗中悄然绽放
 		'''
 }
 
 Heatspot: {
-	DisplayName: 灼熱日符
+	DisplayName: 灼热日符
 	Tooltip:
 		'''
-		燃起來吧！
-		+4%魔法傷害 :P
+		燃起来吧！
+		+4%魔法伤害 :P
 		'''
 }
 
 Valtotude: {
-	DisplayName: 風漩儀
+	DisplayName: 风漩仪
 	Tooltip:
 		'''
-		生成漩渦，鎖敵風暴中
-		群敵一處，召喚攻，全中！
+		生成漩涡，锁敌风暴中
+		群敌一处，召唤攻，全中！
 		'''
 }
 
 DesertWhip: {
-	Tooltip: 小巧的鞭子，卻有無盡的沙漠力量
+	Tooltip: 小巧的鞭子，却有无尽的沙漠力量
 	DisplayName: 沙漠之鞭
 }
 
 Vinger: {
-	Tooltip: 我不記得哥布林們使用過這個...
-	DisplayName: 暗焰長鞭刃
+	Tooltip: 我不记得哥布林们使用过这个...
+	DisplayName: 暗焰长鞭刃
 }
 
 CharmofRot: {
 	Tooltip:
 		'''
-		黏在蛛網上，與其一同腐朽
-		+8%召喚傷害
+		黏在蛛网上，与其一同腐朽
+		+8%召唤伤害
 		'''
-	DisplayName: 腐朽護符
+	DisplayName: 腐朽护符
 }
 
 Vheilatine: {
-	Tooltip: 源自歌瑟梵信徒中技藝絕倫的大師之手，匠心獨運，猶如夜空中最璀璨的星辰，每一寸都凝聚著對美的極致追求與對傳統的深沈敬仰.
-	DisplayName: 維爾拉汀
+	Tooltip: 源自歌瑟梵信徒中技艺绝伦的大师之手，匠心独运，犹如夜空中最璀璨的星辰，每一寸都凝聚著对美的极致追求与对传统的深沉敬仰.
+	DisplayName: 维尔拉汀
 }
 
 AcidStaketers: {
 	DisplayName: 酸液滑行靴
-	Tooltip: 使裝備者跑得飛快！
+	Tooltip: 使装备者跑得飞快！
 }
 
 AquaCrystal: {
-	DisplayName: 水能晶體
-	Tooltip: +15%遠程暴擊率！
+	DisplayName: 水能晶体
+	Tooltip: +15%远程暴击率！
 }
 
 AquaticHealingNecklace: {
 	DisplayName: 水能治愈符
 	Tooltip:
 		'''
-		小幅增加生命恢復
-		+10%移動速度
+		小幅增加生命恢复
+		+10%移动速度
 		'''
 }
 
 ArncharMagazine: {
-	DisplayName: 赤鐵彈匣
-	Tooltip: +10%遠程暴擊率
+	DisplayName: 赤铁弹匣
+	Tooltip: +10%远程暴击率
 }
 
 ClamsPearl: {
 	DisplayName: 古蚌明珠
-	Tooltip: 發出微弱光芒 :)
+	Tooltip: 发出微弱光芒 :)
 }
 
 CloudSkaters: {
-	DisplayName: 浮雲靴
-	Tooltip: 減弱重力，暢行天際！
+	DisplayName: 浮云靴
+	Tooltip: 减弱重力，畅行天际！
 }
 
 CoralBand: {
-	DisplayName: 珊瑚手環
-	Tooltip: +5%近戰傷害與暴擊率！
+	DisplayName: 珊瑚手环
+	Tooltip: +5%近战伤害与暴击率！
 }
 
 GintzlMetal: {
-	DisplayName: 玄鐵
-	Tooltip: 從歌瑟梵的城堡中偷出的一塊金屬，經歲月消蝕後成了這副摸樣
+	DisplayName: 玄铁
+	Tooltip: 从歌瑟梵的城堡中偷出的一块金属，经岁月消蚀后成了这副摸样
 }
 
 EaglesGrace: {
-	DisplayName: 雄鷹之風采
-	Tooltip: 古諭的神聖窩巢之中，一只雄鷹將其雙翼賜予你
+	DisplayName: 雄鹰之风采
+	Tooltip: 古谕的神圣窝巢之中，一只雄鹰将其双翼赐予你
 }
 
 GhostExcalibur: {
-	DisplayName: 魂魄聖劍
-	Tooltip: 召喚一把劍為你作戰！
+	DisplayName: 魂魄圣剑
+	Tooltip: 召唤一把剑为你作战！
 }
 
 LeatherGlove: {
-	DisplayName: 皮革護手
+	DisplayName: 皮革护手
 	Tooltip:
 		'''
-		+10%投擲傷害
-		增加投擲速度
+		+10%投掷伤害
+		增加投掷速度
 		'''
 }
 
 LunarBand: {
-	DisplayName: 月之手環
+	DisplayName: 月之手环
 	Tooltip:
 		'''
-		+8%暴擊率
-		在夜晚，增加12%傷害並發出光芒
+		+8%暴击率
+		在夜晚，增加12%伤害并发出光芒
 		'''
 }
 
 OceanScroll: {
-	DisplayName: 海之卷軸
-	Tooltip: +10%魔法暴擊率
+	DisplayName: 海之卷轴
+	Tooltip: +10%魔法暴击率
 }
 
 OceansTrinket: {
 	DisplayName: 海之奇珍
-	Tooltip: +1仆從上限，+8%召喚傷害！
+	Tooltip: +1仆从上限，+8%召唤伤害！
 }
 
 RuneOfCorsage: {
 	DisplayName: 碧藤符文
-	Tooltip: 有幾率給予「超級回復」效果.於該效果期間被擊中將觸發大範圍中毒
+	Tooltip: 有几率给予“超级回复”效果.于该效果期间被击中将触发大范围中毒
 }
 
 RuneOfDetonation: {
 	DisplayName: 爆裂符文
-	Tooltip: 擊中敵人有幾率引發爆炸並造成雙倍傷害
+	Tooltip: 击中敌人有几率引发爆炸并造成双倍伤害
 }
 
 RuneOfReality: {
-	DisplayName: 虛實靈符
-	Tooltip: 攻擊敵人時有幾率發射追蹤魔法彈，其擊中會掉落星星
+	DisplayName: 虚实灵符
+	Tooltip: 攻击敌人时有几率发射追踪魔法弹，其击中会掉落星星
 }
 
 RuneOfShade: {
-	DisplayName: 暗靈符文
+	DisplayName: 暗灵符文
 	Tooltip: +20最大魔力值
 }
 
 RuneOfStealth: {
-	DisplayName: 潛伏符文
-	Tooltip: 隨時間積累增加傷害，直到受傷.增益積累到最大時你的身體會發出紅光
+	DisplayName: 潜伏符文
+	Tooltip: 随时间积累增加伤害，直到受伤.增益积累到最大时你的身体会发出红光
 }
 
 ShadeCharm: {
 	DisplayName: 魅夜之石
-	Tooltip: 魅夜之石，夜中明燈，魔力減耗，照亮前行.
+	Tooltip: 魅夜之石，夜中明灯，魔力减耗，照亮前行.
 }
 
 ShadeScarf: {
 	DisplayName: 影遁披巾
 	Tooltip:
 		'''
-		增加移動速度
-		+2%傷害
-		具有潛遁披巾的所有效果，並且增加了+10最大生命值與+10%暴擊率！
+		增加移动速度
+		+2%伤害
+		具有潜遁披巾的所有效果，并且增加了+10最大生命值与+10%暴击率！
 		增加生命再生！
-		減少沖刺冷卻！
+		减少冲刺冷却！
 		'''
 }
 
 ShellSheid: {
-	DisplayName: 貝殼護盾
-	Tooltip: 這很殼以！
+	DisplayName: 贝壳护盾
+	Tooltip: 这很壳以！
 }
 
 SoulStrideres: {
-	DisplayName: 翔靈靴
+	DisplayName: 翔灵靴
 	Tooltip:
 		'''
-		增加移動速度與飛行時間！
-		獲得火箭靴飛行！
-		我不想讓我的靈魂被做成靴子 :(
+		增加移动速度与飞行时间！
+		获得火箭靴飞行！
+		我不想让我的灵魂被做成靴子 :(
 		'''
 }
 
 SpiritPendent: {
-	DisplayName: 靈光墜飾
+	DisplayName: 灵光坠饰
 	Tooltip: 提供照明
 }
 
 StarflareBand: {
-	DisplayName: 星輝手環
+	DisplayName: 星辉手环
 	Tooltip:
 		'''
-		+10%魔法傷害
+		+10%魔法伤害
 		增加魔力再生速度！
 		降低魔力消耗 :o
 		'''
@@ -1972,11 +1972,11 @@ StarflareBand: {
 
 SunGlyph: {
 	DisplayName: 耀日符印
-	Tooltip: 在白天大幅提升所有傷害
+	Tooltip: 在白天大幅提升所有伤害
 }
 
 WoodShield: {
-	DisplayName: 木護盾
+	DisplayName: 木护盾
 	Tooltip: 更好的楯
 }
 
@@ -1986,25 +1986,25 @@ AcidBody: {
 }
 
 AcidHelm: {
-	DisplayName: 瘴煞戰盔
+	DisplayName: 瘴煞战盔
 	Tooltip:
 		'''
-		+5%近戰傷害
-		+1%近戰暴擊率
+		+5%近战伤害
+		+1%近战暴击率
 		'''
 }
 
 AcidLegs: {
-	DisplayName: 瘴煞護腿
-	Tooltip: 小幅提升移動速度 :P
+	DisplayName: 瘴煞护腿
+	Tooltip: 小幅提升移动速度 :P
 }
 
 AcidMask: {
 	DisplayName: 瘴煞面具
 	Tooltip:
 		'''
-		+5%遠程傷害
-		+8%遠程暴擊率
+		+5%远程伤害
+		+8%远程暴击率
 		'''
 }
 
@@ -2012,8 +2012,8 @@ AcidRobe: {
 	DisplayName: 瘴煞法袍
 	Tooltip:
 		'''
-		+5%魔法傷害
-		+6%魔法暴擊率
+		+5%魔法伤害
+		+6%魔法暴击率
 		'''
 }
 
@@ -2021,126 +2021,126 @@ AcidVisor: {
 	DisplayName: 瘴煞面罩
 	Tooltip:
 		'''
-		+6%投擲傷害
-		+7%投擲暴擊率
+		+6%投掷伤害
+		+7%投掷暴击率
 		'''
 }
 
 AstrasilkBody: {
-	DisplayName: 星絲織篷
-	Tooltip: +15%魔法暴擊率
+	DisplayName: 星丝织篷
+	Tooltip: +15%魔法暴击率
 }
 
 AstrasilkHead: {
-	DisplayName: 星絲織帽
+	DisplayName: 星丝织帽
 	Tooltip: 小幅提升魔力再生
 }
 
 AstrasilkLegs: {
-	DisplayName: 星絲織脛
-	Tooltip: +20%移動速度
+	DisplayName: 星丝织胫
+	Tooltip: +20%移动速度
 }
 
 ElagentBody: {
 	DisplayName: 典雅大衣
-	Tooltip: +1仆從欄
+	Tooltip: +1仆从栏
 }
 
 ElagentHead: {
-	DisplayName: 典雅頭冠
-	Tooltip: +20%仆從傷害
+	DisplayName: 典雅头冠
+	Tooltip: +20%仆从伤害
 }
 
 ElagentLegs: {
-	DisplayName: 典雅長靴
+	DisplayName: 典雅长靴
 	Tooltip:
 		'''
-		+10%召喚傷害
-		+2仆從欄
-		增加移動速度
+		+10%召唤伤害
+		+2仆从栏
+		增加移动速度
 		'''
 }
 
 ForestCoreBody: {
 	DisplayName: 森之核心胸甲
-	Tooltip: +2%暴擊率
+	Tooltip: +2%暴击率
 }
 
 ForestCoreHead: {
 	DisplayName: 森之核心面具
-	Tooltip: +2%傷害
+	Tooltip: +2%伤害
 }
 
 ForestCoreLegs: {
-	DisplayName: 森之核心護腿
-	Tooltip: +10%移動速度
+	DisplayName: 森之核心护腿
+	Tooltip: +10%移动速度
 }
 
 HeavyMetalBody: {
-	DisplayName: 玄鐵重甲
-	Tooltip: 沒錯，它只提供防禦
+	DisplayName: 玄铁重甲
+	Tooltip: 没错，它只提供防御
 }
 
 HeavyMetalHead: {
-	DisplayName: 玄鐵重盔
-	Tooltip: 相信我，這真的是個召喚套裝
+	DisplayName: 玄铁重盔
+	Tooltip: 相信我，这真的是个召唤套装
 }
 
 HeavyMetalLegs: {
-	DisplayName: 玄鐵重脛
-	Tooltip: +5%移動速度
+	DisplayName: 玄铁重胫
+	Tooltip: +5%移动速度
 }
 
 LeatherBody: {
 	DisplayName: 皮革甲
-	Tooltip: +4%遠程暴擊率
+	Tooltip: +4%远程暴击率
 }
 
 LeatherHead: {
 	DisplayName: 皮革帽
 	Tooltip:
 		'''
-		+4%遠程暴擊率
-		+10%遠程傷害
+		+4%远程暴击率
+		+10%远程伤害
 		'''
 }
 
 LeatherLegs: {
-	DisplayName: 皮革護腿
+	DisplayName: 皮革护腿
 	Tooltip:
 		'''
-		+4%遠程暴擊率
-		+10%移動速度
+		+4%远程暴击率
+		+10%移动速度
 		'''
 }
 
 ShadeWraithBody: {
-	DisplayName: 幽魂影鏈甲
+	DisplayName: 幽魂影链甲
 	Tooltip: +20最大生命值
 }
 
 ShadeWraithHead: {
 	DisplayName: 幽魂影假面
-	Tooltip: +2%傷害，除了投擲
+	Tooltip: +2%伤害，除了投掷
 }
 
 ShadeWraithLegs: {
-	DisplayName: 幽魂影護脛
+	DisplayName: 幽魂影护胫
 	Tooltip: 小幅提升移速
 }
 
 TerricBody: {
-	DisplayName: 恐懼胸甲
+	DisplayName: 恐惧胸甲
 	Tooltip: +40最大生命值
 }
 
 TerricHead: {
-	DisplayName: 恐懼面罩
-	Tooltip: +13%魔法傷害
+	DisplayName: 恐惧面罩
+	Tooltip: +13%魔法伤害
 }
 
 TerricLegs: {
-	DisplayName: 恐懼護腿
+	DisplayName: 恐惧护腿
 	Tooltip: 增加移速！
 }
 
@@ -2150,181 +2150,181 @@ WinterbornBody: {
 }
 
 WinterbornHead: {
-	DisplayName: 寒冬旅鶇面具
+	DisplayName: 寒冬旅鸫面具
 	Tooltip: 增加魔力再生
 }
 
 WinterbornLegs: {
-	DisplayName: 寒冬護腿
-	Tooltip: +10%移動速度
+	DisplayName: 寒冬护腿
+	Tooltip: +10%移动速度
 }
 
 DreadmireBag: {
-	DisplayName: 寶藏袋（絳淵惡巫）
+	DisplayName: 宝藏袋（绦渊恶巫）
 	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 }
 
 EDR: {
 	DisplayName: EDR
-	Tooltip: 按下這個大紅按鈕後果自負...但你心中總有一個聲音在慫恿著你
+	Tooltip: 按下这个大红按钮后果自负...但你心中总有一个声音在怂恿著你
 }
 
 JackoBag: {
-	DisplayName: 寶藏袋（燈籠傑克）
+	DisplayName: 宝藏袋（灯笼杰克）
 	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 }
 
 NestBag: {
-	DisplayName: 寶藏袋（輻射巢穴）
+	DisplayName: 宝藏袋（辐射巢穴）
 	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 }
 
 SingularityBag: {
-	DisplayName: 寶藏袋（破碎奇點）
+	DisplayName: 宝藏袋（破碎奇点）
 	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 }
 
 SunClaw: {
-	DisplayName: 耀日寶石
-	Tooltip: 在耀日祭壇使用它來挑戰歌瑟梵手下的一名退役將領
+	DisplayName: 耀日宝石
+	Tooltip: 在耀日祭坛使用它来挑战歌瑟梵手下的一名退役将领
 }
 
 SunStalkerBag: {
-	DisplayName: 寶藏袋（獵日遊隼）
+	DisplayName: 宝藏袋（猎日游隼）
 	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 }
 
 VoidLantern: {
-	DisplayName: 虛冥提燈
+	DisplayName: 虚冥提灯
 	Tooltip: ""
 }
 
 WanderingEssence: {
-	DisplayName: 漂浪焰華
-	Tooltip: 用於對歌瑟梵表示崇愛的奇異物品
+	DisplayName: 漂浪焰华
+	Tooltip: 用于对歌瑟梵表示崇爱的奇异物品
 }
 
 ArnchaliteBar: {
-	DisplayName: 赤鐵錠
-	Tooltip: 燙手！但它還沒有足夠的歲月積澱來成為熾金
+	DisplayName: 赤铁锭
+	Tooltip: 烫手！但它还没有足够的岁月积淀来成为炽金
 }
 
 ArncharChunk: {
-	DisplayName: 熾燼熔渣
-	Tooltip: 某種更大物體的一小部分
+	DisplayName: 炽烬熔渣
+	Tooltip: 某种更大物体的一小部分
 }
 
 BlankRune: {
 	DisplayName: 空白符文
-	Tooltip: 看起來僅憑它本身發揮不了什麽作用
+	Tooltip: 看起来仅凭它本身发挥不了什么作用
 }
 
 ConvulgingMater: {
-	DisplayName: 擰曲暗質
-	Tooltip: 墮落者均為此物所腐化
+	DisplayName: 拧曲暗质
+	Tooltip: 堕落者均为此物所腐化
 }
 
 DarkEssence: {
-	DisplayName: 暗之精華
-	Tooltip: 純粹的陰影，由極度暗黑的存在喚出
+	DisplayName: 暗之精华
+	Tooltip: 纯粹的阴影，由极度暗黑的存在唤出
 }
 
 DreadFoil: {
-	DisplayName: 恐懼布箔
-	Tooltip: 絳淵惡巫身上的箔質！
+	DisplayName: 恐惧布箔
+	Tooltip: 绦渊恶巫身上的箔质！
 }
 
 EldritchSoul: {
 	DisplayName: 幽古之魂
-	Tooltip: 深淵生物的精華
+	Tooltip: 深渊生物的精华
 }
 
 Ivythorn: {
-	DisplayName: 荊棘常春藤
-	Tooltip: 這就像一種毒藤，它悄無聲息地在生物間蔓延，用它的枝蔓編織出一片綠意，但這份綠意卻藏著劇毒，美麗外表下隱藏著致命的陷阱
+	DisplayName: 荆棘常春藤
+	Tooltip: 这就像一种毒藤，它悄无声息地在生物间蔓延，用它的枝蔓编织出一片绿意，但这份绿意却藏著剧毒，美丽外表下隐藏著致命的陷阱
 }
 
 LostScrap: {
-	DisplayName: 失落廢料
-	Tooltip: 遠古時期尖端科技的殘留物
+	DisplayName: 失落废料
+	Tooltip: 远古时期尖端科技的残留物
 }
 
 SpacialDistortionFragments: {
-	DisplayName: 坍縮殘片
+	DisplayName: 坍缩残片
 	Tooltip:
 		'''
-		這些漆黑的碎片湧動著能量，扭曲著四周的時空...
-		等等，那你是怎麽把它拿在手裏的？？
+		这些漆黑的碎片涌动著能量，扭曲著四周的时空...
+		等等，那你是怎么把它拿在手里的？？
 		'''
 }
 
 ArmorDrive: {
-	DisplayName: 盔甲驅動裝置
-	Tooltip: 打造科技裝甲的核心部件！
+	DisplayName: 盔甲驱动装置
+	Tooltip: 打造科技装甲的核心部件！
 }
 
 BrokenTech: {
-	DisplayName: 破損零件
-	Tooltip: 註入星星點點魔力的零件，正在休眠狀態中.可被重構成更好的物件
+	DisplayName: 破损零件
+	Tooltip: 注入星星点点魔力的零件，正在休眠状态中.可被重构成更好的物件
 }
 
 DriveConstruct: {
-	DisplayName: 構造驅動器
-	Tooltip: 旅者們鮮有耳聞的神奇物件，內涵了舊世界古老機械的精髓
+	DisplayName: 构造驱动器
+	Tooltip: 旅者们鲜有耳闻的神奇物件，内涵了旧世界古老机械的精髓
 }
 
 MetallicOmniSource: {
-	DisplayName: 萬用機械零件
-	Tooltip: 電子工程學的奇跡，從古老遺物到現代能源，可以接通一切！這小小的硬件中也含有魔法能量！
+	DisplayName: 万用机械零件
+	Tooltip: 电子工程学的奇迹，从古老遗物到现代能源，可以接通一切！这小小的硬件中也含有魔法能量！
 }
 
 UnknownCircuitry: {
-	DisplayName: 神秘電路
-	Tooltip: 皇室首都出現後，舊的機械王國陷落，這電路從那時開始幾千年來都在一個被遺忘的角落積灰
+	DisplayName: 神秘电路
+	Tooltip: 皇室首都出现后，旧的机械王国陷落，这电路从那时开始几千年来都在一个被遗忘的角落积灰
 }
 
 TerrorFragments: {
-	DisplayName: 恐懼碎片
+	DisplayName: 恐惧碎片
 	Tooltip: 可怕！
 }
 
 VirulentPlating: {
-	DisplayName: 輻染鍍層
-	Tooltip: 泄露著酸霧與毒素
+	DisplayName: 辐染镀层
+	Tooltip: 泄露著酸雾与毒素
 }
 
 WanderingFlame: {
 	DisplayName: 漂浪火苗
-	Tooltip: 傑克的意誌使其燃燒！
+	Tooltip: 杰克的意志使其燃烧！
 }
 
 WinterbornShard: {
 	DisplayName: 寒冬碎片
-	Tooltip: 凍得堅硬 :P
+	Tooltip: 冻得坚硬 :P
 }
 
 RunicTablel: {
 	DisplayName: 符文工作桌
-	Tooltip: 用它來製作符文吧！
+	Tooltip: 用它来制作符文吧！
 }
 
 AcidicHamacxe: {
-	DisplayName: 酸蝕戰斧
+	DisplayName: 酸蚀战斧
 	Tooltip: ""
 }
 
 AcidicPixaxe: {
-	DisplayName: 酸蝕礦鎬
+	DisplayName: 酸蚀矿镐
 	Tooltip: ""
 }
 
 ArchariliteAxe: {
-	DisplayName: 赤鐵戰斧
+	DisplayName: 赤铁战斧
 	Tooltip: ""
 }
 
 ArcharilitePickaxe: {
-	DisplayName: 赤鐵礦鎬
+	DisplayName: 赤铁矿镐
 	Tooltip: ""
 }
 
@@ -2334,212 +2334,212 @@ DirtAxe: {
 }
 
 DirtHammer: {
-	DisplayName: 泥錘
+	DisplayName: 泥锤
 	Tooltip: ""
 }
 
 DirtPickaxe: {
-	DisplayName: 泥鎬
+	DisplayName: 泥镐
 	Tooltip: ""
 }
 
 Aneuriliac: {
-	DisplayName: 奧尼琉光炮
+	DisplayName: 奥尼琉光炮
 	Tooltip:
 		'''
-		迅速噴射神秘光束，其源不明
-		觀其軌跡，絢爛如流星，威力撼動心弦
+		迅速喷射神秘光束，其源不明
+		观其轨迹，绚烂如流星，威力撼动心弦
 		'''
 }
 
 Astalaiya: {
-	DisplayName: 星辰召喚
-	Tooltip: 召喚一場絢爛的彩色星光風暴！
+	DisplayName: 星辰召唤
+	Tooltip: 召唤一场绚烂的彩色星光风暴！
 }
 
 FungalFlace: {
 	DisplayName: 核花爆破
 	Tooltip:
 		'''
-		這武器，名為核花爆破，看似溫柔的花朵
-		卻能釋放驚人的力量，花開花落，敵人在爆炸中顫抖，世界在芬芳中寧靜
+		这武器，名为核花爆破，看似温柔的花朵
+		却能释放惊人的力量，花开花落，敌人在爆炸中颤抖，世界在芬芳中宁静
 		'''
 }
 
 JellyTome: {
-	DisplayName: 果凍法典
-	Tooltip: 射出果凍沖擊波，樂趣十足！
+	DisplayName: 果冻法典
+	Tooltip: 射出果冻冲击波，乐趣十足！
 }
 
 LeadGauntlets: {
-	DisplayName: 鉛製拳套
-	Tooltip: 發射強力的能量拳！
+	DisplayName: 铅制拳套
+	Tooltip: 发射强力的能量拳！
 }
 
 Pericarditis: {
-	DisplayName: 心脈炎鳴
-	Tooltip: 引導血液魔法，發射一發強力的血色爆破
+	DisplayName: 心脉炎鸣
+	Tooltip: 引导血液魔法，发射一发强力的血色爆破
 }
 
 ShadeHandTome: {
 	DisplayName: 影手秘典
-	Tooltip: 巧笑手，化敵為友的魔力觸碰
+	Tooltip: 巧笑手，化敌为友的魔力触碰
 }
 
 StaffOFlame: {
-	DisplayName: 焰靈杖
-	Tooltip: 召喚萌焰小精靈，伴你左右，溫暖心房，照亮前行
+	DisplayName: 焰灵杖
+	Tooltip: 召唤萌焰小精灵，伴你左右，温暖心房，照亮前行
 }
 
 StaffoftheIrradiaflare: {
-	DisplayName: 輻射酸靈杖
+	DisplayName: 辐射酸灵杖
 	Tooltip:
 		'''
-		汲取酸液之力，釋放強力酸暴，威力非凡，信我，兄弟
-		來源可靠，力量源自深邃，一擊即中，腐蝕敵膽
+		汲取酸液之力，释放强力酸暴，威力非凡，信我，兄弟
+		来源可靠，力量源自深邃，一击即中，腐蚀敌胆
 		'''
 }
 
 StarFlowerStaff: {
 	DisplayName: 星花魔杖
-	Tooltip: 輕揮魔杖，星光匯聚，化作光球飛射，夜幕下的璀璨煙火
+	Tooltip: 轻挥魔杖，星光汇聚，化作光球飞射，夜幕下的璀璨烟火
 }
 
 SunBlastStaff: {
-	DisplayName: 烈陽爆破杖
-	Tooltip: 烈陽一怒，光芒破敵
+	DisplayName: 烈阳爆破杖
+	Tooltip: 烈阳一怒，光芒破敌
 }
 
 TheDeafen: {
-	DisplayName: 震耳蝠嘯
-	Tooltip: 發出蝙蝠的尖叫，震徹夜空！
+	DisplayName: 震耳蝠啸
+	Tooltip: 发出蝙蝠的尖叫，震彻夜空！
 }
 
 TheShrieker: {
-	DisplayName: 尖嘯者
-	Tooltip: 哎呀，刺痛我的耳朵，但那傷害...
+	DisplayName: 尖啸者
+	Tooltip: 哎呀，刺痛我的耳朵，但那伤害...
 }
 
 TomeOfTheSingularity: {
-	DisplayName: 奇點法典
-	Tooltip: 一連串的碎片齊射
+	DisplayName: 奇点法典
+	Tooltip: 一连串的碎片齐射
 }
 
 TorrentialLance: {
-	DisplayName: 湍流之槍
+	DisplayName: 湍流之枪
 	Tooltip:
 		'''
-		用它穿透敵人，所過之處留下泡泡
-		短暫無敵，但沖刺結束時會陷入虛弱
-		穿敵而過，謹慎使用，把握時機
+		用它穿透敌人，所过之处留下泡泡
+		短暂无敌，但冲刺结束时会陷入虚弱
+		穿敌而过，谨慎使用，把握时机
 		'''
 }
 
 VoidsGrasp: {
-	DisplayName: 虛空觸手
-	Tooltip: 召喚虛空之手，輕觸敵人，引笑逗趣
+	DisplayName: 虚空触手
+	Tooltip: 召唤虚空之手，轻触敌人，引笑逗趣
 }
 
 WintersStom: {
-	DisplayName: 冬霜怒擊
-	Tooltip: 每三擊，釋放霜雪爆破，雪花四濺，傷敵無聲
+	DisplayName: 冬霜怒击
+	Tooltip: 每三击，释放霜雪爆破，雪花四溅，伤敌无声
 }
 
 ArchariliteRaysword: {
-	DisplayName: 赤鐵炫光劍
+	DisplayName: 赤铁炫光剑
 	Tooltip:
 		'''
-		發射一波能量
-		赤鐵潛能激發器賜予你力量！
+		发射一波能量
+		赤铁潜能激发器赐予你力量！
 		'''
 }
 
 AssassinsSlash: {
-	DisplayName: 刺殺者之劍
-	Tooltip: 攻擊敵人時，你的武器將逐漸蓄力，待能量滿載，只需右鍵一擊，即可釋放致命一斬！
+	DisplayName: 刺杀者之剑
+	Tooltip: 攻击敌人时，你的武器将逐渐蓄力，待能量满载，只需右键一击，即可释放致命一斩！
 }
 
 CinderBraker: {
-	DisplayName: 熾星裂空劍
-	Tooltip: 斬擊·劍射千軍
+	DisplayName: 炽星裂空剑
+	Tooltip: 斩击·剑射千军
 }
 
 EventHorizon: {
-	DisplayName: 時空臨界
-	Tooltip: 威力驚人，令人驚嘆
+	DisplayName: 时空临界
+	Tooltip: 威力惊人，令人惊叹
 }
 
 FrostBringer: {
-	DisplayName: 霜凍者
-	Tooltip: 距離目標越遠，造成的傷害越低
+	DisplayName: 霜冻者
+	Tooltip: 距离目标越远，造成的伤害越低
 }
 
 IrradiatedGreatBlade: {
-	DisplayName: 輻射巨劍
+	DisplayName: 辐射巨剑
 	Tooltip:
 		'''
-		這把巨劍威力非凡
-		能釋放出腐蝕性的酸性波浪！
+		这把巨剑威力非凡
+		能释放出腐蚀性的酸性波浪！
 		'''
 }
 
 Myocardia: {
-	DisplayName: 心弦轟鳴
+	DisplayName: 心弦轰鸣
 	Tooltip: 哈哈，我就是德古拉！
 }
 
 ScarecrowSaber: {
-	DisplayName: 稻草人軍刀
-	Tooltip: 三柄魔法軍刀，交織成炫目的光影，讓敵人望而生畏，不戰而退！
+	DisplayName: 稻草人军刀
+	Tooltip: 三柄魔法军刀，交织成炫目的光影，让敌人望而生畏，不战而退！
 }
 
 SkyrageShasher: {
 	DisplayName: 天怒破空刃
-	Tooltip: 揮舞即風暴，斬擊裂長空，每一擊皆天怒，顯赫無匹.
+	Tooltip: 挥舞即风暴，斩击裂长空，每一击皆天怒，显赫无匹.
 }
 
 GladiatorSpear: {
-	DisplayName: 角鬥士之矛
-	Tooltip: 撕裂勁敵骨鎧，破甲直擊心脈，於競技之巔，彰顯無上鋒芒
+	DisplayName: 角斗士之矛
+	Tooltip: 撕裂劲敌骨铠，破甲直击心脉，于竞技之巅，彰显无上锋芒
 }
 
 Infernis: {
-	DisplayName: 地獄
+	DisplayName: 地狱
 	Tooltip:
 		'''
-		它，如同流星劃破夜空，一支熾烈的長矛，承載著毀滅的使命.
-		它在軌跡的終點綻放，化作一場炫目的火焰風暴，將一切吞噬於烈焰之中.
+		它，如同流星划破夜空，一支炽烈的长矛，承载著毁灭的使命.
+		它在轨迹的终点绽放，化作一场炫目的火焰风暴，将一切吞噬于烈焰之中.
 		'''
 }
 
 StalkersTallon: {
-	DisplayName: 遊隼之爪
+	DisplayName: 游隼之爪
 	Tooltip: 它投射出幻影般的自我影像
 }
 
 TheIrradiaspear: {
-	DisplayName: 輻射之矛
-	Tooltip: 它綻放幽靈之舞，幻影分身酸雨般傾瀉，腐蝕敵心，繪寫戰場哀歌
+	DisplayName: 辐射之矛
+	Tooltip: 它绽放幽灵之舞，幻影分身酸雨般倾泻，腐蚀敌心，绘写战场哀歌
 }
 
 StarKeeper: {
-	DisplayName: 星之守護者
-	Tooltip: 召喚極光之星，對敵人發起璀璨攻擊
+	DisplayName: 星之守护者
+	Tooltip: 召唤极光之星，对敌人发起璀璨攻击
 }
 
 SwordOfGlactia: {
-	DisplayName: 格拉克蒂亞之劍
-	Tooltip: 細劍如絲，破空飛舞
+	DisplayName: 格拉克蒂亚之剑
+	Tooltip: 细剑如丝，破空飞舞
 }
 
 SwordOfTheJungleGoddess: {
-	DisplayName: 叢林女神之劍
-	Tooltip: 請不要製作這個
+	DisplayName: 丛林女神之剑
+	Tooltip: 请不要制作这个
 }
 
 WoodenSaber: {
-	DisplayName: 木鞘靈劍
-	Tooltip: 擊中敵人後，藤蔓爆炸
+	DisplayName: 木鞘灵剑
+	Tooltip: 击中敌人后，藤蔓爆炸
 }
 
 X3107: {
@@ -2548,82 +2548,82 @@ X3107: {
 }
 
 ArchariliteEnergyShot: {
-	DisplayName: 赤鐵光弦弓
+	DisplayName: 赤铁光弦弓
 	Tooltip:
 		'''
-		這把弓，一揮之下，三箭齊發，如流星劃破夜空，絢爛而致命
-		得赤鐵潛能激發器之助，威力倍增，每一箭都攜帶著破曉之力，無堅不摧
+		这把弓，一挥之下，三箭齐发，如流星划破夜空，绚烂而致命
+		得赤铁潜能激发器之助，威力倍增，每一箭都携带著破晓之力，无坚不摧
 		'''
 }
 
 AssassinsDischarge: {
 	DisplayName: 刺影瞬破
-	Tooltip: 這是一把專為暗夜行者定製的弓，弦動影隨，箭出無聲，於月色下勾勒死亡的弧線，刺客之魂，盡在其中
+	Tooltip: 这是一把专为暗夜行者定制的弓，弦动影随，箭出无声，于月色下勾勒死亡的弧线，刺客之魂，尽在其中
 }
 
 BrokenWrath: {
 	DisplayName: 碎怒
-	Tooltip: 這武器發射的，是廢墟中的碎片，它們在空中唱著未來的歌，每一片都在呼喊新的希望
+	Tooltip: 这武器发射的，是废墟中的碎片，它们在空中唱著未来的歌，每一片都在呼喊新的希望
 }
 
 CloudBow: {
-	DisplayName: 雲翼弓
-	Tooltip: 雲端射擊，輕盈飄渺如舞者
+	DisplayName: 云翼弓
+	Tooltip: 云端射击，轻盈飘渺如舞者
 }
 
 Crysalizer: {
 	DisplayName: 冰霜晶化者
-	Tooltip: 三連晶化彈，破敵於霜晶之舞，璀璨奪目，冰封敵蹤
+	Tooltip: 三连晶化弹，破敌于霜晶之舞，璀璨夺目，冰封敌踪
 }
 
 DeathShot: {
 	DisplayName: 冥界之吻
-	Tooltip: 骷髏狙神，夜幕下的幽靈，一槍穿魂，傳說在月光下誕生
+	Tooltip: 骷髅狙神，夜幕下的幽灵，一枪穿魂，传说在月光下诞生
 }
 
 DivineSniper: {
-	DisplayName: 神雲槍
-	Tooltip: 並非真神跡，人間煙火色
+	DisplayName: 神云枪
+	Tooltip: 并非真神迹，人间烟火色
 }
 
 Dragoniper: {
-	DisplayName: 龍息電能槍
-	Tooltip: 那是什麽？
+	DisplayName: 龙息电能枪
+	Tooltip: 那是什么？
 }
 
 GraniteMagmum: {
 	DisplayName: 磐石熔心
-	Tooltip: 這是一把以磐石之力驅動的槍，每一發都蘊含大地的堅韌與不屈
+	Tooltip: 这是一把以磐石之力驱动的枪，每一发都蕴含大地的坚韧与不屈
 }
 
 IceWalker: {
 	DisplayName: 冰行者
-	Tooltip: 每隔兩箭，寒冰之靈附體，射出凍結一切的冰霜箭矢!
+	Tooltip: 每隔两箭，寒冰之灵附体，射出冻结一切的冰霜箭矢!
 }
 
 IrradieagleWrath: {
-	DisplayName: 翔鷹怒射
-	Tooltip: 鷹翔天際，怒射箭雨，精準無匹，敵無所遁
+	DisplayName: 翔鹰怒射
+	Tooltip: 鹰翔天际，怒射箭雨，精准无匹，敌无所遁
 }
 
 Irradishark: {
-	DisplayName: 爆鯊酸雨
-	Tooltip: 隨機轟炸，酸鯊四濺，爆炸如雨
+	DisplayName: 爆鲨酸雨
+	Tooltip: 随机轰炸，酸鲨四溅，爆炸如雨
 }
 
 IvynShot: {
 	DisplayName: 艾文弓
-	Tooltip: 一把尋常弓，無他，唯射爾
+	Tooltip: 一把寻常弓，无他，唯射尔
 }
 
 JackoShot: {
-	DisplayName: 傑克弓
-	Tooltip: 一把尋常弓，無他，唯射爾
+	DisplayName: 杰克弓
+	Tooltip: 一把寻常弓，无他，唯射尔
 }
 
 JellyBow: {
-	DisplayName: 果凍弓
-	Tooltip: 這把弓挺好看，但也就這樣了
+	DisplayName: 果冻弓
+	Tooltip: 这把弓挺好看，但也就这样了
 }
 
 LAZER: {
@@ -2632,99 +2632,99 @@ LAZER: {
 }
 
 RustlockPistol: {
-	DisplayName: 銹銬手槍
-	Tooltip: 射擊虛空，效果絕佳！
+	DisplayName: 锈铐手枪
+	Tooltip: 射击虚空，效果绝佳！
 }
 
 Rustvolver: {
-	DisplayName: 銹轉左輪
-	Tooltip: 一把滿是銹跡的手槍，用它？你開心就好！
+	DisplayName: 锈转左轮
+	Tooltip: 一把满是锈迹的手枪，用它？你开心就好！
 }
 
 TecnoBlaster: {
-	DisplayName: 科技爆裂槍
-	Tooltip: 技術控的最愛，用科技炸裂一切！
+	DisplayName: 科技爆裂枪
+	Tooltip: 技术控的最爱，用科技炸裂一切！
 }
 
 TheRedSkull: {
-	DisplayName: 紅骷髏
-	Tooltip: 又一個骷髏圖騰
+	DisplayName: 红骷髅
+	Tooltip: 又一个骷髅图腾
 }
 
 Tociflare: {
-	DisplayName: 毒焰噴射
-	Tooltip: 噴吐酸性火焰，以凝膠為彈，腐蝕一切
+	DisplayName: 毒焰喷射
+	Tooltip: 喷吐酸性火焰，以凝胶为弹，腐蚀一切
 }
 
 TychineGun: {
-	DisplayName: 鯊獵泰克槍
-	Tooltip: 為此獵鯊，何其悲涼
+	DisplayName: 鲨猎泰克枪
+	Tooltip: 为此猎鲨，何其悲凉
 }
 
 VoidBlaster: {
-	DisplayName: 虛無破空
-	Tooltip: 以虛無為動力，射出的正是——子彈！
+	DisplayName: 虚无破空
+	Tooltip: 以虚无为动力，射出的正是——子弹！
 }
 
 WingedFury: {
 	DisplayName: 翼怒之弓
-	Tooltip: 它，時而射出烈陽神箭，勢不可擋
+	Tooltip: 它，时而射出烈阳神箭，势不可挡
 }
 
 ArncharRemote: {
-	DisplayName: 赤鐵遙控器
-	Tooltip: 召喚赤鐵機器人，為你沖鋒陷陣！
+	DisplayName: 赤铁遥控器
+	Tooltip: 召唤赤铁机器人，为你冲锋陷阵！
 }
 
 DripplerStaff: {
 	DisplayName: 滴滴怪魔杖
 	Tooltip:
 		'''
-		召喚滴滴怪為你戰鬥！
-		滴血者附著敵人，四處濺射鮮血
-		戰鬥中，血滴不息
+		召唤滴滴怪为你战斗！
+		滴血者附著敌人，四处溅射鲜血
+		战斗中，血滴不息
 		'''
 }
 
 IrradiatedCreeperStaff: {
-	DisplayName: 輻射爬行者法杖
+	DisplayName: 辐射爬行者法杖
 	Tooltip:
 		'''
-		召喚受輻射影響的爬行者，為你而戰！
-		輻射爬行者對敵人釋放輻射，移動軌跡充滿神秘
-		我看到了它與輻射共生的奇妙之處
+		召唤受辐射影响的爬行者，为你而战！
+		辐射爬行者对敌人释放辐射，移动轨迹充满神秘
+		我看到了它与辐射共生的奇妙之处
 		'''
 }
 
 IvyakenStaff: {
-	DisplayName: 綠蔓使者法杖
-	Tooltip: 召喚一位小巧的綠蔓戰士，為你效力
+	DisplayName: 绿蔓使者法杖
+	Tooltip: 召唤一位小巧的绿蔓战士，为你效力
 }
 
 JellyStaff: {
-	DisplayName: 果凍魔杖
+	DisplayName: 果冻魔杖
 	Tooltip:
 		'''
-		召喚可愛小果凍，為你而戰
-		積蓄能量，電擊四周敵人
+		召唤可爱小果冻，为你而战
+		积蓄能量，电击四周敌人
 		'''
 }
 
 SwarmerStaff: {
-	DisplayName: 蟻群魔杖
+	DisplayName: 蚁群魔杖
 	Tooltip:
 		'''
-		發射蟻獅之牙，成扇形散開
-		蜂擁而上，就是現在！
+		发射蚁狮之牙，成扇形散开
+		蜂拥而上，就是现在！
 		'''
 }
 
 VoidStaff: {
-	DisplayName: 虛無法杖
+	DisplayName: 虚无法杖
 	Tooltip:
 		'''
-		召喚迷你奇點為你戰鬥！
-		需兩個仆從欄
+		召唤迷你奇点为你战斗！
+		需两个仆从栏
 		'''
 }
 
@@ -2734,43 +2734,43 @@ X3144: {
 }
 
 AcidicLancher: {
-	DisplayName: 酸液發射器
+	DisplayName: 酸液发射器
 	Tooltip: ""
 }
 
 Acidius: {
-	DisplayName: 酸蝕者
-	Tooltip: 投擲酸液，如火焰般蔓延！
+	DisplayName: 酸蚀者
+	Tooltip: 投掷酸液，如火焰般蔓延！
 }
 
 AssassinsKnife: {
 	DisplayName: 刺客之刃
-	Tooltip: 令敵人迷惑的利刃！
+	Tooltip: 令敌人迷惑的利刃！
 }
 
 AssassinsShuriken: {
-	DisplayName: 刺客飛鏢
-	Tooltip: 同樣讓敵人暈頭轉向！
+	DisplayName: 刺客飞镖
+	Tooltip: 同样让敌人晕头转向！
 }
 
 Boralius: {
-	DisplayName: 霜燼者
-	Tooltip: 寒冰燃燒者！
+	DisplayName: 霜烬者
+	Tooltip: 寒冰燃烧者！
 }
 
 Bricks: {
-	DisplayName: 磚頭
-	Tooltip: 一擊碎磚，威力十足！
+	DisplayName: 砖头
+	Tooltip: 一击碎砖，威力十足！
 }
 
 Cactius: {
-	DisplayName: 彈跳仙人球
-	Tooltip: 在地磚上彈跳自如
+	DisplayName: 弹跳仙人球
+	Tooltip: 在地砖上弹跳自如
 }
 
 GreyBricks: {
-	DisplayName: 灰磚
-	Tooltip: 沒錯，最佳武器，一塊磚
+	DisplayName: 灰砖
+	Tooltip: 没错，最佳武器，一块砖
 }
 
 Plantius: {
@@ -2779,18 +2779,18 @@ Plantius: {
 }
 
 ZthoKnifes: {
-	DisplayName: 光雷飛刀
+	DisplayName: 光雷飞刀
 	Tooltip: ""
 }
 
 CyroBolt: {
-	DisplayName: 冰霜飛彈
-	Tooltip: 射出冰霜飛彈，似乎有些不穩定
+	DisplayName: 冰霜飞弹
+	Tooltip: 射出冰霜飞弹，似乎有些不稳定
 }
 
 LightSpand: {
-	DisplayName: 靈光綻放
-	Tooltip: 歌瑟梵之光的熾烈光輝
+	DisplayName: 灵光绽放
+	Tooltip: 歌瑟梵之光的炽烈光辉
 }
 
 MoonMothStaff: {
@@ -2799,47 +2799,47 @@ MoonMothStaff: {
 }
 
 SolMothStaff: {
-	DisplayName: 日蝕蝶杖
-	Tooltip: 清理小群敵人，效果極佳
+	DisplayName: 日蚀蝶杖
+	Tooltip: 清理小群敌人，效果极佳
 }
 
 HeatGlider: {
 	DisplayName: 灼翼翔者
-	Tooltip: 在熾熱的翅膀下，劃過天際，燃燒的軌跡，讓對手在火焰中學會敬畏
+	Tooltip: 在炽热的翅膀下，划过天际，燃烧的轨迹，让对手在火焰中学会敬畏
 }
 
 JPost: {
-	DisplayName: 燈籠傑克稻草人
+	DisplayName: 灯笼杰克稻草人
 	Tooltip: ""
 }
 
 ShrineAI: {
-	DisplayName: 古諭魔法塵石壇
+	DisplayName: 古谕魔法尘石坛
 	Tooltip: ""
 }
 
 ShrineBUANI: {
-	DisplayName: 烈焰天使石壇
+	DisplayName: 烈焰天使石坛
 	Tooltip: ""
 }
 
 ShrineGardenWreckerI: {
-	DisplayName: 翠破焰炮石壇
+	DisplayName: 翠破焰炮石坛
 	Tooltip: ""
 }
 
 ShrineHalhurishI: {
-	DisplayName: 熾焰赫爾修裏斯石壇
+	DisplayName: 炽焰赫尔修里斯石坛
 	Tooltip: ""
 }
 
 ShrineLightsI: {
-	DisplayName: 靈光綻放石壇
+	DisplayName: 灵光绽放石坛
 	Tooltip: ""
 }
 
 ShrineSolMothI: {
-	DisplayName: 日蝕飛蛾石壇
+	DisplayName: 日蚀飞蛾石坛
 	Tooltip: ""
 }
 
@@ -2847,82 +2847,82 @@ GothiviasSeal: {
 	DisplayName: 歌瑟梵之印
 	Tooltip:
 		'''
-		帶上它，去往瘴煞之地的深處
-		城堡的大門向你敞開...
+		带上它，去往瘴煞之地的深处
+		城堡的大门向你敞开...
 		'''
 }
 
 RestingGroundsI: {
-	DisplayName: 代達斯安息所
+	DisplayName: 代达斯安息所
 	Tooltip: ""
 }
 
 ShinobiTome: {
-	DisplayName: 忍者心經
-	Tooltip: 無手亦可揮，秘籍在心，忍者之魂，戰場無影蹤
+	DisplayName: 忍者心经
+	Tooltip: 无手亦可挥，秘籍在心，忍者之魂，战场无影踪
 }
 
 GintzlSpear: {
-	DisplayName: 玄鐵標槍
-	Tooltip: 他們如何擲出這沈重的玄鐵？
+	DisplayName: 玄铁标枪
+	Tooltip: 他们如何掷出这沉重的玄铁？
 }
 
 RuneOfWind: {
-	DisplayName: 烈風符文
+	DisplayName: 烈风符文
 	Tooltip:
 		'''
-		受擊時有幾率喚出狂風護盾！
-		護盾會給予15防禦
+		受击时有几率唤出狂风护盾！
+		护盾会给予15防御
 		'''
 }
 
 GintzlsSteed: {
-	DisplayName: 玄鐵之影
-	Tooltip: 心中有矢，無臂亦能飛箭，長空劃過，傳奇自成
+	DisplayName: 玄铁之影
+	Tooltip: 心中有矢，无臂亦能飞箭，长空划过，传奇自成
 }
 
 Gallasis: {
 	DisplayName: 伽拉曦斯
-	Tooltip: 玄鐵的遺澤，正蘊藏於這件實用非凡的寶物之中
+	Tooltip: 玄铁的遗泽，正蕴藏于这件实用非凡的宝物之中
 }
 
 GintzlBroochA: {
-	DisplayName: 玄鐵風符
+	DisplayName: 玄铁风符
 	Tooltip:
 		'''
-		迅風之力！
-		+4防禦
-		所有物品都能自動揮舞！
+		迅风之力！
+		+4防御
+		所有物品都能自动挥舞！
 		'''
 }
 
 GintzlShield: {
-	DisplayName: 玄鐵護盾
-	Tooltip: 不錯的防禦！
+	DisplayName: 玄铁护盾
+	Tooltip: 不错的防御！
 }
 
 GintziaBossBag: {
-	DisplayName: 寶藏袋（金戈亞指揮官）
+	DisplayName: 宝藏袋（金戈亚指挥官）
 	Tooltip:
 		'''
 		{$CommonItemTooltip.RightClickToOpen}
-		裏面有個小驚喜~
+		里面有个小惊喜~
 		'''
 }
 
 GintzeCard: {
-	DisplayName: 玄鐵符牌
+	DisplayName: 玄铁符牌
 	Tooltip:
 		'''
-		撒下粉末，輕舞塵埃，激活神秘力量
-		成為勇士，或許只差那張關鍵的牌
-		長按攻擊按鈕，引爆標記，造成爆炸傷害
+		撒下粉末，轻舞尘埃，激活神秘力量
+		成为勇士，或许只差那张关键的牌
+		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
 }
 
 AurelusTempleTile: {
-	DisplayName: 匿影聖殿磚
-	Tooltip: 你怎麽得到這個的？
+	DisplayName: 匿影圣殿砖
+	Tooltip: 你怎么得到这个的？
 }
 
 AurelusChesti: {
@@ -2931,342 +2931,342 @@ AurelusChesti: {
 }
 
 AurelusBanneri: {
-	DisplayName: 匿影旗幟
+	DisplayName: 匿影旗帜
 	Tooltip: ""
 }
 
 AurelusPosti: {
 	Tooltip: ""
-	DisplayName: 匿影桿
+	DisplayName: 匿影杆
 }
 
 AurelusBanner2i: {
 	Tooltip: ""
-	DisplayName: 匿影旗幟
+	DisplayName: 匿影旗帜
 }
 
 AurelusBorderI: {
-	DisplayName: 匿影長廊
+	DisplayName: 匿影长廊
 	Tooltip: ""
 }
 
 TON618Crossbow: {
 	DisplayName: TON618
-	Tooltip: 巧奪天工，弓匠大師之手，精製而成，盡顯匠心獨運
+	Tooltip: 巧夺天工，弓匠大师之手，精制而成，尽显匠心独运
 }
 
 Venatici: {
-	DisplayName: 獵星者
-	Tooltip: 我從不知有如此巨大的黑洞
+	DisplayName: 猎星者
+	Tooltip: 我从不知有如此巨大的黑洞
 }
 
 IceboundStaff: {
 	DisplayName: 冰封魔杖
 	Tooltip:
 		'''
-		召喚寒冰中的冬蝠為你作戰！
-		蝙蝠僅占半格召喚位，群起攻敵
-		冰封魔力與精靈之力，共凍結敵人！
+		召唤寒冰中的冬蝠为你作战！
+		蝙蝠仅占半格召唤位，群起攻敌
+		冰封魔力与精灵之力，共冻结敌人！
 		'''
 }
 
 AurelusDoor: {
-	DisplayName: 匿影門
-	Tooltip: 你真不應該用這個...
+	DisplayName: 匿影门
+	Tooltip: 你真不应该用这个...
 }
 
 AurelusSummoni: {
-	DisplayName: 匿影聖壇
+	DisplayName: 匿影圣坛
 	Tooltip: ""
 }
 
 MagnusMagnum: {
-	DisplayName: 瑪格努斯巨炮
+	DisplayName: 玛格努斯巨炮
 	Tooltip:
 		'''
-		你知道的，哈利，我一直不太待見你那兩面派的作風
-		連射30發後，槍會過熱，接著會慢速發射5發，然後恢復常態
+		你知道的，哈利，我一直不太待见你那两面派的作风
+		连射30发后，枪会过热，接著会慢速发射5发，然后恢复常态
 		'''
 }
 
 VoidKey: {
-	DisplayName: 虛空鑰匙
-	Tooltip: 帶上此物，去冰川下的深淵尋找寶物吧
+	DisplayName: 虚空钥匙
+	Tooltip: 带上此物，去冰川下的深渊寻找宝物吧
 }
 
 Neptune8Card: {
-	DisplayName: 第八星輝符牌
+	DisplayName: 第八星辉符牌
 	Tooltip:
 		'''
-		星際深處的火花
-		點燃塵埃與粉末的激情
-		長按攻擊按鈕，引爆標記，造成爆炸傷害
+		星际深处的火花
+		点燃尘埃与粉末的激情
+		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
 }
 
 Gintelze: {
-	DisplayName: 靈光破曉
+	DisplayName: 灵光破晓
 	Tooltip:
 		'''
-		此劍乃竊自玄鐵指揮官之手，他曾背棄歌瑟梵，劍身承載著叛逆與秘密
-		它原是歌瑟梵軍中無雙利劍，欲為無手之兵所用，銳不可擋，鋒芒畢露
-		揮舞它，讓劍舞如風，劍意如歌，於戰場之上，書寫屬於你的傳奇篇章！
+		此剑乃窃自玄铁指挥官之手，他曾背弃歌瑟梵，剑身承载著叛逆与秘密
+		它原是歌瑟梵军中无双利剑，欲为无手之兵所用，锐不可挡，锋芒毕露
+		挥舞它，让剑舞如风，剑意如歌，于战场之上，书写属于你的传奇篇章！
 		'''
 }
 
 HolmbergScythe: {
-	DisplayName: 赫蒙之鐮
-	Tooltip: 撕裂宇宙，一分為二！
+	DisplayName: 赫蒙之镰
+	Tooltip: 撕裂宇宙，一分为二！
 }
 
 Alcarish: {
-	DisplayName: 阿卡裏亞鞭刃
-	Tooltip: 玄鐵人膽大妄為，竟然從士兵那裏偷走了如此有用的東西
+	DisplayName: 阿卡里亚鞭刃
+	Tooltip: 玄铁人胆大妄为，竟然从士兵那里偷走了如此有用的东西
 }
 
 AurelusBlightBroochA: {
-	DisplayName: 匿影飾符
-	Tooltip: 光越亮，影越濃...
+	DisplayName: 匿影饰符
+	Tooltip: 光越亮，影越浓...
 }
 
 AbyssalPowder: {
-	DisplayName: 深淵匿影魔法塵
+	DisplayName: 深渊匿影魔法尘
 	Tooltip:
 		'''
-		向他們灑下魔法塵
-		一種虛空水晶般的塵埃！
-		用這個擊中敵人後，使用符牌引爆！
+		向他们洒下魔法尘
+		一种虚空水晶般的尘埃！
+		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
 AivanPowder: {
-	DisplayName: 艾凡魔法塵
+	DisplayName: 艾凡魔法尘
 	Tooltip:
 		'''
-		向他們灑下魔法塵
-		從歌瑟梵的城堡中竊取
-		用這個擊中敵人後，使用符牌引爆！
+		向他们洒下魔法尘
+		从歌瑟梵的城堡中窃取
+		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
 GovheilPowder: {
-	DisplayName: 歌維赫魔法塵
+	DisplayName: 歌维赫魔法尘
 	Tooltip:
 		'''
-		向他們灑下魔法塵
-		純粹的感覺
-		用這個擊中敵人後，使用符牌引爆！
+		向他们洒下魔法尘
+		纯粹的感觉
+		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
 TheSunAndMoonCard: {
-	Tooltip: 用太陽的熾熱和月亮的神秘力量焚燒敵人
+	Tooltip: 用太阳的炽热和月亮的神秘力量焚烧敌人
 	DisplayName: 日月灼炎符牌
 }
 
 Kilvier: {
-	DisplayName: 基爾維亞
-	Tooltip: 這可不是武器，對吧？
+	DisplayName: 基尔维亚
+	Tooltip: 这可不是武器，对吧？
 }
 
 DaedussSunSheid: {
-	DisplayName: 輝日護盾
-	Tooltip: 在歌瑟梵與薇莉婭的名號下熠熠生輝
+	DisplayName: 辉日护盾
+	Tooltip: 在歌瑟梵与薇莉娅的名号下熠熠生辉
 }
 
 BearBroochA: {
-	DisplayName: 蠻熊飾符
-	Tooltip: 增加大量的魔力再生！還有+4防禦
+	DisplayName: 蛮熊饰符
+	Tooltip: 增加大量的魔力再生！还有+4防御
 }
 
 DreadBroochA: {
-	DisplayName: 惡巫懼符
+	DisplayName: 恶巫惧符
 	Tooltip:
 		'''
 		+40最大生命值
-		其實她好像也沒那麽壞嘛~
+		其实她好像也没那么坏嘛~
 		'''
 }
 
 MalShieldBroochA: {
-	DisplayName: 惡毒盾符
+	DisplayName: 恶毒盾符
 	Tooltip:
 		'''
-		我感覺這不太對勁...
-		+7防禦
-		+7%近戰傷害！
+		我感觉这不太对劲...
+		+7防御
+		+7%近战伤害！
 		'''
 }
 
 VixedBroochA: {
-	DisplayName: 遺世守衛飾符
+	DisplayName: 遗世守卫饰符
 	Tooltip:
 		'''
 		傀儡早已精疲力竭
-		+5%傷害
+		+5%伤害
 		+40最大生命值
 		'''
 }
 
 DaedenChestplate: {
-	DisplayName: 代達斯胸甲
+	DisplayName: 代达斯胸甲
 	Tooltip:
 		'''
-		醜得沒眼看
-		+10%遠程傷害
+		丑得没眼看
+		+10%远程伤害
 		+20盔甲穿透
-		+5%暴擊率
+		+5%暴击率
 		'''
 }
 
 DaedenLegs: {
-	DisplayName: 代達斯護腿
+	DisplayName: 代达斯护腿
 	Tooltip: 增加移速
 }
 
 DaedenMask: {
-	DisplayName: 代達斯面具
+	DisplayName: 代达斯面具
 	Tooltip:
 		'''
-		肯定只有受虐狂會戴它吧...
-		+20%遠程傷害
+		肯定只有受虐狂会戴它吧...
+		+20%远程伤害
 		大幅提升魔力再生！
-		+5%暴擊率
+		+5%暴击率
 		'''
 }
 
 DaedusBag: {
-	DisplayName: 寶藏袋（遺世者，代達斯）
+	DisplayName: 宝藏袋（遗世者，代达斯）
 	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 }
 
 Plate: {
-	DisplayName: 盤子
-	Tooltip: 我猜代達斯忘了洗盤子
+	DisplayName: 盘子
+	Tooltip: 我猜代达斯忘了洗盘子
 }
 
 GovheilCastleBlock: {
-	DisplayName: 歌維赫堡磚塊
+	DisplayName: 歌维赫堡砖块
 	Tooltip: ""
 }
 
 GovheilHallI: {
-	DisplayName: 歌維赫大廳
+	DisplayName: 歌维赫大厅
 	Tooltip: ""
 }
 
 GovheilWallsI: {
-	DisplayName: 歌維赫墻
+	DisplayName: 歌维赫墙
 	Tooltip: ""
 }
 
 GothivA: {
-	DisplayName: 歌瑟梵的帳篷
+	DisplayName: 歌瑟梵的帐篷
 	Tooltip: ""
 }
 
 GothWall: {
-	DisplayName: 歌維赫門
+	DisplayName: 歌维赫门
 	Tooltip: ""
 }
 
 Alcanine: {
-	DisplayName: 阿爾卡寧符
+	DisplayName: 阿尔卡宁符
 	Tooltip:
 		'''
-		召喚師的標配！
-		+2仆從欄！
-		+10%召喚傷害！
+		召唤师的标配！
+		+2仆从栏！
+		+10%召唤伤害！
 		'''
 }
 
 GovheilHolsterBroochA: {
-	DisplayName: 歌維赫蘊魔飾符
+	DisplayName: 歌维赫蕴魔饰符
 	Tooltip:
 		'''
-		將所有魔法武器的魔力消耗減半！
-		+7%魔法傷害
-		還有+2防禦！
+		将所有魔法武器的魔力消耗减半！
+		+7%魔法伤害
+		还有+2防御！
 		'''
 }
 
 GovhenShield: {
-	DisplayName: 葛文護盾
-	Tooltip: 一面十分堅韌的盾牌
+	DisplayName: 葛文护盾
+	Tooltip: 一面十分坚韧的盾牌
 }
 
 GreekLantern: {
-	DisplayName: 希臘秘燈
-	Tooltip: 歌瑟梵難道是希臘人？？？
+	DisplayName: 希腊秘灯
+	Tooltip: 歌瑟梵难道是希腊人？？？
 }
 
 LanternOfAFallen: {
-	DisplayName: 墜落者的明燈
-	Tooltip: 清理單個敵人的好手
+	DisplayName: 坠落者的明灯
+	Tooltip: 清理单个敌人的好手
 }
 
 Blackdot: {
-	DisplayName: 黑點
-	Tooltip: 這是誰起的名字？
+	DisplayName: 黑点
+	Tooltip: 这是谁起的名字？
 }
 
 Galvinie: {
-	DisplayName: 金輝破空
-	Tooltip: 遊戲的旋律，對鼠標而言，恐非悅耳之音
+	DisplayName: 金辉破空
+	Tooltip: 游戏的旋律，对鼠标而言，恐非悦耳之音
 }
 
 TheBurningRod: {
 	DisplayName: 燃焰法杖
 	Tooltip:
 		'''
-		召喚一盞燈為你戰鬥！
-		燈盞向敵人噴射靈液
-		雖不精準，但卻管用
+		召唤一盏灯为你战斗！
+		灯盏向敌人喷射灵液
+		虽不精准，但却管用
 		'''
 }
 
 AcidicalDirtBlock: {
-	DisplayName: 酸蝕土塊
+	DisplayName: 酸蚀土块
 	Tooltip: ""
 }
 
 BurningGBroochA: {
-	DisplayName: 烈陽神血飾符
+	DisplayName: 烈阳神血饰符
 	Tooltip:
 		'''
-		攻擊敵人時釋放靈液並引發爆炸
-		+5%近戰傷害
+		攻击敌人时释放灵液并引发爆炸
+		+5%近战伤害
 		'''
 }
 
 Twirlers: {
-	DisplayName: 伊瑞蒂安的雙旋假發
+	DisplayName: 伊瑞蒂安的双旋假发
 	Tooltip:
 		'''
-		想要看起來炫酷嗎？帶上這個，發蠟都沒話說！
-		將魔力消耗減半
+		想要看起来炫酷吗？带上这个，发蜡都没话说！
+		将魔力消耗减半
 		增加生命再生
 		+20最大生命值
-		+30%傷害
+		+30%伤害
 		'''
 }
 
 GothiviaBag: {
-	DisplayName: 寶藏袋（伊瑞蒂安與浩劫龍械）
+	DisplayName: 宝藏袋（伊瑞蒂安与浩劫龙械）
 	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 }
 
 WeddingDay: {
-	DisplayName: 婚禮
-	Tooltip: 這一對戀愛腦真是標配
+	DisplayName: 婚礼
+	Tooltip: 这一对恋爱脑真是标配
 }
 
 GothiviasCard: {
 	DisplayName: 歌瑟梵焰符牌
 	Tooltip:
 		'''
-		"會造成輕微燒傷"她給的那張紙條上如是說
-		長按攻擊按鈕，引爆標記，造成爆炸傷害
+		"会造成轻微烧伤"她给的那张纸条上如是说
+		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
 }
 
@@ -3274,84 +3274,84 @@ Helios: {
 	DisplayName: 旭日泰坦赫利俄斯
 	Tooltip:
 		'''
-		歌瑟梵傑作，赫利俄斯神威
-		機械巨首，一戰即潰
-		太陽之心，辛勤鑄就，此神器橫空出世
+		歌瑟梵杰作，赫利俄斯神威
+		机械巨首，一战即溃
+		太阳之心，辛勤铸就，此神器横空出世
 		'''
 }
 
 AmethystBroochA: {
-	DisplayName: 紫晶飾符
+	DisplayName: 紫晶饰符
 	Tooltip:
 		'''
 		+20挖掘速度！
-		+2防禦
+		+2防御
 		'''
 }
 
 CrystalPowder: {
-	DisplayName: 晶石魔法塵
+	DisplayName: 晶石魔法尘
 	Tooltip:
 		'''
-		向他們投擲魔法塵並點燃
-		這就是我們一直在努力的，傑西
-		用這個擊中敵人後，使用符牌引爆！
+		向他们投掷魔法尘并点燃
+		这就是我们一直在努力的，杰西
+		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
 SunSall: {
-	DisplayName: 耀日祭壇
+	DisplayName: 耀日祭坛
 	Tooltip: ""
 }
 
 DaedusBossRel: {
-	DisplayName: 代達斯聖物
-	Tooltip: 從歌瑟梵的奇點那腐朽的核心中創造出的傀儡.真為他感到遺憾.
+	DisplayName: 代达斯圣物
+	Tooltip: 从歌瑟梵的奇点那腐朽的核心中创造出的傀儡.真为他感到遗憾.
 }
 
 DreadBossRel: {
-	DisplayName: 絳淵惡巫聖物
-	Tooltip: 一般人會迷失自我.她就是那個不一般的人.
+	DisplayName: 绦渊恶巫圣物
+	Tooltip: 一般人会迷失自我.她就是那个不一般的人.
 }
 
 GintzeBossRel: {
-	DisplayName: 金戈亞指揮官聖物
-	Tooltip: 曾經是歌瑟梵軍隊的一員，選擇叛逃並組建了自己的軍團.
+	DisplayName: 金戈亚指挥官圣物
+	Tooltip: 曾经是歌瑟梵军队的一员，选择叛逃并组建了自己的军团.
 }
 
 JackBossRel: {
-	DisplayName: 燈籠傑克聖物
-	Tooltip: 在寧靜之處獨自挺立.對稻草人來說再好不過了.
+	DisplayName: 灯笼杰克圣物
+	Tooltip: 在宁静之处独自挺立.对稻草人来说再好不过了.
 }
 
 SOMBossRel: {
-	DisplayName: 月之奇點聖物
-	Tooltip: 這是你面對的第二顆奇點，也是至今最大的挑戰.
+	DisplayName: 月之奇点圣物
+	Tooltip: 这是你面对的第二颗奇点，也是至今最大的挑战.
 }
 
 SunsBossRel: {
-	DisplayName: 獵日遊隼聖物
-	Tooltip: 有關它的記憶早已隨風逝去，但它的惡行並沒有.
+	DisplayName: 猎日游隼圣物
+	Tooltip: 有关它的记忆早已随风逝去，但它的恶行并没有.
 }
 
 VerliBossRel: {
-	DisplayName: 皎月薇莉婭聖物
+	DisplayName: 皎月薇莉娅圣物
 	Tooltip: ""
 }
 
 StarbloomBlock: {
-	DisplayName: 星綻塊
+	DisplayName: 星绽块
 	Tooltip: ""
 }
 
 StarbloomDirtBlock: {
-	DisplayName: 星綻土塊
+	DisplayName: 星绽土块
 	Tooltip: ""
 }
 
 FurihaMKIII: {
 	DisplayName: 旋律光炮MKIII
-	Tooltip: 隨性綻放激光，編織出一場時尚的光影樂章，讓戰鬥成為一場視覺的盛宴
+	Tooltip: 随性绽放激光，编织出一场时尚的光影乐章，让战斗成为一场视觉的盛宴
 }
 
 M61X: {
@@ -3361,11 +3361,11 @@ M61X: {
 
 MushroomStave: {
 	DisplayName: 蘑菇杖
-	Tooltip: 擺脫糾纏，給我退下！
+	Tooltip: 摆脱纠缠，给我退下！
 }
 
 StarbloomTempleBlock: {
-	DisplayName: 星綻聖殿塊
+	DisplayName: 星绽圣殿块
 	Tooltip: ""
 }
 
@@ -3375,22 +3375,22 @@ ShadegraveStaff: {
 }
 
 BasicGunParts: {
-	DisplayName: 基礎槍械部件
+	DisplayName: 基础枪械部件
 	Tooltip: ""
 }
 
 AuroreanStarI: {
-	DisplayName: 極光之星
-	Tooltip: 一顆墜落之星吸收了阿爾卡迪亞空氣中的魔力，形成了這顆超能之星！
+	DisplayName: 极光之星
+	Tooltip: 一颗坠落之星吸收了阿尔卡迪亚空气中的魔力，形成了这颗超能之星！
 }
 
 StoneKey: {
-	DisplayName: 石心之鑰
+	DisplayName: 石心之钥
 	Tooltip: ""
 }
 
 NoxianWood: {
-	DisplayName: 諾克斯木塊
+	DisplayName: 诺克斯木块
 	Tooltip: ""
 }
 
@@ -3400,66 +3400,66 @@ StoneChesti: {
 }
 
 IgniterCards: {
-	DisplayName: 燃燼飛卡
-	Tooltip: 擊中敵人，就像使用了引爆卡片，瞬間點燃戰火！
+	DisplayName: 燃烬飞卡
+	Tooltip: 击中敌人，就像使用了引爆卡片，瞬间点燃战火！
 }
 
 ThrowingCards: {
-	DisplayName: 投擲飛牌
+	DisplayName: 投掷飞牌
 	Tooltip: ""
 }
 
 Bread: {
 	DisplayName: 面包
-	Tooltip: 你還記得你吃過多少片面包嗎？
+	Tooltip: 你还记得你吃过多少片面包吗？
 }
 
 BowledCream: {
 	DisplayName: 一碗奶油
 	Tooltip:
 		'''
-		吃掉它可以提供和蜂蜜一樣的生命再生加成！
-		裝備它可以提升移動速度！
+		吃掉它可以提供和蜂蜜一样的生命再生加成！
+		装备它可以提升移动速度！
 		'''
 }
 
 IgniterCardsMKII: {
-	DisplayName: 燃燼飛卡MKII
+	DisplayName: 燃烬飞卡MKII
 	Tooltip: ""
 }
 
 DesertRuneI: {
-	DisplayName: 遠古符文
-	Tooltip: 也許吉婭會想要它？
+	DisplayName: 远古符文
+	Tooltip: 也许吉娅会想要它？
 }
 
 OverworldRuneI: {
-	DisplayName: 遠古符文
-	Tooltip: 也許吉婭會想要它？
+	DisplayName: 远古符文
+	Tooltip: 也许吉娅会想要它？
 }
 
 ThrowingCardsMKII: {
-	DisplayName: 投擲飛牌MKII
+	DisplayName: 投掷飞牌MKII
 	Tooltip: ""
 }
 
 JungleRuneI: {
-	Tooltip: 也許吉婭會想要它？
-	DisplayName: 遠古符文
+	Tooltip: 也许吉娅会想要它？
+	DisplayName: 远古符文
 }
 
 AlcadzBlock: {
-	DisplayName: 阿爾卡迪亞塊
+	DisplayName: 阿尔卡迪亚块
 	Tooltip: ""
 }
 
 CarianWood: {
-	DisplayName: 卡裏亞木塊
+	DisplayName: 卡里亚木块
 	Tooltip: ""
 }
 
 CarianWoodWall: {
-	DisplayName: 卡裏亞木墻
+	DisplayName: 卡里亚木墙
 	Tooltip: ""
 }
 
@@ -3469,53 +3469,53 @@ AlciteI: {
 }
 
 AowerBottomI: {
-	DisplayName: 殘破高塔
+	DisplayName: 残破高塔
 	Tooltip: ""
 }
 
 AowerTopI: {
-	DisplayName: 殘破高塔
+	DisplayName: 残破高塔
 	Tooltip: ""
 }
 
 CurtainLeftRCI: {
-	DisplayName: 簾幕左
+	DisplayName: 帘幕左
 	Tooltip: ""
 }
 
 CurtainRightRCI: {
-	DisplayName: 簾幕右
+	DisplayName: 帘幕右
 	Tooltip: ""
 }
 
 CurtainTopI: {
-	DisplayName: 簾幕頂
+	DisplayName: 帘幕顶
 	Tooltip: ""
 }
 
 RectiteI: {
-	DisplayName: 石筍柱
+	DisplayName: 石笋柱
 	Tooltip: ""
 }
 
 SkullpileI: {
-	DisplayName: 頭骨堆
+	DisplayName: 头骨堆
 	Tooltip: ""
 }
 
 GiaPants: {
-	DisplayName: 吉婭的褲子
+	DisplayName: 吉娅的裤子
 	Tooltip: ""
 }
 
 GiaSuit: {
-	DisplayName: 吉婭的上衣
+	DisplayName: 吉娅的上衣
 	Tooltip: ""
 }
 
 GiaWig: {
-	DisplayName: 吉婭的假發
-	Tooltip: 你真的想要帶上這個嗎...
+	DisplayName: 吉娅的假发
+	Tooltip: 你真的想要带上这个吗...
 }
 
 BagOfCards: {
@@ -3523,101 +3523,101 @@ BagOfCards: {
 	Tooltip:
 		'''
 		{$CommonItemTooltip.RightClickToOpen}
-		打開來獲得卡牌！在困難模式能開出更多卡牌！
+		打开来获得卡牌！在困难模式能开出更多卡牌！
 		'''
 }
 
 FireflyCannon: {
-	DisplayName: 螢火炮鳴
+	DisplayName: 萤火炮鸣
 	Tooltip:
 		'''
-		釋放出一群蘊含爆炸力量的璀璨螢火
-		在武器鑄就的過程中，幾許螢火犧牲，化作了這夜空中最絢爛的煙火
+		释放出一群蕴含爆炸力量的璀璨萤火
+		在武器铸就的过程中，几许萤火牺牲，化作了这夜空中最绚烂的烟火
 		'''
 }
 
 StoniaBroochA: {
-	DisplayName: 石心飾符
+	DisplayName: 石心饰符
 	Tooltip:
 		'''
-		免疫摔落傷害，+2防禦！
-		增加挖掘速度，在黑暗中發光
-		但失去15%傷害
+		免疫摔落伤害，+2防御！
+		增加挖掘速度，在黑暗中发光
+		但失去15%伤害
 		'''
 }
 
 AlcaricMush: {
-	DisplayName: 阿爾卡迪亞混溶質
-	Tooltip: 一種奇怪的魔法溶膠，受皇室首都的控製
+	DisplayName: 阿尔卡迪亚混溶质
+	Tooltip: 一种奇怪的魔法溶胶，受皇室首都的控制
 }
 
 Blackwhip: {
-	DisplayName: 暗夜長鞭
-	Tooltip: 以鞭作引，讓他們重返正軌
+	DisplayName: 暗夜长鞭
+	Tooltip: 以鞭作引，让他们重返正轨
 }
 
 DarkWhip: {
 	DisplayName: 暗夜之鞭
-	Tooltip: 正如其名，壞得很
+	Tooltip: 正如其名，坏得很
 }
 
 AlsisChestplate: {
-	DisplayName: 法靈胸甲
+	DisplayName: 法灵胸甲
 	Tooltip:
 		'''
 		-25最大生命值
-		+5%魔法暴擊率
-		-5%魔法傷害
+		+5%魔法暴击率
+		-5%魔法伤害
 		'''
 }
 
 AlsisGreaves: {
-	DisplayName: 法靈護脛
+	DisplayName: 法灵护胫
 	Tooltip:
 		'''
 		-10最大生命值
-		快如閃電！
+		快如闪电！
 		'''
 }
 
 AlsisMask: {
-	DisplayName: 法靈面罩
+	DisplayName: 法灵面罩
 	Tooltip:
 		'''
 		-10最大生命值
-		+1%魔法暴擊率
-		-5%魔法傷害
+		+1%魔法暴击率
+		-5%魔法伤害
 		'''
 }
 
 WickofSorcery: {
-	DisplayName: 魔咒燭心
-	Tooltip: 有史以來最好的棍子，但也僅僅只是一個棍子
+	DisplayName: 魔咒烛心
+	Tooltip: 有史以来最好的棍子，但也仅仅只是一个棍子
 }
 
 Voyager: {
 	DisplayName: 旅行者
-	Tooltip: 我喜歡揮刀斬敵，傳球製勝，哦不對，串戲了
+	Tooltip: 我喜欢挥刀斩敌，传球制胜，哦不对，串戏了
 }
 
 Hyua: {
-	DisplayName: 幻輪
-	Tooltip: 投擲詭異的圓形魔法環，或球，我也說不清
+	DisplayName: 幻轮
+	Tooltip: 投掷诡异的圆形魔法环，或球，我也说不清
 }
 
 Poya: {
-	DisplayName: 阿卡裏亞之喚
-	Tooltip: 召喚阿卡裏亞混溶體進入現實，將敵人撕裂
+	DisplayName: 阿卡里亚之唤
+	Tooltip: 召唤阿卡里亚混溶体进入现实，将敌人撕裂
 }
 
 FireflyStaff: {
-	DisplayName: 火螢魔杖
+	DisplayName: 火萤魔杖
 	Tooltip:
 		'''
-		召喚火螢為你作戰！
-		右擊切換攻防模式，狀態加成隨火螢數量提升
-		進攻模式，你將獲得移速與飛行優勢
-		防守模式，你收獲防禦與生命恢復，但火螢攻速減緩
+		召唤火萤为你作战！
+		右击切换攻防模式，状态加成随火萤数量提升
+		进攻模式，你将获得移速与飞行优势
+		防守模式，你收获防御与生命恢复，但火萤攻速减缓
 		'''
 }
 
@@ -3625,285 +3625,285 @@ VampireScepter: {
 	DisplayName: 吸血魔杖
 	Tooltip:
 		'''
-		召喚血族火炬，助你戰鬥無阻
-		火炬奪生機，近敵吸血無度
-		召喚傷增，威力倍出
-		唯一在手，獨步天下
+		召唤血族火炬，助你战斗无阻
+		火炬夺生机，近敌吸血无度
+		召唤伤增，威力倍出
+		唯一在手，独步天下
 		'''
 }
 
 LunarianVoidBody: {
-	DisplayName: 淵月胸甲
-	Tooltip: +10%投擲傷害
+	DisplayName: 渊月胸甲
+	Tooltip: +10%投掷伤害
 }
 
 LunarianVoidHead: {
-	DisplayName: 淵月頭盔
+	DisplayName: 渊月头盔
 	Tooltip:
 		'''
-		+10%投擲暴擊率
+		+10%投掷暴击率
 		+20最大生命值
-		+25%投擲傷害
+		+25%投掷伤害
 		'''
 }
 
 LunarianVoidLegs: {
-	DisplayName: 淵月護腿
+	DisplayName: 渊月护腿
 	Tooltip:
 		'''
-		+2%移動速度
-		+5%投擲傷害
+		+2%移动速度
+		+5%投掷伤害
 		'''
 }
 
 SandStorm: {
-	DisplayName: 沙暴旋風
-	Tooltip: 沙暴旋風，迷你龍卷風席卷敵人，觸地爆炸，沙塵四散，戰場瞬變沙漠
+	DisplayName: 沙暴旋风
+	Tooltip: 沙暴旋风，迷你龙卷风席卷敌人，触地爆炸，沙尘四散，战场瞬变沙漠
 }
 
 ExploreMorrowedVillage: {
-	DisplayName: 任務：探索幽曦村落
+	DisplayName: 任务：探索幽曦村落
 	Tooltip: ""
 }
 
 ExploreMorrowedVillageC: {
-	DisplayName: 探索幽曦村落：任務完成！
-	Tooltip: 去找梅瑞娜領取你的獎勵吧！
+	DisplayName: 探索幽曦村落：任务完成！
+	Tooltip: 去找梅瑞娜领取你的奖励吧！
 }
 
 Give100DustBags: {
-	DisplayName: 任務：上交100個粉塵袋
+	DisplayName: 任务：上交100个粉尘袋
 	Tooltip: ""
 }
 
 Give100DustBagsC: {
-	DisplayName: 上交100個粉塵袋：任務完成！
-	Tooltip: 去找梅瑞娜領取你的獎勵吧！
+	DisplayName: 上交100个粉尘袋：任务完成！
+	Tooltip: 去找梅瑞娜领取你的奖励吧！
 }
 
 KillVerlia: {
-	DisplayName: 任務：擊敗薇莉婭
-	Tooltip: 她在儀殿之巔！
+	DisplayName: 任务：击败薇莉娅
+	Tooltip: 她在仪殿之巅！
 }
 
 KillVerliaC: {
-	DisplayName: 擊敗薇莉婭：任務完成！
-	Tooltip: 去找梅瑞娜領取你的獎勵吧！
+	DisplayName: 击败薇莉娅：任务完成！
+	Tooltip: 去找梅瑞娜领取你的奖励吧！
 }
 
 MakeMagicPaper: {
-	DisplayName: 任務：製作魔法紙張
-	Tooltip: 要收集許多材料，十分困難...
+	DisplayName: 任务：制作魔法纸张
+	Tooltip: 要收集许多材料，十分困难...
 }
 
 MakeMagicPaperC: {
-	DisplayName: 製作魔法紙張：任務完成！
-	Tooltip: 去找梅瑞娜領取你的獎勵吧！
+	DisplayName: 制作魔法纸张：任务完成！
+	Tooltip: 去找梅瑞娜领取你的奖励吧！
 }
 
 MakeUltimateScroll: {
-	DisplayName: 任務：製作終極卷軸
-	Tooltip: 最終測試！
+	DisplayName: 任务：制作终极卷轴
+	Tooltip: 最终测试！
 }
 
 OldCarianTome: {
-	DisplayName: 卡裏亞古籍
-	Tooltip: 其中湧出無盡的知識
+	DisplayName: 卡里亚古籍
+	Tooltip: 其中涌出无尽的知识
 }
 
 OrbOfTheMorrow: {
-	DisplayName: 幽曦古諭之心
-	Tooltip: 回蕩著歌瑟梵的聲音
+	DisplayName: 幽曦古谕之心
+	Tooltip: 回荡著歌瑟梵的声音
 }
 
 StolenMagicTome: {
-	DisplayName: 失竊的魔法書
-	Tooltip: 從皇家首都而來
+	DisplayName: 失窃的魔法书
+	Tooltip: 从皇家首都而来
 }
 
 TomeOfInfiniteSorcery: {
-	DisplayName: 萬法魔導書
-	Tooltip: 精通世間一切
+	DisplayName: 万法魔导书
+	Tooltip: 精通世间一切
 }
 
 AlcadThrowingCards: {
-	DisplayName: 阿爾卡迪亞飛牌
+	DisplayName: 阿尔卡迪亚飞牌
 	Tooltip: ""
 }
 
 OceanRuneI: {
-	DisplayName: 遠古符文
-	Tooltip: 也許吉婭會想要它？
+	DisplayName: 远古符文
+	Tooltip: 也许吉娅会想要它？
 }
 
 Starvast: {
-	DisplayName: 星瀚無垠
-	Tooltip: 召喚環繞周身的星辰，它們將自動追蹤並尋覓敵人！
+	DisplayName: 星瀚无垠
+	Tooltip: 召唤环绕周身的星辰，它们将自动追踪并寻觅敌人！
 }
 
 SawtoothNecklace: {
-	DisplayName: 鋸齒利牙項鏈
+	DisplayName: 锯齿利牙项链
 	Tooltip:
 		'''
-		增加12點盔甲穿透
-		我「鋸」知道會這樣！
+		增加12点盔甲穿透
+		我“锯”知道会这样！
 		'''
 }
 
 ShadowCloak: {
-	DisplayName: 影匿披風
+	DisplayName: 影匿披风
 	Tooltip:
 		'''
-		8防禦
-		+4%傷害減免
-		降低仇恨，接近你的敵人會被施加減益
+		8防御
+		+4%伤害减免
+		降低仇恨，接近你的敌人会被施加减益
 		融入暗影...
 		'''
 }
 
 VampireCharm: {
-	DisplayName: 吸血鬼護符
+	DisplayName: 吸血鬼护符
 	Tooltip:
 		'''
-		+4%暴擊率
-		暴擊有幾率爆發血水並且治療你
+		+4%暴击率
+		暴击有几率爆发血水并且治疗你
 		'''
 }
 
 BlossomingScissor: {
-	Tooltip: 本應是裁剪花海的藝術家，卻悲催地成為了一柄穿越萬難的利器
-	DisplayName: 綻花裁者
+	Tooltip: 本应是裁剪花海的艺术家，却悲催地成为了一柄穿越万难的利器
+	DisplayName: 绽花裁者
 }
 
 AltrideSlicer: {
-	Tooltip: 劍雨紛飛
-	DisplayName: 阿爾特萊德劍雨
+	Tooltip: 剑雨纷飞
+	DisplayName: 阿尔特莱德剑雨
 }
 
 MooningSlicer: {
-	Tooltip: 瑟萊西雅會為此感到驕傲
-	DisplayName: 月光劍雨
+	Tooltip: 瑟莱西雅会为此感到骄傲
+	DisplayName: 月光剑雨
 }
 
 EverneanSlicer: {
-	DisplayName: 永恒劍雨
-	Tooltip: 瑟萊西雅必將為此更添榮耀，璀璨奪目
+	DisplayName: 永恒剑雨
+	Tooltip: 瑟莱西雅必将为此更添荣耀，璀璨夺目
 }
 
 ShrineBridgetI: {
-	DisplayName: 布裏姬石壇
+	DisplayName: 布里姬石坛
 	Tooltip: ""
 }
 
 Bridget: {
-	DisplayName: 布裏姬
-	Tooltip: 布裏姬？她到底是誰？
+	DisplayName: 布里姬
+	Tooltip: 布里姬？她到底是谁？
 }
 
 Reavestor: {
-	DisplayName: 瑞維斯特
-	Tooltip: 靈魂吞噬者一號
+	DisplayName: 瑞维斯特
+	Tooltip: 灵魂吞噬者一号
 }
 
 FableKnives: {
-	DisplayName: 古諭小刀
-	Tooltip: 快把他們扔出去
+	DisplayName: 古谕小刀
+	Tooltip: 快把他们扔出去
 }
 
 ZthoKnives: {
-	DisplayName: 迅疾飛刃
-	Tooltip: 扔得更快，讓敵人無處可躲！
+	DisplayName: 迅疾飞刃
+	Tooltip: 扔得更快，让敌人无处可躲！
 }
 
 Thunderstaff: {
 	DisplayName: 雷霆法杖
 	Tooltip:
 		'''
-		召喚小雲朵守護你！
-		不同等級，雲朵攻擊各異
-		Lvl 1 - 冰霜飛彈凝寒氣
-		Lvl 2 - 閃電破空勢如虹
-		Lvl 3 - 漩渦卷天力無匹
+		召唤小云朵守护你！
+		不同等级，云朵攻击各异
+		Lvl 1 - 冰霜飞弹凝寒气
+		Lvl 2 - 闪电破空势如虹
+		Lvl 3 - 漩涡卷天力无匹
 		'''
 }
 
 LarveinScripute: {
-	DisplayName: 幽蛹靈卷
-	Tooltip: 一只小幼蟲，好萌啊！
+	DisplayName: 幽蛹灵卷
+	Tooltip: 一只小幼虫，好萌啊！
 }
 
 ArtisanBreastplate: {
-	DisplayName: 藝匠胸甲
+	DisplayName: 艺匠胸甲
 	Tooltip:
 		'''
-		別急，先把你自己裹得嚴嚴實實的.你可不想讓顏料濺到皮膚上吧？
-		+5%傷害
-		+5%暴擊率
+		别急，先把你自己裹得严严实实的.你可不想让颜料溅到皮肤上吧？
+		+5%伤害
+		+5%暴击率
 		+15最大生命值
-		藝術家的標配 :)
+		艺术家的标配 :)
 		'''
 }
 
 ArtisanMask: {
-	DisplayName: 藝匠假面
+	DisplayName: 艺匠假面
 	Tooltip:
 		'''
-		一邊畫畫一邊胡思亂想真是最有趣的消遣之一了
-		+5%傷害
-		+5%暴擊率
+		一边画画一边胡思乱想真是最有趣的消遣之一了
+		+5%伤害
+		+5%暴击率
 		+15最大生命值
-		看著不失性感，對吧？
+		看著不失性感，对吧？
 		'''
 }
 
 ArtisanThighs: {
-	DisplayName: 藝匠護腿
+	DisplayName: 艺匠护腿
 	Tooltip:
 		'''
-		寶貝兒，把大腿遮一下，要不然就有人要來抓你了:(
-		+20%移動速度
-		+5%傷害
+		宝贝儿，把大腿遮一下，要不然就有人要来抓你了:(
+		+20%移动速度
+		+5%伤害
 		+15最大生命值
-		在顏料上滑行，就像Splatoon一樣！
+		在颜料上滑行，就像Splatoon一样！
 		'''
 }
 
 ArtisanBar: {
-	DisplayName: 彩藝錠
-	Tooltip: 只有真正的藝術家才能駕馭它
+	DisplayName: 彩艺锭
+	Tooltip: 只有真正的艺术家才能驾驭它
 }
 
 KaleidoscopicInk: {
 	DisplayName: 虹彩幻墨
-	Tooltip: 神奇且烈性的藝匠墨水，還含有一絲迷幻劑...
+	Tooltip: 神奇且烈性的艺匠墨水，还含有一丝迷幻剂...
 }
 
 ArtistsHeart: {
-	DisplayName: 藝術家之心
-	Tooltip: 愛畫成癡，以畫為投！
+	DisplayName: 艺术家之心
+	Tooltip: 爱画成痴，以画为投！
 }
 
 InkingSpire: {
-	DisplayName: 繪空墨刃
-	Tooltip: 以墨水般的流暢與不朽之身，穿越敵軍如行雲流水！右鍵輕啟，覺醒墨舞者之『逆酸風暴』，以刃書寫戰鬥的華章！
+	DisplayName: 绘空墨刃
+	Tooltip: 以墨水般的流畅与不朽之身，穿越敌军如行云流水！右键轻启，觉醒墨舞者之‘逆酸风暴’，以刃书写战斗的华章！
 }
 
 PieceOfArt: {
 	DisplayName: 至炫墨彩
-	Tooltip: 揮灑彩墨，以畫布為戰場，創意為刃，繪出勝利的軌跡
+	Tooltip: 挥洒彩墨，以画布为战场，创意为刃，绘出胜利的轨迹
 }
 
 PicturePerfectI: {
 	DisplayName: 彩臻化境I
 	Tooltip:
 		'''
-		--初露鋒芒--
-		加強藝匠套裝
-		穿著藝匠套裝時獲得更多防禦（+5）
-		為所有彩藝武器增添1種新的顏料！
-		藝匠套裝獎勵持續時間稍微延長，增益稍微增加
-		讓他們知道什麽叫藝術！
-		召喚一只小攝像機，讓它拍下你的高光時刻！
+		--初露锋芒--
+		加强艺匠套装
+		穿著艺匠套装时获得更多防御（+5）
+		为所有彩艺武器增添1种新的颜料！
+		艺匠套装奖励持续时间稍微延长，增益稍微增加
+		让他们知道什么叫艺术！
+		召唤一只小摄像机，让它拍下你的高光时刻！
 		'''
 }
 
@@ -3912,12 +3912,12 @@ PicturePerfectII: {
 	Tooltip:
 		'''
 		--日升月恒--
-		大幅加強藝匠套裝
-		穿著藝匠套裝時獲得更多防禦（+10）
-		為所有彩藝武器增添1種新的顏料！
-		藝匠套裝獎勵持續時間中度延長，增益有所增加
-		哎呦，你穿這套可真帥氣！
-		召喚一只小攝像機，讓它拍下你的高光時刻！
+		大幅加强艺匠套装
+		穿著艺匠套装时获得更多防御（+10）
+		为所有彩艺武器增添1种新的颜料！
+		艺匠套装奖励持续时间中度延长，增益有所增加
+		哎呦，你穿这套可真帅气！
+		召唤一只小摄像机，让它拍下你的高光时刻！
 		'''
 }
 
@@ -3925,96 +3925,96 @@ PicturePerfectIII: {
 	DisplayName: 彩臻化境III
 	Tooltip:
 		'''
-		--白璧無瑕--
-		極度增強藝匠套裝
-		穿著藝匠套裝時獲得更多防禦（+25）
-		藝匠套裝獎勵持續時間大幅延長，增益大幅增加
-		終於，修至完美！
-		召喚一只小攝像機，讓它拍下你的高光時刻！
+		--白璧无瑕--
+		极度增强艺匠套装
+		穿著艺匠套装时获得更多防御（+25）
+		艺匠套装奖励持续时间大幅延长，增益大幅增加
+		终于，修至完美！
+		召唤一只小摄像机，让它拍下你的高光时刻！
 		'''
 }
 
 ShadeWraithWings: {
-	DisplayName: 幽靈影翼
-	Tooltip: 允許飛行與緩降
+	DisplayName: 幽灵影翼
+	Tooltip: 允许飞行与缓降
 }
 
 DirtWings: {
 	DisplayName: 泥土之翼
 	Tooltip:
 		'''
-		允許飛行與緩降
+		允许飞行与缓降
 		等..等下..你用..泥土做了翅膀？
-		你沒事吧？
+		你没事吧？
 		'''
 }
 
 BridgetII: {
-	DisplayName: 布裏姬的告別之劍
-	Tooltip: 你為何不讓她重獲新生？
+	DisplayName: 布里姬的告别之剑
+	Tooltip: 你为何不让她重获新生？
 }
 
 BlackWallBlock: {
 	DisplayName: 黑
-	Tooltip: 鐵粉都是黑的:)
+	Tooltip: 铁粉都是黑的:)
 }
 
 MossyStones: {
-	DisplayName: 生苔石頭
+	DisplayName: 生苔石头
 	Tooltip: ""
 }
 
 VeriplantGrassBlock: {
-	DisplayName: 殆綠草塊
+	DisplayName: 殆绿草块
 	Tooltip: ""
 }
 
 ChiseledStoneBlock: {
-	DisplayName: 雕琢石塊
+	DisplayName: 雕琢石块
 	Tooltip: ""
 }
 
 VeriplantDirtBlock: {
-	DisplayName: 殆綠土塊
+	DisplayName: 殆绿土块
 	Tooltip: ""
 }
 
 VeriplantGrassWall: {
-	DisplayName: 殆綠草墻
+	DisplayName: 殆绿草墙
 	Tooltip: ""
 }
 
 MiracleBody: {
-	DisplayName: 奇跡披風
+	DisplayName: 奇迹披风
 	Tooltip:
 		'''
-		+12%召喚傷害
-		+20%鞭子距離
-		+1最大哨兵數
+		+12%召唤伤害
+		+20%鞭子距离
+		+1最大哨兵数
 		'''
 }
 
 MiracleHead: {
-	DisplayName: 奇跡法帽
+	DisplayName: 奇迹法帽
 	Tooltip:
 		'''
-		+12%召喚傷害
-		+1最大哨兵數
+		+12%召唤伤害
+		+1最大哨兵数
 		'''
 }
 
 MiracleThread: {
-	DisplayName: 奇跡針線
-	Tooltip: 它所縫織的，乃是現實本身...
+	DisplayName: 奇迹针线
+	Tooltip: 它所缝织的，乃是现实本身...
 }
 
 MiracleWings: {
-	DisplayName: 奇跡之翼
+	DisplayName: 奇迹之翼
 	Tooltip:
 		'''
-		允許飛行與緩降
-		按住「下」鍵以懸停
-		看這翅膀的樣子...能飛起來就是個奇跡
+		允许飞行与缓降
+		按住“下”键以悬停
+		看这翅膀的样子...能飞起来就是个奇迹
 		'''
 }
 
@@ -4024,185 +4024,185 @@ Lacerator: {
 		'''
 		{$CommonItemTooltip.SummonTagDamage}
 		{$CommonItemTooltip.Whips}
-		這武器打中敵人後，敵人就像被切成兩半，血量和防禦都只剩下一半
-		真是切片切丁，爽快極了！
-		（漢化者註：對boss無效）
+		这武器打中敌人后，敌人就像被切成两半，血量和防御都只剩下一半
+		真是切片切丁，爽快极了！
+		（汉化者注：对boss无效）
 		'''
 }
 
 PotOfGreed: {
-	DisplayName: 貪欲之壺
+	DisplayName: 贪欲之壶
 	Tooltip:
 		'''
-		接近此壺，它會歡笑，為你的手下創造最多10個影子分身
-		這些影子雖不持久，但能造成傷害，只是略遜於本體
-		這神奇的壺，戰場上僅此一個，獨特無雙
+		接近此壶，它会欢笑，为你的手下创造最多10个影子分身
+		这些影子虽不持久，但能造成伤害，只是略逊于本体
+		这神奇的壶，战场上仅此一个，独特无双
 		'''
 }
 
 Ripper: {
 	DisplayName: 裂魂者
-	Tooltip: 召喚一場暗紫色的劍之風暴，撕裂空間，精準地向你的目標區域傾瀉而下！
+	Tooltip: 召唤一场暗紫色的剑之风暴，撕裂空间，精准地向你的目标区域倾泻而下！
 }
 
 XScissor: {
 	DisplayName: X
-	Tooltip: 召喚X字裂隙，喚起對虛空的恐懼
+	Tooltip: 召唤X字裂隙，唤起对虚空的恐惧
 }
 
 LittleScissor: {
 	DisplayName: 小巧裁影刃
 	Tooltip:
 		'''
-		雙擊方向鍵來快速沖刺！
-		沖刺時撕裂空間並留下追蹤能量
+		双击方向键来快速冲刺！
+		冲刺时撕裂空间并留下追踪能量
 		'''
 }
 
 SyliaBag: {
-	DisplayName: 寶藏袋（賽莉亞）
+	DisplayName: 宝藏袋（赛莉亚）
 	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 }
 
 SyliaBossRel: {
-	DisplayName: 賽莉亞聖物
+	DisplayName: 赛莉亚圣物
 	Tooltip: ""
 }
 
 SeavathanBlock: {
-	DisplayName: 賽瓦薩塊
+	DisplayName: 赛瓦萨块
 	Tooltip: ""
 }
 
 OldWeddingRing: {
 	DisplayName: 暗淡的婚戒
-	Tooltip: 肯定有人會喜歡這個的
+	Tooltip: 肯定有人会喜欢这个的
 }
 
 GrailBar: {
-	DisplayName: 礫金錠
-	Tooltip: 仿佛世間一切的金色都融進其中
+	DisplayName: 砾金锭
+	Tooltip: 仿佛世间一切的金色都融进其中
 }
 
 CelestiasWeddingRing: {
-	DisplayName: 瑟萊西雅的結婚戒指
+	DisplayName: 瑟莱西雅的结婚戒指
 	Tooltip:
 		'''
-		她愛我!她不愛我！
-		獲得旅者的行囊的效果
-		免疫擊退與巖漿！
-		+12%傷害
+		她爱我!她不爱我！
+		获得旅者的行囊的效果
+		免疫击退与岩浆！
+		+12%伤害
 		+12%盔甲穿透！
 		'''
 }
 
 STARCORE: {
 	DisplayName: 星 爆 之 核
-	Tooltip: 由最具毀滅性的轟炸機械掉落
+	Tooltip: 由最具毁灭性的轰炸机械掉落
 }
 
 BottleOfGrail: {
-	DisplayName: 礫金瓶
-	Tooltip: +1召喚欄，並附贈一個關不掉的星璇背景
+	DisplayName: 砾金瓶
+	Tooltip: +1召唤栏，并附赠一个关不掉的星璇背景
 }
 
 ReverieExtenderPowder: {
-	DisplayName: 魔法塵增效器·幻想
-	Tooltip: 增加130%的魔法塵距離
+	DisplayName: 魔法尘增效器·幻想
+	Tooltip: 增加130%的魔法尘距离
 }
 
 GrailedExtenderPowder: {
-	DisplayName: 魔法塵增效器·礫金
-	Tooltip: 增加250%的魔法塵距離
+	DisplayName: 魔法尘增效器·砾金
+	Tooltip: 增加250%的魔法尘距离
 }
 
 MidfortuneExtenderPowder: {
-	DisplayName: 魔法塵增效器·中和
-	Tooltip: 增加200%的魔法塵距離
+	DisplayName: 魔法尘增效器·中和
+	Tooltip: 增加200%的魔法尘距离
 }
 
 BonedThrowBroochA: {
-	DisplayName: 擲骨飾符
-	Tooltip: 增加20%投擲速度和傷害，增加移速！
+	DisplayName: 掷骨饰符
+	Tooltip: 增加20%投掷速度和伤害，增加移速！
 }
 
 LuckyWinnerBroochA: {
-	DisplayName: 賭神飾符
-	Tooltip: 引爆粉塵時有幾率造成雙倍傷害！
+	DisplayName: 赌神饰符
+	Tooltip: 引爆粉尘时有几率造成双倍伤害！
 }
 
 SandyBroochA: {
-	DisplayName: 風沙飾符
-	Tooltip: 雙擊下鍵來召喚龍卷風！
+	DisplayName: 风沙饰符
+	Tooltip: 双击下键来召唤龙卷风！
 }
 
 GrailHairpinYoyo: {
-	DisplayName: 礫金發簪球
-	Tooltip: 哇，這簡直爛透了！
+	DisplayName: 砾金发簪球
+	Tooltip: 哇，这简直烂透了！
 }
 
 StarringGraft: {
 	DisplayName: 星辰接引者
-	Tooltip: 把那些星星從地上撿起來吧
+	Tooltip: 把那些星星从地上捡起来吧
 }
 
 OceanicExtenderPowder: {
-	DisplayName: 魔法塵增效器·海洋
-	Tooltip: 增加150%的魔法塵距離
+	DisplayName: 魔法尘增效器·海洋
+	Tooltip: 增加150%的魔法尘距离
 }
 
 MorrowedJelliesBroochA: {
-	DisplayName: 幽曦水母飾符
-	Tooltip: 戴上它，你就是全村最肉的仔，再加40防禦！
+	DisplayName: 幽曦水母饰符
+	Tooltip: 戴上它，你就是全村最肉的仔，再加40防御！
 }
 
 BonedExtenderPowder: {
-	DisplayName: 魔法塵增效器·枯骨
-	Tooltip: 增加160%的魔法塵距離
+	DisplayName: 魔法尘增效器·枯骨
+	Tooltip: 增加160%的魔法尘距离
 }
 
 GremoryExtenderPowder: {
-	DisplayName: 魔法塵增效器·黯懼
-	Tooltip: 增加150%的魔法塵距離
+	DisplayName: 魔法尘增效器·黯惧
+	Tooltip: 增加150%的魔法尘距离
 }
 
 MushyExtenderPowder: {
-	DisplayName: 魔法塵增效器·混融
-	Tooltip: 增加180%的魔法塵距離
+	DisplayName: 魔法尘增效器·混融
+	Tooltip: 增加180%的魔法尘距离
 }
 
 TomedDustingFlames: {
-	DisplayName: 火焰魔法塵指南
-	Tooltip: 引爆某些魔法粉塵時產生火焰爆破
+	DisplayName: 火焰魔法尘指南
+	Tooltip: 引爆某些魔法粉尘时产生火焰爆破
 }
 
 TomedDustingMagic: {
-	DisplayName: 魔能魔法塵指南
-	Tooltip: 引爆魔法粉塵時有概率產生魔塵爆破
+	DisplayName: 魔能魔法尘指南
+	Tooltip: 引爆魔法粉尘时有概率产生魔尘爆破
 }
 
 JacksonPollock: {
-	DisplayName: 傑克遜·潑洛克
-	Tooltip: 召喚一桶漂浮的顏料，四處潑灑，繪出戰場的抽象畫卷
+	DisplayName: 杰克逊·泼洛克
+	Tooltip: 召唤一桶漂浮的颜料，四处泼洒，绘出战场的抽象画卷
 }
 
 Rhamenthal: {
-	DisplayName: 雷曼索織魔
-	Tooltip: 一弓織盡敵陣煙雲，萬敵於魔法之網中消散無蹤
+	DisplayName: 雷曼索织魔
+	Tooltip: 一弓织尽敌阵烟云，万敌于魔法之网中消散无踪
 }
 
 Angelenthal: {
-	DisplayName: 天谷聖劍
-	Tooltip: 右鍵扔出進行天谷爆破
+	DisplayName: 天谷圣剑
+	Tooltip: 右键扔出进行天谷爆破
 }
 
 RoseBroochA: {
-	DisplayName: 玫瑰飾符
-	Tooltip: 召喚一朵玫瑰護盾在你身邊旋轉，造成傷害並擋住來襲的彈幕
+	DisplayName: 玫瑰饰符
+	Tooltip: 召唤一朵玫瑰护盾在你身边旋转，造成伤害并挡住来袭的弹幕
 }
 
 Nekomara: {
-	DisplayName: 魔羅喵
+	DisplayName: 魔罗喵
 	Tooltip: ""
 }
 
@@ -4212,16 +4212,16 @@ Yumiko: {
 }
 
 FrostMonger: {
-	DisplayName: 寒霜劍影
-	Tooltip: 揮灑寒夜霜刃，光標所至，冰霜之威盡斬敵群！
+	DisplayName: 寒霜剑影
+	Tooltip: 挥洒寒夜霜刃，光标所至，冰霜之威尽斩敌群！
 }
 
 AlcadzianCard: {
-	DisplayName: 阿爾卡迪亞爆裂符牌
+	DisplayName: 阿尔卡迪亚爆裂符牌
 	Tooltip:
 		'''
-		以神秘粉末標記敵手
-		再以牌為引，引爆炫目爆炸，敵人在璀璨光芒中敗退
+		以神秘粉末标记敌手
+		再以牌为引，引爆炫目爆炸，敌人在璀璨光芒中败退
 		'''
 }
 
@@ -4229,35 +4229,35 @@ BOMBERCard: {
 	DisplayName: 爆破符牌
 	Tooltip:
 		'''
-		以神秘粉末標記敵手
-		切換此牌，長按攻擊，引爆連環爆炸，戰場瞬間化為火海
+		以神秘粉末标记敌手
+		切换此牌，长按攻击，引爆连环爆炸，战场瞬间化为火海
 		'''
 }
 
 BurningCard: {
-	DisplayName: 灼熱符牌
+	DisplayName: 灼热符牌
 	Tooltip:
 		'''
-		以神秘粉末標記敵手
-		長按攻擊按鈕，引爆標記，造成爆炸傷害
+		以神秘粉末标记敌手
+		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
 }
 
 FenixxCard: {
-	DisplayName: 緋琦符牌
+	DisplayName: 绯琦符牌
 	Tooltip:
 		'''
-		以神秘粉末標記敵手
-		長按攻擊按鈕，引爆標記，造成爆炸傷害
+		以神秘粉末标记敌手
+		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
 }
 
 GrailedCard: {
-	DisplayName: 礫金符牌
+	DisplayName: 砾金符牌
 	Tooltip:
 		'''
-		以神秘粉末標記敵手
-		長按攻擊按鈕，引爆標記，造成爆炸傷害
+		以神秘粉末标记敌手
+		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
 }
 
@@ -4265,8 +4265,8 @@ LarvaedCard: {
 	DisplayName: 幽蝶符牌
 	Tooltip:
 		'''
-		以神秘粉末標記敵手
-		長按攻擊按鈕，引爆標記，造成爆炸傷害
+		以神秘粉末标记敌手
+		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
 }
 
@@ -4274,177 +4274,177 @@ StyngerCard: {
 	DisplayName: 刺蜇符牒
 	Tooltip:
 		'''
-		以神秘粉末標記敵手
-		長按攻擊按鈕，引爆標記，造成爆炸傷害
+		以神秘粉末标记敌手
+		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
 }
 
 URift: {
-	DisplayName: 不穩定裂隙
+	DisplayName: 不稳定裂隙
 	Tooltip: ""
 }
 
 GrailAxe: {
-	DisplayName: 礫金斧
+	DisplayName: 砾金斧
 	Tooltip: ""
 }
 
 Rinavine: {
-	DisplayName: 翠焰長鞭刃
-	Tooltip: 金光璀璨，萬物臣服之君
+	DisplayName: 翠焰长鞭刃
+	Tooltip: 金光璀璨，万物臣服之君
 }
 
 Jerry: {
-	DisplayName: 傑瑞
+	DisplayName: 杰瑞
 	Tooltip: ""
 }
 
 LarvaedSpear: {
 	DisplayName: 幽蝶之矛
-	Tooltip: 幽蝶化身的長矛，威力不凡
+	Tooltip: 幽蝶化身的长矛，威力不凡
 }
 
 DevilsPeak: {
-	DisplayName: 緋焰魔鐮
-	Tooltip: 虛構之巔
+	DisplayName: 绯焰魔镰
+	Tooltip: 虚构之巅
 }
 
 ClockworkCity: {
-	DisplayName: 齒輪之城
+	DisplayName: 齿轮之城
 	Tooltip:
 		'''
-		這地方絕對不是遊戲裏最好的，輕咳兩聲，隱喻著不滿.
-		鎖鏈密布的世界，種下的不是希望，而是玩家心中的牢籠.
+		这地方绝对不是游戏里最好的，轻咳两声，隐喻著不满.
+		锁链密布的世界，种下的不是希望，而是玩家心中的牢笼.
 		'''
 }
 
 PotionOfAlcadWand: {
-	DisplayName: 阿爾卡迪亞靈液
-	Tooltip: 一用即享無邊歡樂
+	DisplayName: 阿尔卡迪亚灵液
+	Tooltip: 一用即享无边欢乐
 }
 
 ScissorianChestplate: {
 	DisplayName: 裁星者胸甲
 	Tooltip:
 		'''
-		+20%投擲暴擊率
+		+20%投掷暴击率
 		+15最大生命值
-		+10%投擲傷害
+		+10%投掷伤害
 		'''
 }
 
 ScissorianGreaves: {
-	DisplayName: 裁星者護腿
+	DisplayName: 裁星者护腿
 	Tooltip:
 		'''
-		增加移動速度
+		增加移动速度
 		+20最大生命值
-		+15%投擲傷害
+		+15%投掷伤害
 		'''
 }
 
 ScissorianMask: {
 	DisplayName: 裁星者面具
-	Tooltip: +20%投擲傷害
+	Tooltip: +20%投掷伤害
 }
 
 DarkButcher: {
 	DisplayName: 暗夜屠夫
-	Tooltip: 比屠夫更狠，暗夜中的絕對恐懼
+	Tooltip: 比屠夫更狠，暗夜中的绝对恐惧
 }
 
 TheButcher: {
 	DisplayName: 屠夫
-	Tooltip: 投擲能跟蹤敵人的屠刀
+	Tooltip: 投掷能跟踪敌人的屠刀
 }
 
 BookOfSkullsII: {
-	DisplayName: 顱骨秘典II
-	Tooltip: 哇哦，媽媽，這是第二版了！
+	DisplayName: 颅骨秘典II
+	Tooltip: 哇哦，妈妈，这是第二版了！
 }
 
 DreadGauntlets: {
-	DisplayName: 恐懼拳套
-	Tooltip: 發射令人恐懼的強大能量拳
+	DisplayName: 恐惧拳套
+	Tooltip: 发射令人恐惧的强大能量拳
 }
 
 ScytheOfSouls: {
-	DisplayName: 靈魂收割者
-	Tooltip: 隨心所欲地駕馭這些復仇的靈魂吧，它們的行徑可是出人意料的酷炫！
+	DisplayName: 灵魂收割者
+	Tooltip: 随心所欲地驾驭这些复仇的灵魂吧，它们的行径可是出人意料的酷炫！
 }
 
 BubbleBlasher: {
 	DisplayName: 泡泡爆破者
-	Tooltip: 一擊之下，敵人遠遁，此乃神兵之力！
+	Tooltip: 一击之下，敌人远遁，此乃神兵之力！
 }
 
 LarveinGreatbow: {
-	DisplayName: 幽蝶長弓
-	Tooltip: 挺厲害的，對吧？
+	DisplayName: 幽蝶长弓
+	Tooltip: 挺厉害的，对吧？
 }
 
 AlcarianYoyo: {
-	DisplayName: 阿卡裏亞之靈旋
-	Tooltip: 蘊藏阿卡裏亞秘能的悠悠球，它舞動間，隨性撒播著未知的彈射奇緣，每一次旋轉都是宇宙間最自由的詩篇
+	DisplayName: 阿卡里亚之灵旋
+	Tooltip: 蕴藏阿卡里亚秘能的悠悠球，它舞动间，随性撒播著未知的弹射奇缘，每一次旋转都是宇宙间最自由的诗篇
 }
 
 Alcadius: {
-	DisplayName: 阿爾卡迪亞
-	Tooltip: 驚喜連連，出其不意！
+	DisplayName: 阿尔卡迪亚
+	Tooltip: 惊喜连连，出其不意！
 }
 
 DungeonedRockCard: {
-	DisplayName: 地牢巖符牌
+	DisplayName: 地牢岩符牌
 	Tooltip:
 		'''
-		要麽被石頭砸中，要麽體驗一下『巨石』強森的威力，看哪個更有趣吧
-		長按攻擊按鈕，引爆標記，造成爆炸傷害
+		要么被石头砸中，要么体验一下‘巨石’强森的威力，看哪个更有趣吧
+		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
 }
 
 PunkedUpChops: {
-	DisplayName: 搖滾斷骨
-	Tooltip: 狂野擊打，如搖滾般放肆
+	DisplayName: 摇滚断骨
+	Tooltip: 狂野击打，如摇滚般放肆
 }
 
 Photobomb: {
-	DisplayName: 繽紛彩彈槍
-	Tooltip: 我來搞破壞，毀你美照；我來潑彩漆，給你添亂
+	DisplayName: 缤纷彩弹枪
+	Tooltip: 我来搞破坏，毁你美照；我来泼彩漆，给你添乱
 }
 
 CatacombAquaStoneBlock: {
-	DisplayName: 水之墓穴石塊
+	DisplayName: 水之墓穴石块
 	Tooltip: ""
 }
 
 CatacombHeatStoneBlock: {
-	DisplayName: 獄之墓穴石塊
+	DisplayName: 狱之墓穴石块
 	Tooltip: ""
 }
 
 CatacombTrapStoneBlock: {
-	DisplayName: 機關墓穴石塊
+	DisplayName: 机关墓穴石块
 	Tooltip: ""
 }
 
 CatacombsKey: {
-	DisplayName: 地下墓穴鑰匙
-	Tooltip: 使用它來進入位於海洋、沙漠、與地下的墓穴！
+	DisplayName: 地下墓穴钥匙
+	Tooltip: 使用它来进入位于海洋、沙漠、与地下的墓穴！
 }
 
 CatacombsDoor: {
-	DisplayName: 墓穴之門
+	DisplayName: 墓穴之门
 	Tooltip: ""
 }
 
 CatacombsSummoni: {
-	DisplayName: 墓穴祭壇
+	DisplayName: 墓穴祭坛
 	Tooltip: ""
 }
 
 GraftedSoul: {
-	DisplayName: 輻染之魂
-	Tooltip: 根植感染的精華..
+	DisplayName: 辐染之魂
+	Tooltip: 根植感染的精华..
 }
 
 GoldenHeartBalls: {
@@ -4453,73 +4453,73 @@ GoldenHeartBalls: {
 }
 
 Test: {
-	DisplayName: 測試物品
+	DisplayName: 测试物品
 	Tooltip: >:(
 }
 
 StarringBalls: {
 	DisplayName: 星辰球
-	Tooltip: 釋放星辰之力，星光環繞，化身為夜空的主宰
+	Tooltip: 释放星辰之力，星光环绕，化身为夜空的主宰
 }
 
 MagicalBroochA: {
-	DisplayName: 皇室首都的魔能飾符
+	DisplayName: 皇室首都的魔能饰符
 	Tooltip:
 		'''
-		看來你真想做個法師啊
+		看来你真想做个法师啊
 		+100最大魔力值，+50最大生命值
-		獲得魔法手銬與魔力花效果
-		減少95%魔力消耗，是的你沒看錯
-		+20%魔法傷害
+		获得魔法手铐与魔力花效果
+		减少95%魔力消耗，是的你没看错
+		+20%魔法伤害
 		'''
 }
 
 PotionOfHallowWand: {
-	DisplayName: 聖輝魔杖
+	DisplayName: 圣辉魔杖
 	Tooltip:
 		'''
-		召喚聖潔小仆，對敵降聖雨
-		酷似金輝之沐浴，傾瀉而下
+		召唤圣洁小仆，对敌降圣雨
+		酷似金辉之沐浴，倾泻而下
 		'''
 }
 
 AppretienceBreastplate: {
-	DisplayName: 學徒胸甲
-	Tooltip: +20%暴擊率與+5最大生命值！
+	DisplayName: 学徒胸甲
+	Tooltip: +20%暴击率与+5最大生命值！
 }
 
 AppretienceHat: {
-	DisplayName: 學徒兜帽
-	Tooltip: +20%暴擊率與最大生命值！
+	DisplayName: 学徒兜帽
+	Tooltip: +20%暴击率与最大生命值！
 }
 
 AppretiencePants: {
-	DisplayName: 學徒護腿
-	Tooltip: +20%暴擊率與最大生命值！
+	DisplayName: 学徒护腿
+	Tooltip: +20%暴击率与最大生命值！
 }
 
 UlvenChestplate: {
-	DisplayName: 鎢文胸甲
+	DisplayName: 钨文胸甲
 	Tooltip: +15盔甲穿透
 }
 
 UlvenGreaves: {
-	DisplayName: 鎢文護腿
+	DisplayName: 钨文护腿
 	Tooltip: +25盔甲穿透
 }
 
 UlvenHelmet: {
-	DisplayName: 鎢文頭盔
+	DisplayName: 钨文头盔
 	Tooltip: +20盔甲穿透
 }
 
 RottenHeart: {
 	DisplayName: 腐朽之心
-	Tooltip: 已經裂成碎片，完全腐朽.修復它，便是為歌瑟梵提供了又一道屏障...
+	Tooltip: 已经裂成碎片，完全腐朽.修复它，便是为歌瑟梵提供了又一道屏障...
 }
 
 IronHook: {
-	DisplayName: 鐵鉤
+	DisplayName: 铁钩
 	Tooltip: ""
 }
 
@@ -4529,70 +4529,70 @@ Kaevine: {
 }
 
 RalladI: {
-	DisplayName: 骨堆聖像
+	DisplayName: 骨堆圣像
 	Tooltip: ""
 }
 
 AgreviPowder: {
-	DisplayName: 阿格雷維魔法塵
+	DisplayName: 阿格雷维魔法尘
 	Tooltip:
 		'''
-		向他們投擲魔法塵並點燃
-		一種過一會兒才起效的爆炸性塵埃
-		用這個擊中敵人後，使用符牌引爆！
+		向他们投掷魔法尘并点燃
+		一种过一会儿才起效的爆炸性尘埃
+		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
 IllusionistPowder: {
-	DisplayName: 幻術師魔法塵
+	DisplayName: 幻术师魔法尘
 	Tooltip:
 		'''
-		向他們投擲魔法塵並點燃
-		一種提醒你要保護好自己的粉塵
-		用這個擊中敵人後，使用符牌引爆！
+		向他们投掷魔法尘并点燃
+		一种提醒你要保护好自己的粉尘
+		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
 PoisonedPowder: {
-	DisplayName: 毒霧魔法塵
+	DisplayName: 毒雾魔法尘
 	Tooltip:
 		'''
-		向他們投擲魔法塵並點燃
-		一種總在飄的毒塵
-		用這個擊中敵人後，使用符牌引爆！
+		向他们投掷魔法尘并点燃
+		一种总在飘的毒尘
+		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
 SpiritPowder: {
-	DisplayName: 靈體魔法塵
+	DisplayName: 灵体魔法尘
 	Tooltip:
 		'''
-		將魔法塵拋灑在它們身上，然後點燃
-		緋琦會因你這樣做而喜愛你
-		用這個擊中敵人後，使用符牌引爆！
+		将魔法尘抛洒在它们身上，然后点燃
+		绯琦会因你这样做而喜爱你
+		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
 TreasureBoxFire: {
-	DisplayName: 燃燼寶藏盒
+	DisplayName: 燃烬宝藏盒
 	Tooltip:
 		'''
 		{$CommonItemTooltip.RightClickToOpen}
-		你一定剛剛被燒了個半死吧
+		你一定刚刚被烧了个半死吧
 		'''
 }
 
 TreasureBoxTrap: {
-	DisplayName: 機關寶藏盒
+	DisplayName: 机关宝藏盒
 	Tooltip:
 		'''
 		{$CommonItemTooltip.RightClickToOpen}
-		恩~我保證它上面沒有陷阱呢~ ;)
+		恩~我保证它上面没有陷阱呢~ ;)
 		'''
 }
 
 TreasureBoxWater: {
-	DisplayName: 沈淪寶藏盒
+	DisplayName: 沉沦宝藏盒
 	Tooltip:
 		'''
 		{$CommonItemTooltip.RightClickToOpen}
@@ -4601,54 +4601,54 @@ TreasureBoxWater: {
 }
 
 AquaticEmblem: {
-	DisplayName: 水能紋章
+	DisplayName: 水能纹章
 	Tooltip:
 		'''
-		擊中敵人時有幾率召喚泡泡來包圍它們！
-		泡泡的持續時間很長
+		击中敌人时有几率召唤泡泡来包围它们！
+		泡泡的持续时间很长
 		'''
 }
 
 Barry: {
-	DisplayName: 刺兒盾
+	DisplayName: 刺儿盾
 	Tooltip:
 		'''
-		召喚一圈刺來保護你
-		人見人愛 :)
+		召唤一圈刺来保护你
+		人见人爱 :)
 		'''
 }
 
 Bonfire: {
-	DisplayName: 火燭靈
+	DisplayName: 火烛灵
 	Tooltip:
 		'''
-		在你頭頂上召喚一只火燭靈，它會增加你的生命再生並提供照明
-		在你不移動時效果更好！
+		在你头顶上召唤一只火烛灵，它会增加你的生命再生并提供照明
+		在你不移动时效果更好！
 		'''
 }
 
 Cleats: {
-	DisplayName: 釘鞋
-	Tooltip: 增加移動速度和加速度，並發出微弱光芒！
+	DisplayName: 钉鞋
+	Tooltip: 增加移动速度和加速度，并发出微弱光芒！
 }
 
 FireEmblem: {
-	DisplayName: 火焰紋章
+	DisplayName: 火焰纹章
 	Tooltip:
 		'''
-		你的攻擊同時造成隨機火焰減益
-		暴擊有幾率引發爆炸並灼燒敵人！
-		...你是不是以為這是別的什麽東西？（漢化者註：同名遊戲《火焰紋章》）
+		你的攻击同时造成随机火焰减益
+		暴击有几率引发爆炸并灼烧敌人！
+		...你是不是以为这是别的什么东西？（汉化者注：同名游戏《火焰纹章》）
 		'''
 }
 
 FlamecrestShield: {
-	DisplayName: 焰紋護盾
+	DisplayName: 焰纹护盾
 	Tooltip:
 		'''
-		免疫所有火焰類減益！
-		所有火焰類攻擊對你造成的傷害減半！
-		再來燒我呀~ :P
+		免疫所有火焰类减益！
+		所有火焰类攻击对你造成的伤害减半！
+		再来烧我呀~ :P
 		'''
 }
 
@@ -4656,152 +4656,152 @@ IcarusFeather: {
 	DisplayName: 伊卡洛斯之羽
 	Tooltip:
 		'''
-		即使飛行時間耗盡也可以繼續飛行！
-		...但如果你這麽做，你的翅膀會起火，灼燒生命並降低靈活性
-		（漢化者註：伊卡洛斯，古希臘神話人物，大發明家代達羅斯之子.兩人用代達羅斯造出的翅膀逃離監獄時，伊卡洛斯固定翅膀用的蠟被太陽融化，墜入海洋身亡）
+		即使飞行时间耗尽也可以继续飞行！
+		...但如果你这么做，你的翅膀会起火，灼烧生命并降低灵活性
+		（汉化者注：伊卡洛斯，古希腊神话人物，大发明家代达罗斯之子.两人用代达罗斯造出的翅膀逃离监狱时，伊卡洛斯固定翅膀用的蜡被太阳融化，坠入海洋身亡）
 		'''
 }
 
 OceancrestShield: {
-	DisplayName: 洋紋護盾
+	DisplayName: 洋纹护盾
 	Tooltip:
 		'''
-		每過一小會，就會出現泡泡保護你免受一次傷害！
-		無限的水下呼吸！
+		每过一小会，就会出现泡泡保护你免受一次伤害！
+		无限的水下呼吸！
 		'''
 }
 
 Panacea: {
-	DisplayName: 萬靈藥
+	DisplayName: 万灵药
 	Tooltip:
 		'''
-		免疫中毒，劇毒與流血！
+		免疫中毒，剧毒与流血！
 		+40最大生命值
 		'''
 }
 
 SpikedEmblem: {
-	DisplayName: 尖刺紋章
+	DisplayName: 尖刺纹章
 	Tooltip:
 		'''
-		+8%傷害
-		攻擊敵人時，伸出鎖鏈將其拉向你並造成額外傷害！
+		+8%伤害
+		攻击敌人时，伸出锁链将其拉向你并造成额外伤害！
 		'''
 }
 
 TyphoonInABottle: {
-	DisplayName: 瓶中臺風
+	DisplayName: 瓶中台风
 	Tooltip:
 		'''
-		獲得一個極其強力的二段跳！
-		稍微增加移速與跳躍速度
+		获得一个极其强力的二段跳！
+		稍微增加移速与跳跃速度
 		'''
 }
 
 WaterproofHeadphones: {
-	DisplayName: 防水耳機
-	Tooltip: +40最大生命值，+4%傷害減免
+	DisplayName: 防水耳机
+	Tooltip: +40最大生命值，+4%伤害减免
 }
 
 BurningFlask: {
 	DisplayName: 烈焰瓶
-	Tooltip: 可別連家一塊燒了...
+	Tooltip: 可别连家一块烧了...
 }
 
 ComicalTrident: {
 	DisplayName: 滑稽三叉戟
-	Tooltip: 史上最為逗趣的武器，笑傲戰場！
+	Tooltip: 史上最为逗趣的武器，笑傲战场！
 }
 
 MetalAlloy: {
-	DisplayName: 合金錠
-	Tooltip: 雖非材料，但在德國就不一定了
+	DisplayName: 合金锭
+	Tooltip: 虽非材料，但在德国就不一定了
 }
 
 Ragsaw: {
-	DisplayName: 舞動裂鋸
-	Tooltip: 它們輕盈跳躍，仿佛歡快舞蹈
+	DisplayName: 舞动裂锯
+	Tooltip: 它们轻盈跳跃，仿佛欢快舞蹈
 }
 
 SpiritCapsule: {
 	DisplayName: 封魂瓶
-	Tooltip: 不知何故，萬千靈魂被囚禁於內
+	Tooltip: 不知何故，万千灵魂被囚禁于内
 }
 
 Stonen: {
 	DisplayName: 石
-	Tooltip: 別先自陷石化的命運
+	Tooltip: 别先自陷石化的命运
 }
 
 Aquamare: {
-	DisplayName: 海藍之心
-	Tooltip: 或許效果多變！
+	DisplayName: 海蓝之心
+	Tooltip: 或许效果多变！
 }
 
 MagicalAxe: {
 	DisplayName: 魔法斧
-	Tooltip: 這把斧頭太神奇了，它把自己變成了「酷炫」的斧頭！
+	Tooltip: 这把斧头太神奇了，它把自己变成了“酷炫”的斧头！
 }
 
 WaterSong: {
 	DisplayName: 流歌
-	Tooltip: 將木箭化為冰霜飛矢！
+	Tooltip: 将木箭化为冰霜飞矢！
 }
 
 Dulahaun: {
-	DisplayName: 世界坍縮-裂宇劍
+	DisplayName: 世界坍缩-裂宇剑
 	Tooltip:
 		'''
-		在超新星的輝煌余燼中，兩柄劍以引力為引，碰撞交織
-		釋放宇宙之力，編織著時空的裂痕，既是毀滅亦是新生的序章.
+		在超新星的辉煌余烬中，两柄剑以引力为引，碰撞交织
+		释放宇宙之力，编织著时空的裂痕，既是毁灭亦是新生的序章.
 		'''
 }
 
 CursedShard: {
-	DisplayName: 詛咒殘片
-	Tooltip: 在三個地下墓穴的任一的祭壇處使用以召喚一名危險的敵人！
+	DisplayName: 诅咒残片
+	Tooltip: 在三个地下墓穴的任一的祭坛处使用以召唤一名危险的敌人！
 }
 
 DucanblitzBreastplate: {
-	DisplayName: 靈金閃襲胸甲
+	DisplayName: 灵金闪袭胸甲
 	Tooltip:
 		'''
 		+10最大生命值
-		+10%近戰傷害！
+		+10%近战伤害！
 		'''
 }
 
 DucanblitzCap: {
-	DisplayName: 靈金閃襲軍帽
+	DisplayName: 灵金闪袭军帽
 	Tooltip:
 		'''
-		+10%暴擊率
-		+12%近戰傷害！
+		+10%暴击率
+		+12%近战伤害！
 		'''
 }
 
 DucanblitzThighs: {
-	DisplayName: 靈金閃襲護脛
+	DisplayName: 灵金闪袭护胫
 	Tooltip:
 		'''
-		跑得飛快！
+		跑得飞快！
 		+10最大生命值
 		+15盔甲穿透
-		+2%近戰傷害！
+		+2%近战伤害！
 		'''
 }
 
 FenixBag: {
-	DisplayName: 寶藏袋（緋琦）
+	DisplayName: 宝藏袋（绯琦）
 	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 }
 
 EldritchianCloak: {
-	DisplayName: 幽古鬥篷
+	DisplayName: 幽古斗篷
 	Tooltip:
 		'''
-		+12%投擲速度
-		+16%投擲傷害
+		+12%投掷速度
+		+16%投掷伤害
 		稍微增加生命再生
 		'''
 }
@@ -4810,19 +4810,19 @@ EldritchianHood: {
 	DisplayName: 幽古兜帽
 	Tooltip:
 		'''
-		+10%投擲速度
-		+20%投擲傷害
-		稍微提升視野
+		+10%投掷速度
+		+20%投掷伤害
+		稍微提升视野
 		'''
 }
 
 EldritchianLegs: {
-	DisplayName: 幽古護脛
+	DisplayName: 幽古护胫
 	Tooltip:
 		'''
-		+8%投擲速度
-		+23%投擲傷害
-		稍微增加移動速度
+		+8%投掷速度
+		+23%投掷伤害
+		稍微增加移动速度
 		'''
 }
 
@@ -4830,84 +4830,84 @@ StickOfWisdom: {
 	DisplayName: 智慧之杖
 	Tooltip:
 		'''
-		可能對法師和召喚師有用！
-		拿著它讓你充滿了智慧...應該是吧
+		可能对法师和召唤师有用！
+		拿著它让你充满了智慧...应该是吧
 		'''
 }
 
 ChiseledSandstone: {
 	Tooltip: ""
-	DisplayName: 雕琢砂巖
+	DisplayName: 雕琢砂岩
 }
 
 VeiizalsUmbrella: {
-	DisplayName: 維依佐之傘
+	DisplayName: 维依佐之伞
 	Tooltip: ""
 }
 
 AnotherRock: {
-	DisplayName: 只是一塊石頭
-	Tooltip: 使用它以深入地下，去往古老守衛者的居所
+	DisplayName: 只是一块石头
+	Tooltip: 使用它以深入地下，去往古老守卫者的居所
 }
 
 AlcaricQuiver: {
-	DisplayName: 阿爾卡迪亞魔箭袋
+	DisplayName: 阿尔卡迪亚魔箭袋
 	Tooltip:
 		'''
-		將木箭轉化為虛能箭
-		虛能箭飛得更快，傷害更高，而且會爆炸！
+		将木箭转化为虚能箭
+		虚能箭飞得更快，伤害更高，而且会爆炸！
 		'''
 }
 
 BlackRose: {
-	DisplayName: 黑薔薇
-	Tooltip: 使用魔力藥水不會造成魔力病，但會對自己造成輕微傷害
+	DisplayName: 黑蔷薇
+	Tooltip: 使用魔力药水不会造成魔力病，但会对自己造成轻微伤害
 }
 
 LittleWand: {
-	DisplayName: 平平無奇的小木棍
+	DisplayName: 平平无奇的小木棍
 	Tooltip:
 		'''
-		能用它施放什麽魔法呢...？
-		只有最強的巫師才能使用它
+		能用它施放什么魔法呢...？
+		只有最强的巫师才能使用它
 		'''
 }
 
 WindedQuiver: {
-	DisplayName: 迅風箭袋
-	Tooltip: 將木箭轉化為迅風箭，可以穿透敵人！
+	DisplayName: 迅风箭袋
+	Tooltip: 将木箭转化为迅风箭，可以穿透敌人！
 }
 
 AimacraWig: {
-	DisplayName: 安魅凱拉的假發
-	Tooltip: 很適合扮成安魅凱拉（來自作者的遊戲Diari），同時給予+50最大生命值！
+	DisplayName: 安魅凯拉的假发
+	Tooltip: 很适合扮成安魅凯拉（来自作者的游戏Diari），同时给予+50最大生命值！
 }
 
 WindmillionBoots: {
-	DisplayName: 風車靴
+	DisplayName: 风车靴
 	Tooltip:
 		'''
-		+10%移動速度
-		+10%投擲傷害
+		+10%移动速度
+		+10%投掷伤害
 		'''
 }
 
 WindmillionHat: {
-	DisplayName: 風車帽
+	DisplayName: 风车帽
 	Tooltip:
 		'''
 		+10最大生命值！
-		+10%投擲暴擊率
-		+10%投擲傷害
+		+10%投掷暴击率
+		+10%投掷伤害
 		'''
 }
 
 WindmillionRobe: {
-	DisplayName: 風車袍
+	DisplayName: 风车袍
 	Tooltip:
 		'''
-		+2%投擲暴擊率
-		帥到起風~
+		+2%投掷暴击率
+		帅到起风~
 		'''
 }
 
@@ -4915,245 +4915,245 @@ VampiricVine: {
 	DisplayName: 吸血藤蔓
 	Tooltip:
 		'''
-		終於要上場了？
-		隨機射出吸血箭，一箭陣中，你便得愈
+		终于要上场了？
+		随机射出吸血箭，一箭阵中，你便得愈
 		'''
 }
 
 WindmillShuriken: {
-	DisplayName: 風車手裏劍
-	Tooltip: 風車般旋轉的手裏劍，不是用來拯救俄亥俄總統的
+	DisplayName: 风车手里剑
+	Tooltip: 风车般旋转的手里剑，不是用来拯救俄亥俄总统的
 }
 
 PerfectionStaff: {
-	Tooltip: 發射能跟蹤敵人的護身射彈
+	Tooltip: 发射能跟踪敌人的护身射弹
 	DisplayName: 完美法杖
 }
 
 XixianFlask: {
 	DisplayName: 希克斯之瓶
-	Tooltip: 由蕊與聖巫們傳承下來的寶物！需要召喚瓶內容物來灌滿才能使用！
+	Tooltip: 由蕊与圣巫们传承下来的宝物！需要召唤瓶内容物来灌满才能使用！
 }
 
 VitalityInsource: {
 	Tooltip:
 		'''
-		40秒鐘冷卻！
-		回復102生命與魔力
-		給予蜂蜜增益！
+		40秒钟冷却！
+		回复102生命与魔力
+		给予蜂蜜增益！
 		'''
-	DisplayName: 瓶內容物·活力
+	DisplayName: 瓶内容物·活力
 }
 
 HealthyInsource: {
 	Tooltip:
 		'''
-		40秒鐘冷卻！
-		回復35生命
+		40秒钟冷却！
+		回复35生命
 		'''
-	DisplayName: 瓶內容物·生命
+	DisplayName: 瓶内容物·生命
 }
 
 FloweredInsource: {
-	DisplayName: 瓶內容物·繁花
+	DisplayName: 瓶内容物·繁花
 	Tooltip:
 		'''
-		20秒鐘冷卻！
-		冷卻期間增加10防禦力
-		短時間增加50%攻擊速度
-		身後留下陰影軌跡！
+		20秒钟冷却！
+		冷却期间增加10防御力
+		短时间增加50%攻击速度
+		身后留下阴影轨迹！
 		'''
 }
 
 VialedInsource: {
-	DisplayName: 瓶內容物·幽曦秘藥
+	DisplayName: 瓶内容物·幽曦秘药
 	Tooltip:
 		'''
-		20秒鐘冷卻！
-		下落速度變為三倍
-		免疫摔落傷害
-		跳躍增強！
-		+40%移動速度
-		身後留下幽曦軌跡！
+		20秒钟冷却！
+		下落速度变为三倍
+		免疫摔落伤害
+		跳跃增强！
+		+40%移动速度
+		身后留下幽曦轨迹！
 		'''
 }
 
 EpsidonInsource: {
 	Tooltip:
 		'''
-		40秒鐘冷卻！
-		獲得20秒鐵皮、敏捷與蜂蜜效果！
-		回復200生命！
+		40秒钟冷却！
+		获得20秒铁皮、敏捷与蜂蜜效果！
+		回复200生命！
 		'''
-	DisplayName: 瓶內容物·奇跡
+	DisplayName: 瓶内容物·奇迹
 }
 
 CogBomber: {
-	DisplayName: 齒輪爆裂者
+	DisplayName: 齿轮爆裂者
 	Tooltip:
 		'''
-		發射微縮的核彈，爆炸後化作數不清的小火苗，四處蔓延
-		就像一場煙火的盛宴，絢爛而短暫，讓人不禁驚呼「嘭」！ 
+		发射微缩的核弹，爆炸后化作数不清的小火苗，四处蔓延
+		就像一场烟火的盛宴，绚烂而短暂，让人不禁惊呼“嘭”！ 
 		'''
 }
 
 GearGutter: {
-	DisplayName: 機巧幽谷
+	DisplayName: 机巧幽谷
 	Tooltip:
 		'''
-		疾風穿雲，鐵線銀針，破空無痕，穿刺永恒！
-		咕噠咕噠咕噠，機簧輕響，奏響死亡的前奏！
+		疾风穿云，铁线银针，破空无痕，穿刺永恒！
+		咕哒咕哒咕哒，机簧轻响，奏响死亡的前奏！
 		'''
 }
 
 TheTingler: {
-	DisplayName: 顫栗尖刺
+	DisplayName: 颤栗尖刺
 	Tooltip:
 		'''
-		射出微小的鐵針，紮進敵人，慢慢造成傷害！
-		這的確是讓人體驗顫栗的一種方式
+		射出微小的铁针，扎进敌人，慢慢造成伤害！
+		这的确是让人体验颤栗的一种方式
 		'''
 }
 
 KnivedQuiver: {
 	DisplayName: 利刃箭袋
-	Tooltip: 將木箭轉化為飛刀，即高速又穿透！
+	Tooltip: 将木箭转化为飞刀，即高速又穿透！
 }
 
 LifeSeekingVial: {
-	DisplayName: 生命尋蹤瓶
-	Tooltip: 向敵人投擲，回復少量生命！
+	DisplayName: 生命寻踪瓶
+	Tooltip: 向敌人投掷，回复少量生命！
 }
 
 GraftedWaxMelter: {
-	DisplayName: 焰火熔蠟器
-	Tooltip: 讓這戰場變成絢爛的煙火派對，讓敵人在燃燒的盛宴中消逝
+	DisplayName: 焰火熔蜡器
+	Tooltip: 让这战场变成绚烂的烟火派对，让敌人在燃烧的盛宴中消逝
 }
 
 AlcadBomb: {
-	DisplayName: 阿爾卡迪黑洞爆彈
+	DisplayName: 阿尔卡迪黑洞爆弹
 	Tooltip:
 		'''
-		引導可控黑洞，吞噬一切
-		敵人無處遁形，盡數被吸入無盡深淵
+		引导可控黑洞，吞噬一切
+		敌人无处遁形，尽数被吸入无尽深渊
 		'''
 }
 
 CompletedFlowerBag: {
-	DisplayName: 裝滿的花卉袋
-	Tooltip: 把這個拿給蕊，領取你的獎勵吧！
+	DisplayName: 装满的花卉袋
+	Tooltip: 把这个拿给蕊，领取你的奖励吧！
 }
 
 EmptyFlowerBag: {
 	DisplayName: 空的花卉袋
-	Tooltip: 愛你喲~努力吧！用各種花朵填滿這個袋子
+	Tooltip: 爱你哟~努力吧！用各种花朵填满这个袋子
 }
 
 BurnedCarianTome: {
-	DisplayName: 焦黑星咒書
-	Tooltip: 施放猛烈追蹤敵人並猛烈攻擊的黑色星辰！
+	DisplayName: 焦黑星咒书
+	Tooltip: 施放猛烈追踪敌人并猛烈攻击的黑色星辰！
 }
 
 EmptyCollectorsBag: {
 	DisplayName: 空的收藏袋
-	Tooltip: 完事後別忘了收拾廢料，你懂的
+	Tooltip: 完事后别忘了收拾废料，你懂的
 }
 
 CinderedLantern: {
-	DisplayName: 灰燼燈籠
-	Tooltip: 連續發射火焰導彈
+	DisplayName: 灰烬灯笼
+	Tooltip: 连续发射火焰导弹
 }
 
 Combuster: {
 	DisplayName: 火爆核心
-	Tooltip: 在你光標周圍製造熾熱的爆炸！最終匯聚成巨大的轟鳴！
+	Tooltip: 在你光标周围制造炽热的爆炸！最终汇聚成巨大的轰鸣！
 }
 
 WitchenRobe: {
 	Tooltip:
 		'''
-		+5%魔法暴擊率和最大生命值
-		+20%魔法傷害
-		將他們卷入其中！
+		+5%魔法暴击率和最大生命值
+		+20%魔法伤害
+		将他们卷入其中！
 		'''
-	DisplayName: 巫術法袍
+	DisplayName: 巫术法袍
 }
 
 WitchenPants: {
 	Tooltip:
 		'''
-		+30%移動速度
+		+30%移动速度
 		+20最大生命值
 		'''
-	DisplayName: 巫術護腿
+	DisplayName: 巫术护腿
 }
 
 WitchenHat: {
 	Tooltip:
 		'''
-		+3%魔法傷害
-		+10%魔法暴擊率
+		+3%魔法伤害
+		+10%魔法暴击率
 		'''
-	DisplayName: 巫術法帽
+	DisplayName: 巫术法帽
 }
 
 IceClimbers: {
-	DisplayName: 極地攀登靴
-	Tooltip: 可爬墻，溜冰，且+10最大生命值！
+	DisplayName: 极地攀登靴
+	Tooltip: 可爬墙，溜冰，且+10最大生命值！
 }
 
 MoltenScrap: {
 	DisplayName: 熔火碎片
-	Tooltip: 在那片地底深處的燼土默默燃燒
+	Tooltip: 在那片地底深处的烬土默默燃烧
 }
 
 VehementRhapsody: {
 	DisplayName: 激昂狂想曲
-	Tooltip: 不擅音律，召喚越多，傷害越強
+	Tooltip: 不擅音律，召唤越多，伤害越强
 }
 
 VeilScriptureI: {
-	DisplayName: 天紗聖典 I
+	DisplayName: 天纱圣典 I
 	Tooltip: ""
 }
 
 EckasectSire: {
-	DisplayName: 聖裁者艾克薩
+	DisplayName: 圣裁者艾克萨
 	Tooltip:
 		'''
-		希絲忒莉亞心愛，澤諾維亞手創
-		一器三式，獨特能力切換，耗藍二十
-		擊敵留色標，辨色施技，威力駭人
-		起源綠芒，彈雨灑落，範圍殺敵
-		解放者紫，精準狙擊，一擊斃命
-		製裁橙光，激光橫掃，面傷連綿
-		辨色施技，各顯神通，戰場主宰
-		一劍三變，威力無邊，聖裁者艾克薩
+		希丝忒莉亚心爱，泽诺维亚手创
+		一器三式，独特能力切换，耗蓝二十
+		击敌留色标，辨色施技，威力骇人
+		起源绿芒，弹雨洒落，范围杀敌
+		解放者紫，精准狙击，一击毙命
+		制裁橙光，激光横扫，面伤连绵
+		辨色施技，各显神通，战场主宰
+		一剑三变，威力无边，圣裁者艾克萨
 		'''
 }
 
 TheTraumatizer: {
-	DisplayName: 創痕鐳槍
-	Tooltip: 扇形激光，傷敵刻骨，創傷與記憶同在
+	DisplayName: 创痕镭枪
+	Tooltip: 扇形激光，伤敌刻骨，创伤与记忆同在
 }
 
 FloweredCard: {
 	DisplayName: 繁花符牌
 	Tooltip:
 		'''
-		這是點燃粉末與塵埃的引子
-		從銀河深處而來，點燃宇宙的火花
-		長按攻擊按鈕，引爆標記，造成爆炸傷害
+		这是点燃粉末与尘埃的引子
+		从银河深处而来，点燃宇宙的火花
+		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
 }
 
 MetallianCard: {
-	DisplayName: 金屬符牌
+	DisplayName: 金属符牌
 	Tooltip:
 		'''
-		這是點燃粉末與塵埃的引子
-		從銀河深處而來，點燃宇宙的火花
-		長按攻擊按鈕，引爆標記，造成爆炸傷害
+		这是点燃粉末与尘埃的引子
+		从银河深处而来，点燃宇宙的火花
+		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
 }
 
@@ -5161,63 +5161,63 @@ ZuiCard: {
 	DisplayName: 蕊之符牌
 	Tooltip:
 		'''
-		這是點燃粉末與塵埃的引子
-		從銀河深處而來，點燃宇宙的火花
-		長按攻擊按鈕，引爆標記，造成爆炸傷害
+		这是点燃粉末与尘埃的引子
+		从银河深处而来，点燃宇宙的火花
+		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
 }
 
 CinderedQuiver: {
-	DisplayName: 燼火箭袋
-	Tooltip: 將木箭轉化為獄炎箭，增加7點傷害！
+	DisplayName: 烬火箭袋
+	Tooltip: 将木箭转化为狱炎箭，增加7点伤害！
 }
 
 TheWiggler: {
-	DisplayName: 蠕動粘彈
+	DisplayName: 蠕动粘弹
 	Tooltip:
 		'''
-		發射粘稠團塊，吸附於敵我之間！
-		右鍵引爆，粘液肆意蔓延
-		它滑膩、黏著，無孔不入，讓人抓狂
+		发射粘稠团块，吸附于敌我之间！
+		右键引爆，粘液肆意蔓延
+		它滑腻、黏著，无孔不入，让人抓狂
 		'''
 }
 
 CompletedCollectorsBag: {
-	DisplayName: 裝滿的收藏袋
-	Tooltip: 把這個拿給蕊，領取你的獎勵吧！
+	DisplayName: 装满的收藏袋
+	Tooltip: 把这个拿给蕊，领取你的奖励吧！
 }
 
 ArncharSuperCharger: {
-	DisplayName: 赤鐵強力充能器
-	Tooltip: 極大增強赤鐵武器與工具！
+	DisplayName: 赤铁强力充能器
+	Tooltip: 极大增强赤铁武器与工具！
 }
 
 CinderChesti: {
-	DisplayName: 燼火箱
+	DisplayName: 烬火箱
 	Tooltip: ""
 }
 
 FlameBuster: {
-	DisplayName: 烈焰破曉
+	DisplayName: 烈焰破晓
 	Tooltip:
 		'''
-		彈雨傾瀉，如疾風驟雨掃過戰場
-		時日推移，武器愈加速，終將噴射火球，化為熾烈風暴!
+		弹雨倾泻，如疾风骤雨扫过战场
+		时日推移，武器愈加速，终将喷射火球，化为炽烈风暴!
 		'''
 }
 
 DrakonicBlock: {
-	DisplayName: 德拉科尼塊
+	DisplayName: 德拉科尼块
 	Tooltip: ""
 }
 
 DrakonicCageI: {
-	DisplayName: 德拉科尼籠
+	DisplayName: 德拉科尼笼
 	Tooltip: ""
 }
 
 DrakonicHallI: {
-	DisplayName: 德拉科尼大廳
+	DisplayName: 德拉科尼大厅
 	Tooltip: ""
 }
 
@@ -5227,22 +5227,22 @@ DrakonicSileI: {
 }
 
 MiniPistol: {
-	DisplayName: 雙響炮
+	DisplayName: 双响炮
 	Tooltip:
 		'''
-		連發雙彈，火力加倍！
-		隨時間加速，愈戰愈勇
+		连发双弹，火力加倍！
+		随时间加速，愈战愈勇
 		'''
 }
 
 SnowWalkerItem: {
 	Tooltip: ""
-	DisplayName: 雪行蟲
+	DisplayName: 雪行虫
 }
 
 SandWalkerItem: {
 	Tooltip: ""
-	DisplayName: 沙行蟲
+	DisplayName: 沙行虫
 }
 
 Vulcanius: {
@@ -5251,269 +5251,269 @@ Vulcanius: {
 }
 
 CinderedCard: {
-	DisplayName: 灰燼符牌
+	DisplayName: 灰烬符牌
 	Tooltip: ""
 }
 
 VeroshotBow: {
-	DisplayName: 真語弓
+	DisplayName: 真语弓
 	Tooltip: ""
 }
 
 AzaleanChestplate: {
 	DisplayName: Azalean的胸甲
-	Tooltip: 一名開發者(Azza)給了你這套裝備... 以及+12%遠程傷害！
+	Tooltip: 一名开发者(Azza)给了你这套装备... 以及+12%远程伤害！
 }
 
 AzaleanHat: {
 	DisplayName: Azalean的帽子
-	Tooltip: 一名開發者(Azza)給了你這套裝備！
+	Tooltip: 一名开发者(Azza)给了你这套装备！
 }
 
 AzaleanLeggings: {
-	DisplayName: Azalean的護腿
-	Tooltip: 一名開發者(Azza)給了你這套裝備！
+	DisplayName: Azalean的护腿
+	Tooltip: 一名开发者(Azza)给了你这套装备！
 }
 
 SolarianChestplate: {
 	DisplayName: Scolon胸甲
-	Tooltip: 一名開發者（Scolon）給了你這套裝備... 以及+1仆從欄！
+	Tooltip: 一名开发者（Scolon）给了你这套装备... 以及+1仆从栏！
 }
 
 SolarianHat: {
-	DisplayName: Scolon頭盔
-	Tooltip: 一名開發者（Scolon）給了你這套裝備！
+	DisplayName: Scolon头盔
+	Tooltip: 一名开发者（Scolon）给了你这套装备！
 }
 
 SolarianPants: {
-	DisplayName: Scolon護腿
-	Tooltip: 一名開發者（Scolon）給了你這套裝備！
+	DisplayName: Scolon护腿
+	Tooltip: 一名开发者（Scolon）给了你这套装备！
 }
 
 IyxTheInfamous: {
-	DisplayName: 灰燼之影伊克斯
-	Tooltip: 從燼灰勇士的隕落，到世界魔力的混沌，這把武器在久遠的歲月裏，早已迷失
+	DisplayName: 灰烬之影伊克斯
+	Tooltip: 从烬灰勇士的陨落，到世界魔力的混沌，这把武器在久远的岁月里，早已迷失
 }
 
 PoisonedAngel: {
 	DisplayName: 毒翼天使
-	Tooltip: 這不是燃翼天使，而是散播毒素的使者！能隨你光標而動
+	Tooltip: 这不是燃翼天使，而是散播毒素的使者！能随你光标而动
 }
 
 YuriFury: {
-	DisplayName: 尤裏之怒
-	Tooltip: 射擊永恒之火鳥，燃燼時空
+	DisplayName: 尤里之怒
+	Tooltip: 射击永恒之火鸟，燃烬时空
 }
 
 ToxicHornetStaff: {
 	DisplayName: 毒刺蜂杖
-	Tooltip: 召喚毒刺蜂追擊敵人！
+	Tooltip: 召唤毒刺蜂追击敌人！
 }
 
 ZenoviasPikpikGlove: {
 	DisplayName: Zenovia的皮克罐
 	Tooltip:
 		'''
-		將皮克敏散布大地，無論何地，皆可為戰.
-		添洋蔥為配件，增傷強身，成就超凡！
-		（譯者註：Zenovia是此mod的首席開發者）
+		将皮克敏散布大地，无论何地，皆可为战.
+		添洋葱为配件，增伤强身，成就超凡！
+		（译者注：Zenovia是此mod的首席开发者）
 		'''
 }
 
 OnionOfUselessness: {
 	Tooltip:
 		'''
-		在你的皮克罐中加入黃色與藍色皮克敏！
-		為你的皮克敏+11傷害
+		在你的皮克罐中加入黄色与蓝色皮克敏！
+		为你的皮克敏+11伤害
 		'''
-	DisplayName: 無用洋蔥
+	DisplayName: 无用洋葱
 }
 
 OnionOfStrength: {
 	Tooltip:
 		'''
-		在你的皮克罐中加入黃色、藍色、白色和紫色皮克敏！
-		為你的皮克敏+70傷害
+		在你的皮克罐中加入黄色、蓝色、白色和紫色皮克敏！
+		为你的皮克敏+70伤害
 		'''
-	DisplayName: 力量洋蔥
+	DisplayName: 力量洋葱
 }
 
 OnionOfSight: {
 	Tooltip:
 		'''
-		在你的皮克罐中加入黃色、藍色和白色皮克敏！
-		為你的皮克敏+30傷害
+		在你的皮克罐中加入黄色、蓝色和白色皮克敏！
+		为你的皮克敏+30伤害
 		'''
-	DisplayName: 視力洋蔥
+	DisplayName: 视力洋葱
 }
 
 OnionOfHeight: {
 	Tooltip:
 		'''
-		在你的皮克罐中加入黃色皮克敏！
-		為你的皮克敏+5傷害
+		在你的皮克罐中加入黄色皮克敏！
+		为你的皮克敏+5伤害
 		'''
-	DisplayName: 高度洋蔥
+	DisplayName: 高度洋葱
 }
 
 TheAurora: {
-	DisplayName: 星界沖擊
-	Tooltip: 以智慧之光，駕馭極光，爆發沖擊！
+	DisplayName: 星界冲击
+	Tooltip: 以智慧之光，驾驭极光，爆发冲击！
 }
 
 ChromaCutter: {
-	DisplayName: 七色劍刃
+	DisplayName: 七色剑刃
 	Tooltip:
 		'''
-		召喚七把色彩各異的利劍為你效勞！使用時將耗盡所有剩余的召喚槽
-		劍刃出，隨你劍鋒所指，斬向敵人
-		每把刃都有獨特效果，炫目又致命！
+		召唤七把色彩各异的利剑为你效劳！使用时将耗尽所有剩余的召唤槽
+		剑刃出，随你剑锋所指，斩向敌人
+		每把刃都有独特效果，炫目又致命！
 		'''
 }
 
 WeaponDrive: {
 	Tooltip:
 		'''
-		由最頂尖的工程師製造的驅動裝置
-		內含高精電子設備與新世界的魔法精華！
+		由最顶尖的工程师制造的驱动装置
+		内含高精电子设备与新世界的魔法精华！
 		'''
-	DisplayName: 武器驅動裝置
+	DisplayName: 武器驱动装置
 }
 
 MechanicI: {
-	DisplayName: 機械師作坊
+	DisplayName: 机械师作坊
 	Tooltip: ""
 }
 
 ScrapToken: {
-	Tooltip: 把它放進魔法工程師戴爾格林旁的分子轉換器裏
-	DisplayName: 廢料
+	Tooltip: 把它放进魔法工程师戴尔格林旁的分子转换器里
+	DisplayName: 废料
 }
 
 ElectricCrystal: {
-	Tooltip: 增加6%傷害！刺激！
-	DisplayName: 電能水晶
+	Tooltip: 增加6%伤害！刺激！
+	DisplayName: 电能水晶
 }
 
 SkyRuneI: {
-	DisplayName: 遠古符文
-	Tooltip: 也許吉婭會想要它？
+	DisplayName: 远古符文
+	Tooltip: 也许吉娅会想要它？
 }
 
 EelInfinite: {
-	DisplayName: 鰻舞無界
+	DisplayName: 鳗舞无界
 	Tooltip:
 		'''
-		雷霆萬鈞，編織成暴風雨的交響樂章!
-		電光石火間，世界仿佛被賦予了更加震撼的脈動!!!
+		雷霆万钧，编织成暴风雨的交响乐章!
+		电光石火间，世界仿佛被赋予了更加震撼的脉动!!!
 		'''
 }
 
 RustedSniper: {
-	Tooltip: 這，就是狙擊手湯姆斯的銹槍
-	DisplayName: 銹蝕狙神
+	Tooltip: 这，就是狙击手汤姆斯的锈枪
+	DisplayName: 锈蚀狙神
 }
 
 BucketScrapper: {
-	DisplayName: 桶擊勇士
-	Tooltip: 召喚小桶，彈跳撞敵，造成高額的接觸傷害！
+	DisplayName: 桶击勇士
+	Tooltip: 召唤小桶，弹跳撞敌，造成高额的接触伤害！
 }
 
 RazorBragett: {
-	DisplayName: 鋒刃炫目
-	Tooltip: 擊打敵人時，鋸片啟動，如脫韁野狗
+	DisplayName: 锋刃炫目
+	Tooltip: 击打敌人时，锯片启动，如脱缰野狗
 }
 
 PointedEdge: {
-	Tooltip: 用這強大的鋒刃猛撞敵人！
-	DisplayName: 利劍之鋒
+	Tooltip: 用这强大的锋刃猛撞敌人！
+	DisplayName: 利剑之锋
 }
 
 Swingaling: {
-	DisplayName: 旋風擊
-	Tooltip: 旋轉吧，旋風擊！不停旋轉！
+	DisplayName: 旋风击
+	Tooltip: 旋转吧，旋风击！不停旋转！
 }
 
 TornCarianPage: {
-	Tooltip: 地下深處一神秘巨著的一頁.可引導你找到它
-	DisplayName: 卡裏亞書頁
+	Tooltip: 地下深处一神秘巨著的一页.可引导你找到它
+	DisplayName: 卡里亚书页
 }
 
 Scatterbombs: {
 	Tooltip:
 		'''
-		造成極高傷害，而且它其實並不是散彈，嘿嘿~
-		（澤米企業不承擔傷害或副作用責任，你也沒機會活下來告狀.）
+		造成极高伤害，而且它其实并不是散弹，嘿嘿~
+		（泽米企业不承担伤害或副作用责任，你也没机会活下来告状.）
 		'''
-	DisplayName: 散彈爆破
+	DisplayName: 散弹爆破
 }
 
 VacuumDrill: {
-	Tooltip: 如驅鬼者般，鎖定敵人，給予比老媽揍我還狠的打擊
-	DisplayName: 幽能鉆吸
+	Tooltip: 如驱鬼者般，锁定敌人，给予比老妈揍我还狠的打击
+	DisplayName: 幽能钻吸
 }
 
 GLabCrystal: {
 	Tooltip: ""
-	DisplayName: 實驗室水晶
+	DisplayName: 实验室水晶
 }
 
 LabHall: {
-	DisplayName: 實驗室大廳
+	DisplayName: 实验室大厅
 	Tooltip: ""
 }
 
 LaboratoryBlock: {
 	Tooltip: ""
-	DisplayName: 實驗室塊
+	DisplayName: 实验室块
 }
 
 FocalCrystalFire: {
-	DisplayName: 燒焦的聚焦水晶
-	Tooltip: 右鍵將其放入實驗室水晶來開啟通往獄之墓穴的傳送門！
+	DisplayName: 烧焦的聚焦水晶
+	Tooltip: 右键将其放入实验室水晶来开启通往狱之墓穴的传送门！
 }
 
 FocalCrystalTrap: {
-	DisplayName: 尖銳的聚焦水晶
-	Tooltip: 右鍵將其放入實驗室水晶來開啟通往機關墓穴的傳送門！
+	DisplayName: 尖锐的聚焦水晶
+	Tooltip: 右键将其放入实验室水晶来开启通往机关墓穴的传送门！
 }
 
 FocalCrystalWater: {
-	DisplayName: 浸濕的聚焦水晶
-	Tooltip: 右鍵將其放入實驗室水晶來開啟通往水之墓穴的傳送門！
+	DisplayName: 浸湿的聚焦水晶
+	Tooltip: 右键将其放入实验室水晶来开启通往水之墓穴的传送门！
 }
 
 FocusingCrystal: {
 	DisplayName: 聚焦水晶
-	Tooltip: 向其中融入不同的材料，製成的水晶能將你帶到不同的地方...
+	Tooltip: 向其中融入不同的材料，制成的水晶能将你带到不同的地方...
 }
 
 ScrappyLegs: {
-	DisplayName: 重構古械腿
+	DisplayName: 重构古械腿
 	Tooltip:
 		'''
-		增加移動速度
-		+1仆從欄
+		增加移动速度
+		+1仆从栏
 		'''
 }
 
 ScrappyHead: {
-	DisplayName: 重構古械盔
+	DisplayName: 重构古械盔
 	Tooltip:
 		'''
-		+8%召喚與魔法傷害
-		+4%傷害減免
-		+1仆從欄
+		+8%召唤与魔法伤害
+		+4%伤害减免
+		+1仆从栏
 		'''
 }
 
 ScrappyBody: {
-	DisplayName: 重構古械鎧
+	DisplayName: 重构古械铠
 	Tooltip:
 		'''
-		+12%召喚與魔法傷害
-		+8%傷害減免
-		+2仆從欄
+		+12%召唤与魔法伤害
+		+8%伤害减免
+		+2仆从栏
 		'''
 }
 
@@ -5521,275 +5521,275 @@ MagiciansCodeHat: {
 	DisplayName: 迷之魔法帽
 	Tooltip:
 		'''
-		+20%魔法與召喚傷害
-		+3仆從欄
-		10%傷害減免！
+		+20%魔法与召唤伤害
+		+3仆从栏
+		10%伤害减免！
 		增加生命再生
 		+100最大生命值
 		'''
 }
 
 RadianceStone: {
-	DisplayName: 輝光符印
+	DisplayName: 辉光符印
 	Tooltip:
 		'''
-		在蕊身邊使用它來發起挑戰！
-		一定要帶上潛遁披巾或者其上位！
-		平臺越長越好哦:)  -蕊
+		在蕊身边使用它来发起挑战！
+		一定要带上潜遁披巾或者其上位！
+		平台越长越好哦:)  -蕊
 
-		戰鬥全程禁止飛行...
+		战斗全程禁止飞行...
 		'''
 }
 
 ShopNote: {
-	DisplayName: 小紙條
-	Tooltip: 我看出你很有能力，從現在開始我的商店對你完全開放啦！
+	DisplayName: 小纸条
+	Tooltip: 我看出你很有能力，从现在开始我的商店对你完全开放啦！
 }
 
 FenixBossRel: {
-	DisplayName: 緋琦聖物
-	Tooltip: 卡裏亞軍隊的總指揮，胸懷大誌南征北戰，最終卻只讓世界變得烏煙瘴氣.
+	DisplayName: 绯琦圣物
+	Tooltip: 卡里亚军队的总指挥，胸怀大志南征北战，最终却只让世界变得乌烟瘴气.
 }
 
 IrradiaBossRel: {
-	DisplayName: 伊瑞蒂安與浩劫龍械聖物
-	Tooltip: 守衛？不再是了.
+	DisplayName: 伊瑞蒂安与浩劫龙械圣物
+	Tooltip: 守卫？不再是了.
 }
 
 ZuiBossRel: {
-	Tooltip: ta到底是誰？
-	DisplayName: 蕊聖物
+	Tooltip: ta到底是谁？
+	DisplayName: 蕊圣物
 }
 
 NyxiaHat: {
 	DisplayName: 霓希雅帽
-	Tooltip: 首席開發者Zenovia的禮物！請去看看steam上的Diari吧:(
+	Tooltip: 首席开发者Zenovia的礼物！请去看看steam上的Diari吧:(
 }
 
 NyxiaRobe: {
-	DisplayName: 霓希雅長袍
-	Tooltip: 首席開發者Zenovia的禮物！給予5%傷害減免, +6%魔法傷害以及增強生命再生！
+	DisplayName: 霓希雅长袍
+	Tooltip: 首席开发者Zenovia的礼物！给予5%伤害减免, +6%魔法伤害以及增强生命再生！
 }
 
 NyxiaThighs: {
-	DisplayName: 霓希雅護腿
-	Tooltip: 感謝你們遊玩我的mod！愛你們喲 - 首席開發者Zenovia
+	DisplayName: 霓希雅护腿
+	Tooltip: 感谢你们游玩我的mod！爱你们哟 - 首席开发者Zenovia
 }
 
 NestBossRel: {
 	Tooltip: ""
-	DisplayName: 輻射巢穴聖物
+	DisplayName: 辐射巢穴圣物
 }
 
 RadiatedBroochesBackpack: {
 	Tooltip:
 		'''
-		散發著無限的善意之光！
-		允許你使用所有飾符！
-		+8%傷害！
+		散发著无限的善意之光！
+		允许你使用所有饰符！
+		+8%伤害！
 		'''
-	DisplayName: 輝映飾符背包
+	DisplayName: 辉映饰符背包
 }
 
 HeatedVerliaBroochA: {
 	Tooltip:
 		'''
-		擊中敵人時會產生冰霜與靈液，造成大量傷害！
-		+15%遠程與投擲傷害！
+		击中敌人时会产生冰霜与灵液，造成大量伤害！
+		+15%远程与投掷伤害！
 		'''
-	DisplayName: 輝映陰陽飾符
+	DisplayName: 辉映阴阳饰符
 }
 
 AmberBroochA: {
-	Tooltip: 增加40%移動速度，+5防禦，並增加挖掘速度！玩的開心哦~
-	DisplayName: 琥珀飾符
+	Tooltip: 增加40%移动速度，+5防御，并增加挖掘速度！玩的开心哦~
+	DisplayName: 琥珀饰符
 }
 
 VillagersBroochA: {
-	DisplayName: 村莊飾符
-	Tooltip: 看人不爽？正好，用這增加的12%傷害痛扁他們吧！
+	DisplayName: 村庄饰符
+	Tooltip: 看人不爽？正好，用这增加的12%伤害痛扁他们吧！
 }
 
 RadianuiBar: {
-	DisplayName: 輝光錠
-	Tooltip: 蕊的光芒與幸福躍然其間！
+	DisplayName: 辉光锭
+	Tooltip: 蕊的光芒与幸福跃然其间！
 }
 
 RadianuiWings: {
-	DisplayName: 輝光神翼
-	Tooltip: 閃耀著女神蕊那穿透一切的明光
+	DisplayName: 辉光神翼
+	Tooltip: 闪耀著女神蕊那穿透一切的明光
 }
 
 AurockBroochA: {
-	DisplayName: 輝映寶彩飾符
+	DisplayName: 辉映宝彩饰符
 	Tooltip:
 		'''
-		發出極亮的藍光！
+		发出极亮的蓝光！
 		巨幅提升挖掘速度
-		+7防禦
+		+7防御
 		'''
 }
 
 DefensiveGraditudeBroochA: {
-	DisplayName: 輝映禦守飾符
+	DisplayName: 辉映御守饰符
 	Tooltip:
 		'''
-		+50防禦
-		哇..哦..你可不需要這個
-		-30%傷害
+		+50防御
+		哇..哦..你可不需要这个
+		-30%伤害
 		'''
 }
 
 GovheilWarriorBroochA: {
-	DisplayName: 輝映歌維赫奧法飾符
+	DisplayName: 辉映歌维赫奥法饰符
 	Tooltip:
 		'''
-		將魔法武器的魔力消耗減半！
-		+15%魔法傷害
-		+6防禦
-		自動揮舞一切！
+		将魔法武器的魔力消耗减半！
+		+15%魔法伤害
+		+6防御
+		自动挥舞一切！
 		'''
 }
 
 SandyBearBroochA: {
-	DisplayName: 輝映狂沙飾符
+	DisplayName: 辉映狂沙饰符
 	Tooltip:
 		'''
-		成為真正的黃沙鬥士！
-		獲得禁忌套裝獎勵!
-		+2召喚欄
-		極大增加魔力再生！
+		成为真正的黄沙斗士！
+		获得禁忌套装奖励!
+		+2召唤栏
+		极大增加魔力再生！
 		'''
 }
 
 StoningFlyBroochA: {
-	DisplayName: 輝映翺翔飾符
+	DisplayName: 辉映翱翔饰符
 	Tooltip:
 		'''
-		提高跳躍高度與加速度！
-		免疫摔落傷害!
-		在黑暗中發光!
-		+10%傷害
-		+30%移動速度!
+		提高跳跃高度与加速度！
+		免疫摔落伤害!
+		在黑暗中发光!
+		+10%伤害
+		+30%移动速度!
 		'''
 }
 
 KilliaBroochA: {
-	DisplayName: 輝映懼綻飾符
+	DisplayName: 辉映惧绽饰符
 	Tooltip:
 		'''
-		召喚一朵玫瑰護盾保護你！
+		召唤一朵玫瑰护盾保护你！
 		+80最大生命值
-		+5%傷害
-		從容不迫，敵軍中殺個七進七出
+		+5%伤害
+		从容不迫，敌军中杀个七进七出
 		'''
 }
 
 IvythornShuriken: {
-	DisplayName: 荊棘飛鏢
-	Tooltip: 擊中敵人，瘋狂又致命！
+	DisplayName: 荆棘飞镖
+	Tooltip: 击中敌人，疯狂又致命！
 }
 
 SewingKit: {
-	DisplayName: 織影套件包
-	Tooltip: 允許你製作和使用奇跡物品！
+	DisplayName: 织影套件包
+	Tooltip: 允许你制作和使用奇迹物品！
 }
 
 Hitme: {
-	DisplayName: 雷霆一擊
-	Tooltip: 請溫柔對待這把武器，它雖無生命，卻能感知主人的每一絲情感，別讓哀傷的痕跡，玷汙了它閃耀的鋒芒
+	DisplayName: 雷霆一击
+	Tooltip: 请温柔对待这把武器，它虽无生命，却能感知主人的每一丝情感，别让哀伤的痕迹，玷污了它闪耀的锋芒
 }
 
 Shredder: {
 	DisplayName: 撕裂者
 	Tooltip:
 		'''
-		發射失控的切割飛彈，劃出瘋狂軌跡！
-		塗鴉愛好者的新寵，肆意揮灑吧！
+		发射失控的切割飞弹，划出疯狂轨迹！
+		涂鸦爱好者的新宠，肆意挥洒吧！
 		'''
 }
 
 LuminullSpiritFragments: {
-	Tooltip: 科茲米爾體內的盧玫氣息
-	DisplayName: 黯光殘魂
+	Tooltip: 科兹米尔体内的卢玫气息
+	DisplayName: 黯光残魂
 }
 
 IceRuneI: {
-	Tooltip: 也許吉婭會想要它？
-	DisplayName: 遠古符文
+	Tooltip: 也许吉娅会想要它？
+	DisplayName: 远古符文
 }
 
 TitaniumBullet: {
-	DisplayName: 鈦金破甲彈
-	Tooltip: 雙連破甲擊，首擊震魂魄，次擊雖弱，卻透甲入骨，如影隨形，令強敵無處遁形
+	DisplayName: 钛金破甲弹
+	Tooltip: 双连破甲击，首击震魂魄，次击虽弱，却透甲入骨，如影随形，令强敌无处遁形
 }
 
 RadiantArrow: {
-	DisplayName: 輝光之箭
-	Tooltip: 這箭矢隨時間加速，宛如追命流星，無視一切防禦，精準鎖敵，直擊要害！
+	DisplayName: 辉光之箭
+	Tooltip: 这箭矢随时间加速，宛如追命流星，无视一切防御，精准锁敌，直击要害！
 }
 
 AdamantiteBullet: {
-	DisplayName: 精金穿甲彈
-	Tooltip: 雙連破甲擊，首擊震魂魄，次擊雖弱，卻透甲入骨，如影隨形，令強敵無處遁形
+	DisplayName: 精金穿甲弹
+	Tooltip: 双连破甲击，首击震魂魄，次击虽弱，却透甲入骨，如影随形，令强敌无处遁形
 }
 
 EldritchArrow: {
 	DisplayName: 幽古魔箭
-	Tooltip: 這箭矢能召喚星球碎塊，它們在被擊中後會自動反擊敵人，射出能量束.
+	Tooltip: 这箭矢能召唤星球碎块，它们在被击中后会自动反击敌人，射出能量束.
 }
 
 DriveRound: {
-	DisplayName: 穿刺彈
-	Tooltip: 無限穿透所有目標，並在每次命中時爆炸！
+	DisplayName: 穿刺弹
+	Tooltip: 无限穿透所有目标，并在每次命中时爆炸！
 }
 
 SpacialDistortionBullet: {
-	DisplayName: 扭曲子彈
-	Tooltip: 燃起深淵之焰，焚盡一切黑暗與罪惡，讓不滅的火光照亮深淵的盡頭.
+	DisplayName: 扭曲子弹
+	Tooltip: 燃起深渊之焰，焚尽一切黑暗与罪恶，让不灭的火光照亮深渊的尽头.
 }
 
 IrradiatedArrow: {
-	DisplayName: 輻射之矢
-	Tooltip: 激活後，它分裂成多臺微型機器人，各自發射輻射激光，精準打擊敵人並留下持續傷害的輻射場.
+	DisplayName: 辐射之矢
+	Tooltip: 激活后，它分裂成多台微型机器人，各自发射辐射激光，精准打击敌人并留下持续伤害的辐射场.
 }
 
 STARBLOCKER: {
-	DisplayName: 繁 星 阻 禦
-	Tooltip: 使用此物品來中止一場極光星雨 :(
+	DisplayName: 繁 星 阻 御
+	Tooltip: 使用此物品来中止一场极光星雨 :(
 }
 
 Maelstrom: {
-	DisplayName: 漩渦破曉劍
-	Tooltip: 希絲忒莉亞，那溫柔的守護者，其仁心確如晨曦之光，溫暖而明亮，不是嗎？
+	DisplayName: 漩涡破晓剑
+	Tooltip: 希丝忒莉亚，那温柔的守护者，其仁心确如晨曦之光，温暖而明亮，不是吗？
 }
 
 TheFirstAurora: {
-	DisplayName: 霜魄流光劍
-	Tooltip: 名動四海，利可斷金之兵刃.
+	DisplayName: 霜魄流光剑
+	Tooltip: 名动四海，利可断金之兵刃.
 }
 
 ThePenetrator: {
 	DisplayName: 穿心刃
 	Tooltip:
 		'''
-		蓄力以待，高速旋轉的巨大手裏劍
-		釋放投擲，依據蓄力時長，造成巨額傷害
+		蓄力以待，高速旋转的巨大手里剑
+		释放投掷，依据蓄力时长，造成巨额伤害
 		'''
 }
 
 SingularDive: {
-	DisplayName: 孤行深潛
-	Tooltip: 右鍵輕啟，仆從湧現；長旋一擊，敵潰如雲！
+	DisplayName: 孤行深潜
+	Tooltip: 右键轻启，仆从涌现；长旋一击，敌溃如云！
 }
 
 DelgrimsHammer: {
-	Tooltip: 它正奮力揮擊！
-	DisplayName: 戴爾格林之神錘
+	Tooltip: 它正奋力挥击！
+	DisplayName: 戴尔格林之神锤
 }
 
 DirtGlove: {
-	DisplayName: 塵埃手套
+	DisplayName: 尘埃手套
 	Tooltip: ""
 }
 
@@ -5801,148 +5801,148 @@ TwilitTome: {
 Voltenstein: {
 	Tooltip:
 		'''
-		這將是一次令人震驚的體驗！
-		輕觸鼠標，瞬間突進，釋放出令人震撼的電擊傷害！
-		擊中敵人會給你帶來額外傷害的加成，並且作為獎勵，你將獲得短暫的免疫效果！
-		擊中敵人將使你的下一次攻擊速度更快！但如果攻擊落空，你將面臨更長時間的等待.
-		越強的手套詞條越多
-		2個詞條!
+		这将是一次令人震惊的体验！
+		轻触鼠标，瞬间突进，释放出令人震撼的电击伤害！
+		击中敌人会给你带来额外伤害的加成，并且作为奖励，你将获得短暂的免疫效果！
+		击中敌人将使你的下一次攻击速度更快！但如果攻击落空，你将面临更长时间的等待.
+		越强的手套词条越多
+		2个词条!
 		'''
 	DisplayName: 沃特恩斯坦
 }
 
 BlankBrooch: {
-	DisplayName: 未完成的飾符
-	Tooltip: 擁有無限潛能的模板，用於製作某種物品！
+	DisplayName: 未完成的饰符
+	Tooltip: 拥有无限潜能的模板，用于制作某种物品！
 }
 
 BlankCard: {
 	DisplayName: 未完成的符牌
-	Tooltip: 擁有無限潛能的模板，用於製作某種物品！
+	Tooltip: 拥有无限潜能的模板，用于制作某种物品！
 }
 
 BlankCrossbow: {
 	DisplayName: 未完成的弩
-	Tooltip: 擁有無限潛能的模板，用於製作某種物品！
+	Tooltip: 拥有无限潜能的模板，用于制作某种物品！
 }
 
 BlankSafunai: {
 	DisplayName: 未完成的鞭刃
-	Tooltip: 擁有無限潛能的模板，用於製作某種物品！
+	Tooltip: 拥有无限潜能的模板，用于制作某种物品！
 }
 
 Hultinstein: {
-	DisplayName: 赫爾廷斯坦
+	DisplayName: 赫尔廷斯坦
 	Tooltip:
 		'''
-		這是一段狂野的格鬥經歷！
-		只需輕輕一點，就能迅猛突襲，造成驚人的高額傷害！
-		擊中敵人會使你獲得額外的傷害加成，並且作為獎勵，你將獲得短暫的免疫效果！
-		擊中敵人將使你的下一次攻擊速度更快！但如果攻擊落空，你將面臨更長時間的等待.
-		越強的手套詞條越多
-		1個詞條！
+		这是一段狂野的格斗经历！
+		只需轻轻一点，就能迅猛突袭，造成惊人的高额伤害！
+		击中敌人会使你获得额外的伤害加成，并且作为奖励，你将获得短暂的免疫效果！
+		击中敌人将使你的下一次攻击速度更快！但如果攻击落空，你将面临更长时间的等待.
+		越强的手套词条越多
+		1个词条！
 		'''
 }
 
 AuroreanStarball: {
-	DisplayName: 極光星球
+	DisplayName: 极光星球
 	Tooltip:
 		'''
 		{$CommonItemTooltip.SummonTagDamage}
 		{$CommonItemTooltip.Whips}
-		特殊攻擊，觸地即爆，星光四射
-		我們，正是那球場上的焦點
+		特殊攻击，触地即爆，星光四射
+		我们，正是那球场上的焦点
 		'''
 }
 
 BlankOrb: {
-	DisplayName: 未完成的球體
-	Tooltip: 擁有無限潛能的模板，用於製作某種物品！
+	DisplayName: 未完成的球体
+	Tooltip: 拥有无限潜能的模板，用于制作某种物品！
 }
 
 Mardenstein: {
-	DisplayName: 瑪登斯坦
+	DisplayName: 玛登斯坦
 	Tooltip:
 		'''
-		這將是一次震撼人心的體驗！
-		輕點鼠標，如離弦之箭般沖向敵人，釋放令人咋舌的高額傷害.
-		擊中敵人後，你將獲得額外的傷害加成，並且作為獎勵，你將獲得短暫的免疫效果，無懈可擊！
-		擊中敵人將使你的下一次攻擊速度更快！但如果攻擊落空，你將面臨更長時間的等待.
-		越強的手套詞條越多
-		3個詞條!
+		这将是一次震撼人心的体验！
+		轻点鼠标，如离弦之箭般冲向敌人，释放令人咋舌的高额伤害.
+		击中敌人后，你将获得额外的伤害加成，并且作为奖励，你将获得短暂的免疫效果，无懈可击！
+		击中敌人将使你的下一次攻击速度更快！但如果攻击落空，你将面临更长时间的等待.
+		越强的手套词条越多
+		3个词条!
 		'''
 }
 
 TheActualMoon: {
-	DisplayName: 真實月華
+	DisplayName: 真实月华
 	Tooltip:
 		'''
 		{$CommonItemTooltip.SummonTagDamage}
 		{$CommonItemTooltip.Whips}
-		這是一件更重的球體武器，擁有更強勁的沖擊爆炸威力！
-		我已經成為了薇莉亞
+		这是一件更重的球体武器，拥有更强劲的冲击爆炸威力！
+		我已经成为了薇莉亚
 		'''
 }
 
 ReflectionSeeker: {
-	DisplayName: 覓影者
-	Tooltip: 召喚迷你分身，以你之形攻敵，變化隨你形象而異
+	DisplayName: 觅影者
+	Tooltip: 召唤迷你分身，以你之形攻敌，变化随你形象而异
 }
 
 TwinStarbombas: {
-	DisplayName: 雙子星爆彈
+	DisplayName: 双子星爆弹
 	Tooltip:
 		'''
 		{$CommonItemTooltip.SummonTagDamage}
 		{$CommonItemTooltip.Whips}
-		你將同時操控兩個球體！它們通過圍繞你旋轉發動攻擊
-		簡而言之，這就像「星爆者」的雙球攻擊模式
+		你将同时操控两个球体！它们通过围绕你旋转发动攻击
+		简而言之，这就像“星爆者”的双球攻击模式
 		'''
 }
 
 IlluriaDirtBlock: {
-	DisplayName: 星樹土塊
+	DisplayName: 星树土块
 	Tooltip: ""
 }
 
 IlluriaDirtWallBlock: {
-	DisplayName: 星樹土墻
+	DisplayName: 星树土墙
 	Tooltip: ""
 }
 
 IlluriaGrassBlock: {
-	DisplayName: 星樹草塊
+	DisplayName: 星树草块
 	Tooltip: ""
 }
 
 IlluriaLeaves: {
-	DisplayName: 星樹葉
+	DisplayName: 星树叶
 	Tooltip: ""
 }
 
 IlluriaRuneBlock: {
-	DisplayName: 星樹符文
+	DisplayName: 星树符文
 	Tooltip: ""
 }
 
 IlluriaWoodBlock: {
-	DisplayName: 星樹木
+	DisplayName: 星树木
 	Tooltip: ""
 }
 
 IlluriaTreeSmallI: {
 	Tooltip: ""
-	DisplayName: 星樹
+	DisplayName: 星树
 }
 
 IlluriaTreeMedI: {
 	Tooltip: ""
-	DisplayName: 星樹
+	DisplayName: 星树
 }
 
 IlluriaTreeBigI: {
 	Tooltip: ""
-	DisplayName: 星樹
+	DisplayName: 星树
 }
 
 ThePollinator: {
@@ -5951,8 +5951,8 @@ ThePollinator: {
 		'''
 		{$CommonItemTooltip.SummonTagDamage}
 		{$CommonItemTooltip.Whips}
-		它能夠對敵人進行「授粉」，大幅度減緩他們的行動速度
-		它散發著蕊之花朵的力量，輻射出令人震懾的光芒
+		它能够对敌人进行“授粉”，大幅度减缓他们的行动速度
+		它散发著蕊之花朵的力量，辐射出令人震慑的光芒
 		'''
 }
 
@@ -5962,87 +5962,87 @@ BlackBall: {
 		'''
 		{$CommonItemTooltip.SummonTagDamage}
 		{$CommonItemTooltip.Whips}
-		一顆更輕盈的寶球，攻勢如疾風
-		其威能，由阿爾卡迪亞所賜
+		一颗更轻盈的宝球，攻势如疾风
+		其威能，由阿尔卡迪亚所赐
 		'''
 }
 
 TomeofRaining: {
-	Tooltip: 隨時召喚下雨！這是蕊的謝禮！
-	DisplayName: 喚雨魔書
+	Tooltip: 随时召唤下雨！这是蕊的谢礼！
+	DisplayName: 唤雨魔书
 }
 
 SirestiasToken: {
 	Tooltip:
 		'''
-		為希絲忒莉亞完成目標後獲贈的感恩謝禮
-		使用它在分子轉換器處轉換武器的職業！
+		为希丝忒莉亚完成目标后获赠的感恩谢礼
+		使用它在分子转换器处转换武器的职业！
 		'''
-	DisplayName: 希絲忒莉亞的寶珠
+	DisplayName: 希丝忒莉亚的宝珠
 }
 
 IlluriaChesti: {
-	DisplayName: 星樹箱
+	DisplayName: 星树箱
 	Tooltip: ""
 }
 
 IllurianWarriorGreaves: {
-	Tooltip: 即使是害怕到尿褲子的人，穿上它也能成為一名真正的捍衛者！
-	DisplayName: 星樹捍衛者護腿
+	Tooltip: 即使是害怕到尿裤子的人，穿上它也能成为一名真正的捍卫者！
+	DisplayName: 星树捍卫者护腿
 }
 
 IllurianWarriorChestplate: {
-	Tooltip: 防禦力極強！
-	DisplayName: 星樹捍衛者之鎧
+	Tooltip: 防御力极强！
+	DisplayName: 星树捍卫者之铠
 }
 
 IllurianCrestplate: {
 	Tooltip:
 		'''
-		+3仆從欄，+50最大魔力值
+		+3仆从栏，+50最大魔力值
 		-50最大生命值
 		'''
-	DisplayName: 星樹紋飾胸甲
+	DisplayName: 星树纹饰胸甲
 }
 
 IllurianCrestpants: {
 	Tooltip:
 		'''
-		+1仆從欄，+10%移動速度
-		+20%傷害，+15盔甲穿透
+		+1仆从栏，+10%移动速度
+		+20%伤害，+15盔甲穿透
 		-90最大生命值
 		'''
-	DisplayName: 星樹紋飾護脛
+	DisplayName: 星树纹饰护胫
 }
 
 IllurianCrestmask: {
 	Tooltip:
 		'''
 		-50最大生命值
-		+12%魔法與召喚傷害！
-		+10%暴擊率
-		尼伊維很失望...
+		+12%魔法与召唤伤害！
+		+10%暴击率
+		尼伊维很失望...
 		'''
-	DisplayName: 星樹紋飾頭盔
+	DisplayName: 星树纹饰头盔
 }
 
 IllurianWarriorHelm: {
-	DisplayName: 星樹捍衛者之盔
-	Tooltip: 尼伊維最喜歡在巨星樹旁俯視整個世界~這頭盔背面寫著這麽一行字
+	DisplayName: 星树捍卫者之盔
+	Tooltip: 尼伊维最喜欢在巨星树旁俯视整个世界~这头盔背面写著这么一行字
 }
 
 IllurineScale: {
-	DisplayName: 星樹亮鱗
-	Tooltip: 散發著尼伊維的寰宇能量！
+	DisplayName: 星树亮鳞
+	Tooltip: 散发著尼伊维的寰宇能量！
 }
 
 PureHeart: {
-	DisplayName: 爍星純心
+	DisplayName: 烁星纯心
 	Tooltip:
 		'''
-		世界守護者的心...
-		充盈著她的博愛和寰宇之力...
-		但你為了一己私欲，竟心狠手辣將她殺死 :(
+		世界守护者的心...
+		充盈著她的博爱和寰宇之力...
+		但你为了一己私欲，竟心狠手辣将她杀死 :(
 		'''
 }
 
@@ -6052,17 +6052,17 @@ MushroomGreatbow: {
 }
 
 Hookarama: {
-	DisplayName: 萬鉤
+	DisplayName: 万钩
 	Tooltip: ""
 }
 
 MushyCard: {
 	Tooltip:
 		'''
-		以神秘粉末標記敵手
-		長按攻擊按鈕，引爆標記，造成爆炸傷害
+		以神秘粉末标记敌手
+		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
-	DisplayName: 柔夢符牒
+	DisplayName: 柔梦符牒
 }
 
 XX4160: {
@@ -6072,149 +6072,149 @@ XX4160: {
 
 ExampleScriptureItem: {
 	Tooltip: ""
-	DisplayName: 天紗聖典·介紹
+	DisplayName: 天纱圣典·介绍
 	Content:
 		'''
-			請在專家或者大師模式下遊玩此mod！
-			支持多人聯機！
+			请在专家或者大师模式下游玩此mod！
+			支持多人联机！
 			~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-			穹月天紗是一個擴展類mod，也是我的另一款遊戲Diari的聯動
-			希絲忒莉亞想要用她的能力造福泰拉世界，並鏟除一切虛偽的神明.
+			穹月天纱是一个扩展类mod，也是我的另一款游戏Diari的联动
+			希丝忒莉亚想要用她的能力造福泰拉世界，并铲除一切虚伪的神明.
 
-			在此類敵人中，最為危險的莫過於擁有奇點的神明.其力量可以輕易對世界造成無可挽回的傷害，有時甚至將世界與其中的所有生靈完全腐化.
-			普通人只知唯唯諾諾，對它們百般奉承.無人敢對他們的統治者舉起武器.
+			在此类敌人中，最为危险的莫过于拥有奇点的神明.其力量可以轻易对世界造成无可挽回的伤害，有时甚至将世界与其中的所有生灵完全腐化.
+			普通人只知唯唯诺诺，对它们百般奉承.无人敢对他们的统治者举起武器.
 
-			泰拉世界上又會發生怎樣的故事呢？拭目以待吧 :P
-			至於你？你的任務就是人擋殺人，神擋殺神.
+			泰拉世界上又会发生怎样的故事呢？拭目以待吧 :P
+			至于你？你的任务就是人挡杀人，神挡杀神.
 			~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 			
-			此mod內含：
-			- 許多新的敵人與NPC
+			此mod内含：
+			- 许多新的敌人与NPC
 			- 200+有趣的武器！
-			- 新的武器類別與機製，還有飾符！
-			- Boss戰後的抽獎環節
-			- 4個新的城鎮NPC
-			- 世界各處的多名商店NPC！
-			- 50+的飾品，絕對可以幫助你提升戰力
-			- 許多精細設計的新環境與新結構，讓探索保持新鮮快樂！
-			- 城堡，地牢，滿開放世界的珍寶奇物，就像一個真正的類銀河惡魔城遊戲！
-			- 從肉前到月後的很多新Boss！
-			- 許多新盔甲套裝，大部分聚焦於肉前
-			- 沈浸式背景音樂，作者是我和Azzalea (也去聽聽Diari的原聲帶吧！)
-			- 幾乎全部由三人完成.我, Azzalea和Scolon!
+			- 新的武器类别与机制，还有饰符！
+			- Boss战后的抽奖环节
+			- 4个新的城镇NPC
+			- 世界各处的多名商店NPC！
+			- 50+的饰品，绝对可以帮助你提升战力
+			- 许多精细设计的新环境与新结构，让探索保持新鲜快乐！
+			- 城堡，地牢，满开放世界的珍宝奇物，就像一个真正的类银河恶魔城游戏！
+			- 从肉前到月后的很多新Boss！
+			- 许多新盔甲套装，大部分聚焦于肉前
+			- 沉浸式背景音乐，作者是我和Azzalea (也去听听Diari的原声带吧！)
+			- 几乎全部由三人完成.我, Azzalea和Scolon!
 			- 一共有600+新物品！
-			- 許多輔助物品和功能，讓你的遊戲體驗更加良好 :)
+			- 许多辅助物品和功能，让你的游戏体验更加良好 :)
 			
-			(警告：此mod難度較高，請多加磨練你的閃避技術)
+			(警告：此mod难度较高，请多加磨练你的闪避技术)
 		'''
 }
 
 VeilBrick: {
-	DisplayName: 天紗磚
+	DisplayName: 天纱砖
 	Tooltip: ""
 }
 
 AzurerinPaintingI: {
-	DisplayName: 艾祖瑞霖聖像
+	DisplayName: 艾祖瑞霖圣像
 	Tooltip: ""
 }
 
 GothiviaPaintingI: {
-	DisplayName: 歌瑟梵聖像
+	DisplayName: 歌瑟梵圣像
 	Tooltip: ""
 }
 
 SigfriedPaintingI: {
-	DisplayName: 齊格飛聖像
+	DisplayName: 齐格飞圣像
 	Tooltip: ""
 }
 
 VeilPot: {
-	DisplayName: 天紗罐
-	Tooltip: 某人為向穹月天紗的高等存在表示虔誠而製造的罐子
+	DisplayName: 天纱罐
+	Tooltip: 某人为向穹月天纱的高等存在表示虔诚而制造的罐子
 }
 
 VeilBanneri: {
-	Tooltip: 某人為向穹月天紗的高等存在表示虔誠而製造的旗幟
-	DisplayName: 天紗旗
+	Tooltip: 某人为向穹月天纱的高等存在表示虔诚而制造的旗帜
+	DisplayName: 天纱旗
 }
 
 VeilBanner2i: {
-	Tooltip: 某人為向穹月天紗的高等存在表示虔誠而製造的旗幟
-	DisplayName: 天紗旗
+	Tooltip: 某人为向穹月天纱的高等存在表示虔诚而制造的旗帜
+	DisplayName: 天纱旗
 }
 
 CompletionIdol: {
-	DisplayName: 隕神之像
-	Tooltip: 高塔中的聖典與高等存在的殘物鑄成的塑像
+	DisplayName: 陨神之像
+	Tooltip: 高塔中的圣典与高等存在的残物铸成的塑像
 }
 
 VeiledScriptureGothivia: {
 	Tooltip:
 		'''
-		左鍵閱讀
-		可被鑄成塑像，來與希絲忒莉亞兌換獎勵
+		左键阅读
+		可被铸成塑像，来与希丝忒莉亚兑换奖励
 		'''
-	DisplayName: 天紗聖典·歌瑟梵
+	DisplayName: 天纱圣典·歌瑟梵
 	Content:
 		'''
 		---------------------------------------
 
-		這名高等存在屬於伊斯家族.她與薇莉婭和維西爾是姐妹，三者皆對自己之所愛之事物有著狂熱的動力與激情.
-		據說，她們三個出生時便被分開，從艾科洛斯的迷叠香城被帶出.
+		这名高等存在属于伊斯家族.她与薇莉娅和维西尔是姐妹，三者皆对自己之所爱之事物有著狂热的动力与激情.
+		据说，她们三个出生时便被分开，从艾科洛斯的迷迭香城被带出.
 
-		她為人冷酷，有仇必報，從不原諒，從不輕饒.
-		那場酸蝕災害奪走了她的村莊（現在的歌維赫堡）、她的人民、她的玄鐵軍團以及她的所有至交.
-		在那以後，緋琦將薇莉婭的靈魂囚禁.歌瑟梵不遠萬裏尋到天紗琉明--另一名衰落的神明，向她懇求力量來拯救自己.
-		在我看來，她應該是得到了一顆較弱的奇點，並將它綁定在守護者代達斯身上.這就意味著，在力量上她應是勝過緋琦一籌的.
+		她为人冷酷，有仇必报，从不原谅，从不轻饶.
+		那场酸蚀灾害夺走了她的村庄（现在的歌维赫堡）、她的人民、她的玄铁军团以及她的所有至交.
+		在那以后，绯琦将薇莉娅的灵魂囚禁.歌瑟梵不远万里寻到天纱琉明--另一名衰落的神明，向她恳求力量来拯救自己.
+		在我看来，她应该是得到了一颗较弱的奇点，并将它绑定在守护者代达斯身上.这就意味著，在力量上她应是胜过绯琦一筹的.
 
-		現如今她不知所蹤.她之前的臣民中，逃脫了酸蝕災難者前往了古諭村落，並在那裏繼續對她的敬仰與崇拜.
-		我們只能假設，過去的30年裏她始終在修煉自身力量，準備救出她的姐妹...
+		现如今她不知所踪.她之前的臣民中，逃脱了酸蚀灾难者前往了古谕村落，并在那里继续对她的敬仰与崇拜.
+		我们只能假设，过去的30年里她始终在修炼自身力量，准备救出她的姐妹...
 
-		- 愛你的 希絲忒莉亞
+		- 爱你的 希丝忒莉亚
 		'''
 }
 
 VeiledScriptureAzurerin: {
 	Tooltip:
 		'''
-		左鍵閱讀
-		可被鑄成塑像，來與希絲忒莉亞兌換獎勵
+		左键阅读
+		可被铸成塑像，来与希丝忒莉亚兑换奖励
 		'''
-	DisplayName: 天紗聖典·艾祖瑞霖
+	DisplayName: 天纱圣典·艾祖瑞霖
 	Content:
 		'''
 		---------------------------------------
 
-		這名高等存在直屬天紗家族，為天紗琉明的兩個姐妹之一.
-		另一名姐妹即為「絳淵惡巫」，正式名稱為「天寰神巫」.她也有一顆奇點，綁定於自身的靈魂.
+		这名高等存在直属天纱家族，为天纱琉明的两个姐妹之一.
+		另一名姐妹即为“绦渊恶巫”，正式名称为“天寰神巫”.她也有一颗奇点，绑定于自身的灵魂.
 
-		她對繁星有著強烈的共鳴，也與天寰神巫建立了深厚的聯系.
-		在家庭的種種因素下，她也開始尋求力量，只為讓她的姐妹不再疏遠.是她主動向琉明要求奇點，但其賦予的力量並沒有幫助她完成最初的目標.
-		她行事拘謹，深思熟慮.她的靈魂已和奇點綁定，使她成為一名可怕的敵手，但她的迷茫與優柔寡斷正是她的弱點.
-		另外，在封印齊格飛的行動中她也出了一份力，她與蕊還有一絲交情.
+		她对繁星有著强烈的共鸣，也与天寰神巫建立了深厚的联系.
+		在家庭的种种因素下，她也开始寻求力量，只为让她的姐妹不再疏远.是她主动向琉明要求奇点，但其赋予的力量并没有帮助她完成最初的目标.
+		她行事拘谨，深思熟虑.她的灵魂已和奇点绑定，使她成为一名可怕的敌手，但她的迷茫与优柔寡断正是她的弱点.
+		另外，在封印齐格飞的行动中她也出了一份力，她与蕊还有一丝交情.
 
-		現如今，她與琉明沈眠於星海中，夢境中的繁星化作極光星雨落向大地.
-		等待著另一名姐妹的歸來...
+		现如今，她与琉明沉眠于星海中，梦境中的繁星化作极光星雨落向大地.
+		等待著另一名姐妹的归来...
 
-		- 愛你的 希絲忒莉亞
+		- 爱你的 希丝忒莉亚
 
 		'''
 }
 
 VeiledScriptureMiner1: {
-	Tooltip: 左鍵閱讀
-	DisplayName: 日誌1
+	Tooltip: 左键阅读
+	DisplayName: 日志1
 	Content:
 		'''
 
-		今天我找到了一大片超--高質量的煤炭！我知道我是來找寶石什麽的但是...我怎麽可能拒絕這些嘛！
-		再說，我要燒礦石肯定用得到這些煤炭的.
-		冰邦那哥們一直在亂扔雷管，還把自己纏進藤蔓裏了
-		知道嗎，每天在這挖礦我都想著要個壯實的妞來找我...
-		緋琦企業的新人礦工匯報，第一天！
+		今天我找到了一大片超--高质量的煤炭！我知道我是来找宝石什么的但是...我怎么可能拒绝这些嘛！
+		再说，我要烧矿石肯定用得到这些煤炭的.
+		冰邦那哥们一直在乱扔雷管，还把自己缠进藤蔓里了
+		知道吗，每天在这挖矿我都想著要个壮实的妞来找我...
+		绯琦企业的新人矿工汇报，第一天！
 
-		- 達爾裏·米夏的日誌-1
+		- 达尔里·米夏的日志-1
 
 		'''
 }
@@ -6224,25 +6224,25 @@ VeiledScriptureSigfried: {
 		'''
 		---------------------------------------
 
-		這名高等存在屬於星爍家族，是星之巨樹的舊主，銀光之王.
-		他被逐出了自己的王國，在瘋魔的驅使下，在大陸各處造成了連鎖反應般的巨大破壞.
+		这名高等存在属于星烁家族，是星之巨树的旧主，银光之王.
+		他被逐出了自己的王国，在疯魔的驱使下，在大陆各处造成了连锁反应般的巨大破坏.
 
-		看來，齊格飛並沒有至親之人.他是一名技藝精湛的潛行者與盜賊，卻惹上了自己也無法解決的麻煩.
-		現在的星樹之主是他的兄弟，曾是一名追求正義的義警，卻在繼位後被一顆高等奇點--破碎脈沖星的力量腐化已至瘋狂.
-		4、50年前，齊格飛從天紗琉明那裏偷走了一顆奇點，並直接將其融入了自己的身體.
-		殊不知，此舉讓他完全失控，幾乎毀滅了整個世界.緋琦的父母也為他所殺，導致她本人過早繼承皇室首都之位，為之後那場大征戰埋下了導火索.
-		幾經周折，齊格飛的暴行終於被製止，他本人也被封印在一枚脈沖之鑰中，深藏地下.阻止他的正是蕊.
+		看来，齐格飞并没有至亲之人.他是一名技艺精湛的潜行者与盗贼，却惹上了自己也无法解决的麻烦.
+		现在的星树之主是他的兄弟，曾是一名追求正义的义警，却在继位后被一颗高等奇点--破碎脉冲星的力量腐化已至疯狂.
+		4、50年前，齐格飞从天纱琉明那里偷走了一颗奇点，并直接将其融入了自己的身体.
+		殊不知，此举让他完全失控，几乎毁灭了整个世界.绯琦的父母也为他所杀，导致她本人过早继承皇室首都之位，为之后那场大征战埋下了导火索.
+		几经周折，齐格飞的暴行终于被制止，他本人也被封印在一枚脉冲之钥中，深藏地下.阻止他的正是蕊.
 
-		想要讓天紗琉明重新露面，需要的那場大災難就勞煩他啦.
+		想要让天纱琉明重新露面，需要的那场大灾难就劳烦他啦.
 
-		- 愛你的 希絲忒莉亞
+		- 爱你的 希丝忒莉亚
 
 		'''
-	DisplayName: 天紗聖典·齊格飛
+	DisplayName: 天纱圣典·齐格飞
 	Tooltip:
 		'''
-		左鍵閱讀
-		可被鑄成塑像，來與希絲忒莉亞兌換獎勵
+		左键阅读
+		可被铸成塑像，来与希丝忒莉亚兑换奖励
 		'''
 }
 
@@ -6251,102 +6251,102 @@ VeiledScriptureCozmire: {
 		'''
 		---------------------------------------
 
-		這名高等存在直屬天紗家族，為天紗琉明的兩名姐妹之一.
-		雖說如此，她將自己擁有的力量無所保留地用於作惡，最終導致整個家族的失調與沒落...真是個有趣的存在.
+		这名高等存在直属天纱家族，为天纱琉明的两名姐妹之一.
+		虽说如此，她将自己拥有的力量无所保留地用于作恶，最终导致整个家族的失调与没落...真是个有趣的存在.
 
-		她本名為「天寰神巫」，由天紗琉明所賦予生命.她被賦予了掌控寰宇的能力，卻將其隨意揮灑於地上，造成了數不勝數的破壞.此舉對天紗家族
-		無疑是一次重創，另一姐妹--艾祖瑞霖幾因悲痛而支離破碎.為了安撫天寰神巫，琉明將一顆奇點贈與她.誰料本應是彰顯愛意之物，卻被她
-		反手轉讓給緋琦，只為得到更多力量.這次交易徹底腐蝕了她的靈魂.緋琦用這顆奇點犯下了令人發指的罪行，但從未讓其融入自己的靈魂.
-		現如今，她有了一個更加廣為人知的名字--「絳淵惡巫」.全世界的作惡之人仍然敬仰著她，期待她降下腥天統治萬物.
+		她本名为“天寰神巫”，由天纱琉明所赋予生命.她被赋予了掌控寰宇的能力，却将其随意挥洒于地上，造成了数不胜数的破坏.此举对天纱家族
+		无疑是一次重创，另一姐妹--艾祖瑞霖几因悲痛而支离破碎.为了安抚天寰神巫，琉明将一颗奇点赠与她.谁料本应是彰显爱意之物，却被她
+		反手转让给绯琦，只为得到更多力量.这次交易彻底腐蚀了她的灵魂.绯琦用这颗奇点犯下了令人发指的罪行，但从未让其融入自己的灵魂.
+		现如今，她有了一个更加广为人知的名字--“绦渊恶巫”.全世界的作恶之人仍然敬仰著她，期待她降下腥天统治万物.
 
-		在失去奇點和之後的一系列事件後，她已不復往日.只有極惡之時-血月之夜才會喚起她的力量，讓她出現.
-		我們正應抓住此機會，攻其不備，將她消滅.
+		在失去奇点和之后的一系列事件后，她已不复往日.只有极恶之时-血月之夜才会唤起她的力量，让她出现.
+		我们正应抓住此机会，攻其不备，将她消灭.
 
-		- 愛你的 希絲忒莉亞
+		- 爱你的 希丝忒莉亚
 
 		'''
-	DisplayName: 天紗聖典·天寰神巫
+	DisplayName: 天纱圣典·天寰神巫
 	Tooltip:
 		'''
-		左鍵閱讀
-		可被鑄成塑像，來與希絲忒莉亞兌換獎勵
+		左键阅读
+		可被铸成塑像，来与希丝忒莉亚兑换奖励
 		'''
 }
 
 SplashAttack: {
-	DisplayName: 揮墨潑彩鞭
+	DisplayName: 挥墨泼彩鞭
 	Tooltip:
 		'''
 		{$CommonItemTooltip.SummonTagDamage}
 		{$CommonItemTooltip.Whips}
-		用我所有的顏料，給你一通亂打
+		用我所有的颜料，给你一通乱打
 		'''
 }
 
 CozmirePaintingI: {
-	DisplayName: 天寰神巫聖像
+	DisplayName: 天寰神巫圣像
 	Tooltip: ""
 }
 
 ExampleDialogueItem: {
-	DisplayName: 試驗對話物品
+	DisplayName: 试验对话物品
 	Tooltip: ""
 }
 
 SineSire: {
-	DisplayName: 蔚藍領主
+	DisplayName: 蔚蓝领主
 	Tooltip:
 		'''
 		{$CommonItemTooltip.SummonTagDamage}
 		{$CommonItemTooltip.Whips}
-		一個似水的球體，以波浪般的韻律移動！
+		一个似水的球体，以波浪般的韵律移动！
 		'''
 }
 
 SiresMail: {
-	DisplayName: 希絲忒莉亞的魔法信封
-	Tooltip: 希絲忒莉亞給你的特別禮物，能讓你隨時聯系她！
+	DisplayName: 希丝忒莉亚的魔法信封
+	Tooltip: 希丝忒莉亚给你的特别礼物，能让你随时联系她！
 }
 
 IllurianBroochA: {
-	DisplayName: 星樹飾符
+	DisplayName: 星树饰符
 	Tooltip:
 		'''
-		增加奔跑速度與靈活性！
-		減少防禦...
-		星樹與你同在
+		增加奔跑速度与灵活性！
+		减少防御...
+		星树与你同在
 		'''
 }
 
 GarbagePants: {
 	Tooltip:
 		'''
-		+10%移動速度
-		+1仆從欄
-		和奧薩馬·本·拉登有得一拼
+		+10%移动速度
+		+1仆从栏
+		和奥萨马·本·拉登有得一拼
 		'''
-	DisplayName: 垃圾護腿
+	DisplayName: 垃圾护腿
 }
 
 GarbageMask: {
 	Tooltip:
 		'''
-		+15%召喚和投擲傷害！
-		+30%投擲速度
-		+2仆從欄
-		純純的垃圾
+		+15%召唤和投掷伤害！
+		+30%投掷速度
+		+2仆从栏
+		纯纯的垃圾
 		'''
-	DisplayName: 垃圾頭罩
+	DisplayName: 垃圾头罩
 }
 
 GarbageChestplate: {
 	Tooltip:
 		'''
-		+25%召喚和投擲傷害！
-		10%投擲速度
-		+1仆從欄
-		+40最大生命值，並提升生命再生！
-		趕緊把它扔了吧！
+		+25%召唤和投掷伤害！
+		10%投掷速度
+		+1仆从栏
+		+40最大生命值，并提升生命再生！
+		赶紧把它扔了吧！
 		'''
 	DisplayName: 垃圾胸甲
 }
@@ -6355,31 +6355,31 @@ Sirius: {
 	DisplayName: 繁星·天狼
 	Tooltip:
 		'''
-		一支長矛，劃破天際，深深嵌入目標心房，緊接著，是震天動地的綻放！
-		這就是尼伊維的熾烈之怒~
+		一支长矛，划破天际，深深嵌入目标心房，紧接著，是震天动地的绽放！
+		这就是尼伊维的炽烈之怒~
 		'''
 }
 
 Iknoctstein: {
 	Tooltip:
 		'''
-		這將是一次超級爆炸的體驗！
-		輕點鼠標，迅猛突進，釋放出超級震撼的高額傷害！
-		擊中敵人會給你帶來額外傷害的加成，並且作為獎勵，你將獲得短暫的免疫效果！
-		擊中敵人將使你的下一次攻擊速度更快！但如果攻擊落空，你將面臨更長時間的等待.
-		越強的手套詞條越多
-		5個詞條!
+		这将是一次超级爆炸的体验！
+		轻点鼠标，迅猛突进，释放出超级震撼的高额伤害！
+		击中敌人会给你带来额外伤害的加成，并且作为奖励，你将获得短暂的免疫效果！
+		击中敌人将使你的下一次攻击速度更快！但如果攻击落空，你将面临更长时间的等待.
+		越强的手套词条越多
+		5个词条!
 		'''
-	DisplayName: 伊克諾克斯坦
+	DisplayName: 伊克诺克斯坦
 }
 
 Gothinstein: {
 	Tooltip:
 		'''
 		歌瑟梵未曾有此神器
-		輕觸屏幕，化作閃電，直沖敵陣！
-		擊敵得額外傷害，片刻無敵，勝者之賞.
-		擊中，下次攻擊快如閃電；失手，等待更漫長
+		轻触屏幕，化作闪电，直冲敌阵！
+		击敌得额外伤害，片刻无敌，胜者之赏.
+		击中，下次攻击快如闪电；失手，等待更漫长
 		'''
 	DisplayName: 歌瑟梵斯坦
 }
@@ -6387,73 +6387,73 @@ Gothinstein: {
 Friedstein: {
 	Tooltip:
 		'''
-		蕊的心愛之物，贊不絕口！
-		輕觸屏幕，化身為光，沖向敵人，光芒四射
-		擊中敵人，額外傷害，片刻免疫，勝者之賞.
-		中敵，下一次攻擊快如閃電；失手，等待時間更長.
+		蕊的心爱之物，赞不绝口！
+		轻触屏幕，化身为光，冲向敌人，光芒四射
+		击中敌人，额外伤害，片刻免疫，胜者之赏.
+		中敌，下一次攻击快如闪电；失手，等待时间更长.
 
-		攻速驚人，擊中後加速，但若失手，等待更漫長.
+		攻速惊人，击中后加速，但若失手，等待更漫长.
 		'''
-	DisplayName: 弗萊德斯坦
+	DisplayName: 弗莱德斯坦
 }
 
 ManifestedLove: {
 	Tooltip:
 		'''
-		歌瑟梵的靈魂之核心，具現化於此.
-		腐化退散，她的愛意散布至世界各處，安撫著一切非分.再見，歌瑟梵.
+		歌瑟梵的灵魂之核心，具现化于此.
+		腐化退散，她的爱意散布至世界各处，安抚著一切非分.再见，歌瑟梵.
 		'''
-	DisplayName: 愛意具現
+	DisplayName: 爱意具现
 }
 
 IllurianLoveLocket: {
-	DisplayName: 星樹墜飾盒
+	DisplayName: 星树坠饰盒
 	Tooltip:
 		'''
-		召喚一圈強力的星星保護你！
-		據說其中存有尼伊維的一絲愛意
+		召唤一圈强力的星星保护你！
+		据说其中存有尼伊维的一丝爱意
 		'''
 }
 
 AlcaliteMask: {
-	DisplayName: 阿卡裏亞面罩
+	DisplayName: 阿卡里亚面罩
 	Tooltip:
 		'''
-		+8%魔法與召喚傷害
-		+1仆從欄
+		+8%魔法与召唤伤害
+		+1仆从栏
 		'''
 }
 
 AlcaliteRobe: {
-	DisplayName: 阿卡裏亞法袍
+	DisplayName: 阿卡里亚法袍
 	Tooltip:
 		'''
-		+12%魔法與召喚傷害
-		+2仆從欄
+		+12%魔法与召唤伤害
+		+2仆从栏
 		'''
 }
 
 AlcaliteTrunks: {
-	DisplayName: 阿卡裏亞護腿
+	DisplayName: 阿卡里亚护腿
 	Tooltip:
 		'''
-		提升移動速度與加速度
-		+4%魔法與召喚傷害
-		+1仆從欄
+		提升移动速度与加速度
+		+4%魔法与召唤伤害
+		+1仆从栏
 		'''
 }
 
 IlluriteDrill: {
-	DisplayName: 星樹合金鉆
-	Tooltip: 它周期性地爆發，猶如精準的爆破采礦，震撼四方，光芒四射
+	DisplayName: 星树合金钻
+	Tooltip: 它周期性地爆发，犹如精准的爆破采矿，震撼四方，光芒四射
 }
 
 FlowerRobe: {
 	Tooltip:
 		'''
-		蕊給了你幾顆小紅心！
+		蕊给了你几颗小红心！
 		+60最大生命值
-		+18%近戰與遠程傷害!
+		+18%近战与远程伤害!
 		'''
 	DisplayName: 繁花袍
 }
@@ -6461,85 +6461,85 @@ FlowerRobe: {
 FlowerPants: {
 	Tooltip:
 		'''
-		+30%移動速度，並且腳下生花！
-		+10%近戰與遠程傷害！
+		+30%移动速度，并且脚下生花！
+		+10%近战与远程伤害！
 		'''
-	DisplayName: 繁花褲
+	DisplayName: 繁花裤
 }
 
 FlowerHat: {
 	Tooltip:
 		'''
-		蕊給你編了一頂花環！
-		+16%近戰與遠程傷害！
+		蕊给你编了一顶花环！
+		+16%近战与远程伤害！
 		'''
 	DisplayName: 繁花帽
 }
 
 Cryal: {
 	DisplayName: 冰晶哀歌
-	Tooltip: 雙冰箭封寒，箭雨破夜而至！
+	Tooltip: 双冰箭封寒，箭雨破夜而至！
 }
 
 MahoganyStorm: {
-	DisplayName: 檀木風暴
-	Tooltip: 釋放一連串箭矢，如檀木之風暴，密集覆蓋敵人，不留絲毫喘息之機
+	DisplayName: 檀木风暴
+	Tooltip: 释放一连串箭矢，如檀木之风暴，密集覆盖敌人，不留丝毫喘息之机
 }
 
 Dunderbustion: {
-	DisplayName: 雷炎連爆
-	Tooltip: 這把突發步槍，親手打造卻命運多舛，機械故障頻發，宛如一位桀驁不馴的野馬，隨時可能失控，卻也因此擁有了獨一無二的靈魂
+	DisplayName: 雷炎连爆
+	Tooltip: 这把突发步枪，亲手打造却命运多舛，机械故障频发，宛如一位桀骜不驯的野马，随时可能失控，却也因此拥有了独一无二的灵魂
 }
 
 Polaris: {
 	DisplayName: 繁星·北辰
 	Tooltip:
 		'''
-		蓄力以釋放毀滅激光
-		其能源，尼伊維之淚，蘊含無盡力量
+		蓄力以释放毁灭激光
+		其能源，尼伊维之泪，蕴含无尽力量
 		'''
 }
 
 GovheilPlatformBlock: {
 	Tooltip: ""
-	DisplayName: 歌維赫平臺
+	DisplayName: 歌维赫平台
 }
 
 ManifestedBravery: {
 	Tooltip:
 		'''
-		薇莉婭的靈魂之核心，具現化於此.
-		她最終選擇對抗緋琦和你，來拯救她的村莊，她的姐妹.
+		薇莉娅的灵魂之核心，具现化于此.
+		她最终选择对抗绯琦和你，来拯救她的村庄，她的姐妹.
 		'''
-	DisplayName: 勇氣具現
+	DisplayName: 勇气具现
 }
 
 FrameStaff: {
-	DisplayName: 星織法杖
+	DisplayName: 星织法杖
 	Tooltip:
 		'''
-		揮動星織法杖，你能在世界任意角落召喚神秘節點
-		再將它們以激光相連，編織出一張光的網，既美麗又致命
+		挥动星织法杖，你能在世界任意角落召唤神秘节点
+		再将它们以激光相连，编织出一张光的网，既美丽又致命
 		'''
 }
 
 LiliumArrow: {
-	Tooltip: 這些箭矢擊中目標後，炸裂成璀璨的金色碎片，猶如黃金流星雨般追蹤敵人，綻放爆炸的火花.
+	Tooltip: 这些箭矢击中目标后，炸裂成璀璨的金色碎片，犹如黄金流星雨般追踪敌人，绽放爆炸的火花.
 	DisplayName: 百合箭矢
 }
 
 IshtarKey: {
-	DisplayName: 狂淵之鑰
-	Tooltip: 瘋狂的意誌凝結成此物.使用它來開啟狂淵中的鎖
+	DisplayName: 狂渊之钥
+	Tooltip: 疯狂的意志凝结成此物.使用它来开启狂渊中的锁
 }
 
 IshtarCandle: {
-	DisplayName: 狂淵黯燭
+	DisplayName: 狂渊黯烛
 	Tooltip:
 		'''
-		冥後厄莉什基迦勒給你的禮物..
-		裝備它來驅散狂淵中的黑暗
-		這被詛咒的火苗中，燃燒著齊格飛的瘋狂...
+		冥后厄莉什基迦勒给你的礼物..
+		装备它来驱散狂渊中的黑暗
+		这被诅咒的火苗中，燃烧著齐格飞的疯狂...
 		'''
 }
 
@@ -6549,27 +6549,27 @@ BushyEyesI: {
 }
 
 BushySticksI: {
-	DisplayName: 暗巢雜物
+	DisplayName: 暗巢杂物
 	Tooltip: ""
 }
 
 BushyWebs: {
-	DisplayName: 暗巢蛛網
+	DisplayName: 暗巢蛛网
 	Tooltip: ""
 }
 
 IshtarDoor: {
-	DisplayName: 狂淵門
+	DisplayName: 狂渊门
 	Tooltip: ""
 }
 
 IshtarLockedChest: {
-	DisplayName: 狂淵箱
+	DisplayName: 狂渊箱
 	Tooltip: ""
 }
 
 IshtarPainting: {
-	DisplayName: 狂淵符畫
+	DisplayName: 狂渊符画
 	Tooltip: ""
 }
 
@@ -6579,30 +6579,30 @@ Robi: {
 }
 
 IshtarBlock: {
-	DisplayName: 狂淵塊
+	DisplayName: 狂渊块
 	Tooltip: ""
 }
 
 ImperfectionStaff: {
-	Tooltip: 在不完美中尋覓絕世之美！
+	Tooltip: 在不完美中寻觅绝世之美！
 	DisplayName: 瑕光法杖
 }
 
 IshtarCard: {
 	Tooltip:
 		'''
-		以神秘粉末標記敵手
-		長按攻擊按鈕，引爆標記，造成爆炸傷害
+		以神秘粉末标记敌手
+		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
-	DisplayName: 狂淵符牌
+	DisplayName: 狂渊符牌
 }
 
 Orion: {
-	DisplayName: 繁星·獵戶
+	DisplayName: 繁星·猎户
 	Tooltip:
 		'''
 		留下一串爆炸的星辰
-		如煙花般絢爛
+		如烟花般绚烂
 		'''
 }
 
@@ -6610,17 +6610,17 @@ Aquarius: {
 	DisplayName: 繁星·水瓶
 	Tooltip:
 		'''
-		召喚強力水之斬擊光環
-		周期性釋放巨大斬擊，召喚追蹤泡泡！
+		召唤强力水之斩击光环
+		周期性释放巨大斩击，召唤追踪泡泡！
 		'''
 }
 
 RazzleDazzle: {
-	DisplayName: 炫亂魔彈
+	DisplayName: 炫乱魔弹
 	Tooltip:
 		'''
-		每三發射擊，發射出一張蛛網球，爆炸後化為蜘蛛群！
-		炫亂魔彈，讓敵人在混亂中顫抖
+		每三发射击，发射出一张蛛网球，爆炸后化为蜘蛛群！
+		炫乱魔弹，让敌人在混乱中颤抖
 		'''
 }
 
@@ -6628,105 +6628,105 @@ IllureCard: {
 	DisplayName: 迷魅符牌
 	Tooltip:
 		'''
-		以神秘粉末標記敵手
-		長按攻擊按鈕，引爆標記，造成爆炸傷害
+		以神秘粉末标记敌手
+		长按攻击按钮，引爆标记，造成爆炸伤害
 		'''
 }
 
 Pulsing: {
-	DisplayName: 脈動之槍
-	Tooltip: 這是一把尋常卻不平凡的槍械
+	DisplayName: 脉动之枪
+	Tooltip: 这是一把寻常却不平凡的枪械
 }
 
 PoisonPistol: {
 	DisplayName: 毒蛛之吻
 	Tooltip:
 		'''
-		發射後爆炸成蜘蛛群
-		獨特療法或刺激體驗，一觸即發
+		发射后爆炸成蜘蛛群
+		独特疗法或刺激体验，一触即发
 		'''
 }
 
 GunHolster: {
-	DisplayName: 槍套
+	DisplayName: 枪套
 	Tooltip:
 		'''
-		雙槍齊舞，火力翻倍
-		右手輕點，切換自如
+		双枪齐舞，火力翻倍
+		右手轻点，切换自如
 		'''
 }
 
 BurnBlast: {
-	DisplayName: 熾焰爆裂
-	Tooltip: 沈重大炮，一擊裂空，火球分身，燃盡敵蹤
+	DisplayName: 炽焰爆裂
+	Tooltip: 沉重大炮，一击裂空，火球分身，燃尽敌踪
 }
 
 Eagle: {
-	DisplayName: 雷霆之鷹
-	Tooltip: 這是一把更為強勁的標準槍械
+	DisplayName: 雷霆之鹰
+	Tooltip: 这是一把更为强劲的标准枪械
 }
 
 RavestBlast: {
-	DisplayName: 狂飆脈沖
-	Tooltip: 三發脈動波連環出擊，猶如電音節上的狂熱，一波未平一波又起
+	DisplayName: 狂飙脉冲
+	Tooltip: 三发脉动波连环出击，犹如电音节上的狂热，一波未平一波又起
 }
 
 MsFreeze: {
 	DisplayName: 霜冷女王
-	Tooltip: 她迅疾發射出霜凍激光，如同冬日裏最銳利的寒風，瞬間凝固一切
+	Tooltip: 她迅疾发射出霜冻激光，如同冬日里最锐利的寒风，瞬间凝固一切
 }
 
 MintyBlast: {
 	DisplayName: 霜火之吻
-	Tooltip: 這把武器，吐露的是冰與火的歌，寒冷中蘊藏燃燒的力量
+	Tooltip: 这把武器，吐露的是冰与火的歌，寒冷中蕴藏燃烧的力量
 }
 
 RocketLauncher: {
-	DisplayName: 火箭怒嘯
-	Tooltip: 火箭一發，天地震撼，但謹記安全，勿讓自己受牽連
+	DisplayName: 火箭怒啸
+	Tooltip: 火箭一发，天地震撼，但谨记安全，勿让自己受牵连
 }
 
 Electrifying: {
-	DisplayName: 疾電破
+	DisplayName: 疾电破
 	Tooltip:
 		'''
-		它迅速釋放出帶電的閃電箭，如同夜空中劃過的疾電，既迅猛又耀眼
-		每一次射擊都伴隨著電流的顫動，仿佛是自然之力的直接體現，既美麗又致命
+		它迅速释放出带电的闪电箭，如同夜空中划过的疾电，既迅猛又耀眼
+		每一次射击都伴随著电流的颤动，仿佛是自然之力的直接体现，既美丽又致命
 		'''
 }
 
 STARBUST: {
-	DisplayName: 星 辰 破 曉
-	Tooltip: 星辰轟炸者的機槍旋律，於星際間狂舞，織夢為彈，燃盡宇宙的夜
+	DisplayName: 星 辰 破 晓
+	Tooltip: 星辰轰炸者的机枪旋律，于星际间狂舞，织梦为弹，燃尽宇宙的夜
 }
 
 AssassinsRecharge: {
-	DisplayName: 影殺回魂
-	Tooltip: 它射出的光束，帶著適度的生命汲取之力，每一次擊中，都像在敵人心臟上輕輕一吻，卻能為自己註入生機
+	DisplayName: 影杀回魂
+	Tooltip: 它射出的光束，带著适度的生命汲取之力，每一次击中，都像在敌人心脏上轻轻一吻，却能为自己注入生机
 }
 
 BubbleBussy: {
-	DisplayName: 泡沫靈犀
+	DisplayName: 泡沫灵犀
 	Tooltip:
 		'''
-		穩穩紮在地裏，牢牢粘著敵人，時間一長，傷害就慢慢疊加
-		別去深究，效果自然顯現，等著看時間的威力吧
+		稳稳扎在地里，牢牢粘著敌人，时间一长，伤害就慢慢叠加
+		别去深究，效果自然显现，等著看时间的威力吧
 		'''
 }
 
 CinderNeedle: {
-	DisplayName: 灰燼之針
-	Tooltip: 疾速連發，火焰針雨，織成一片熾熱的天網
+	DisplayName: 灰烬之针
+	Tooltip: 疾速连发，火焰针雨，织成一片炽热的天网
 }
 
 Devolver: {
-	DisplayName: 逆熵之槍
-	Tooltip: 它發射的子彈雖行進緩慢，卻帶著足夠的力量穿透敵人的防禦
+	DisplayName: 逆熵之枪
+	Tooltip: 它发射的子弹虽行进缓慢，却带著足够的力量穿透敌人的防御
 }
 
 ShottyPitol: {
-	DisplayName: 散彈小旋風
-	Tooltip: 子彈如小旋風般散開，迷你霰彈槍的威力，一掃即清
+	DisplayName: 散弹小旋风
+	Tooltip: 子弹如小旋风般散开，迷你霰弹枪的威力，一扫即清
 }
 
 RobedSandstone: {
@@ -6736,45 +6736,45 @@ RobedSandstone: {
 
 AzureWrath: {
 	DisplayName: 紫霆湛怒
-	Tooltip: 紫電迅疾，能量光彈劃破夜空，如流星雨般傾瀉而下
+	Tooltip: 紫电迅疾，能量光弹划破夜空，如流星雨般倾泻而下
 }
 
 CarrotPatrol: {
-	DisplayName: 蘿蔔守望者
-	Tooltip: 發射蘿蔔彈，觸地開花，化作滿天小碎片，撒下一地驚喜
+	DisplayName: 萝卜守望者
+	Tooltip: 发射萝卜弹，触地开花，化作满天小碎片，撒下一地惊喜
 }
 
 MeredaX: {
-	DisplayName: 雙持死神
+	DisplayName: 双持死神
 	Tooltip:
 		'''
-		這是唯一能讓你雙手同時握持的槍械，如同舞動雙刃的戰神，既靈活又致命
-		仿佛冥後厄莉什基迦勒賦予了你暗夜的力量，每一發子彈，都是對敵人命運的靜默宣判
+		这是唯一能让你双手同时握持的枪械，如同舞动双刃的战神，既灵活又致命
+		仿佛冥后厄莉什基迦勒赋予了你暗夜的力量，每一发子弹，都是对敌人命运的静默宣判
 		'''
 }
 
 SrTetanus: {
-	DisplayName: 破曉·骨鳴
+	DisplayName: 破晓·骨鸣
 	Tooltip:
 		'''
-		雙彈齊發，銹蝕劇毒，交織成死亡之舞
-		中者哀嚎，你絕不願嘗此苦果
+		双弹齐发，锈蚀剧毒，交织成死亡之舞
+		中者哀嚎，你绝不愿尝此苦果
 		'''
 }
 
 TheReaving: {
-	DisplayName: 噬滅掠影
-	Tooltip: 我們在掠奪中尋愛，在謊言裏成詩，生命是一場華麗的迷藏
+	DisplayName: 噬灭掠影
+	Tooltip: 我们在掠夺中寻爱，在谎言里成诗，生命是一场华丽的迷藏
 }
 
 TempleKeyMold: {
-	DisplayName: 神廟鑰匙模具
-	Tooltip: 神廟鑰匙製作中不可或缺的一部分
+	DisplayName: 神庙钥匙模具
+	Tooltip: 神庙钥匙制作中不可或缺的一部分
 }
 
 TempleKeyPart: {
-	DisplayName: 神廟鑰匙部件
-	Tooltip: 看來厄莉什基迦勒把神廟鑰匙拆成了幾部分，還交給奇點保管.真殘酷.
+	DisplayName: 神庙钥匙部件
+	Tooltip: 看来厄莉什基迦勒把神庙钥匙拆成了几部分，还交给奇点保管.真残酷.
 }
 
 M38F30: {
@@ -6783,66 +6783,66 @@ M38F30: {
 }
 
 StarSilk: {
-	Tooltip: 神話級的絲綢，以純粹的星之能量編織而成
-	DisplayName: 繁星絲綢
+	Tooltip: 神话级的丝绸，以纯粹的星之能量编织而成
+	DisplayName: 繁星丝绸
 }
 
 BabySwarmerStaff: {
-	DisplayName: 蟻群幼崽法杖
+	DisplayName: 蚁群幼崽法杖
 	Tooltip:
 		'''
-		召喚蟻群幼崽為你而戰！
-		這些小家夥攻擊迅速，只占用半個召喚物位置
+		召唤蚁群幼崽为你而战！
+		这些小家伙攻击迅速，只占用半个召唤物位置
 		'''
 }
 
 RadiantsparkBoots: {
 	Tooltip:
 		'''
-		你會需要這雙靴子的！感謝蕊吧！
-		穿戴者可以飛速奔跑，並在移動時留下有傷害的金光軌跡！
+		你会需要这双靴子的！感谢蕊吧！
+		穿戴者可以飞速奔跑，并在移动时留下有伤害的金光轨迹！
 		蕊的光芒刻印在你的身上
-		獲得影遁披巾的沖刺，並且再次小幅降低沖刺冷卻！
+		获得影遁披巾的冲刺，并且再次小幅降低冲刺冷却！
 		稍微提升生命再生
 		+30最大生命值！
-		足下生花，免疫巖漿！
-		+15%暴擊率，+5%傷害！
-		它會是你未來戰鬥中的有力幫助
+		足下生花，免疫岩浆！
+		+15%暴击率，+5%伤害！
+		它会是你未来战斗中的有力帮助
 		'''
-	DisplayName: 輝光爍影靴
+	DisplayName: 辉光烁影靴
 }
 
 AntlionWings: {
-	DisplayName: 蟻獅之翼
+	DisplayName: 蚁狮之翼
 	Tooltip: ""
 }
 
 ZuiBomb: {
-	Tooltip: 擊中敵人時召喚蕊的力量，爆炸並造成大量傷害！
-	DisplayName: 蕊之輝光
+	Tooltip: 击中敌人时召唤蕊的力量，爆炸并造成大量伤害！
+	DisplayName: 蕊之辉光
 }
 
 HavocSignaler: {
 	Tooltip: ""
-	DisplayName: 浩劫指揮器
+	DisplayName: 浩劫指挥器
 }
 
 IcelockLongbow: {
 	DisplayName: 冰封星弓
-	Tooltip: 每一箭釋放多重冰羽，最終匯聚成一顆璀璨的冰霜之星，照亮並凍結敵人
+	Tooltip: 每一箭释放多重冰羽，最终汇聚成一颗璀璨的冰霜之星，照亮并冻结敌人
 }
 
 Chillrend: {
 	DisplayName: 寒裂
-	Tooltip: 最後一劍，劍舞冰旋，寒渦凝霜
+	Tooltip: 最后一剑，剑舞冰旋，寒涡凝霜
 }
 
 ManifestedCommitment: {
-	DisplayName: 明誌具現
+	DisplayName: 明志具现
 	Tooltip:
 		'''
-		伊瑞蒂安的靈魂之核心，具現化於此.
-		伊瑞蒂安內心僅有此一誌：維護城堡，等待薇莉婭與歌瑟梵歸來.
+		伊瑞蒂安的灵魂之核心，具现化于此.
+		伊瑞蒂安内心仅有此一志：维护城堡，等待薇莉娅与歌瑟梵归来.
 		'''
 }
 
@@ -6850,20 +6850,20 @@ IshNYire: {
 	DisplayName: Ish N Yire
 	Tooltip:
 		'''
-		在冥界女王厄莉什基迦勒的陰冷王座下，這柄武器承載著古老且深邃的詛咒
-		它擁有四種變幻莫測的戰鬥姿態，每一式都蘊含著毀滅的美學
+		在冥界女王厄莉什基迦勒的阴冷王座下，这柄武器承载著古老且深邃的诅咒
+		它拥有四种变幻莫测的战斗姿态，每一式都蕴含著毁灭的美学
 		---------------------------
-		雙鏈舞動：兩根鎖鏈如靈蛇般穿梭，在中距離的戰場上，它們是死神的觸手，將敵人拉入絕望的深淵
-		Ish之刃：一柄旋轉的劍刃，它如同地獄的風車，切割著空間與時間，敵人在它的鋒利下化為塵埃，被徹底粉碎，只留下一片寂靜
-		Yire之劍：這柄劍，既是遠方的死神，也是近身的屠夫
-		Ish N Yire雙劍合璧：向敵人投擲的不僅是劍刃，更是死神的邀請函
+		双链舞动：两根锁链如灵蛇般穿梭，在中距离的战场上，它们是死神的触手，将敌人拉入绝望的深渊
+		Ish之刃：一柄旋转的剑刃，它如同地狱的风车，切割著空间与时间，敌人在它的锋利下化为尘埃，被彻底粉碎，只留下一片寂静
+		Yire之剑：这柄剑，既是远方的死神，也是近身的屠夫
+		Ish N Yire双剑合璧：向敌人投掷的不仅是剑刃，更是死神的邀请函
 
 		'''
 }
 
 AzuretoothNecklace: {
-	DisplayName: 蔚藍龍齒項鏈
-	Tooltip: 引導星樹之力，召喚追蹤幽靈龍！
+	DisplayName: 蔚蓝龙齿项链
+	Tooltip: 引导星树之力，召唤追踪幽灵龙！
 }
 
 ColdheartAnklebiter: {
@@ -6872,67 +6872,67 @@ ColdheartAnklebiter: {
 		'''
 		{$CommonItemTooltip.SummonTagDamage}
 		{$CommonItemTooltip.Whips}
-		打擊敵人，使其陷入寒冰之境！
-		被召喚物擊中的敵人，將引爆冰錐四濺的爆炸！
+		打击敌人，使其陷入寒冰之境！
+		被召唤物击中的敌人，将引爆冰锥四溅的爆炸！
 		'''
 }
 
 Bincle: {
-	Tooltip: 用你的魔法鏡射出璀璨光束
-	DisplayName: 璀光破影鏡
+	Tooltip: 用你的魔法镜射出璀璨光束
+	DisplayName: 璀光破影镜
 }
 
 Relagis: {
-	Tooltip: 神聖的光，充盈著你的身心
-	DisplayName: 瑞拉吉斯之輝
+	Tooltip: 神圣的光，充盈著你的身心
+	DisplayName: 瑞拉吉斯之辉
 }
 
 Opinine: {
-	Tooltip: 射自天穹，攜光而生，箭矢如星辰，破夜而來
+	Tooltip: 射自天穹，携光而生，箭矢如星辰，破夜而来
 	DisplayName: 光耀射天弓
 }
 
 WaterGun: {
-	DisplayName: 水柱槍
+	DisplayName: 水柱枪
 	Tooltip:
 		'''
-		持續噴射水流
-		派對上的特別嘉賓
+		持续喷射水流
+		派对上的特别嘉宾
 		'''
 }
 
 DogmaBalls: {
-	DisplayName: 星樹聖書
+	DisplayName: 星树圣书
 	Tooltip:
 		'''
-		擲出星樹教義之書
-		召喚言辭，無形中削弱對手
+		掷出星树教义之书
+		召唤言辞，无形中削弱对手
 		'''
 }
 
 Tulahal: {
-	Tooltip: 從歌維赫時光塵封、輻射充盈的古老能量中，召喚出一場烈焰颶風.駕馭風與焰，掌控風暴之心.
-	DisplayName: 圖拉赫爾
+	Tooltip: 从歌维赫时光尘封、辐射充盈的古老能量中，召唤出一场烈焰飓风.驾驭风与焰，掌控风暴之心.
+	DisplayName: 图拉赫尔
 }
 
 BasicBaseball: {
-	DisplayName: 基礎棒球
+	DisplayName: 基础棒球
 	Tooltip:
 		'''
-		擊中敵人後，球會彈開
-		接住球，下一次投擲傷害增加！
-		無限疊加，威力無邊
+		击中敌人后，球会弹开
+		接住球，下一次投掷伤害增加！
+		无限叠加，威力无边
 		'''
 }
 
 Volcant: {
-	Tooltip: 揮舞熾焰巨劍，以烈火之舞斬斷敵膝，令強敵瞬間失足，跌落於勝利的余燼之中.
+	Tooltip: 挥舞炽焰巨剑，以烈火之舞斩断敌膝，令强敌瞬间失足，跌落于胜利的余烬之中.
 	DisplayName: 熔炎
 }
 
 SmallVeilPottery: {
 	Tooltip: ""
-	DisplayName: 小型天紗壺
+	DisplayName: 小型天纱壶
 }
 
 Catagrass: {
@@ -6946,185 +6946,185 @@ RobedCatastone: {
 }
 
 SpikedLobber: {
-	DisplayName: 尖刺拋擊
+	DisplayName: 尖刺抛击
 	Tooltip:
 		'''
-		擊中敵人，球體彈回
-		接住球，下次攻擊傷害提升
-		連擊五次後，彈跳時釋放尖刺
-		無限疊加，攻勢不止
+		击中敌人，球体弹回
+		接住球，下次攻击伤害提升
+		连击五次后，弹跳时释放尖刺
+		无限叠加，攻势不止
 		'''
 }
 
 StickyCards: {
-	DisplayName: 幻術卡牌
+	DisplayName: 幻术卡牌
 	Tooltip:
 		'''
-		擊中敵人，卡牌彈回
-		接住卡牌，下次投擲傷害提升
-		卡牌附帶靈光牽引，自動回返
-		無限疊加，威力無界
+		击中敌人，卡牌弹回
+		接住卡牌，下次投掷伤害提升
+		卡牌附带灵光牵引，自动回返
+		无限叠加，威力无界
 		'''
 }
 
 DaggerDagger: {
-	DisplayName: 雙刃飛刀
+	DisplayName: 双刃飞刀
 	Tooltip:
 		'''
-		擊中敵人，刀身彈回
-		接住飛刀，下次投擲傷害提升
-		右擊，投擲吸血充能刀
-		飛刀在手，生死由我
+		击中敌人，刀身弹回
+		接住飞刀，下次投掷伤害提升
+		右击，投掷吸血充能刀
+		飞刀在手，生死由我
 		'''
 }
 
 DreadFragment: {
-	DisplayName: 恐懼殘片
+	DisplayName: 恐惧残片
 	Tooltip:
 		'''
-		內含絳淵惡巫的一絲力量
-		再收集幾片，也許就會激怒她...
+		内含绦渊恶巫的一丝力量
+		再收集几片，也许就会激怒她...
 		'''
 }
 
 DreadMedalion: {
-	DisplayName: 恐懼徽章
+	DisplayName: 恐惧徽章
 	Tooltip:
 		'''
-		在夜晚使用來挑戰絳淵惡巫！
-		充滿恐懼
+		在夜晚使用来挑战绦渊恶巫！
+		充满恐惧
 		'''
 }
 
 SkullBreaker: {
-	DisplayName: 碎顱者
+	DisplayName: 碎颅者
 	Tooltip: ""
 }
 
 ArtoriaIllurePowder: {
-	DisplayName: 阿托利亞星樹魔法塵
+	DisplayName: 阿托利亚星树魔法尘
 	Tooltip:
 		'''
-		向他們灑下魔法塵
-		星樹的爆發
-		用這個擊中敵人後，使用符牌引爆！
+		向他们洒下魔法尘
+		星树的爆发
+		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
 EreshkinPowder: {
-	DisplayName: 厄莉什基迦勒魔法塵
+	DisplayName: 厄莉什基迦勒魔法尘
 	Tooltip:
 		'''
-		向他們灑下魔法塵
-		一種閃爍著光芒的描畫粉塵，其破壞力是引爆它的符牌威力的數倍！
-		用這個擊中敵人後，使用符牌引爆！
+		向他们洒下魔法尘
+		一种闪烁著光芒的描画粉尘，其破坏力是引爆它的符牌威力的数倍！
+		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
 MushyPowder: {
-	DisplayName: 柔夢魔法塵
+	DisplayName: 柔梦魔法尘
 	Tooltip:
 		'''
-		向他們灑下魔法塵
+		向他们洒下魔法尘
 		爆炸性粉末
-		用這個擊中敵人後，使用符牌引爆！
+		用这个击中敌人后，使用符牌引爆！
 		'''
 }
 
 RibbonStaff: {
-	DisplayName: 彩帶魔杖
+	DisplayName: 彩带魔杖
 	Tooltip:
 		'''
-		彩帶魔杖，束縛敵手，如禮盒纏繞，定身於優雅之中
-		釋放魔力，敵人化為絢爛彩紙，煙花般綻放，戰場亦成舞會
+		彩带魔杖，束缚敌手，如礼盒缠绕，定身于优雅之中
+		释放魔力，敌人化为绚烂彩纸，烟花般绽放，战场亦成舞会
 		'''
 }
 
 WiggleDiggle: {
-	DisplayName: 搖擺小醜
-	Tooltip: 它扭動，它擺蕩，它掘進！化身歡鬧小醜，於嬉笑中舞動
+	DisplayName: 摇摆小丑
+	Tooltip: 它扭动，它摆荡，它掘进！化身欢闹小丑，于嬉笑中舞动
 }
 
 NiceBusterr: {
 	DisplayName: 璀璨破界者
-	Tooltip: 在這一帶，我們可不客氣
+	Tooltip: 在这一带，我们可不客气
 }
 
 Mordred: {
-	DisplayName: 莫德雷德之劍
+	DisplayName: 莫德雷德之剑
 	Tooltip:
 		'''
-		我在一次探險中偶然發現的！- 希絲忒莉亞
-		這可能是件古老的遺物，或曾經是某人的武器.總之，它不屬於你
+		我在一次探险中偶然发现的！- 希丝忒莉亚
+		这可能是件古老的遗物，或曾经是某人的武器.总之，它不属于你
 		'''
 }
 
 TheMarksman: {
-	Tooltip: 用你的光標，召喚天紗之力，釋放電流！
-	DisplayName: 標定霹靂杖
+	Tooltip: 用你的光标，召唤天纱之力，释放电流！
+	DisplayName: 标定霹雳杖
 }
 
 STARBOMBERBossRel: {
 	Tooltip: ""
-	DisplayName: 星 爆 者 聖物
+	DisplayName: 星 爆 者 圣物
 }
 
 MardenthMask: {
-	DisplayName: 瑪登斯的蒙紗假面
-	Tooltip: +10最大生命值，但-10%傷害！
+	DisplayName: 玛登斯的蒙纱假面
+	Tooltip: +10最大生命值，但-10%伤害！
 }
 
 MardenthPants: {
-	DisplayName: 瑪登斯的超級護腿
-	Tooltip: +5%移動速度
+	DisplayName: 玛登斯的超级护腿
+	Tooltip: +5%移动速度
 }
 
 MardenthRobe: {
-	DisplayName: 瑪登斯的超級戰袍
-	Tooltip: +20最大生命值，而且很帥！
+	DisplayName: 玛登斯的超级战袍
+	Tooltip: +20最大生命值，而且很帅！
 }
 
 NiiviBossRel: {
-	DisplayName: 尼伊維聖物
+	DisplayName: 尼伊维圣物
 	Tooltip: ""
 }
 
 ManifestedAnxiety: {
 	Tooltip:
 		'''
-		絳淵惡巫的靈魂之核心，具現化於此.
-		絳淵惡巫散布的驚怖與擔憂已然隨她的倒下而散去，但對她的恐懼依舊.
+		绦渊恶巫的灵魂之核心，具现化于此.
+		绦渊恶巫散布的惊怖与担忧已然随她的倒下而散去，但对她的恐惧依旧.
 		'''
-	DisplayName: 憂懼具現
+	DisplayName: 忧惧具现
 }
 
 SigfriedsPhotoAlbum: {
-	Tooltip: 裏面收藏了齊格飛的所有照片，由遠古魔法緊緊固定，你用盡渾身解數也翻不開它.
-	DisplayName: 齊格飛的相片冊
+	Tooltip: 里面收藏了齐格飞的所有照片，由远古魔法紧紧固定，你用尽浑身解数也翻不开它.
+	DisplayName: 齐格飞的相片册
 }
 
 IceCubeMaker: {
 	DisplayName: 霜雪魔方
 	Tooltip:
 		'''
-		霜雪風暴席卷戰場，冰塊彈跳，寒冰樂章響徹雲霄
-		寒風凜冽，你是冰雪的主宰，每一擊都凍結敵人於時間之中
+		霜雪风暴席卷战场，冰块弹跳，寒冰乐章响彻云霄
+		寒风凛冽，你是冰雪的主宰，每一击都冻结敌人于时间之中
 		'''
 }
 
 Vixyl: {
-	DisplayName: 維西爾
+	DisplayName: 维西尔
 	Tooltip:
 		'''
-		精準把握斬擊與受擊的時機，以反擊敵人攻擊
-		反擊能夠完全抵消所有傷害，並發動強力的反擊斬擊
-		在反擊後的一小段時間內，你將如同薇莉亞一般，施展一連串的快速攻擊
+		精准把握斩击与受击的时机，以反击敌人攻击
+		反击能够完全抵消所有伤害，并发动强力的反击斩击
+		在反击后的一小段时间内，你将如同薇莉亚一般，施展一连串的快速攻击
 		'''
 }
 
 ManifestedHumility: {
 	Tooltip: ""
-	DisplayName: 謙遜具現
+	DisplayName: 谦逊具现
 }
 
 GraveShaper: {
@@ -7133,114 +7133,114 @@ GraveShaper: {
 }
 
 CleanestCleaver: {
-	DisplayName: 潔凈屠夫刀
+	DisplayName: 洁净屠夫刀
 	Tooltip: ""
 }
 
 GothiviaIyxBag: {
-	DisplayName: 寶藏袋（歌瑟梵·伊斯）
+	DisplayName: 宝藏袋（歌瑟梵·伊斯）
 	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 }
 
 GothiviaBossRel: {
-	DisplayName: 歌瑟梵聖物
-	Tooltip: 烈陽終有落下之時....
+	DisplayName: 歌瑟梵圣物
+	Tooltip: 烈阳终有落下之时....
 }
 
 SerpentWings: {
-	Tooltip: 不息熾龍的雙翼，給予30秒鐘的飛行時間！
-	DisplayName: 熾焰盤龍翼
+	Tooltip: 不息炽龙的双翼，给予30秒钟的飞行时间！
+	DisplayName: 炽焰盘龙翼
 }
 
 GothinWings: {
 	Tooltip:
 		'''
-		多漂亮的翅膀，看著就讓人想把它穿上！給予90秒的飛行時間！
-		可以與時裝欄的翅膀在外觀上共存！親手打造出你最心儀的造型！
+		多漂亮的翅膀，看著就让人想把它穿上！给予90秒的飞行时间！
+		可以与时装栏的翅膀在外观上共存！亲手打造出你最心仪的造型！
 		'''
 	DisplayName: 歌瑟梵之翼
 }
 
 FoxMark: {
-	DisplayName: 靈狐印記
+	DisplayName: 灵狐印记
 	Tooltip:
 		'''
-		可以戴在頭上，雖然那樣並不會增加屬性值
-		+30%移動速度!
+		可以戴在头上，虽然那样并不会增加属性值
+		+30%移动速度!
 		+30最大生命值
-		+5%傷害
-		與我簽訂契約，成為魔法狐娘吧！
-		"她會治愈我的..."
+		+5%伤害
+		与我签订契约，成为魔法狐娘吧！
+		"她会治愈我的..."
 		'''
 }
 
 Vhel: {
 	Tooltip:
 		'''
-		歌瑟梵的特製連射弓，
-		她用之數十年，現傳你手中
+		歌瑟梵的特制连射弓，
+		她用之数十年，现传你手中
 		'''
-	DisplayName: 維爾赫
+	DisplayName: 维尔赫
 }
 
 SerpentStaff: {
-	DisplayName: 炎蛇權杖
+	DisplayName: 炎蛇权杖
 	Tooltip:
 		'''
-		召喚巨蛇為你而戰
-		仆從欄越多，蛇身漸長，力量倍增
+		召唤巨蛇为你而战
+		仆从栏越多，蛇身渐长，力量倍增
 		'''
 }
 
 Incinerator: {
-	DisplayName: 焚盡八荒
-	Tooltip: 這無匹烈焰，萬物難逃灰燼，所向披靡，盡是燎原之火！
+	DisplayName: 焚尽八荒
+	Tooltip: 这无匹烈焰，万物难逃灰烬，所向披靡，尽是燎原之火！
 }
 
 VeiledScriptureMiner2: {
-	Tooltip: 左鍵閱讀
-	DisplayName: 日誌2
+	Tooltip: 左键阅读
+	DisplayName: 日志2
 	Content:
 		'''
 
-		等下等下等下，剛才我看到前面有個白毛少女，當時我就想，她可真好看.
-		冰邦不知道又抽什麽風，居然直接走上去和她撩騷...然後她過來對著我們一頓猛打.
-		挖煤工作結束.向 星 爆 者 單元匯報.
+		等下等下等下，刚才我看到前面有个白毛少女，当时我就想，她可真好看.
+		冰邦不知道又抽什么风，居然直接走上去和她撩骚...然后她过来对著我们一顿猛打.
+		挖煤工作结束.向 星 爆 者 单元汇报.
 
-		- 達爾裏·米夏的日誌-2
+		- 达尔里·米夏的日志-2
 
 		'''
 }
 
 VeiledScriptureMiner3: {
-	Tooltip: 左鍵閱讀
-	DisplayName: 日誌3
+	Tooltip: 左键阅读
+	DisplayName: 日志3
 	Content:
 		'''
 
-		我不知道我在地下呆了多久了，但肯定有什麽不對勁.
-		最近睡眠質量很差，因為該死的冰邦非得睡在蝙！蝠！洞！旁！邊！
-		這是什麽鬼啊...
+		我不知道我在地下呆了多久了，但肯定有什么不对劲.
+		最近睡眠质量很差，因为该死的冰邦非得睡在蝙！蝠！洞！旁！边！
+		这是什么鬼啊...
 
-		之前我看到了一個人和一個拿著大鐵錘的巨型機器人，還拿著些其他東西，
-		但我當時正忙著找地方躲起來和把冰邦的破嘴堵住，沒能看清.
+		之前我看到了一个人和一个拿著大铁锤的巨型机器人，还拿著些其他东西，
+		但我当时正忙著找地方躲起来和把冰邦的破嘴堵住，没能看清.
 
-		- 達爾裏·米夏的日誌-3
+		- 达尔里·米夏的日志-3
 
 		'''
 }
 
 VeiledScriptureMiner4: {
-	Tooltip: 左鍵閱讀
-	DisplayName: 日誌4
+	Tooltip: 左键阅读
+	DisplayName: 日志4
 	Content:
 		'''
 
-		卟蛤…豆押…退…搖…葬…麥乧…
-		噯殼…伢…更…呵塔…挖…薬色…
+		卟蛤…豆押…退…摇…葬…麦乧…
+		嗳壳…伢…更…呵塔…挖…薬色…
 
-		我 們 像 魷 魚 一 樣 噴 墨
-		因 為 我 看 到 了 暗 影 人
+		我 们 像 鱿 鱼 一 样 喷 墨
+		因 为 我 看 到 了 暗 影 人
 
 		- 冰邦！！！
 
@@ -7248,104 +7248,104 @@ VeiledScriptureMiner4: {
 }
 
 VeiledScriptureMiner5: {
-	Tooltip: 左鍵閱讀
-	DisplayName: 日誌5
+	Tooltip: 左键阅读
+	DisplayName: 日志5
 	Content:
 		'''
 
-		冰邦失蹤了.我不知道他去哪了，好嚇人.
-		我現在在一個熱的要死的地方.本來只是想挖點獄石和熔渣的...
+		冰邦失踪了.我不知道他去哪了，好吓人.
+		我现在在一个热的要死的地方.本来只是想挖点狱石和熔渣的...
 
-		- 達爾裏·米夏的日誌-5
+		- 达尔里·米夏的日志-5
 
 		'''
 }
 
 VeiledScriptureMiner6: {
-	Tooltip: 左鍵閱讀
-	DisplayName: 日誌6
+	Tooltip: 左键阅读
+	DisplayName: 日志6
 	Content:
 		'''
 
-		紙要沒了，長話短說.
-		離開了熱的地方.有點脫水.冰邦找不到.
-		見到了一只友好的骷髏，買了點炸彈.看看爆炸聲能不能把他引過來.
+		纸要没了，长话短说.
+		离开了热的地方.有点脱水.冰邦找不到.
+		见到了一只友好的骷髅，买了点炸弹.看看爆炸声能不能把他引过来.
 
 
-		- 達爾裏·米夏的日誌-6
+		- 达尔里·米夏的日志-6
 
 		'''
 }
 
 VeiledScriptureMiner7: {
-	Tooltip: 左鍵閱讀
-	DisplayName: 日誌7
+	Tooltip: 左键阅读
+	DisplayName: 日志7
 	Content:
 		'''
 
-		踏馬的，冰邦終於回來了.
-		扔了幾個雷管之後他就跑了回來，但他還帶了個「驚喜」.
-		一塊紫不拉幾的石頭...姑且叫它花崗巖吧.
-		等下...它動了？
-		呃，所以冰邦現在正在正在逃命中，我也不太想幫他，畢竟他之前一聲不吭的把我扔下了.
-		我們這個緋琦企業名下的小公司也不會有生命保險，他們可能根本不在乎吧.
-		算了，冰邦暫時還沒死呢.他好像擺脫那玩意了.
+		踏马的，冰邦终于回来了.
+		扔了几个雷管之后他就跑了回来，但他还带了个“惊喜”.
+		一块紫不拉几的石头...姑且叫它花岗岩吧.
+		等下...它动了？
+		呃，所以冰邦现在正在正在逃命中，我也不太想帮他，毕竟他之前一声不吭的把我扔下了.
+		我们这个绯琦企业名下的小公司也不会有生命保险，他们可能根本不在乎吧.
+		算了，冰邦暂时还没死呢.他好像摆脱那玩意了.
 
-		- 達爾裏·米夏的日誌-7
+		- 达尔里·米夏的日志-7
 
 		'''
 }
 
 VeiledScriptureMiner8: {
-	Tooltip: 左鍵閱讀
-	DisplayName: 日誌8
+	Tooltip: 左键阅读
+	DisplayName: 日志8
 	Content:
 		'''
 
-		我之前說過喜歡壯實的妞，我在想緋琦算不算在這個範疇之內.
-		我們的煤炭指標還沒達成.她要這麽多這東西幹嘛？
-		還好熾金、赤鐵和月冰的指標都已經完成，但煤炭和各種寶石都還沒有.完犢子了.
-		我們馬上就得返回地面上了.祝我們好運吧.
+		我之前说过喜欢壮实的妞，我在想绯琦算不算在这个范畴之内.
+		我们的煤炭指标还没达成.她要这么多这东西干嘛？
+		还好炽金、赤铁和月冰的指标都已经完成，但煤炭和各种宝石都还没有.完犊子了.
+		我们马上就得返回地面上了.祝我们好运吧.
 
 
-		- 達爾裏·米夏的日誌-8
+		- 达尔里·米夏的日志-8
 
 		'''
 }
 
 VeiledScriptureMiner9: {
-	Tooltip: 左鍵閱讀
-	DisplayName: 日誌9
+	Tooltip: 左键阅读
+	DisplayName: 日志9
 	Content:
 		'''
 
-		真倒黴，回地表的路上碰到一只大水母.
-		要是緋琦知道我們有觸手玩，她肯定嫉妒壞了.
-		...看來只能繞路回到皇室首都了.
+		真倒霉，回地表的路上碰到一只大水母.
+		要是绯琦知道我们有触手玩，她肯定嫉妒坏了.
+		...看来只能绕路回到皇室首都了.
 
-		我們已經彈盡糧絕.冰邦被我裝在手推車裏.他暈過去了.
-		可能是那塊花崗巖給他砸腦震蕩了，或者就是蝙蝠吵的.
-		淦啊，我來這幹苦力就是為了攢錢向梅瑞娜表白...
-		希望緋琦不會把我當場殺掉吧，那樣至少還能拿到點收獲...
+		我们已经弹尽粮绝.冰邦被我装在手推车里.他晕过去了.
+		可能是那块花岗岩给他砸脑震荡了，或者就是蝙蝠吵的.
+		淦啊，我来这干苦力就是为了攒钱向梅瑞娜表白...
+		希望绯琦不会把我当场杀掉吧，那样至少还能拿到点收获...
 
-		- 達爾裏·米夏的日誌-9
+		- 达尔里·米夏的日志-9
 
 		'''
 }
 
 VeiledScriptureMiner10: {
-	Tooltip: 左鍵閱讀
-	DisplayName: 日誌10
+	Tooltip: 左键阅读
+	DisplayName: 日志10
 	Content:
 		'''
 
-		我不行了...離家這麽近，又太遠...
-		梅瑞娜,如果你能讀到這個，我想告訴你我愛你，我想多陪陪你...
-		我的搭檔蠢得要死，但至少他挺有趣的.
-		他不會真的死了吧？或者成植物人了？誰知道呢.
+		我不行了...离家这么近，又太远...
+		梅瑞娜,如果你能读到这个，我想告诉你我爱你，我想多陪陪你...
+		我的搭档蠢得要死，但至少他挺有趣的.
+		他不会真的死了吧？或者成植物人了？谁知道呢.
 
-		我現在只想往梅瑞娜的軟胸上一趴...真羨慕她身邊的人啊.
-		等下...那只骷髏...是不是衫——
+		我现在只想往梅瑞娜的软胸上一趴...真羡慕她身边的人啊.
+		等下...那只骷髅...是不是衫——
 
 
 
@@ -7356,58 +7356,58 @@ YourFired: {
 	DisplayName: 烈焰散爆
 	Tooltip:
 		'''
-		爆炸時分濺出眾多小型火球，猶如集束炸彈！
-		你就是導火索！
+		爆炸时分溅出众多小型火球，犹如集束炸弹！
+		你就是导火索！
 		'''
 }
 
 LumiPaintingI: {
 	Tooltip: ""
-	DisplayName: 琉明聖像
+	DisplayName: 琉明圣像
 }
 
 VeiledScriptureLumi: {
-	Tooltip: 左鍵閱讀
-	DisplayName: 天紗聖典·琉明
+	Tooltip: 左键阅读
+	DisplayName: 天纱圣典·琉明
 	Content:
 		'''
 		---------------------------------------
 
-		這名高等存在直屬天紗家族，與天寰神巫和艾祖瑞霖一同求索，一同飛升. 
-		據傳，她們是這世界上的至強至尊.但，現在有我在:p 
+		这名高等存在直属天纱家族，与天寰神巫和艾祖瑞霖一同求索，一同飞升. 
+		据传，她们是这世界上的至强至尊.但，现在有我在:p 
 
-		她的性格活潑而細心，畢竟是造物者以及整個家庭的照護者.
-		她兩名姐妹的生命與奇點均為她所給與.這無疑是深愛的彰顯，但這也證明了她在做收集奇點這種極度危險的事.
+		她的性格活泼而细心，毕竟是造物者以及整个家庭的照护者.
+		她两名姐妹的生命与奇点均为她所给与.这无疑是深爱的彰显，但这也证明了她在做收集奇点这种极度危险的事.
 
-		艾祖瑞霖掌握繁星之力，得到了破碎超新星；而天寰神巫得到了破碎奇點.
-		我承認她天賦異稟且實力強勁，但這些奇點的力量正在使世界分崩離析.對其的憧憬，對力量的渴望，令數不清的人斷送了生命.
-		我們別無選擇.唯有將這一切的源頭廢黜，徹底消滅.
+		艾祖瑞霖掌握繁星之力，得到了破碎超新星；而天寰神巫得到了破碎奇点.
+		我承认她天赋异禀且实力强劲，但这些奇点的力量正在使世界分崩离析.对其的憧憬，对力量的渴望，令数不清的人断送了生命.
+		我们别无选择.唯有将这一切的源头废黜，彻底消灭.
 
-		現如今，她已經超脫此世界，與她的姐妹一同位於未知空間中.只有一場毀天滅地的大災難才能讓她回到這裏.
-		所以~我們就要製造這樣的一場災難嘍 ;p
+		现如今，她已经超脱此世界，与她的姐妹一同位于未知空间中.只有一场毁天灭地的大灾难才能让她回到这里.
+		所以~我们就要制造这样的一场灾难喽 ;p
 
-		- 愛你的 希絲忒莉亞
+		- 爱你的 希丝忒莉亚
 		'''
 }
 
 RekBossRel: {
-	Tooltip: 綠陽熾龍的聖物
-	DisplayName: 萊克聖物
+	Tooltip: 绿阳炽龙的圣物
+	DisplayName: 莱克圣物
 }
 
 Irrasprayer: {
-	DisplayName: 輻燼噴射器
-	Tooltip: 以火滅火，用熾烈熄滅熾烈！
+	DisplayName: 辐烬喷射器
+	Tooltip: 以火灭火，用炽烈熄灭炽烈！
 }
 
 CinderBomber: {
-	DisplayName: 燼土轟炸
+	DisplayName: 烬土轰炸
 	Tooltip:
 		'''
-		擊中敵人後，炸彈會彈開
-		接住它，下次投擲傷害提升！
-		連擊五次，炸彈點燃，開始爆炸
-		無限疊加，威力無界
+		击中敌人后，炸弹会弹开
+		接住它，下次投掷伤害提升！
+		连击五次，炸弹点燃，开始爆炸
+		无限叠加，威力无界
 		'''
 }
 
@@ -7415,89 +7415,89 @@ LilStinger: {
 	DisplayName: 小刺叮
 	Tooltip:
 		'''
-		擊中敵人，小蜂彈開.
-		接住小蜂，下次攻擊傷害升級.
-		連擊五次後，小蜂開始爆炸攻擊！
-		追蹤能力強勁.
-		威力無限疊加，戰鬥不止.
+		击中敌人，小蜂弹开.
+		接住小蜂，下次攻击伤害升级.
+		连击五次后，小蜂开始爆炸攻击！
+		追踪能力强劲.
+		威力无限叠加，战斗不止.
 		'''
 }
 
 FiveAdvance: {
-	DisplayName: 達爾裏·米夏的日誌簿
+	DisplayName: 达尔里·米夏的日志簿
 	Tooltip:
 		'''
-		+5%移動速度
-		+5%傷害
-		+5%傷害減免
+		+5%移动速度
+		+5%伤害
+		+5%伤害减免
 		+5生命再生
 		+5最大生命值
-		達爾裏·米夏一定會感謝你的努力的...
+		达尔里·米夏一定会感谢你的努力的...
 		'''
 }
 
 FlinchMachine: {
-	DisplayName: 驚懼之扇
+	DisplayName: 惊惧之扇
 	Tooltip:
 		'''
-		擊中敵人，扇子彈回.
-		接住扇子，下次投擲傷害提升.
-		連擊五次後，每三擊的第三下，重創敵人！
-		無限疊加，威力無盡.
-		這扇，便是那狠心人擲我之物.
+		击中敌人，扇子弹回.
+		接住扇子，下次投掷伤害提升.
+		连击五次后，每三击的第三下，重创敌人！
+		无限叠加，威力无尽.
+		这扇，便是那狠心人掷我之物.
 		'''
 }
 
 IllurineBrew: {
-	DisplayName: 星樹神釀
+	DisplayName: 星树神酿
 	Tooltip:
 		'''
-		在太空中復原重力
-		輕微增加移動速度與加速度
+		在太空中复原重力
+		轻微增加移动速度与加速度
 		'''
 }
 
 IllurianBible: {
-	DisplayName: 星樹聖經
-	Tooltip: 召喚出虹彩彗星，它們會自動追蹤並轟擊你的敵人！
+	DisplayName: 星树圣经
+	Tooltip: 召唤出虹彩彗星，它们会自动追踪并轰击你的敌人！
 }
 
 SupernovaBag: {
-	DisplayName: 寶藏袋（破碎超新星）
+	DisplayName: 宝藏袋（破碎超新星）
 	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 }
 
 SupernovaBossRel: {
-	DisplayName: 破碎超新星聖物
+	DisplayName: 破碎超新星圣物
 	Tooltip: ""
 }
 
 Pegasus: {
-	DisplayName: 繁星·天馬
+	DisplayName: 繁星·天马
 	Tooltip:
 		'''
-		召喚尼伊維的三顆晶石環繞
-		發射各種元素攻擊，攻勢連綿不絕
-		這套晶石獨一無二，需要三個仆從槽位才能使用
+		召唤尼伊维的三颗晶石环绕
+		发射各种元素攻击，攻势连绵不绝
+		这套晶石独一无二，需要三个仆从槽位才能使用
 		'''
 }
 
 WoodyBroochA: {
-	DisplayName: 根系飾符
+	DisplayName: 根系饰符
 	Tooltip:
 		'''
-		接觸地面時增加30%傷害！
-		但~滯空時減少30%傷害！
+		接触地面时增加30%伤害！
+		但~滞空时减少30%伤害！
 		'''
 }
 
 DreadsVile: {
-	DisplayName: 恐懼之鐮
+	DisplayName: 恐惧之镰
 	Tooltip:
 		'''
-		想體驗如絳淵惡巫般橫掃千軍的速度？現在，你也能將恐懼散布於世！
-		對敵人點擊，釋放致命一擊，同時獲得免疫與骷髏加持！
-		若攻擊落空，小心反噬的接觸傷害及隨之而來的虛弱期
+		想体验如绦渊恶巫般横扫千军的速度？现在，你也能将恐惧散布于世！
+		对敌人点击，释放致命一击，同时获得免疫与骷髅加持！
+		若攻击落空，小心反噬的接触伤害及随之而来的虚弱期
 		'''
 }
 
@@ -7505,91 +7505,91 @@ CentipedeStaff: {
 	DisplayName: 百足魔杖
 	Tooltip:
 		'''
-		召喚伊瑞蒂安地蟲，為你撕裂戰場！
-		地蟲擒敵，暴拽四方，無人可逃
-		隨召喚位增多，蟲軀倍長，力能摧山！
+		召唤伊瑞蒂安地虫，为你撕裂战场！
+		地虫擒敌，暴拽四方，无人可逃
+		随召唤位增多，虫躯倍长，力能摧山！
 		'''
 }
 
 SirestiasMask: {
-	DisplayName: 希絲忒莉亞的假面
-	Tooltip: 滿血時增加30%傷害！
+	DisplayName: 希丝忒莉亚的假面
+	Tooltip: 满血时增加30%伤害！
 }
 
 VoidalPassageway: {
-	DisplayName: 淵宇之門
-	Tooltip: 使用此物品，打開虛無之門，召喚破碎超新星！
+	DisplayName: 渊宇之门
+	Tooltip: 使用此物品，打开虚无之门，召唤破碎超新星！
 }
 
 BlackEye: {
 	DisplayName: 暗夜燎望
-	Tooltip: 召喚萊克之眼，洞悉並製裁周圍敵人！
+	Tooltip: 召唤莱克之眼，洞悉并制裁周围敌人！
 }
 
 VulcanBreaker: {
-	DisplayName: 炎君破曉
+	DisplayName: 炎君破晓
 	Tooltip:
 		'''
-		揮動熔巖之錘，於敵胸炸裂
-		火焰四濺，光明與灰燼共舞
+		挥动熔岩之锤，于敌胸炸裂
+		火焰四溅，光明与灰烬共舞
 		'''
 }
 
 Superfragment: {
-	Tooltip: 天上繁星與其間深邃虛空結合的精華
-	DisplayName: 超新星殘片
+	Tooltip: 天上繁星与其间深邃虚空结合的精华
+	DisplayName: 超新星残片
 }
 
 JianxinCoat: {
-	DisplayName: 淵澗天星胸甲
+	DisplayName: 渊涧天星胸甲
 	Tooltip:
 		'''
 		+10盔甲穿透
-		+10%傷害
-		+20%暴擊率
+		+10%伤害
+		+20%暴击率
 		'''
 }
 
 JianxinMask: {
-	DisplayName: 淵澗天星面具
+	DisplayName: 渊涧天星面具
 	Tooltip:
 		'''
 		+10盔甲穿透
-		+10%傷害
+		+10%伤害
 		'''
 }
 
 JianxinPants: {
-	DisplayName: 淵澗天星護腿
+	DisplayName: 渊涧天星护腿
 	Tooltip:
 		'''
 		+10盔甲穿透
-		+10%傷害
-		+3仆從欄
+		+10%伤害
+		+3仆从栏
 		'''
 }
 
 IllurineHoops: {
-	DisplayName: 星樹飾環
+	DisplayName: 星树饰环
 	Tooltip:
 		'''
-		月亮敵人被守護者降下天雷霹靂，血量減半
-		+10%魔法傷害
-		增加魔力再生，減少魔力消耗
+		月亮敌人被守护者降下天雷霹雳，血量减半
+		+10%魔法伤害
+		增加魔力再生，减少魔力消耗
 		'''
 }
 
 IridineNecklace: {
-	DisplayName: 虹星項鏈
+	DisplayName: 虹星项链
 	Tooltip:
 		'''
-		死亡時復活並立即回滿生命！
-		具有5分鐘冷卻
-		最高階的星樹牧師才會戴上它
+		死亡时复活并立即回满生命！
+		具有5分钟冷却
+		最高阶的星树牧师才会戴上它
 		'''
 }
 
 GlocketRouncher: {
-	DisplayName: 導 弓單 發 身寸 器
-	Tooltip: 猜猜導彈是從哪發射出來的？
+	DisplayName: 导 弓单 发 身寸 器
+	Tooltip: 猜猜导弹是从哪发射出来的？
 }
