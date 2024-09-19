@@ -1,16 +1,16 @@
 Mods: {
 	Stellamod: {
-		Menus.Stellamenu.DisplayName: 穹月天纱
+		Menus.Stellamenu.DisplayName: 穹月天紗
 
 		Configs: {
 			LunarVeilClientConfig: {
-				DisplayName: 穹月天纱模组配置
+				DisplayName: 穹月天紗模組配置
 
 				Headers: {
-					ReplaceVanillaTextures: 替换原版材质
-					BiomeParticles: 环境粒子效果
-					ModdedBiomeParticles: 模组环境粒子效果
-					Screenshake: 屏幕震动
+					ReplaceVanillaTextures: 替換原版材質
+					BiomeParticles: 環境粒子效果
+					ModdedBiomeParticles: 模組環境粒子效果
+					Screenshake: 屏幕震動
 				}
 
 				VanillaParticlesToggle: {
@@ -24,13 +24,13 @@ Mods: {
 				}
 
 				VanillaTexturesToggle: {
-					Label: 使用原版材质
+					Label: 使用原版材質
 					Tooltip: ""
 				}
 
 				ShakeToggle: {
 					Tooltip: ""
-					Label: 屏幕震动切换
+					Label: 屏幕震動切換
 				}
 			}
 
