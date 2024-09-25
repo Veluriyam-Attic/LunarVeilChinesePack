@@ -9,8 +9,6 @@
 *.user
 *.userosscache
 *.sln.docstates
-Common/MyUtils/Learning.cs
-Common/MyUtils/NoitaOriginWandsOld.cs
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs

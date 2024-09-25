@@ -7,7 +7,7 @@ public class ArmorSetLocalizer : ModSystem
         ForceLocalizeSystem.LocalizeDerivedByType(typeof(ModItem), nameof(ModItem.UpdateArmorSet), new() {
             { "Stand still to emit a toxic aura!", "站立不动时产生剧毒光环!" }, // AcidHelm, AcidMask, AcidRobe, AcidVisor
             { "\n+1 max minions" +
-                "\nThe stars of Illuria protect you!", "\n+1随从上限\n星树的明星护佑著你!" }, // AlcaliteMask
+                "\nThe stars of Illuria protect you!", "\n+1随从上限\n星树的明星护佑着你!" }, // AlcaliteMask
             { "You are a true mage..." +
                 "\nGain the effects of a mana flower, magic cuffs, and retrieve magic stars from afar " +
                 "\nMana costs are reduced by 70% and increased magic regeneration", "你是一名真正的大法师...\n获得魔力花、魔法手铐的效果，并增加魔力星的拾取范围！\n减少70%的魔力消耗并提高魔力再生速度" }, // AlsisMask
@@ -16,7 +16,7 @@ public class ArmorSetLocalizer : ModSystem
                 "\nyour crit is 100% and damage output is doubled! " +
                 "\nSmall bits of paint left in your tracks." +
                 "\nCrit chance and armor penetration increased by 20!", "3，2，1..大声笑出来！你就站在舞台中间！:p\n每隔一小段时间进行一次倒计时，当你听到“Zero“时\n你将必定暴击，伤害加倍！\n移动时留下彩墨轨迹\n+20%暴击率，+20护甲穿透" }, // ArtisanMask
-            { "Stars orbit around you\nHit an enemy 5 times to rain down a gigantic star upon them!", "璀璨之星环绕著你！\n攻击敌人五次来召唤一颗明星从他们上方坠落!" }, // AstrasilkHead
+            { "Stars orbit around you\nHit an enemy 5 times to rain down a gigantic star upon them!", "璀璨之星环绕着你！\n攻击敌人五次来召唤一颗明星从他们上方坠落!" }, // AstrasilkHead
             { "Increases life regen by a great amount!" +
                 "\nMove faster and enemies that hit you take damage back! ", "大量增加生命再生速度！\n更快的移速并且攻击你的敌人会受到反伤！" }, // CelestiaMoonHelmet
             { "Increases life regen by a great amount!" +

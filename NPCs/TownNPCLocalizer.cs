@@ -19,7 +19,7 @@ public class TownNPCLocalizer : ModSystem
             { "I'm not one to brag but this place is so much better than Ekrose", "我不是喜欢夸夸其谈的人，但这个地方确实比艾科洛斯好多了。" },
             { "Did Sirestias ask me to find her again?", "希丝忒莉亚又叫我去找她了吗？" },
             { "Yeah I've been traveling while you were out.", "遇到你之前我一直在游荡" },
-            { "Go play Diari on steam? I have no idea what that means", "要不要试著steam下载个Diari玩玩？等等，我在说什么" },
+            { "Go play Diari on steam? I have no idea what that means", "要不要试着steam下载个Diari玩玩？等等，我在说什么" },
             { "Do people think I'm not into pans?", "是不是大家都认为我不喜欢平底锅呢？" },
             { "Sooo can we forget about everything that happened in Ekrose?", "我们可以忘记在艾科洛斯发生的一切吗？" },
             { "I am really sorry for what we went through but now were here you know?", "我真的很抱歉我们曾经所经历的一切，但是现在我们在这里应该有个新的开始，不是吗？" },
@@ -36,7 +36,7 @@ public class TownNPCLocalizer : ModSystem
             { "Talk", "闲聊" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Aimacra), nameof(Aimacra.OnChatButtonClicked), new() {
-            { "Heyyy at least we're out of Ekrose alive! I'm glad Vixyl is safe back at the main house.", "唉，至少我们活著离开了艾科洛斯，维西尔也安全回到家乡，这已经是很好的结果了" },
+            { "Heyyy at least we're out of Ekrose alive! I'm glad Vixyl is safe back at the main house.", "唉，至少我们活着离开了艾科洛斯，维西尔也安全回到家乡，这已经是很好的结果了" },
             { "I hate being Sirestias's Assassin.. Speaking of I met a guy named Veldris and he's totally cool!", "我不喜欢当希丝忒莉亚的杀手，emmmmm，说到这个，我今天遇到了一个叫威狄尔斯的家伙，他超酷的好吧" },
             { "I'll be back I may go to look for some new stuff underground. ", "我会回来的，我可能会去地下寻找一些新东西" },
             { "What is a thug shaker? To shake or not to shake? Sometimes I wonder if life truly does give lemons.", "什么才算是一个狂热摇滚者呢?随音乐摇摆还是不随音乐摇摆，这是一个问题...唉，有时候我感觉生活真是苦涩啊" },
@@ -93,7 +93,7 @@ public class TownNPCLocalizer : ModSystem
         #endregion
         #region CellConverter 分子转换器
         ForceLocalizeSystem.LocalizeByTypeFullName(typeof(CellConverter).FullName, nameof(CellConverter.SetBestiary), new() {
-            { "Burning in a magical laboratory", "在一个古老的魔法工厂里仍然运转著" },
+            { "Burning in a magical laboratory", "在一个古老的魔法工厂里仍然运转着" },
             { "The Cell converter", "分子转换器" },
         });
         ForceLocalizeSystem.LocalizeByTypeFullName(typeof(CellConverter).FullName, nameof(CellConverter.GetChat), new() {
@@ -138,31 +138,31 @@ public class TownNPCLocalizer : ModSystem
             { "Old Tales", "听他讲些往事" },
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Delgrim), nameof(Delgrim.OnChatButtonClicked), new() {
-            { "An old time there was a thriving capital, we used to call it the Harboring Morrow. It was a thriving city under the protection of Gothivia, Verlia, and Irradia. I used to be a member. Gothivia loved every one of us, Verlia would be off directing armies and Irradia well she spent time making electronics. ", "很久很久以前，有一个繁荣的都城，我们过去称之为“幽曦城堡”。这是一座在歌瑟梵、薇莉亚和伊瑞蒂安保护下繁荣的城市。我曾经是其中的一员。歌瑟梵爱著我们每一个人，薇莉亚会指挥军队，而伊瑞蒂安则喜欢研究机械。" },
+            { "An old time there was a thriving capital, we used to call it the Harboring Morrow. It was a thriving city under the protection of Gothivia, Verlia, and Irradia. I used to be a member. Gothivia loved every one of us, Verlia would be off directing armies and Irradia well she spent time making electronics. ", "很久很久以前，有一个繁荣的都城，我们过去称之为“幽曦城堡”。这是一座在歌瑟梵、薇莉亚和伊瑞蒂安保护下繁荣的城市。我曾经是其中的一员。歌瑟梵爱着我们每一个人，薇莉亚会指挥军队，而伊瑞蒂安则喜欢研究机械。" },
             { "Irradia would make amazing tech, and I would come to every show she would host and watch her mechanic sword fights and spare parts, Verlia would sometimes participate and tear all of them apart. Verlia was just too good of a swordsman.", "伊瑞蒂安总会制造出令人惊叹的发明，我会去参加她主持的每一场演示，观看她的机械剑的战斗与战备演示。薇莉亚有时也会参与进来，将伊瑞蒂安的发明全部击败。不得不说，薇莉亚是一名很厉害的剑客。" },
             { "Gothivia would always come down at 10 A.M in the morning to greet all the city members, it used to be the time of my life. She'd give us goodies and Rek would come by with his binding light to empower the underground and brighten things up. ", "歌瑟梵总会在早上10点降临，对城市所有成员进行问候，并给我们带来甜点，那曾是我生命中最快乐的时光。此外，莱克会给我们带来阳光，照亮地下的一切。" },
             { "Verlia and Gothivia are sisters, although they don't look it anymore, they used to be twins yet they couldn't be different from each other. Verlia was always rambunctious and outgoing while Gothivia was a calm and loving soul, the two got along.", "虽然薇莉亚和歌瑟梵看起来并不像，而且性格也截然不同，但实际上她们两个是双胞胎姐妹。薇莉亚总是活泼好动，歌瑟梵静雅且富有爱心，两人相处得十分融洽" },
             { "Of all the inventions Irradia made, by far my favorite was a rendition of Gothivia's Rek called Havoc. It was a magnificent beast. It held it's own against Verlia in the shows, if only I could go back to those days. ", "在伊瑞蒂安制造的所有发明中，我最喜欢的是模仿歌瑟梵的莱克制作的“浩劫龙械”。它是一头壮丽的巨兽。在演示中，它甚至能够与薇莉亚抗衡，要是能回到过去的那些时光该多好啊。" },
             { "Verlia always would be training the army, the gintze army wasn't exactly the most reliable mainly because of Verlia's idiocity and lack of care for danger. The army would always charge head first without a care for defense. I wonder where the army was when we were defending against the Carian warriors and knights", "因为薇莉亚那个笨蛋对危机意识的缺失，导致薇莉亚训练的玄铁军队实际上是并不可靠的。那支军队总是从不防御，只管冲锋在前。我在想，当我们在抵御卡利亚战士和骑士的时候，这支军队在哪儿呢？" },
             { "Some days I look back on the Harboring Morrow and wonder why we fell so hard. I remember BORDOC, an excellent blacksmith but too arrogant to read his ways. Irradia taught me some amazing things I carry with me today and all the people. the people.. ", "有时候，我不自矜会回忆起在“幽曦城堡”的时光，思考我们为何会如此彻底地衰落。我记得有一个名为波尔杜克的铁匠，他技艺高超，但他又过于自负不愿改变自己的生活方式。伊瑞蒂安教给了我一些令我至今受益匪浅的惊人之事，还有所有的人们……那些人们……" },
-            { "You know, I had loved Irradia, until we seperated through war our connection was magically I would say. Damn witches and their artistry. I don't hate magic, but its the reason I lost so much. That commander, I will never forget the smirk on that face. So called Fenix and her army of Carian knights. ", "我曾经深爱著伊瑞蒂安，直到战争将我们分离，我们之间的缘分非常奇妙。魔女和魔法组合技真是令人头疼。我虽然不讨厌魔法，但魔法却是导致我和伊瑞蒂安分离的原因。我永远不会忘记作为指挥官的凤涅克斯以及她那些卡利亚骑士的军队脸上的战胜后的得意。" },
-            { "One day in the Harboring Morrow, the most joyous of days, some collectors came back infected by some strange disease, as you may know now it's called the Virulent. An acid like corruption that eats at the soul. It tore our village apart like the black plague. It weakened us, right before a Carian army swept us away at our worst, we stood no chance.", "那本该是充满欢乐的一天，但那一天一些外出旅行的人感染了被后世称为“瘴煞”的瘟疫回到了幽曦城堡。这种瘟疫像酸液一样侵蚀著我们的灵魂，它像黑死病一样袭击了我们的村庄。它大幅度削弱了我们的力量，然后卡利亚军队在危机时刻趁虚而入，以至于我们完全没有获胜的希望。" },
+            { "You know, I had loved Irradia, until we seperated through war our connection was magically I would say. Damn witches and their artistry. I don't hate magic, but its the reason I lost so much. That commander, I will never forget the smirk on that face. So called Fenix and her army of Carian knights. ", "我曾经深爱着伊瑞蒂安，直到战争将我们分离，我们之间的缘分非常奇妙。魔女和魔法组合技真是令人头疼。我虽然不讨厌魔法，但魔法却是导致我和伊瑞蒂安分离的原因。我永远不会忘记作为指挥官的凤涅克斯以及她那些卡利亚骑士的军队脸上的战胜后的得意。" },
+            { "One day in the Harboring Morrow, the most joyous of days, some collectors came back infected by some strange disease, as you may know now it's called the Virulent. An acid like corruption that eats at the soul. It tore our village apart like the black plague. It weakened us, right before a Carian army swept us away at our worst, we stood no chance.", "那本该是充满欢乐的一天，但那一天一些外出旅行的人感染了被后世称为“瘴煞”的瘟疫回到了幽曦城堡。这种瘟疫像酸液一样侵蚀着我们的灵魂，它像黑死病一样袭击了我们的村庄。它大幅度削弱了我们的力量，然后卡利亚军队在危机时刻趁虚而入，以至于我们完全没有获胜的希望。" },
             { "Verlia one day left the Morrow to search and make peace with the witches in the upcoming villages, she was by far the most magical out of the three of them, so she would stand a chance to help, when she came back, she was out of her mind.", "薇莉娅有一天离开了幽曦之地，去附近村庄寻找与魔女们和平相处的办法。她是她们三个中最有魔法天赋的，所以她也是最有机会能够找到破局之法的人。但是当她回来时，她已经陷入了疯狂。" },
             { "When Verlia came back from her excursion, she well, gave information that changed the course of our lives. Me being in a relationship with Irradia I was able to be let in on that information. She shared to us a tome from a small witch village. This would a fatal mistake.", "当薇莉娅从她的旅途归来时，她提供了一些改变了我们生活方式的办法与建议。由于我和伊拉迪亚的关系，使得我也了解到那些办法与建议。薇莉娅和我们分享了一本来自一个魔女村庄的卷轴，但这也将是一切灾难的起点。" },
             { "Verlia's excursion took place right when the corruption started occuring, she went to look for a way to heal the damaged. Gothivia would do her best to heal everyone but she was only one person in the biggest capital in terraria. ", "在瘟疫出现后，薇莉娅就出发去寻找治愈瘟疫的方法了。而歌瑟梵则尽她最大的努力去治疗每一个人，但她只有一个人，能尽的力量太有限了。" },
             { "One harrowing day, a fox appears at the doorstep of Verlia and Gothivia's abode. I knew my eyes decieved me when I had seen the fox transform into a tall Nero, they are like human cats but I thought they'd been extinct for millenia! ", "在一个月黑风高的晚上，一只狐狸出现在薇莉娅和歌瑟梵的住宅门前。当我看到那只狐狸变成了一个高大的人形生物时，我才意识到她并不是狐狸，她是兽人！！！在遇到她之前，我以为她们种族已经灭绝了几千年了" },
-            { "When a fox arrived on the doorsteps of our beloved, The fox lady brings out what I can only think was a lantern and all I could make out inside that room was a giant blue flash and the screams of Gothivia. This was the last time anyone heard of Verlia.", "当一位狐狸女士来到我心爱之人门前时，她拿出了一个我认为是灯笼的东西。然后一道巨大的蓝色闪光伴随著歌瑟梵的尖叫从屋内传出。然后薇莉娅就消失了。" },
-            { "After what I call the 'blue flash,' everyone hurried to a sign of screaming in the middle of the night. We all come to see Gothivia crying with a note in her hand and the fox lady. She introduced herself as Fenix. ", "“蓝色闪光”后，很多人急忙跑到尖叫发出的地方。但是我们只看到了手里拿著一张纸条哭泣的歌瑟梵，以及一位自称绯琦的狐狸女士。" },
+            { "When a fox arrived on the doorsteps of our beloved, The fox lady brings out what I can only think was a lantern and all I could make out inside that room was a giant blue flash and the screams of Gothivia. This was the last time anyone heard of Verlia.", "当一位狐狸女士来到我心爱之人门前时，她拿出了一个我认为是灯笼的东西。然后一道巨大的蓝色闪光伴随着歌瑟梵的尖叫从屋内传出。然后薇莉娅就消失了。" },
+            { "After what I call the 'blue flash,' everyone hurried to a sign of screaming in the middle of the night. We all come to see Gothivia crying with a note in her hand and the fox lady. She introduced herself as Fenix. ", "“蓝色闪光”后，很多人急忙跑到尖叫发出的地方。但是我们只看到了手里拿着一张纸条哭泣的歌瑟梵，以及一位自称绯琦的狐狸女士。" },
             { "Fenix was a tall statured woman yet extremely menacing, at times a lot of us thought she may have been more powerful than Gothivia, but deep down Gothivia's suppressed feelings for her family would probably overcome that. ", "绯琦是一位身材高大、看起来极其强大的女性，甚至我们中的很多人认为她比歌瑟梵更强大。但是大家又认为失去家人、在悲痛爆发的歌瑟梵力量会更强大。" },
-            { "The illnesses started to rack up and since Verlia disappeared, our Harboring Morrow was not complete, there was nobody to keep our armies in check, Gothivia wasn't mentally there anymore and Irradia was trying her best to get everyone to calm down. It was a horrible time.", "自从薇莉娅消失后，瘟疫快速蔓延，“幽曦城堡”已经名存实亡，没人维持军队秩序，歌瑟梵深受打击一蹶不振，伊瑞蒂安则在尽力安抚著所有人。那真是一段可怕的岁月。" },
+            { "The illnesses started to rack up and since Verlia disappeared, our Harboring Morrow was not complete, there was nobody to keep our armies in check, Gothivia wasn't mentally there anymore and Irradia was trying her best to get everyone to calm down. It was a horrible time.", "自从薇莉娅消失后，瘟疫快速蔓延，“幽曦城堡”已经名存实亡，没人维持军队秩序，歌瑟梵深受打击一蹶不振，伊瑞蒂安则在尽力安抚着所有人。那真是一段可怕的岁月。" },
             { "Irradia did explain what happened to Verlia, but I thought it was just downright evil. Fenix trapped Verlia's soul inside a lantern and bounded it to a secret power for experimentation because she stole a book from their village. We'll never get to see her again will we?", "伊瑞蒂安向我解释了在薇莉娅身上发生了什么。因为薇莉娅从绯琦的村庄偷了一本书，绯琦将薇莉娅的灵魂困在灯笼里，并用秘密力量上在她身上进行实验，绯琦真是太邪恶了。我们或许再也见不到她了，对吧？" },
             { "I think Irradia's way of coping to the loss of Verlia was teaching me now that Im starting to recollect. She may have used it as a way of reflecting, and I didn't see that she was hurting yet I was always there for her.", "我曾经认为伊瑞蒂安教导我是为了冲淡失去薇莉娅的悲伤。但是我现在反应过来，她可能用这种方式来思念薇莉娅，虽然我当时没有意识到她的情绪，但我始终陪在她身边。" },
             { "I kept on living, hell I even got sick from the Virulent, yet I was Gothivia's last person to get healed from her. Rek eventually got infected too yet since havoc was electronic, he stayed normal. The creatures that lived the best were mostly metallic, its what remains of our old village.", "时间匆匆，不曾停留，我甚至也曾感染“瘴煞”，但最后歌瑟梵治愈了我。就算是雷克，最终也没有逃过被感染的命运，但由于浩劫龙械是机械的，它不会被感染。在我们古老村庄的遗迹中，生活得好的大多是金属生物。" },
             { "After the last healing in from Gothivia, I'd say about 90% of our village was wiped out from the Virulent, our soliders, our love, and will to live all started to fall apart. ", "虽然最后瘟疫被歌瑟梵治愈了，但是我们村庄大约有90%的人被“瘴煞”瘟疫夺去了生命。瘟疫之后，我们的军队、对生活的热爱、和生活的意志都开始慢慢瓦解。" },
-            { "I could recall me laying on a bed as I watched our city crumble, Irradia would stay by my side and we'd comfort each other as the world caved in for us.", "我现在还记得当时自己躺在床上，伊瑞蒂安就陪在我身边，我们一起看著我们的城市一点点走向破败，一起互相安慰。" },
+            { "I could recall me laying on a bed as I watched our city crumble, Irradia would stay by my side and we'd comfort each other as the world caved in for us.", "我现在还记得当时自己躺在床上，伊瑞蒂安就陪在我身边，我们一起看着我们的城市一点点走向破败，一起互相安慰。" },
             { "After a while of our suffering in the city Gothivia would leave to seek vengence and power to save her sister, leaving Irradia to be at the helm. Take a guess who arrived not so soon afterwards? Fenix, she came to take what was left of us.", "在我们城市遭受瘟疫一段时间后，歌赫梵离开了城市去追寻力量来拯救薇莉亚与复仇，留下了伊瑞蒂安来管理整个城市。你猜猜谁不久之后谁来了？是凤涅克绯琦这个恶魔！她来摧毁了我们剩下的一切。" },
             { "Fenix is like a scouraging raven looking for its next feast, and we were on the menu. I was forced to split from my love due to her sacrifices of being a leader. We haven't seen each other since, yet I know she's out there somewhere. No way would she loose to Fenix..", "绯琦就像一只猎食的秃鹫，而我们则是她的食物。伊瑞蒂安践行了作为领袖的责任，她牺牲自己吸引绯琦，我被迫与她分开。从那以后我再也没有见过她，但我知道我在某处一定能找到她。她是绝不会输给绯琦的..." },
-            { "The Great Departure, that's what I call the leaving from what was left in our city. As the Carian army approached, we hid through underground tunnels to escape, some of us, including me, haven't gone back to the surface. I was even invited to come to the Fable.", "“大迁徙”，这就是我对逃离我们城市进行远行的称呼。随著卡利亚军队的逼近，我们通过地下隧道躲避，包括我在内的一些人，再也没有回到地面。我甚至被邀请过前往“古谕遗境”。" },
+            { "The Great Departure, that's what I call the leaving from what was left in our city. As the Carian army approached, we hid through underground tunnels to escape, some of us, including me, haven't gone back to the surface. I was even invited to come to the Fable.", "“大迁徙”，这就是我对逃离我们城市进行远行的称呼。随着卡利亚军队的逼近，我们通过地下隧道躲避，包括我在内的一些人，再也没有回到地面。我甚至被邀请过前往“古谕遗境”。" },
             { "Those who made it to the surface from the Great Departure reinvented the Harboring Morrow yet from all the messages from BORDOC, it isn't the same. They close their doors to everyone in fear and they look for Gothivia, she never said where she went.", "那些在“大迁徙”中成功到达地面的人重建了“幽曦城堡”，但从波尔杜克的消息来看，“幽曦城堡”已经不再是原来的“幽曦城堡”了。居民出于恐惧对所有人关闭了城门，并且他们在寻找歌赫梵，但是歌赫梵从未说过她去了哪里，因此寻找起来犹如大海捞针。" },
             { "I was in tunnels underground for 10 of my years, now I lay here with all the corpses and electronics that I bear, I've travelled every part of this world except the surface, to ever find Fenix again would send me over my limit.", "我在地下隧道里待了10年，现在我和我所携带的所有物品与电子设备都在这里。为了寻找伊瑞蒂安，我走遍了这个世界除地面的每个角落。我现在已经力不从心了，如果再次遇到绯琦，我就只能接受天命引颈受戮了吧" },
             { "You know, maybe I should have travelled with the rest of the members of the morrow, many of us split up in our escape, many died, hell, maybe I'm the only standing survivor, but I'm here.", "你知道吗，或许我应该和幽曦城堡的其他成员一起逃亡，在我们逃跑时很多人分开了，很多人死了，见鬼，我或许是唯一的幸存者，但我却在这里独自苟活。" },
@@ -215,7 +215,7 @@ public class TownNPCLocalizer : ModSystem
             { "I wouldn't mind hooking up with the Steampunker :)", "蒸汽朋克人也不赖嘛，我想和她试试：）" },
             { "So many spare parts and materials, bring them all to me!", "有多少零件材料就给我拿来多少！" },
             { "I can't believe I let it get loose, I've complicated too many things.", "真不敢相信我居然一时疏忽把“它”放出来了...这下事情复杂了好多." },
-            { "Can you go collect some runes for me? I'd love for you to get working.", "给我收集一些符文碎片吧！反正你闲著也是闲著." },
+            { "Can you go collect some runes for me? I'd love for you to get working.", "给我收集一些符文碎片吧！反正你闲着也是闲着." },
         });
         ForceLocalizeSystem.LocalizeInOrderByTypeName(nameof(Gia), nameof(Gia.SetNPCNameList), new() {
             { "Gia", "Gia" },
@@ -261,7 +261,7 @@ public class TownNPCLocalizer : ModSystem
             { "Some of the things I'm selling are from base, we've all taken quite a liking to you all.", "俺卖的东西好多都是是从俺们基地拿来的！俺们都觉得你还是个不错的家伙！" },
             { "If you can kill Gothivia for us we can scavange and steal their items, please help us do that", "如果歌瑟梵挂了俺们就能抢她的东西啦！你一定要赢啊！" },
             { "We may be weak but we still give all of our little praise to Verlia, hence why we stole from her sister..", "俺们不强，但俺们最稀罕薇莉娅，才敢偷她姐姐的东西." },
-            { "Could you murder Gothivia in the most brutal fashion possible? She is way too dauntless and carefree, we hate her and she took our home..", "你一定要把歌瑟梵狠狠的揍一顿呀！俺们看著她那副目中无人的表情就来气！她还霸占了俺们的家..." },
+            { "Could you murder Gothivia in the most brutal fashion possible? She is way too dauntless and carefree, we hate her and she took our home..", "你一定要把歌瑟梵狠狠的揍一顿呀！俺们看着她那副目中无人的表情就来气！她还霸占了俺们的家..." },
         });
         #endregion
         #region Ishtar 狂渊
@@ -285,7 +285,7 @@ public class TownNPCLocalizer : ModSystem
             { "Where's Ereshkigal?", "厄莉什基迦勒在哪" },
             { "Daedus, Jovhia, Daeden? Where'd you all go?", "代达斯，乔维亚, 达登?你们都去哪里了？" },
             { "I'm quite formiddable you see. I can destroy anything with my hands.", "你瞧，我相当可怕。我可以用我的双手摧毁一切。" },
-            { "I need to study up on my electric magic. If my dad wasn't dead he'd be proud of me. Gosh I wish you were here Daeden", "我需要进一步学习我的电系魔法。如果我父亲还活著，他一定会为我感到骄傲的。天哪，我真希望你能在这里，达登" },
+            { "I need to study up on my electric magic. If my dad wasn't dead he'd be proud of me. Gosh I wish you were here Daeden", "我需要进一步学习我的电系魔法。如果我父亲还活着，他一定会为我感到骄傲的。天哪，我真希望你能在这里，达登" },
             { "I never knew my mom..", "我从没见过我的母亲..." },
             { "Why is Jovhia always in the sky?", "为什么乔维亚总是在天上呢？" },
             { "Hey you, get out of here!", "嘿，你，滚出去！" },
@@ -302,11 +302,11 @@ public class TownNPCLocalizer : ModSystem
         });
         ForceLocalizeSystem.LocalizeByTypeName(nameof(Mardenth), nameof(Mardenth.OnChatButtonClicked), new() {
             { "Heheheh, I like to eat little wormy guys but they won't stop squiggling. Reminds me of when our dad Daeden left us. ", "呵呵呵，我喜欢吃那些小虫子，但它们总是不停地扭动。这让我想起了我们父亲达登离开我们的时候。" },
-            { "Where did Daedus go?  He left us so long ago. I hope he wasn't swayed by that Harlet Gothivia. She seemed power obsessed and hungry. Maybe that's just me though", "代达斯去哪了？他很久以前就离开我们了。我希望他没有被歌瑟梵影响。她似乎对权力著迷并且渴望权力。也许这只是我这么觉得吧。" },
+            { "Where did Daedus go?  He left us so long ago. I hope he wasn't swayed by that Harlet Gothivia. She seemed power obsessed and hungry. Maybe that's just me though", "代达斯去哪了？他很久以前就离开我们了。我希望他没有被歌瑟梵影响。她似乎对权力着迷并且渴望权力。也许这只是我这么觉得吧。" },
             { "I might be the only one but, Ereshkigal is kind of hot isn't she? Hell you wouldn't even know would you. You're taste in women is flat.", "或许只有我一个人觉得，但是厄莉什基迦勒确实有些性感，不是吗？什么，你说你不知道？！不是？哥们！你对女人的品味也太差了吧！" },
             { "You don't understand how we are. We're higher than all below us, which is everyone except a god. Only they can be held to such high status. Squirm off you worm.", "你不会明白我们是怎样的存在。我们比除了神之外的所有人都高贵。只有神才能拥有如此高的地位。爬吧，你这虫豸。" },
             { "I wish Sigfried didn't go insane. He's such an asshole, even our dear Ereshkigal left with him to seal him away...  ", "我希望齐格飞没有发疯。他真是个混蛋，就连我们亲爱的厄莉什基迦勒也离开我们去封印他了……" },
-            { "Maybe I may be the only person to question the gene pools of these people. Like where do they all look so pretty from??? Im wearing this mask cuz I look like a goblin.", "也许我是唯一一个质疑这些人基因的人。比如他们都是从哪里遗传来的美貌？？？我之所以戴著这个面具，是因为我长得像哥布林一样..." },
+            { "Maybe I may be the only person to question the gene pools of these people. Like where do they all look so pretty from??? Im wearing this mask cuz I look like a goblin.", "也许我是唯一一个质疑这些人基因的人。比如他们都是从哪里遗传来的美貌？？？我之所以戴着这个面具，是因为我长得像哥布林一样..." },
             { "I want a beach episode with Zui and Ereshkigal now! ", "我现在就想看到蕊和厄莉什基迦勒的海滩写真集！" },
             { "I would want to be more powerful but that takes a lot of training. Anyone who dares to take more than what they are given should be punished. ", "我想要变得更强大，但这需要大量的训练。任何敢于索取超出所给予的人都应该受到惩罚。" },
             { "Those guys in the well? They are trapped down there because they made some goofy deals in their lives to get more power and just like the great Veil people we are, we trapped them away for good.", "那些在井里的人？他们被困在那里，因为他们在生活中做了一些愚蠢的交易来获得更多的力量，就像我们这些伟大的天纱人一样，我们永远地困住了他们。" },
@@ -316,7 +316,7 @@ public class TownNPCLocalizer : ModSystem
         #region Merena 梅瑞娜
         ForceLocalizeSystem.LocalizeByType(typeof(Merena), nameof(Merena.SetBestiary), new() {
             { "Magic Magic MAGIC", "魔法，魔法，还有更多魔法！" },
-            { "Merena the bewitched sorcerer", "著迷术士梅瑞娜" },
+            { "Merena the bewitched sorcerer", "着迷术士梅瑞娜" },
         });
         ForceLocalizeSystem.LocalizeByType(typeof(Merena), nameof(Merena.GetChat), new() {
             { "Funny enough the clothier used to come through here all the time for some of our amazing fabrics", "说起来，服装商经常来这里买我们的魔法丝绸和布." },
@@ -324,7 +324,7 @@ public class TownNPCLocalizer : ModSystem
             { "I'm gonna be the very best, like no one ever was... ", "我要成为史上最强的魔法师！" },
             { "Fenix is the best queen there will ever be! She gives us all what we want :P", "绯琦真是理想中的皇后！她给了我们一切！" },
             { "This place is so calming, I can't stand it but I would give everything to be near Fenix", "这地方太安静了，我不喜欢，但能够站在绯琦身边，这点小事不算什么." },
-            { "Aimacra seems pretty cool, she came here recently looking for some brooches", "安魅凯拉很棒哎.她最近来这里寻找饰符来著." },
+            { "Aimacra seems pretty cool, she came here recently looking for some brooches", "安魅凯拉很棒哎.她最近来这里寻找饰符来着." },
             { "Hey uh could you do something for me? I have a little favor, just ask what it is!", "呃..你能稍微帮我个忙吗？会有回报的！" },
             { "I've always wanted to be the best witch there is! I've always been outshined by exiles though, including my sisters sadly.", "我一生的梦想就是成为最强的女巫！但我总是被人超越，尤其是我的姐妹." },
             { "I really need to beat my sister in a battle someday.", "哪天我见到她了，一定要当场打败她！" },
@@ -342,13 +342,13 @@ public class TownNPCLocalizer : ModSystem
             { "Merenas Quest", "任务" },
         });
         ForceLocalizeSystem.LocalizeByType(typeof(Merena), "Quest_VerliaStart", new() {
-            { "What are you standing there for, go kill Verlia! She's an enemy of the royal capital and she has a book I need lmao", "别光站著，去干掉薇莉娅！她从皇都偷了一本书，我需要！" },
+            { "What are you standing there for, go kill Verlia! She's an enemy of the royal capital and she has a book I need lmao", "别光站着，去干掉薇莉娅！她从皇都偷了一本书，我需要！" },
         });
         ForceLocalizeSystem.LocalizeByType(typeof(Merena), "Quest_VerliaComplete", new() {
-            { "Oh damn thanks! Next on the list I need you to steal an orb from a village in an underground morrowed village, the orb contains a magic unlike any other. I have no idea how it was manifested but it's needed for this tome.", "哇，谢了！接下来我想要幽曦村落里的一个特殊球体，那里面蕴藏著世间独一无二的魔法，我想好好研究一下它到底是怎么形成的，而且这本书里也提到了需要它." },
+            { "Oh damn thanks! Next on the list I need you to steal an orb from a village in an underground morrowed village, the orb contains a magic unlike any other. I have no idea how it was manifested but it's needed for this tome.", "哇，谢了！接下来我想要幽曦村落里的一个特殊球体，那里面蕴藏着世间独一无二的魔法，我想好好研究一下它到底是怎么形成的，而且这本书里也提到了需要它." },
         });
         ForceLocalizeSystem.LocalizeByType(typeof(Merena), "Quest_MorrowStart", new() {
-            { "Oh damn thanks! Next on the list I need you to steal an orb from a village in an underground morrowed village, the orb contains a magic unlike any other. I have no idea how it was manifested but it's needed for this tome.", "哇，谢了！接下来我想要幽曦村落里的一个特殊球体，那里面蕴藏著世间独一无二的魔法，我想好好研究一下它到底是怎么形成的，而且这本书里也提到了需要它." },
+            { "Oh damn thanks! Next on the list I need you to steal an orb from a village in an underground morrowed village, the orb contains a magic unlike any other. I have no idea how it was manifested but it's needed for this tome.", "哇，谢了！接下来我想要幽曦村落里的一个特殊球体，那里面蕴藏着世间独一无二的魔法，我想好好研究一下它到底是怎么形成的，而且这本书里也提到了需要它." },
         });
         ForceLocalizeSystem.LocalizeByType(typeof(Merena), "Quest_MorrowComplete", new() {
             { "Woa, the energy is pouring out of this one with seamless orange stripes! How did you even get your hands on this?? Either way thanks, now I just need 100 dust bags, it helps with the brewery.", "哇哦~看看这精美的橙色条纹，看看从这里流出的魔力！你居然真的把它搞到手了！非常感谢！接下来拿给我100个粉尘袋就好了，是酿造药水用的." },
@@ -454,11 +454,11 @@ public class TownNPCLocalizer : ModSystem
             { "Nice babe, I want you to go kill Jack in the Fabled swamp on the right then, you need a wandering essence and he shouldn't be too difficult. ", "好样的宝贝.接下来去右边的古谕沼泽干掉灯笼杰克吧.他不是很强，只要有漂浪焰华就能把他召唤出来." },
             { "Nice work! I want you to go headhunt a bird in the desert, his name is Sunstalker and they are a bit challenging but less so than the last, collect some mandibles in the desert to make the Sun stone! Find the alter on the surface of a desert!", "干得好！是时候去沙漠里打鸟了.它叫“猎日游隼”，有些挑战性，但不太多.用蚁狮上颚做出它的召唤物，在沙漠地表找到它的祭坛！" },
             { "You're next target is Daedus, he's a strong one. Hes a very loyal Guardian to one of the biggest threats here being Gothivia, we need him gone to get to the big fish in the sea. For some reason he holds some power of a singularity so beware. He resides low in the temple in the Fabled Swamp, no extra preperation needed.", "下一个目标，守护者代达斯.他力量不凡，是歌瑟梵的尽忠护卫，也就是说，是钓上这条大鱼的重要一环.他拥有一颗奇点的力量，小心！他目前沉睡于古谕地下，不需要做什么额外措施就可以去挑战." },
-            { "Oh my gosh nice, so here's where things are going to get difficult. If a blood moon happens we need to exterminate Dreadmire, she spawns after killing a blood cyst during a blood moon, you can also get some terror fragments too! She'll pose too much of a threat if we let her live. She's I think one of the three sisters, formally known as cozmire. She needs to die and after that I'll give some great rewards.", "好嘞，接下来的任务可能有些难度了.如果血月发生，我们需要抓住机会干掉绦渊恶巫.打破血肉囊或者收集恐惧残片来召唤她.她是天纱三姐妹之一，曾经被称作“天寰神巫”，留她活著风险太大.如果干成，奖励自然会有的." },
-            { "We are making big progress now! I don't know if you have been killing other ravenous monsters but I'd recommend doing so as the next one on our list is Verlia but to get to her we have quite a few things to do first. Make yourself a void key and find a temple deep in the ice biome, there should be some loot and hopefully an alter that'll give you a lantern. She was trapped by Fenix but she needs to die so we can bring out Gothivia.", "我们的计划正大步前进！我不清楚你最近又干掉了哪些怪物，但是时候干正事了.名单上的下一位是薇莉娅.在见到她之前还有不少事情要完成.去弄到一把虚空钥匙，在冰雪地下的神殿中有不少东西等著你.找到祭坛，击败那个守卫，拿到提灯.薇莉娅的灵魂被绯琦囚禁在那里面，但我们需要让她彻底死掉，来引出歌瑟梵." },
+            { "Oh my gosh nice, so here's where things are going to get difficult. If a blood moon happens we need to exterminate Dreadmire, she spawns after killing a blood cyst during a blood moon, you can also get some terror fragments too! She'll pose too much of a threat if we let her live. She's I think one of the three sisters, formally known as cozmire. She needs to die and after that I'll give some great rewards.", "好嘞，接下来的任务可能有些难度了.如果血月发生，我们需要抓住机会干掉绦渊恶巫.打破血肉囊或者收集恐惧残片来召唤她.她是天纱三姐妹之一，曾经被称作“天寰神巫”，留她活着风险太大.如果干成，奖励自然会有的." },
+            { "We are making big progress now! I don't know if you have been killing other ravenous monsters but I'd recommend doing so as the next one on our list is Verlia but to get to her we have quite a few things to do first. Make yourself a void key and find a temple deep in the ice biome, there should be some loot and hopefully an alter that'll give you a lantern. She was trapped by Fenix but she needs to die so we can bring out Gothivia.", "我们的计划正大步前进！我不清楚你最近又干掉了哪些怪物，但是时候干正事了.名单上的下一位是薇莉娅.在见到她之前还有不少事情要完成.去弄到一把虚空钥匙，在冰雪地下的神殿中有不少东西等着你.找到祭坛，击败那个守卫，拿到提灯.薇莉娅的灵魂被绯琦囚禁在那里面，但我们需要让她彻底死掉，来引出歌瑟梵." },
             { "Ok you got the lantern! Go to the cathedral overtop the ice biome and summon her at the top at night. This will be our biggest foe yet but I know you can kill her, sorry Aimacra is tired of being my assasin so it's your turn.", "OK，你拿到那盏灯了！等到晚上去到冰雪地圣殿的顶端释放她.这是直到如今我们最大的挑战，但我相信你的能力.抱歉，安魅凯拉不想再被我当刺客使唤了，这次轮到你上了！" },
             { "Oh damn this is great. I think that completes our list for now, check back in with me in Hardmode! We'll purify this world of all danger and create peace and then we can be together and move on. Thank you again.", "哦天，这也太棒了！我们现阶段的任务全都完成了！等到你打败了血肉墙再来找我吧！我们一定能净化这个世界上的一切威胁，一起向前.感谢你的付出." },
-            { "Welp here we go again. So theres a strange issue we have, so Daedus isn't the only barrier to trying to stop us from getting to Gothivia, Aimacra just went and explored around and found some new places and there was this castle underground in a green biome? I noticed Gothivia's marks on it and the Sun hasnt started turning green, could you look at that? There should be some catacombs underground in the desert, ocean and caverns to help power up too.", "哟，又见面了.我发现了个问题，代达斯并不是歌瑟梵筑起的唯一一道障碍.安魅凯拉刚在那个绿油油的地方地下找到了一座城堡，上面有歌瑟梵的印记，你能去看看吗？至少太阳还没变绿，说明我们还有时间.还有，沙漠地下，海洋里，洞穴中存在著三座墓穴，里面的东西应该会帮到你." },
+            { "Welp here we go again. So theres a strange issue we have, so Daedus isn't the only barrier to trying to stop us from getting to Gothivia, Aimacra just went and explored around and found some new places and there was this castle underground in a green biome? I noticed Gothivia's marks on it and the Sun hasnt started turning green, could you look at that? There should be some catacombs underground in the desert, ocean and caverns to help power up too.", "哟，又见面了.我发现了个问题，代达斯并不是歌瑟梵筑起的唯一一道障碍.安魅凯拉刚在那个绿油油的地方地下找到了一座城堡，上面有歌瑟梵的印记，你能去看看吗？至少太阳还没变绿，说明我们还有时间.还有，沙漠地下，海洋里，洞穴中存在着三座墓穴，里面的东西应该会帮到你." },
             { "There was a person down there claiming to be Gothiva? Thats strange. Gothivia seems to be making an appearance on the world. Apparently things are changing the skies and things are falling from them, Beware of STARBOMBERS, Aimacra warned me that they were manufactured here as well as Ekrose and you have experience with them.", "那边有个人在假装歌瑟梵？奇怪.歌瑟梵本人貌似也正在赶回这个世界.再者，这个世界的天空好像出现了些异变，掉下奇怪的东西.小心 星 爆 者，安魅凯拉告诉我它们在这里也有被制造，和在艾科洛斯一样." },
             { "I didn't think Rosemary's creations would've made it here. Ekrose sure does have an affect on this world. I saw some strange disturbance on the left side of the underworld though, can you check that out? I went to talk to Veldris and he told me Sylia may be up to some demonic magic that could ruin our process, so killing her is a good option. ", "我之前还觉得迷迭香城的造物不会出现在这里呢.看来艾科洛斯和这个世界确实有一定联系.我感受到地狱的左侧有个奇异的能量扰动，维尔德斯告诉我那可能是赛莉亚搞的鬼，她的黑暗魔法可能会阻碍我们，我们要先发制人把她除掉." },
             { "It was a void witch... Interesting. Must be related to that Merena person Aimacra talked about. I haven't been to the Royal Capital much, mainly because it's so far out but maybe we should kill the Queen there, she is definitely extremely powerful but I don't really know how to talk to her, I haven't seen her yet. If you can could you go kill her for us? ", "虚空女巫...真有意思.应该和安魅凯拉说的那个梅瑞娜有点关系.我没怎么去过皇室首都，那里太远，但那个女王也在我们的名单上.她的力量很强，而且我没和她沟通过.要不你去把她干掉？" },
@@ -510,7 +510,7 @@ public class TownNPCLocalizer : ModSystem
             { "Everyone and all this damn god talk, it makes me crazy", "所有人都在说什么乱七八糟的神，快把我逼疯了" },
             { "Interestingly, I don't know why those sisters all are disconnected, it seems like they're always hiding something", "我完全不懂那些姐妹们为什么都不彼此联系.难道她们有什么不可告人的秘密？" },
             { "I wish I was someone important", "我要是个重要人物该多好啊" },
-            { "Sometimes I wanna lead an army you know? I just wanna see Veiizal again", "有的时候我也想带著一支军队四处征战，但我只是想再见见维依佐" },
+            { "Sometimes I wanna lead an army you know? I just wanna see Veiizal again", "有的时候我也想带着一支军队四处征战，但我只是想再见见维依佐" },
             { "You gonna buy something lad?", "需要什么吗，小伙子？" },
         });
         ForceLocalizeSystem.LocalizeInOrderByTypeName(nameof(Veldris), nameof(Veldris.SetNPCNameList), new() {
@@ -524,18 +524,18 @@ public class TownNPCLocalizer : ModSystem
             { "You doing good? I mean it's a hellhole out here. Sometimes I even start to wonder what brings you here. I'm just some lonesome seller, just be sure not to get on someone's deadlist or else I'll be seeing ya. ", "近来如何啊？外面都乱成一锅粥了，得亏你还想来.我？我就是个卖杂货的而已.只要你别惹上什么大人物，咱们应该不会有刀剑相向的那一天." },
             { "Everytime I hear someone talk about gods I want to just puke in their faces, like ew. I'm kind of glad that Sirestias woman is getting rid of them. Her and Fenix don't seem all too power driven. Fenix is just revenge driven, and I can respect that.", "每次我听到有人提那些神我都觉得不可忍受.希丝忒莉亚想要把它们全干掉我可太支持了.她和绯琦一样，都不是那种盲目追求力量的人.据我所知绯琦只是想要复仇，这我完全能理解." },
             { "If my weapons we're ever used, they better be in the right hands. My tools were crafted with some Luminull and some special metals, they better hold together- I had to steal some stuff from that Illuria place", "想要用我的武器，就小心点用，别把它们弄散架了.那可都是黯光和特殊合金做成的，为了造它们我特意去星树偷来的材料！" },
-            { "I'm just gonna rant about this Illuria place honestly. WHY IS THERE A DRAGON JUST ROAMING. Like I thought those went extinct with the the virulent- oh I meant acid. I really just needed some scales but oh noo the watcher of society is there. ", "我真想好好吐槽一下那个星树.为什么那有条龙啊？而且她就那么若无其事地在闲逛！他们不是已经在瘴煞-酸蚀-那里被灭绝了吗？我想搞点鳞片，但一直有人看著..." },
+            { "I'm just gonna rant about this Illuria place honestly. WHY IS THERE A DRAGON JUST ROAMING. Like I thought those went extinct with the the virulent- oh I meant acid. I really just needed some scales but oh noo the watcher of society is there. ", "我真想好好吐槽一下那个星树.为什么那有条龙啊？而且她就那么若无其事地在闲逛！他们不是已经在瘴煞-酸蚀-那里被灭绝了吗？我想搞点鳞片，但一直有人看着..." },
             { "Back in my day building this house was my masterpiece, Fenix really gathered up an army just to build this cathedral here and that temple below just to trap some harlet who took her stuff. Down right evil though on Fenix's behalf, maybe overkill. ", "之前，这栋建筑可算得上是大师之作.然后绯琦集结了她的整支军队就为了建那座大殿堂来困住某位偷了她东西的婊子...要我说，纯纯的邪恶做法，而且太过了." },
-            { "Some knights visited me the other day talking of this 'peace and formality' and I couldn't take it so I went to the Lunar tree, which for some reason they live on and I stole some fragments and some luminull? It seems pretty powerful and is probably related to Lumi in some way.", "前几天有几个骑士经过这里，一直说著什么“和平与礼仪”，我实在受不了他们的唠叨了，就去了星月巨树，他们居然住在那上面？我从那拿了些材料，感觉力量很强，说不定都和天纱琉明有联系." },
+            { "Some knights visited me the other day talking of this 'peace and formality' and I couldn't take it so I went to the Lunar tree, which for some reason they live on and I stole some fragments and some luminull? It seems pretty powerful and is probably related to Lumi in some way.", "前几天有几个骑士经过这里，一直说着什么“和平与礼仪”，我实在受不了他们的唠叨了，就去了星月巨树，他们居然住在那上面？我从那拿了些材料，感觉力量很强，说不定都和天纱琉明有联系." },
             { "I love myself commissions, just sayingg if you wanna commission me I'm all available, the last person I went to kill was some goofy guy named Rallad, some girl named Sylia asked me if I could do it for her since she didnt want to be seen, took forever to find him though. ", "有活干的时候最舒服了.你要是看谁不顺眼，就来找我吧.上一个给我委托的叫赛利亚，她让我去干掉一个叫瑞拉德的家伙，可找了我好一阵子." },
             { "Interestingly enough me and Sylia have fun sometimes, shes pretty nice once you get to know her, sadly she stays away from her sister Merena and the rest of the capital, she's pretty chill. Kind of wanna travel with her though. ", "我和赛利亚还算相处得来，只要你了解她，她还是很有趣的.她一直在回避皇都和她的姐妹梅瑞娜.之后有空的话我想和她一起去旅个游之类的." },
-            { "The small joys of life comes from not having your house destroyed by some malevolent gods throwing down their trap cards when youre trying to sleep. It makes me annoyed when I have to peek out my window to make sure the black hole isn't going to hit my house.", "想象一下，你在屋里睡得好好的，某个神朝你这边扔了一张陷阱卡，整栋房子就毁了，很烦人对吧？我还得天天朝外看著，提防黑洞." },
+            { "The small joys of life comes from not having your house destroyed by some malevolent gods throwing down their trap cards when youre trying to sleep. It makes me annoyed when I have to peek out my window to make sure the black hole isn't going to hit my house.", "想象一下，你在屋里睡得好好的，某个神朝你这边扔了一张陷阱卡，整栋房子就毁了，很烦人对吧？我还得天天朝外看着，提防黑洞." },
             { "You knowww, I was named Veldris by my friend, I always grew up without a name since my parents died by a stupid raging black hole guy, name was Sepsis I believe? He killed off so much 30 years ago yet I remember it like yesterday.", "在我还小的时候，还没等到取名，我父母就被一个该死的疯子给害了，好像是叫...星烁.那是30年前的事，但我仍然记忆犹新.我现在这个名字还是一个朋友给取的." },
         });
         #endregion
         #region Zui 蕊
         ForceLocalizeSystem.LocalizeByType(typeof(Zui), nameof(Zui.SetBestiary), new() {
-            { "A traveller of the lands who may hold great power", "一名周游大陆的旅者，似乎掌握著强大的力量." },
+            { "A traveller of the lands who may hold great power", "一名周游大陆的旅者，似乎掌握着强大的力量." },
             { "Zui the Traveller", "旅者 蕊" },
         });
         ForceLocalizeSystem.LocalizeByType(typeof(Zui), nameof(Zui.GetChat), new() {
@@ -543,7 +543,7 @@ public class TownNPCLocalizer : ModSystem
             { "We've had to kick a few witches out of this town you know, its quite a shame..", "我们之前不得不把几名女巫从这里赶了出去，真可惜啊..." },
             { "I keep going out to find more plants but somehow you're always here when I return. ", "我其实没有一直站在这里不动.只是碰巧每次你来我都在这里而已." },
             { "I'm trying to find a way to stop the corruption and virulent from spreading but I have no fix currently.", "我在想办法阻止邪恶地形和瘴煞之地的扩散，但目前为止我还没想出什么良策." },
-            { "Hey love, you know you could be collecting stuff for me!", "如果你正闲著，去给我收集一些东西如何？" },
+            { "Hey love, you know you could be collecting stuff for me!", "如果你正闲着，去给我收集一些东西如何？" },
             { "Sirestias? Oh um yeahh we go pretty far back.", "希丝忒莉亚？啊...对...我和她有过一段交情." },
             { "Aimacra is cool too, this is my first time meeting her lol", "安魅凯拉也挺棒的，虽然我才认识她." },
             { "I wouldn't say I'm too powerful, afterall I a just a traveller", "我很强吗？不不不，我只是个旅者而已." },
@@ -647,7 +647,7 @@ public class TownNPCLocalizer : ModSystem
             { "He's so pure, going for such high level threats such as Lumi and stealing her singularity. That's the type of man I like, one who isn't afraid to get their hands dirty.", "他是那么的纯粹，敢向琉明那样的高级威胁下手，还偷走了她的奇点！我就喜欢这种干事干净利落毫无顾忌的男人." },
             { "I wish we could stay together always.", "我们要永远在一起~" },
             { "Oh his dear Mordred, I bet he doesn't even know hit wife was trapped within a weapon :)", "哦，那个莫德雷德呀...我敢肯定他都不知道他的妻子已经被囚禁在一把武器里了." },
-            { "Stupid dragon always getting in the way to getting to my wonderous babe, I would trap it as well but then it'd anger my dearest here.", "那条蠢龙，总是守著我的宝贝不让我靠近...要不是我丈夫会生气，我早就把那龙也关到这里了." },
+            { "Stupid dragon always getting in the way to getting to my wonderous babe, I would trap it as well but then it'd anger my dearest here.", "那条蠢龙，总是守着我的宝贝不让我靠近...要不是我丈夫会生气，我早就把那龙也关到这里了." },
             { "How many doors do I need to store Lumi? I don't really know but I don't care. As long as she doesn't come after my husband.", "我要用多少扇门才能困住琉明？算了，也不重要，只要她不来找我的丈夫就行." },
         });
         #endregion

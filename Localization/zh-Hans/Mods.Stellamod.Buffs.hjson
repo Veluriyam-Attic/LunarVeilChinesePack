@@ -4,7 +4,7 @@ VoidMinionBuff: {
 }
 
 TheBurningRodMinionBuff: {
-	Description: 它燃烧著激情
+	Description: 它燃烧着激情
 	DisplayName: 燃焰灯
 }
 
@@ -154,7 +154,7 @@ GintzelSheild: {
 }
 
 Elegance: {
-	Description: 你优雅地漂浮著.
+	Description: 你优雅地漂浮着.
 	DisplayName: 高雅
 }
 
@@ -454,7 +454,7 @@ MiracleBoost: {
 }
 
 MasteryMagic: {
-	Description: 这个无所不会的魔法小家伙会跟著你!
+	Description: 这个无所不会的魔法小家伙会跟着你!
 	DisplayName: 魔法精通
 }
 
@@ -514,7 +514,7 @@ SandyB: {
 }
 
 RoseB: {
-	Description: 小小的玫瑰花盾环绕著你
+	Description: 小小的玫瑰花盾环绕着你
 	DisplayName: 玫瑰饰符
 }
 
@@ -725,7 +725,7 @@ PotOfGreedMinionBuff: {
 
 ReflectionSeekerMinionBuff: {
 	DisplayName: 觅影者
-	Description: 你为什么盯著你自己?
+	Description: 你为什么盯着你自己?
 }
 
 XScissorMinionBuff: {
@@ -745,7 +745,7 @@ IlluriasBlessing: {
 
 PegasusMinionBuff: {
 	DisplayName: 水晶三重奏
-	Description: 尼伊维的水晶元素庇佑著你!
+	Description: 尼伊维的水晶元素庇佑着你!
 }
 
 WoodyB: {
@@ -775,7 +775,7 @@ MarksMan: {
 
 OrbMaster: {
 	DisplayName: 控球大师
-	Description: 你在操纵著一颗魔法球!
+	Description: 你在操纵着一颗魔法球!
 }
 
 Overheated: {

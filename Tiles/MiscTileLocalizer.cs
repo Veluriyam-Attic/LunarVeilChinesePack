@@ -87,7 +87,7 @@ public class MiscTileLocalizer : ModSystem
         #endregion
         #region UnstableRift
         ForceLocalizeSystem.LocalizeByType(typeof(UnstableRift), nameof(UnstableRift.RightClick), new() {
-            { "A disturbing entity prevents the rift from opening...", "一个可怖的存在抑制著裂隙..." },
+            { "A disturbing entity prevents the rift from opening...", "一个可怖的存在抑制着裂隙..." },
             { "Sylia rips through!", "赛莉亚破影而出！" },
             { "...", "..." },
         });

@@ -79,7 +79,7 @@ public class ItemTooltipLocalizer : ModSystem
             { "Creates flamed explosions for some explosion dusts!", "让某些魔法尘在引燃时产生火焰爆炸！" },
             { "These do not stack!", "和其他魔法尘增效器的效果不能叠加！" },
             { "Use this to put inside of your Xixian flask and when you drink it, the effects of this insource is used!", "召唤我以灌满希克斯瓶，当你饮用它希克斯瓶时，我的效果就会被触发！" },
-            { "She'll just love you forever I guess.", "那，就让她永远爱著你吧" },
+            { "She'll just love you forever I guess.", "那，就让她永远爱着你吧" },
             { "Put one on as an accessory, eat for temporary effects!", "既可以作为饰品佩戴，也可以吃下去以获得临时效果！" },
             { "(C) Medium Damage Scaling (Fireballs) On Hit!", "（C）击中时产生中等伤害修正的火球" },
             { "Creates a very good voidal explosion on dust explosions and constants!", "魔法尘引爆时释放强力的虚空爆炸！" },

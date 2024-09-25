@@ -39,7 +39,7 @@ public class BestiaryLocalizer : ModSystem
             { "A special snake from the Cinderspark that was atop it's food chain and took a liking to Gothivia. Eventually it became her guardian.", "烬火之地的一条盘龙，端坐食物链顶端.对歌瑟梵有特别的好感，甚至成了她的贴身护卫." }, // RekSnake
             { "Rek, The Sun Serpent", "炽阳盘龙 莱克" }, // RekSnake
             
-            { "A abomination housing the eggs for what seems to be a mechanical bird, born from the acid and a creation of Gia.", "一个扭曲的造物.其中装著一颗卵，看上去是机械制成的.吉娅结合了酸蚀之地的作品." }, // IrradiatedNest
+            { "A abomination housing the eggs for what seems to be a mechanical bird, born from the acid and a creation of Gia.", "一个扭曲的造物.其中装着一颗卵，看上去是机械制成的.吉娅结合了酸蚀之地的作品." }, // IrradiatedNest
             { "Irradiated Nest", "辐射巢穴" }, // IrradiatedNest 
             
             { "The most committed protector of the Govhiel. She just wishes to see her friend's and village again.", "歌维赫堡最忠实最固执的守护者.她仅有的愿望是再次见到她的亲人与家园." }, // Irradia
@@ -57,7 +57,7 @@ public class BestiaryLocalizer : ModSystem
             { "Destruction is what these bring, Fenix may of purchased some things off the black market, destroy these immediately...", "毁灭是此物唯一的用途.绯琦可能是在黑市买到的它们，见到它一定要悉数摧毁." }, // STARBOMBER
             { "STARBOMBER", "星 爆 者" }, // STARBOMBER
             
-            { "A beloved magical stone guardian, protected the natural life and would petrify anyone who disturbs it.", "一具倍受喜爱的魔力石偶，保卫著自然生灵，擅闯者统统被其化作顽石." }, // StarrVeriplant
+            { "A beloved magical stone guardian, protected the natural life and would petrify anyone who disturbs it.", "一具倍受喜爱的魔力石偶，保卫着自然生灵，擅闯者统统被其化作顽石." }, // StarrVeriplant
             
             { "Former flyer and born where all big birds were born, in the cinderspark.", "曾经的空中猛将，与所有巨鸟一样，出生于烬火之地." }, // SunStalker
             { "SunStalker, the Last Talon", "风沙遗爪，猎日游隼" }, // SunStalker
@@ -75,8 +75,8 @@ public class BestiaryLocalizer : ModSystem
 
             #endregion
 
-            { "Burining with passion I guess.", "我想是在燃烧著自己的芳华吧." }, // BlazingSerpentHead
-            { "They guard what is theirs!", "他们捍卫著属于他们自己的东西." }, // BlazingSerpentHead
+            { "Burining with passion I guess.", "我想是在燃烧着自己的芳华吧." }, // BlazingSerpentHead
+            { "They guard what is theirs!", "他们捍卫着属于他们自己的东西." }, // BlazingSerpentHead
             { "The most adorable goodest spicy child. Do not dare be mean to him!", "最可爱最好的小家伙！不要对它们那么残忍！" }, // SandWalker, SnowWalker
             { "He's evil yet so weak. This fellow betrayed Gothivia during their war against Fenix and his part of the army joined the other side for power.", "他很邪恶，但又是个纸老虎.这家伙在与绯琦的战争中背叛了歌瑟梵，他的军队加入了另一方去争夺权力." }, // CommanderGintzia
             { "Commander Gintzia, the betrayer", "变节者，金戈亚指挥官" }, // CommanderGintzia, GintziaHand
@@ -84,7 +84,7 @@ public class BestiaryLocalizer : ModSystem
             { "A Captain of Gofria's ranks, be careful", "歌瑟梵麾下的士兵！需谨慎应对" }, // GintzeSolider
             { "Lowest of the Gintze but can wipe you out fast! They need food too yknow :(", "最低等的玄铁士兵，但仍然致命！他们也需要吃饭的呀 :(" }, // Gintzling
             { "The highest form of worshippers of Gothivia corrupted and risen from the grounds of the fallen Govheil Castle", "在不复往日的歌维赫堡，昔日歌瑟梵最虔诚的崇拜者在腐疫的驱使下，再次起身为其而战." }, // Tulacrowe
-            { "A lowly civilian who bought old parts from Irradia before being contaminated. They now seek revenge after having their minds altered by the acid.", "一位在被污染之前常常从伊瑞蒂安购买旧零件的卑微平民。酸蚀腐化了他的心智，促使著他寻求报复." }, // IrravheilSprayer
+            { "A lowly civilian who bought old parts from Irradia before being contaminated. They now seek revenge after having their minds altered by the acid.", "一位在被污染之前常常从伊瑞蒂安购买旧零件的卑微平民。酸蚀腐化了他的心智，促使着他寻求报复." }, // IrravheilSprayer
             { "Guardians who are ready to die for Gothivia?", "心甘情愿为歌瑟梵献出生命的守卫" }, // GovheilGuardian
             { "The last protectors of the govheil, and they are pretty formidable...", "歌维赫堡最后的保护者，他们不容小觑..." }, // GovheilProtector
             { "A respected sorcerer from Sigfried's old rein", "一名来自齐格飞时代受人尊敬的魔法师" }, // IllurianMage

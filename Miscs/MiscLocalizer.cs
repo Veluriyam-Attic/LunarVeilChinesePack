@@ -46,7 +46,7 @@ public class MiscLocalizer : ModSystem
             { "Defeated Fenix", "击败绯琦" },
             { "Killed Singularity Fragment", "击败破碎奇点" },
             { "Defeated Daedus", "击败代达斯" },
-            { "Sewing Kit must be Equipped", "必须装备著织影套件包" },
+            { "Sewing Kit must be Equipped", "必须装备着织影套件包" },
         });
         */
         CustomConditionsHelper.Localize();

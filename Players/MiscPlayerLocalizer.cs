@@ -15,7 +15,7 @@ public class MiscPlayerLocalizer : ModSystem
         #region FlamecrestPlayer
         ForceLocalizeSystem.LocalizeByTypeFullName("Stellamod.Items.Accessories.Catacombs.FlamecrestPlayer", "BlockVisuals", new() {
             { "Resisted!", "抵抗！" },
-            { "The Lunar tree rumbles...", "星月巨树颤抖著..." },
+            { "The Lunar tree rumbles...", "星月巨树颤抖着..." },
             { "The Abysm and Virulent stir...", "无尽深渊和瘴煞之地蠢蠢欲动..." },
             { "Azurewrath's dreams alcadize the sky.", "蔚蓝之梦将天空魔力化" },
             { "The toxic reunion begins! Gothivia's love bleeds through as the sun burns with everlasting hue.", "恒日高升，歌瑟梵的爱意从中渗出.团聚在即..." },
@@ -39,7 +39,7 @@ public class MiscPlayerLocalizer : ModSystem
             { "When I was in my human form I was the Queen of the uh, morrow? I forgot.", "当我还是人类的时候我是...嗯...幽曦的女王？好像是吧." },
             { "Don't forget to brush your teeth! Its good for you :)", "别忘了刷牙！精气神一定要好！" },
             { "I completely forgot what it feels like to be flat and everyday you hold me is a reminder.", "我都快忘了我变得这么扁，但你一把我拿起来我就想起来了." },
-            { "I can't tell if I like you holding me or sexual assault.", "你这么握著我已经算是骚扰了吧" },
+            { "I can't tell if I like you holding me or sexual assault.", "你这么握着我已经算是骚扰了吧" },
             { "I have so many stories I can share to you :)", "我有好多故事要讲呢 :)" },
             { "My sister turned me into a sword but I think you can get me out rightttt?", "我姐把我变成了一把剑，你能帮帮我的对吧？" },
             { "I totally don't like you at all, all you did was pull me from a stone yknow :(", "我..我才不喜欢你呢！你不就是把我从石头里拔出来了吗？哼！" },
@@ -54,7 +54,7 @@ public class MiscPlayerLocalizer : ModSystem
             { "I am so R rated", "我的评级是R" },
             { "Shawty get your head in the game", "宝贝，专心点！" },
             { "Can we get to painting or volleyball pleasee?", "咱可以画个画，打打排球什么的吗？" },
-            { "You're holding me in all the right ways >:)", "被你握著好舒服噢 >:)" },
+            { "You're holding me in all the right ways >:)", "被你握着好舒服噢 >:)" },
             { "I dont care what you are, you obviously cared enough to get me :P", "我才不会评价你呢，你都把我从那里救出来了." },
             { "LALALA you're wrong I'm right LALALALA", "啦啦啦，不听不听，啦啦啦~" },
         });
