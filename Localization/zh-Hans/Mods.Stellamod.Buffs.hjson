@@ -54,12 +54,12 @@ IrradiatedCreeperMinionBuff: {
 }
 
 IceboundMinionBuff: {
-	Description: 逐渐冻结.
+	Description: 逐渐冻结
 	DisplayName: 寒冰蝙蝠
 }
 
 HMMinionBuff: {
-	Description: 你死定了.
+	Description: 你死定了
 	DisplayName: H M
 }
 
@@ -74,7 +74,7 @@ DripplerMinionBuff: {
 }
 
 AuroranSeekerMinionBuff: {
-	Description: 魔法咒语百科.
+	Description: 魔法咒语百科
 	DisplayName: 光渊觅法者
 }
 
@@ -94,13 +94,13 @@ Whipdeath: {
 }
 
 MorrowWhipDebuff: {
-	Description: 挥鞭时无力.
+	Description: 挥鞭时无力
 	DisplayName: 余辉之鞭
 }
 
 Morrow: {
-	Description: 幽曦噬咬
-	DisplayName: 幽曦
+	Description: 幽曦之地的一丝残力
+	DisplayName: 幽曦噬咬
 }
 
 SnowFlame: {
