@@ -1405,7 +1405,7 @@ AlcadizPowder: {
 }
 
 VerliaBossBag: {
-	DisplayName: 宝藏袋（薇莉娅）
+	DisplayName: 宝藏袋（皎寒之月，薇莉娅）
 	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 }
 
@@ -3335,7 +3335,7 @@ SunsBossRel: {
 }
 
 VerliBossRel: {
-	DisplayName: 皎月薇莉娅圣物
+	DisplayName: 皎寒之月，薇莉娅圣物
 	Tooltip: ""
 }
 
