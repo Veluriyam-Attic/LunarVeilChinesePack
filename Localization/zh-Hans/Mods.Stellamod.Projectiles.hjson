@@ -89,14 +89,14 @@ DreadFire.DisplayName: 恐惧之火
 DreadHand.DisplayName: 恐惧之手
 Dreadlighting.DisplayName: 恐惧闪电
 DreadlightingBig.DisplayName: 大型恐惧闪电
-DreadMireDash.DisplayName: 绦渊恶巫冲刺
-DreadMireMagic.DisplayName: 绦渊恶巫之魔法
+DreadMireDash.DisplayName: 绛渊恶巫冲刺
+DreadMireMagic.DisplayName: 绛渊恶巫之魔法
 DreadSkull.DisplayName: 恐惧骷髅
 DreadSpawnEffect.DisplayName: 恐惧生成特效
 DreadSpawnEffectSmol.DisplayName: 小型恐惧生成特效
 FinalBeam.DisplayName: 终极光束
-DreadMiresHeartEye.DisplayName: 绦渊恶巫心脏眼
-DreadMiresHeartVomit1.DisplayName: 绦渊恶巫心脏喷吐
+DreadMiresHeartEye.DisplayName: 绛渊恶巫心脏眼
+DreadMiresHeartVomit1.DisplayName: 绛渊恶巫心脏喷吐
 RedSkull.DisplayName: 红色骷髅
 TerrorBeam.DisplayName: 恐惧射线
 BLACKHOLE.DisplayName: 黑 洞
@@ -472,7 +472,7 @@ LightSpandProg.DisplayName: 灵光绽放
 Nado.DisplayName: 那度
 OFlame.DisplayName: 火苗
 PerfectionProj.DisplayName: 炫美弹
-PericarditisProj.DisplayName: 凝血绦渊弹
+PericarditisProj.DisplayName: 凝血绛渊弹
 PoyaProj.DisplayName: 阿卡里亚凝刺
 Poyashot.DisplayName: 阿卡里亚凝刺
 Poyashot2.DisplayName: 阿卡里亚凝刺

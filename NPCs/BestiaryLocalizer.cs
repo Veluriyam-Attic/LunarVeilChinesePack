@@ -18,7 +18,7 @@ public class BestiaryLocalizer : ModSystem
             { "A crystal which holds the power of summoning one of the three deities", "一颗水晶，具有唤醒天纱三神之一的力量." }, // BloodCyst, DreadMonolith, GraveShard
             { "One of the three powerful cosmic deities that has been tainted by devilish intent", "天纱三神之一，其力量被不洁意图污染." }, // DreadMire
             { "Traded her singularity in turn for more dreadful power, ridden of anxiety and all things dreadful", "她主动放弃了自己的奇点，换来了这令人恐惧的魔法，将不安与惊惶散步整个大陆." }, // DreadMireR
-            { "Cozmire- Dreadmire Veil??", "天寰——等等，绦渊恶巫？" }, // DreadMireR
+            { "Cozmire- Dreadmire Veil??", "天寰——等等，绛渊恶巫？" }, // DreadMireR
             // 这个字符哪来的? 我不知道. 反正它不是乱码, 原文就长这样
             { "Powerful skulls tainted by devilish intent (dreadmire must誺e got bored with this one)", "强力的骷髅仆从，被邪恶力量侵蚀." }, // DreadSurvent
             { "The heart of the beast brought on by devilish intent\r\n(How the hell does that thing fit inside her chest?)", "惊惧力量之心\r\n（她的胸膛里怎么装得下这么个东西？？？）" }, // DreadMiresHeart

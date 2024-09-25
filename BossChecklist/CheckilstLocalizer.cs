@@ -32,7 +32,7 @@ namespace LunarVeilChinesePack.BossChecklist
             });
             #endregion
 
-            #region DoDreadmireIntegration(绦渊恶巫)
+            #region DoDreadmireIntegration(绛渊恶巫)
             ForceLocalizeSystem.LocalizeByTypeName("ModIntegrationsSystem", "DoDreadmireIntegration", new() {
                 { "Destroy 3 dread monoliths to create a Dread medallion and summon her during night.","摧毁三个恐怖巨石来合成恐惧徽章在夜晚召唤." },
             });

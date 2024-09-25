@@ -138,14 +138,14 @@ AlcSpark.DisplayName: 火花
 DrownOut.DisplayName: 淹没
 ALCADSWIRL.DisplayName: 阿 尔 卡 迪 亚 漩 涡
 ALCADHOLE.DisplayName: 阿 尔 卡 迪 亚 黑 洞
-DreadMiresHeart.DisplayName: 绦渊恶巫之心
+DreadMiresHeart.DisplayName: 绛渊恶巫之心
 DreadSurvent.DisplayName: 恐惧仆从
-DreadMireZapwarnBig.DisplayName: 绦渊恶巫技能警告
-DreadMireZapwarn.DisplayName: 绦渊恶巫技能
-DreadMirePentagramSmall.DisplayName: 绦渊恶巫小魔星
-DreadMirePentagramMid.DisplayName: 绦渊恶巫魔星
-DreadMirePentagram.DisplayName: 绦渊恶巫大魔星
-DreadMire.DisplayName: 绦渊恶巫
+DreadMireZapwarnBig.DisplayName: 绛渊恶巫技能警告
+DreadMireZapwarn.DisplayName: 绛渊恶巫技能
+DreadMirePentagramSmall.DisplayName: 绛渊恶巫小魔星
+DreadMirePentagramMid.DisplayName: 绛渊恶巫魔星
+DreadMirePentagram.DisplayName: 绛渊恶巫大魔星
+DreadMire.DisplayName: 绛渊恶巫
 DreadFireCircle.DisplayName: 恐惧火圈
 DreadFireBomb.DisplayName: 恐惧火焰爆破
 BloodCystDead.DisplayName: 血肉囊
@@ -355,8 +355,8 @@ HavocSignal.DisplayName: 浩劫信号
 IrradiaElectricBoxNode.DisplayName: 伊瑞蒂安带电节点
 IrradiaSpikeBox.DisplayName: 伊瑞蒂安尖刺盒
 Irradia.DisplayName: 伊瑞蒂安
-DreadMireR.DisplayName: 绦渊恶巫
-DreadMirePentagramV2.DisplayName: 绦渊五角星
+DreadMireR.DisplayName: 绛渊恶巫
+DreadMirePentagramV2.DisplayName: 绛渊五角星
 StartIrradia.DisplayName: 唤醒伊瑞蒂安
 GraveShard.DisplayName: 墓碑碎片
 IncresianDisc.DisplayName: 英克雷西安圆盘
