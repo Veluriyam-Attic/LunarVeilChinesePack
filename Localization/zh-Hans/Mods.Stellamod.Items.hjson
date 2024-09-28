@@ -7595,20 +7595,20 @@ GlocketRouncher: {
 }
 
 Common: {
-	// SimpleBrooch: Simple Brooch!
-	// RadiantBrooch: Radiant Brooch!
-	// RadiantBackpack: You need an Radiant Brooches Backpack for this!
-	// AdvancedBrooch: Advanced Brooch!
-	// AdvancedBackpack: You need an Advanced Brooches Backpack for this!
-	// NoStack: These do not stack!
-	// Insource: Use this to put inside of your Xixian flask and when you drink it, the effects of this insource is used!
-	// Stein: Stein Weapon Type
-	// Greatsword: Greatsword Weapon Type
-	// Safunai: Safunai Weapon Type
-	// Orb: Orb Weapon Type
-	// Juggler: Juggler Weapon Type
-	// CanSwapped: Can be changed to{0}!
-	// TypeSwapped: Damage Type Swapped!
+	// SimpleBrooch: 简易饰符!
+	// RadiantBrooch: 辉映饰符！
+	// RadiantBackpack: 你需要辉映饰符背包才能让此饰品发挥效果！
+	// AdvancedBrooch: 高级饰符！
+	// AdvancedBackpack: 你需要高级饰符背包才能让此饰品发挥效果！
+	// NoStack: 和其他魔法尘增效器的效果不能叠加！
+	// Insource: 召唤我以灌满希克斯瓶，当你饮用它希克斯瓶时，我的效果就会被触发！
+	// Stein: 武器类型：冲击拳套
+	// Greatsword: 武器类型：巨剑
+	// Safunai: 武器类型：鞭刃
+	// Orb: 武器类型：球体
+	// Juggler: 武器类型：抛接
+	// CanSwapped: 可使用宝珠转化为{0}!
+	// TypeSwapped: 武器职业已被改变！
 }
 
 SetBonus: {
