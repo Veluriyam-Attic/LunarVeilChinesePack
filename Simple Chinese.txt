@@ -52,7 +52,7 @@ Lunar Veil穹月天纱是一个大型内容mod
 1.3.1 - 添加了一些新武器
 1.3.2 - 平衡了一些武器
 1.3.3 - 减少敌怪生成量并修改掉率
-1.3.4 - 兼容Boss列表（[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2669644269]（Boss Checklist）[/url]）
+1.3.4 - 兼容Boss列表[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2669644269]（Boss Checklist）[/url]
 ----------------------------------
 繁星绽放更新：1.4现已发布
 优化了许多体验，BUG修复和许多新的探索部分！
@@ -84,18 +84,14 @@ Lunar Veil穹月天纱是一个大型内容mod
 最主要的事件-琉阳当空，带来了新的神级boss歌瑟梵！更多的剧情要素，更精细的文本.
 --------------
 1.6.1 - 许多的boss修改，加入新武器，70+可变化职业的武器，平衡了某些饰品
-
-
-致谢 -
-Ableblock Studios, Scolon, Dominick, Stryke, Dan Yami, Mjoon, Scalar, Instrex
-
+1.6.1-修改了很多boss，添加了新的武器，有70+的武器现在支持职业转换，并平衡了某些饰品
+1.6.2-修改一些代码，修复了bug，修改模组名为Lunar Veil Legacy：穹月天纱 传承
+--------------
+1.7-重塑镜影更新现已完成！
+1.6版本中，团队中的一名成员出现剽窃他人成果并整合入此mod的行为。该成员已被开除，我们也将涉及到的物品进行了重新绘画，并重做了系统，希望你们能继续支持此mod！
+石心圣卫重做，有几个物品重新平衡，并且为许多弹幕和boss添加了新的外观！
+如果游玩中出现任何问题，请尽快和我们联系
 
 Discord -> [url=https://discord.gg/admUnCkvCU](点我!)[/url]
 
 请看看我做的游戏吧!: [url=https://store.steampowered.com/app/2639870/Diari/]Diari(点我!)[/url]
-
-
-
-
-如果你想要汇报某些情况，在Discord上联络我（zenovia）
-如果是物品贴图问题的话，请先进游戏再看一眼，可能已经修改好了呢：）
