@@ -7614,214 +7614,214 @@ Common: {
 SetBonus: {
 	/* CelestiaMoonHelmet:
 		'''
-		Increases life regen by a great amount!
+		大量增加生命再生速度！
 		Move faster and enemies  that hit you take damage back!
 		''' */
 	/* CelestiaMoonMask:
 		'''
-		Increases life regen by a great amount!
-		Move faster and gain the effects of magic cuffs!
+		大量增加生命再生速度！
+		更快的移速并获得魔法手铐的效果.
 		''' */
-	// VirulentHelm: Stand still to emit a toxic aura!
-	// AcidMask: Stand still to emit a toxic aura!
-	// AcidRobe: Stand still to emit a toxic aura!
-	// AcidVisor: Stand still to emit a toxic aura!
+	// VirulentHelm: 站立不动时产生剧毒光环!
+	// AcidMask: 站立不动时产生剧毒光环!
+	// AcidRobe: 站立不动时产生剧毒光环!
+	// AcidVisor: 站立不动时产生剧毒光环!
 	/* AlcaliteMask:
 		'''
-		+1 max minions
-		The stars of Illuria protect you!
+		+1随从上限
+		星树的明星护佑着你!
 		''' */
 	/* AlsisMask:
 		'''
-		You are a true mage...
-		Gain the effects of a mana flower, magic cuffs, and retrieve magic stars from afar
-		Mana costs are reduced by 70% and increased magic regeneration
+		你是一名真正的大法师...
+		获得魔力花、魔法手铐的效果，并增加魔力星的拾取范围！
+		减少70%的魔力消耗并提高魔力再生速度
 		''' */
 	/* ArtisanMask:
 		'''
-		3, 2, 1 .. Smile! Act like you're on stage will ya :p
-		Every little while you'll get a countdown, and when you hear Zero,
-		your crit is 100% and damage output is doubled!
-		Small bits of paint left in your tracks.
-		Crit chance and armor penetration increased by 20!
+		3，2，1..大声笑出来！你就站在舞台中间！:p
+		每隔一小段时间进行一次倒计时，当你听到“Zero“时
+		你将必定暴击，伤害加倍！
+		移动时留下彩墨轨迹
+		+20%暴击率，+20护甲穿透
 		''' */
 	/* AstrasilkHead:
 		'''
-		Stars orbit around you
-		Hit an enemy 5 times to rain down a gigantic star upon them!
+		璀璨之星环绕着你！
+		攻击敌人五次来召唤一颗明星从他们上方坠落!
 		''' */
 	/* DaedenMask:
 		'''
-		This armor is really scuffed...
-		Gives the ability of a molten quiver!
-		-Stuck at 400 max HP, but 20% increased damage for Rangers
+		这幅盔甲已经磨损了...
+		给予熔火箭袋的效果
+		增加20%远程伤害，但是生命值上限固定为400
 		''' */
 	/* DaediaMask:
 		'''
-		Increases life regen by decent amount!
-		Enemies become lovestruck when you are hit, or when you hit them!
-		This weakens, burns and confuses, slows and does exponential damage
-		Spirit balls come from a portal on your armor and attack enemies
-		No fall Damage
-		Pick up hearts from afar!
+		大量增加生命再生!
+		当你被击中或者击中敌人时，敌人将坠入爱河
+		造成虚弱，灼烧，困惑，减速并且减益伤害递增
+		召唤灵魂之球来攻击敌人
+		免疫摔落伤害
+		红心的拾取范围增加！
 		''' */
 	/* DucanblitzCap:
 		'''
-		Enemies are less likely to target you!
-		Blades of Cinder and Rhamenthal will fight alongside you
-		Every few seconds you'll gain a major increase to Melee Damage
-		An upgraded Govheil set essentially.
+		降低仇恨
+		烬火之刃和雷曼索织魔将会与你并肩作战！
+		每过几秒会大幅度提高你的近战伤害
+		升级后的歌维赫套装.
 		''' */
 	/* ElagentHead:
 		'''
-		+1 Max Minions
-		+45 Max Life
-		Hit enemies have a rare chance to be assaulted by angelic power!
+		+1随从上限
+		+45最大生命
+		击中敌人有小概率呼唤天使神力对敌人造成重击！
 		''' */
 	/* EldritchianHood:
 		'''
-		Grants immunity to knockback!
-		When you take a hit, gain a temporary attack speed boost based on the amount of damage you took!
+		免疫击退
+		受伤时根据你收到的伤害短暂性增加攻击速度！
 		''' */
 	/* FlowerHat:
 		'''
-		Increases life regen by decent amount!
-		The armor makes a flowery circle that heals players in it for a large amount!
-		Turns all your wooden arrows into flower arrows! Which when hitting a target,
-		splits into little golden shots that hit back!
+		大量增加生命再生!
+		产生一个花圈，大幅治疗圈内玩家！
+		将你射出的所有木箭变为花箭
+		当击中目标时分裂成小金弹再次击中！!
 		''' */
-	// ForestCoreHead: Summons a forest bow to fight for you!
+	// ForestCoreHead: 召唤一把森之弓为你而战！
 	/* GarbageMask:
 		'''
-		Grants immunity to knockback!
-		+2 Summons
+		免疫击退
+		+2随从上限
 		''' */
 	/* GovheilHelmet:
 		'''
-		Enemies are less likely to target you!
-		Govheil blades will come to defend you!
-		Every few seconds you'll gain a major increase to Magic and Summon damage
-		+2 Summons!
+		降低仇恨
+		歌维赫之刃将会保护你
+		每过几秒会大幅提高你的魔法和召唤伤害
+		+2随从上限!
 		''' */
 	/* GovheilMask:
 		'''
-		Enemies are less likely to target you!
-		Magical Govheil bows will come to your aid!!
-		Every few seconds you'll gain a major increase to Magic and Summon damage
-		+2 Summons!
+		降低仇恨
+		歌维赫魔能弓将会随你而战
+		每过几秒会大幅提高你的魔法和召唤伤害
+		+2随从上限!
 		''' */
 	/* HeavyMetalHead:
 		'''
-		2 Gintze Guards come to fight for you
-		+1 Summons!
+		召唤两个玄铁护卫来给你而战
+		+1随从上限
 		''' */
 	/* HuntrianHelmet:
 		'''
-		Increases life regen by a big amount!
-		Reduced Healing Flask cooldown
-		DOES NOT STACK with philosophers stone
+		大量增加生命回复
+		减少治疗药水的冷却时间
+		不能与点金石叠加
 		''' */
-	// IllurianCrestmask: Enemies are less likely to target you!
-	// IllurianWarriorHelm: Allows you to walk on water
+	// IllurianCrestmask: 降低仇恨
+	// IllurianWarriorHelm: 允许你在水上行走
 	/* JianxinMask:
 		'''
-		Increases life regen by a great amount!
-		Move faster and go along with the watery winds.
-		Summons in watery dragons to come and swirl around your character.
-		These dragons emit a great becoming amongst the lost dynasty and give 50 Health.
-		This aura also lessens enemy damage by 10% and damages enemies.
-		Enemies are less likely to target you!
+		大量增加生命再生速度！
+		增加移动速度，与水流和迅风同行
+		召唤水龙魂围绕你盘旋
+		这些龙魂散发出失落的王朝中的巨大能量，并给予50点生命值
+		它们会吸收10%的敌人伤害，并且对触碰到的敌人造成大量伤害！
+		降低仇恨
 		''' */
 	/* LovestruckMask:
 		'''
-		Increases life regen by an enormous amount!
-		Enemies become lovestruck when you are hit, or when you hit them!
-		This weakens, burns and confuses, slows and does exponential damage
+		大量增加生命回复!
+		当你被击中或者击中敌人时，敌人将坠入爱河
+		造成虚弱，灼烧，困惑，减速并且减益伤害递增
 		''' */
 	/* MardenthMask:
 		'''
-		Increases life regen
-		Take 10% Less damage
+		增加生命回复
+		减少10%所受伤害
 		''' */
 	/* MiracleHead:
 		'''
-		Increases summon damage by 16%
-		+2 Max Sentries
-		Your attacks have a chance to cleave out a part of the enemy's soul
-		Collect these to gain a stacking increase to your whip speed and summon damage!
-		Taking damage resets the stack
+		+16%召唤伤害
+		+2哨兵上限
+		你的攻击可以撕裂敌人的灵魂
+		收集灵魂碎片将会增加你的挥鞭速度和召唤伤害
+		当你受到伤害时会重置此效果
 		''' */
 	/* GintzeMask:
 		'''
-		2 Gintze Guards come to fight for you
-		+1 Summons!
+		召唤两个玄铁护卫来给你而战
+		+1随从上限
 		''' */
 	/* ScissorianMask:
 		'''
-		Increases life regen by a great amount!
-		Move faster and have less aggro and less enemies spawn around you!
+		大量增加生命再生速度！
+		移速更快！仇恨降低！敌人更少！
 		''' */
 	/* ScrappyHead:
 		'''
-		Summons a turret over your head to shoot a laser at nearby enemies!
-		8% increased magic and summon damage
+		在头顶上召唤一个哨兵，向附近的敌人发射激光
+		+8%魔法和召唤伤害
 		''' */
 	/* ShadeWraithHead:
 		'''
-		Become greatly empowered for a short time when low on health!
-		Just one last breath...
+		生命值跌落太低时获得暂时的强大属性提升
+		回光返照？
 		''' */
-	// StoniaHat: Immunity to fall damage!
+	// StoniaHat: 免疫摔落伤害
 	/* TerricHead:
 		'''
-		You build up magical crit chance over time!
-		+20 Max Life
+		魔法暴击率逐步提高
+		+20最大生命
 		''' */
 	/* AstolfoMask:
 		'''
-		Increases life regen
-		Anyone that touches you gets an ATD (Astolfo Transmitted Disease)
+		增加生命回复
+		使所有触碰你的人罹患ATD（阿斯托弗传染病）
 		''' */
 	/* VerlHat:
 		'''
-		Auto gain the abilities of Magic cuffs and Mana Flower!
-		Enemies will be attacked by your power of music!
-		Every few seconds you'll gain a major increase to Magic and Ranged damage!
+		获得魔法手铐和魔力花的效果
+		唤起音韵之力痛击你的敌人！
+		每过几秒钟，你的魔法和远程伤害将大幅提升！
 		''' */
 	/* VerlMask:
 		'''
-		Auto gain the abilities of a Magic Quiver and +5% Ranged damage
-		Enemies will be attacked by your power of music!
-		Every few seconds you'll gain a major increase to Ranged and Magic damage!
+		获得魔法箭袋的效果并增加5%远程伤害
+		唤起音韵之力痛击你的敌人！
+		每过几秒钟，你的魔法和远程伤害将大幅提升！
 		''' */
 	/* VextinMask:
 		'''
-		Gain the accessory effects of desert boots!
-		Automatically run at fast speeds without boots!
-		+3 Defense!
+		获得沙丘行者靴的效果
+		无需靴子即可高速行走！
+		+3防御力
 		''' */
 	/* WindmillionHat:
 		'''
-		I am wind in a million
-		30% Increased throwing attack speed!
-		Highly increased throwing weapon knowckback
+		“夫物芸芸，各复归其根.”
+		+30%投掷速度
+		大幅增加投掷武器的击退
 		''' */
-	// WinterbornHead: Up to three icicles surround you to protect you from attacks!
+	// WinterbornHead: 冰锥会出现在你身边保护你，最多三只
 	/* WitchenHat:
 		'''
-		Truly a giver of society! The witches respect you :P
-		Gain the effects of a mana flower, magic cuffs
-		Extreme mana regeneration
-		Mana costs are reduced by 50%
-		Flowery Rhythm!
+		你对社会做出了巨大的贡献！女巫们会尊重你！
+		获得魔力花和魔法手铐的效果
+		极高的魔力回复
+		魔力消耗减少50%
+		花之韵律！
 		''' */
 	/* XexterianHat:
 		'''
-		Gain the accessory effects of desert boots!
-		Automatically run at fast speeds without boots!
-		+5 Defense!
-		Gain the effects if Forbidden armor!
-		Arrows are heated up with the effects of a molten quiver!
+		获得沙丘行者靴的效果
+		无需靴子即可高速行走！
+		+5防御力
+		获得禁戒套装的效果
+		拥有熔火箭袋的效果，将木箭点燃
 		''' */
 }
 
