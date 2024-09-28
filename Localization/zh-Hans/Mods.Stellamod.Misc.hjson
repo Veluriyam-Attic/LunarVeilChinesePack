@@ -31,7 +31,7 @@ RadianceStone: {
 }
 
 // STARBLOCKER: 极光星雨被阻隔于世界之外:(
-// AuroreanStarbomber: STARBOMBER crashes down!
+// AuroreanStarbomber: 星 爆 者 从天砸落！
 // CinderChest: Heavy chest opened!
 
 FlowerSummon: {
@@ -188,8 +188,8 @@ ZuiDeath: {
 // Flower: 收集了花束
 
 IgniterStart: {
-	// Strike: STRIKE!!
-	// Magic: MAGIC!
+	// Strike: 攻击！！
+	// Magic: 魔法！！
 }
 
 // IlluriaChest: Locked by an Overgrown plant...
