@@ -1,5 +1,5 @@
 ﻿using Stellamod.NPCs.Abyssal;
-using Stellamod.NPCs.Bosses.Azurerin;
+//using Stellamod.NPCs.Bosses.Azurerin;
 using Stellamod.NPCs.Bosses.Caeva;
 using Stellamod.NPCs.Bosses.DaedusRework;
 using Stellamod.NPCs.Bosses.DreadMire;

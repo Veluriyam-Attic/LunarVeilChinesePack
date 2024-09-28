@@ -70,12 +70,12 @@ public class MiscLocalizer : ModSystem
         if (AlwaysFalse())
         {
             // 可以无需汉化
-            ForceLocalizeSystem.LocalizeInOrderByType(typeof(Primitive3DStrip), ".ctor", new() {
-                { "In order to create a primitive 3D strip, a non-null ", "In order to create a primitive 3D strip, a non-null " },
-                { "height", "height" },
-                { "color", "color" },
-                { " function must be specified.", " function must be specified." },
-            });
+            //ForceLocalizeSystem.LocalizeInOrderByType(typeof(Primitive3DStrip), ".ctor", new() {
+            //    { "In order to create a primitive 3D strip, a non-null ", "In order to create a primitive 3D strip, a non-null " },
+            //    { "height", "height" },
+            //    { "color", "color" },
+            //    { " function must be specified.", " function must be specified." },
+            //});
             ForceLocalizeSystem.LocalizeInOrderByType(typeof(PrimitiveTrailCopy), ".ctor", new() {
                 { "In order to create a primitive trail, a non-null ", "In order to create a primitive trail, a non-null " },
                 { "height", "height" },
