@@ -1,32 +1,32 @@
 // EnterWorld: "[Lunar Veil] Hi hi! Thank you for checking out the mod! If you want more, you can check out my game Diari!"
-// TomeofRaining: Zui decided to help you make it rain!
-// LittleWand: Aurorean Stars are... wait, what?
-// DreadMedalion: The air fills with dread...
+// TomeofRaining: 蕊给你弄来了几片雨云！
+// LittleWand: 极光之星从...等会，咋回事？
+// DreadMedalion: 恐惧的气息弥散四周...
 
 EDR: {
-	// Occur: A disruption has occured!
-	// 1: Initiate death protocol
-	// 2: The end is nigh…
-	// 3: Tactical nuke incoming…
-	// 4: We’re here to contact you about your deaths extended warranty
-	// 5: Brace for impact…
-	// 6: Not Contaminated life form detacted!
-	// 7: Prepare for voltile Termenation!
-	// 8: You’re going to have a bad time…
-	// 9: Usage outside of contamination detacted!
+	// Occur: 出现了异常扰动！
+	// 1: 启动死亡协议...
+	// 2: 末日将临...
+	// 3: 战术核弹已部署...
+	// 4: 我们想要通知您，您的死亡保证书已延期
+	// 5: 冲击警告...
+	// 6: 侦测到未被污染的生命体！
+	// 7: 准备迎接大范围毁灭打击！
+	// 8: 你可要经历一段坏时光了...
+	// 9: 警告：侦测到在辐射之外使用
 }
 
 RadianceStone: {
-	// 1: Zui has come to have some fun!
-	// 2: Lets get started!
-	// 3: Lets have some fun shall we?
-	// 4: Zui is coming to party!
-	// 5: You wanna fight today??
-	// 6: Here I come :)
-	// 7: I don't wanna fight right now :(
-	// 8: Prepare to get rekted
-	// 9: You're gonna have a good time
-	// 10: Womp womp you used the item :)
+	// 1: 我来炫翻全场！
+	// 2: 开始吧！
+	// 3: 战斗，好玩！
+	// 4: 我来大闹一场！
+	// 5: 想要干一场？随时奉陪！
+	// 6: 泰拉人，要上了！
+	// 7: 好累累，不想打架...:(
+	// 8: 准备好大败而归吧！
+	// 9: 这一定会是一段超棒的时光！
+	// 10: 哦哦！你终于用它了！
 }
 
 // STARBLOCKER: 极光星雨被阻隔于世界之外:(
