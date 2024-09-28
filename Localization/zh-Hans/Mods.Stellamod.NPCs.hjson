@@ -205,7 +205,7 @@ SunStalkerDeath.DisplayName: 猎日游隼
 
 SunStalker: {
 	DisplayName: 猎日游隼
-	// BossChecklistIntegration.SpawnInfo: Use a [i:Stellamod/SunClaw] at an altar in the desert.
+	// BossChecklistIntegration.SpawnInfo: 在沙漠的祭坛上使用[i:Stellamod/SunClaw]以召唤.
 	// Bestiary: Former flyer and born where all big birds were born, in the cinderspark.
 }
 
@@ -220,7 +220,7 @@ STARBOMBERLASERWARN.DisplayName: 星爆者 激光警告
 
 STARBOMBER: {
 	DisplayName: 星 爆 者
-	// BossChecklistIntegration.SpawnInfo: Randomly during a hardmode Aurorean Starfall, they may fall from the sky.
+	// BossChecklistIntegration.SpawnInfo: 在困难模式下的极光星雨中有几率掉下来！
 	// Bestiary: Destruction is what these bring, Fenix may of purchased some things off the black market, destroy these immediately...
 }
 
@@ -246,7 +246,7 @@ JackDeath.DisplayName: 灯笼杰克
 
 Jack: {
 	DisplayName: 灯笼杰克
-	// BossChecklistIntegration.SpawnInfo: Use a [i:Stellamod/WanderingEssence] at a post in the Fabled Castle to the right at night.
+	// BossChecklistIntegration.SpawnInfo: 在夜晚进入古谕遗境并使用[i:Stellamod/WanderingEssence]以召唤.
 	// Bestiary: A scarecrow reanimated by the passion of wandering flames, exploring out of the veil.
 }
 
@@ -254,7 +254,7 @@ IrradiatedNestDeath.DisplayName: 辐射巢穴
 
 IrradiatedNest: {
 	DisplayName: 辐射巢穴
-	// BossChecklistIntegration.SpawnInfo: Buy a [i:Stellamod/EDR] from Gia and use it in the virulent acid or find an Unknown Signal."
+	// BossChecklistIntegration.SpawnInfo: 从吉娅处购买[i:Stellamod/EDR]并使用，以在瘴煞地找到位置信号."
 	// Bestiary: A abomination housing the eggs for what seems to be a mechanical bird, born from the acid and a creation of Gia.
 	// Bestiary2: Irradiated Nest
 }
@@ -295,7 +295,7 @@ FenixSlash.DisplayName: 绯琦斩击
 
 Fenix: {
 	DisplayName: 魅灵妖狐，绯琦
-	// BossChecklistIntegration.SpawnInfo: She resides in the royal capital far to the left, she may want to play with you!
+	// BossChecklistIntegration.SpawnInfo: 在左面天空的皇都上找到她，她很想和你一起玩！
 	// Bestiary: Searching for a lover, this particular Queen lacks anyone she can socialize with as she tries to gain power of the void to kill Sigfried for revenge, so much power yet so lonely.
 	// Bestiary2: Fenix the Vengeful
 }
@@ -417,34 +417,34 @@ StarrVeriplant: {
 
 Sylia: {
 	DisplayName: 赛莉亚
-	// BossChecklistIntegration.SpawnInfo: Interact with the strange anomaly that lies in within the Underworld Ruins.
+	// BossChecklistIntegration.SpawnInfo: 与地狱中的不稳定裂隙互动以召唤.
 	// Bestiary: Someone who was consumed by their dark magic, even more so than Fenix would bother with.
 	// Bestiary2: Sylia, Merena's Sister.
 }
 
 VerliaB: {
 	DisplayName: 皎寒之月，薇莉娅
-	// BossChecklistIntegration.SpawnInfo: Use a [i:Stellamod/MoonflameLantern] at a shrine in the Cathedral over the ice biome!
+	// BossChecklistIntegration.SpawnInfo: 在雪原的仪殿中，找到圣坛并使用[i:Stellamod/MoonflameLantern]以召唤.
 	// Bestiary: Verlia, The Empress of the Stars and moon, Vixyl's sister and a master magic swordswoman.
 }
 
 SingularityFragment: {
 	DisplayName: 破碎奇点
-	// BossChecklistIntegration.SpawnInfo: Use a [i:Stellamod/VoidKey] at an altar, in the Aurelus, deep in the ice.
+	// BossChecklistIntegration.SpawnInfo: 在冰雪深处的匿影中使用[i:Stellamod/VoidKey]以召唤.
 	// Bestiary: A powerful gift that was given to Cozmire, yet was stolen away by Fenix to seal away Verlia.
 	// Bestiary2: Singularity Fragment
 }
 
 CommanderGintzia: {
 	DisplayName: 金戈亚指挥官
-	// BossChecklistIntegration.SpawnInfo: Randomly each day, if you have 3 npcs and have killed the Stone Guardian, an army will raid you!
+	// BossChecklistIntegration.SpawnInfo: 当你击杀了石心圣卫并且拥有至少三个NPC时，一支军队将将会入侵！
 	// Bestiary: He's evil yet so weak. This fellow betrayed Gothivia during their war against Fenix and his part of the army joined the other side for power.
 	// Bestiary2: Commander Gintzia, the betrayer
 }
 
 DaedusR: {
 	DisplayName: 世遗者，代达斯
-	// BossChecklistIntegration.SpawnInfo: Disturb with the ruined tablet deep within the morrow.
+	// BossChecklistIntegration.SpawnInfo: 扰动幽曦地下深处的遗迹石碑
 	// Bestiary: One who followed power, exchanging their freedom for a taste of a singularity. Trapped forever guarding whats left of the Govheil.
 	// Bestiary2: The aspiring forgotten puppet
 }
@@ -753,7 +753,7 @@ NaturalWitch: {
 
 Zui: {
 	DisplayName: 蕊
-	// BossChecklistIntegration: After Plantera, Zui will sell you an item that'll allow you to fight her in the witch town!
+	// BossChecklistIntegration: 在击败世纪之花后，蕊会售卖一个物品以允许你在女巫村庄挑战她.
 	// Bestiary: A traveller of the lands who may hold great power
 	// Bestiary2: Zui the Traveller
 	// Button: Zui's Quests
@@ -839,7 +839,7 @@ VerliaDP.DisplayName: 薇莉娅死亡光球
 
 Niivi: {
 	DisplayName: 尼伊维
-	// BossChecklistIntegration.SpawnInfo: Deal enough damage to Niivi to anger her, you may find her flying around The Great Illuria! -or sleeping...
+	// BossChecklistIntegration.SpawnInfo: 对尼伊维造成足够的伤害后来激怒她.她一般会在星月巨树附近闲游-或者在睡觉.
 	// Bestiary: Niivi, The First Dragon
 }
 
@@ -891,7 +891,7 @@ SupernovaOrb: {
 
 SupernovaFragment: {
 	DisplayName: 破碎超新星
-	// BossChecklistIntegration.SpawnInfo: Go down to the Cinderspark and nag Ordin to get a gift for Ereshkigal and she may give you something in return...
+	// BossChecklistIntegration.SpawnInfo: 前往烬火之地，向奥丁巴结一份给厄莉什基迦勒的礼物，接受礼物后，她可能会以你想要的东西来报答你.
 	// Bestiary: A powerful gift from Lumi V. to her trusted sisters.
 	// Bestiary2: Supernova Fragment
 }
@@ -974,14 +974,14 @@ IrradiaSpikeBox.DisplayName: 伊瑞蒂安尖刺盒
 
 Irradia: {
 	DisplayName: 伊瑞蒂安
-	// BossChecklistIntegration.SpawnInfo: Give Irradia a [i:Stellamod/ManifestedBravery] at a bottom of the Govheil Castle, underneath the Virulent.
+	// BossChecklistIntegration.SpawnInfo: 在瘴煞深处的歌维赫堡给予伊瑞蒂安 [i:Stellamod/ManifestedBravery] 以召唤.
 	// Bestiary: The most committed protector of the Govhiel. She just wishes to see her friend's and village again.
 	// Bestiary2: Irradia N Havoc
 }
 
 DreadMireR: {
 	DisplayName: 绛渊恶巫
-	// BossChecklistIntegration.SpawnInfo: Destroy 3 dread monoliths to create a Dread medallion and summon her during night.
+	// BossChecklistIntegration.SpawnInfo: 摧毁三个恐怖巨石来合成恐惧徽章在夜晚召唤.
 	// Bestiary: Traded her singularity in turn for more dreadful power, ridden of anxiety and all things dreadful
 	// Bestiary2: Cozmire- Dreadmire Veil??
 }
@@ -1057,7 +1057,7 @@ StalkerSpawner.DisplayName: 潜行者生成
 
 RekSnake: {
 	DisplayName: 不熄炽龙，莱克
-	// BossChecklistIntegration.SpawnInfo: Gothivia's sworn protector, you must take him down before you can get to Gothivia.
+	// BossChecklistIntegration.SpawnInfo: 歌瑟梵的忠卫，只有你击败他才有资格挑战歌瑟梵.
 	// Bestiary: A special snake from the Cinderspark that was atop it's food chain and took a liking to Gothivia. Eventually it became her guardian.
 	// Bestiary2: Rek, The Sun Serpent
 }
@@ -1068,7 +1068,7 @@ Sun2.DisplayName: 太阳
 
 GothiviaIyx: {
 	DisplayName: 青黯琉曦，歌瑟梵•伊斯
-	// BossChecklistIntegration.SpawnInfo: After killing her friend Irradia, Green sun will start and she will await your arrival, kill Rek to challenge her.
+	// BossChecklistIntegration.SpawnInfo: 在你杀死伊瑞蒂安后，歌瑟梵将等待着你. 击杀莱克后你将获得挑战她的资格.
 	// Bestiary: Empress of the Green sun and nature. Everything empowering and living falls under her reign.
 	// Bestiary2: Gothivia, One of the Green Sun
 }
