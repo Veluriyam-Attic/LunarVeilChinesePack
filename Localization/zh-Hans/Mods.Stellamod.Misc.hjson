@@ -1,4 +1,5 @@
-// EnterWorld: "[Lunar Veil] Hi hi! Thank you for checking out the mod! If you want more, you can check out my game Diari!"
+// EnterWorld: "【穹月天纱作者】你好啊！感谢你游玩我的mod！如果你还想要看看我做的其他东西，上steam搜Diari就好！
+行走的wiki群：909428503"
 // TomeofRaining: 蕊给你弄来了几片雨云！
 // LittleWand: 极光之星从...等会，咋回事？
 // DreadMedalion: 恐惧的气息弥散四周...
@@ -98,38 +99,38 @@ Dice: {
 }
 
 Bridget: {
-	// 1: How can someone be so interesting?
-	// 2: Hiii its a me Bridget your friendly companion :3
-	// 3: Please dont replace me :(
-	// 4: This world is soo pretty! Just like you :p
-	// 5: Im so much better than Lucy :)
-	// 6: I used to have a roommate, they stink really badly
-	// 7: I love these journeys! I hope you won't throw me away...
-	// 8: Are you gonna get married someday? I'm always an option yknow >~<
-	// 9: When I was in my human form I was the Queen of the uh, morrow? I forgot.
-	// 10: Don't forget to brush your teeth! Its good for you :)
-	// 11: I completely forgot what it feels like to be flat and everyday you hold me is a reminder.
-	// 12: I can't tell if I like you holding me or sexual assault.
-	// 13: I have so many stories I can share to you :)
-	// 14: My sister turned me into a sword but I think you can get me out rightttt?
-	// 15: I totally don't like you at all, all you did was pull me from a stone yknow :(
-	// 16: You're soooo stupid :)
-	// 17: I'm you're daily reminder that you aren't alone :p
-	// 18: Hey so will you take me all the way to the end, I've taken a liking to you >:)
-	// 19: It's not hehe, its HEHE
-	// 20: I loveee painting, I think I could get back to form if I'm merged with something related
-	// 21: Use me for a spin will ya!
-	// 22: I'm not your normal yandere girl you know, please dont leave me :<
-	// 23: It's all fun and games until you get slashed by a dirt sword with boobs
-	// 24: I am so R rated
-	// 25: Shawty get your head in the game
-	// 26: Can we get to painting or volleyball pleasee?
-	// 27: You're holding me in all the right ways >:)
-	// 28: I dont care what you are, you obviously cared enough to get me :P
-	// 29: LALALA you're wrong I'm right LALALALA
+	// 1: 你真有意思！
+	// 2: 你好~是我呀！你的好伙伴布里姬！
+	// 3: 请别扔掉我 :(
+	// 4: 这世界好漂亮！和你一样 :p
+	// 5: 我比露西斧强太多了好吗！
+	// 6: 我之前和另一个人住在一起过，他身上的味道可重了.
+	// 7: 和你一起旅行好开心！不要抛下我哦...
+	// 8: 想要结婚吗？我也是个不错的选择哦 >~<
+	// 9: 当我还是人类的时候我是...嗯...幽曦的女王？好像是吧.
+	// 10: 别忘了刷牙！精气神一定要好！
+	// 11: 我都快忘了我变得这么扁，但你一把我拿起来我就想起来了.
+	// 12: 你这么握着我已经算是骚扰了吧
+	// 13: 我有好多故事要讲呢 :)
+	// 14: 我姐把我变成了一把剑，你能帮帮我的对吧？
+	// 15: 我..我才不喜欢你呢！你不就是把我从石头里拔出来了吗？哼！
+	// 16: 大傻瓜~ :)
+	// 17: 我会天天提醒你你不是独自一人的 :p
+	// 18: 把我带在身上直到永远吧，我好喜欢你哦 >:)
+	// 19: 嘻嘻，不嘻嘻
+	// 20: 我超爱画画！如果你把我和其它什么东西合在一起，说不定我的本体就能解放了！
+	// 21: 大风车那个吱呦呦地转~
+	// 22: 我才不是傲娇呢！你别走好吗 :<
+	// 23: 被一把女性的剑砍可不好受吧？
+	// 24: 我的评级是R
+	// 25: 宝贝，专心点！
+	// 26: 咱可以画个画，打打排球什么的吗？
+	// 27: 被你握着好舒服噢 >:)
+	// 28: 我才不会评价你呢，你都把我从那里救出来了.
+	// 29: 啦啦啦，不听不听，啦啦啦~
 }
 
-// FlamecrestPlayer: Resisted!
+// FlamecrestPlayer: 抵抗！
 
 DiceinNPC: {
 	// 1: 芜湖！
