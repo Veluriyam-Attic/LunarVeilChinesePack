@@ -787,3 +787,8 @@ GothivianFlames: {
 	DisplayName: 歌瑟梵之火
 	Description: 你的灵魂随风燃尽...
 }
+
+HolyAnxiety: {
+	// DisplayName: Holy Anxiety
+	// Description: Mods.Stellamod.Buffs.HolyAnxiety.Description
+}
