@@ -29,7 +29,7 @@ RadianceStone: {
 	// 10: Womp womp you used the item :)
 }
 
-// STARBLOCKER: The Aurorean Starfall has been blocked! :(
+// STARBLOCKER: 极光星雨被阻隔于世界之外:(
 // AuroreanStarbomber: STARBOMBER crashes down!
 // CinderChest: Heavy chest opened!
 
@@ -79,9 +79,9 @@ UnstableRift: {
 }
 
 EventWorld: {
-	// 1: The Gintze army has been defeated!
-	// 2: Aurorean Stars are falling!
-	// 3: The Aurorean starfall has ended
+	// 1: 玄铁军团已被击败！
+	// 2: 极光之星从天而降！
+	// 3: 极光星雨结束了
 }
 
 // BreakMe: Break Me!
