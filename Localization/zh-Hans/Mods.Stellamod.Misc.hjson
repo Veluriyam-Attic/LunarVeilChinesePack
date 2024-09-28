@@ -32,39 +32,39 @@ RadianceStone: {
 
 // STARBLOCKER: 极光星雨被阻隔于世界之外:(
 // AuroreanStarbomber: 星 爆 者 从天砸落！
-// CinderChest: Heavy chest opened!
+// CinderChest: 开启了重型宝箱！
 
 FlowerSummon: {
-	// 1: The Stone Guardian has awoken!
-	// 2: Old Guard's Shrine
+	// 1: 石心圣卫已苏醒！
+	// 2: 老守卫的石坛
 }
 
 SunAlter: {
-	// 1: Come back with a Sun Stone to fight the warrior of the desert.
-	// 2: Sun Stalker has awoken!
+	// 1: 带上耀日宝石来挑战沙漠中的战士.
+	// 2: 猎日游隼已苏醒！
 }
 
 AurelusSummon: {
-	// 1: Singularity has awoken!
-	// 2: What are you doing?? Trying to summon another?
-	// 3: Come at with the key of void and moon, Verlia's Singularity awaits.
+	// 1: 奇点已苏醒！
+	// 2: 你要干什么？还要再召唤一个吗？
+	// 3: 唯有持有虚无与皎月之钥者，方可与薇莉娅共舞
 }
 
 // MorrowChest: The chest cannot be open in the light of the day due to a lock, apparently these feral creatures use their weapons at night. Try again at night.
 
 JackPost: {
-	// 1: Jack has awoken!
-	// 2: Only a wandering essence can allude my precense, only for you Gothivia! :)
-	// 3: Jack's Shrine
+	// 1: 灯笼杰克已苏醒！
+	// 2: 带上漂浪焰华来，全部献给歌瑟梵——
+	// 3: 灯笼杰克
 }
 
 RestingGrounds: {
-	// 1: Forgotten Puppet Daedus has Awoken!
-	// 2: I cannot raise my axe to one of such dedication to our goddess Gothivia, thank you for your efforts...
-	// 3: Disturb Ruined Tablet?
+	// 1: 遗世石偶，代达斯已苏醒!
+	// 2: 面对为歌瑟梵如此付出之人，我无从下手...感谢您的努力..
+	// 3: 扰动遗迹石碑？
 }
 
-// CathedralChest: The chest cannot be open at day due to the Empress of the Moon, Verlia, a special seal is over it. Try again at night.
+// CathedralChest: 薇莉娅的魔力在白天将箱子牢牢锁住.等夜晚再来试试.
 
 VerliasShrine: {
 	// 1: Verlia has been freed from her lantern!
@@ -74,9 +74,9 @@ VerliasShrine: {
 }
 
 UnstableRift: {
-	// 1: A disturbing entity prevents the rift from opening...
-	// 2: Sylia rips through!
-	// 3: Disturb the Unstable Rift...?
+	// 1: 一个可怖的存在抑制着裂隙...
+	// 2: 赛莉亚破影而出！
+	// 3: 试探不稳定裂隙...？
 }
 
 EventWorld: {
@@ -85,10 +85,10 @@ EventWorld: {
 	// 3: 极光星雨结束了
 }
 
-// BreakMe: Break Me!
-// ShrineBridgetC: Hey hey over here break me please :(
-// Gothiv: Gothivia's sleeping hut
-// LabCrystal: Insert a Focal Crystal
+// BreakMe: 打破我！
+// ShrineBridgetC: 嘿！嘿！那边的！过来救我出去！
+// Gothiv: 歌瑟梵的小棚屋
+// LabCrystal: 插入聚焦水晶
 
 Dice: {
 	// 1: 芜湖！
@@ -192,5 +192,5 @@ IgniterStart: {
 	// Magic: 魔法！！
 }
 
-// IlluriaChest: Locked by an Overgrown plant...
-// IshtarChest: Zui's access needed.
+// IlluriaChest: 一种奇特的植物长满其上，将它牢牢封死.
+// IshtarChest: 让蕊帮你打开这个！
