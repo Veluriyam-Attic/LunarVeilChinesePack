@@ -7595,68 +7595,68 @@ GlocketRouncher: {
 }
 
 Common: {
-	// SimpleBrooch: 简易饰符!
-	// RadiantBrooch: 辉映饰符！
-	// RadiantBackpack: 你需要辉映饰符背包才能让此饰品发挥效果！
-	// AdvancedBrooch: 高级饰符！
-	// AdvancedBackpack: 你需要高级饰符背包才能让此饰品发挥效果！
-	// NoStack: 和其他魔法尘增效器的效果不能叠加！
-	// Insource: 召唤我以灌满希克斯瓶，当你饮用它希克斯瓶时，我的效果就会被触发！
-	// Stein: 武器类型：冲击拳套
-	// Greatsword: 武器类型：巨剑
-	// Safunai: 武器类型：鞭刃
-	// Orb: 武器类型：球体
-	// Juggler: 武器类型：抛接
-	// CanSwapped: 可使用宝珠转化为{0}!
-	// TypeSwapped: 武器职业已被改变！
+	SimpleBrooch: 简易饰符!
+	RadiantBrooch: 辉映饰符！
+	RadiantBackpack: 你需要辉映饰符背包才能让此饰品发挥效果！
+	AdvancedBrooch: 高级饰符！
+	AdvancedBackpack: 你需要高级饰符背包才能让此饰品发挥效果！
+	NoStack: 和其他魔法尘增效器的效果不能叠加！
+	Insource: 召唤我以灌满希克斯瓶，当你饮用它希克斯瓶时，我的效果就会被触发！
+	Stein: 武器类型：冲击拳套
+	Greatsword: 武器类型：巨剑
+	Safunai: 武器类型：鞭刃
+	Orb: 武器类型：球体
+	Juggler: 武器类型：抛接
+	CanSwapped: 可使用宝珠转化为{0}!
+	TypeSwapped: 武器职业已被改变！
 }
 
 SetBonus: {
-	/* CelestiaMoonHelmet:
+	CelestiaMoonHelmet:
 		'''
 		大量增加生命再生速度！
 		Move faster and enemies  that hit you take damage back!
-		''' */
-	/* CelestiaMoonMask:
+		'''
+	CelestiaMoonMask:
 		'''
 		大量增加生命再生速度！
 		更快的移速并获得魔法手铐的效果.
-		''' */
-	// VirulentHelm: 站立不动时产生剧毒光环!
-	// AcidMask: 站立不动时产生剧毒光环!
-	// AcidRobe: 站立不动时产生剧毒光环!
-	// AcidVisor: 站立不动时产生剧毒光环!
-	/* AlcaliteMask:
+		'''
+	VirulentHelm: 站立不动时产生剧毒光环!
+	AcidMask: 站立不动时产生剧毒光环!
+	AcidRobe: 站立不动时产生剧毒光环!
+	AcidVisor: 站立不动时产生剧毒光环!
+	AlcaliteMask:
 		'''
 		+1随从上限
 		星树的明星护佑着你!
-		''' */
-	/* AlsisMask:
+		'''
+	AlsisMask:
 		'''
 		你是一名真正的大法师...
 		获得魔力花、魔法手铐的效果，并增加魔力星的拾取范围！
 		减少70%的魔力消耗并提高魔力再生速度
-		''' */
-	/* ArtisanMask:
+		'''
+	ArtisanMask:
 		'''
 		3，2，1..大声笑出来！你就站在舞台中间！:p
 		每隔一小段时间进行一次倒计时，当你听到“Zero“时
 		你将必定暴击，伤害加倍！
 		移动时留下彩墨轨迹
 		+20%暴击率，+20护甲穿透
-		''' */
-	/* AstrasilkHead:
+		'''
+	AstrasilkHead:
 		'''
 		璀璨之星环绕着你！
 		攻击敌人五次来召唤一颗明星从他们上方坠落!
-		''' */
-	/* DaedenMask:
+		'''
+	DaedenMask:
 		'''
 		这幅盔甲已经磨损了...
 		给予熔火箭袋的效果
 		增加20%远程伤害，但是生命值上限固定为400
-		''' */
-	/* DaediaMask:
+		'''
+	DaediaMask:
 		'''
 		大量增加生命再生!
 		当你被击中或者击中敌人时，敌人将坠入爱河
@@ -7664,66 +7664,66 @@ SetBonus: {
 		召唤灵魂之球来攻击敌人
 		免疫摔落伤害
 		红心的拾取范围增加！
-		''' */
-	/* DucanblitzCap:
+		'''
+	DucanblitzCap:
 		'''
 		降低仇恨
 		烬火之刃和雷曼索织魔将会与你并肩作战！
 		每过几秒会大幅度提高你的近战伤害
 		升级后的歌维赫套装.
-		''' */
-	/* ElagentHead:
+		'''
+	ElagentHead:
 		'''
 		+1随从上限
 		+45最大生命
 		击中敌人有小概率呼唤天使神力对敌人造成重击！
-		''' */
-	/* EldritchianHood:
+		'''
+	EldritchianHood:
 		'''
 		免疫击退
 		受伤时根据你收到的伤害短暂性增加攻击速度！
-		''' */
-	/* FlowerHat:
+		'''
+	FlowerHat:
 		'''
 		大量增加生命再生!
 		产生一个花圈，大幅治疗圈内玩家！
 		将你射出的所有木箭变为花箭
 		当击中目标时分裂成小金弹再次击中！!
-		''' */
-	// ForestCoreHead: 召唤一把森之弓为你而战！
-	/* GarbageMask:
+		'''
+	ForestCoreHead: 召唤一把森之弓为你而战！
+	GarbageMask:
 		'''
 		免疫击退
 		+2随从上限
-		''' */
-	/* GovheilHelmet:
+		'''
+	GovheilHelmet:
 		'''
 		降低仇恨
 		歌维赫之刃将会保护你
 		每过几秒会大幅提高你的魔法和召唤伤害
 		+2随从上限!
-		''' */
-	/* GovheilMask:
+		'''
+	GovheilMask:
 		'''
 		降低仇恨
 		歌维赫魔能弓将会随你而战
 		每过几秒会大幅提高你的魔法和召唤伤害
 		+2随从上限!
-		''' */
-	/* HeavyMetalHead:
+		'''
+	HeavyMetalHead:
 		'''
 		召唤两个玄铁护卫来给你而战
 		+1随从上限
-		''' */
-	/* HuntrianHelmet:
+		'''
+	HuntrianHelmet:
 		'''
 		大量增加生命回复
 		减少治疗药水的冷却时间
 		不能与点金石叠加
-		''' */
-	// IllurianCrestmask: 降低仇恨
-	// IllurianWarriorHelm: 允许你在水上行走
-	/* JianxinMask:
+		'''
+	IllurianCrestmask: 降低仇恨
+	IllurianWarriorHelm: 允许你在水上行走
+	JianxinMask:
 		'''
 		大量增加生命再生速度！
 		增加移动速度，与水流和迅风同行
@@ -7731,125 +7731,125 @@ SetBonus: {
 		这些龙魂散发出失落的王朝中的巨大能量，并给予50点生命值
 		它们会吸收10%的敌人伤害，并且对触碰到的敌人造成大量伤害！
 		降低仇恨
-		''' */
-	/* LovestruckMask:
+		'''
+	LovestruckMask:
 		'''
 		大量增加生命回复!
 		当你被击中或者击中敌人时，敌人将坠入爱河
 		造成虚弱，灼烧，困惑，减速并且减益伤害递增
-		''' */
-	/* MardenthMask:
+		'''
+	MardenthMask:
 		'''
 		增加生命回复
 		减少10%所受伤害
-		''' */
-	/* MiracleHead:
+		'''
+	MiracleHead:
 		'''
 		+16%召唤伤害
 		+2哨兵上限
 		你的攻击可以撕裂敌人的灵魂
 		收集灵魂碎片将会增加你的挥鞭速度和召唤伤害
 		当你受到伤害时会重置此效果
-		''' */
-	/* GintzeMask:
+		'''
+	GintzeMask:
 		'''
 		召唤两个玄铁护卫来给你而战
 		+1随从上限
-		''' */
-	/* ScissorianMask:
+		'''
+	ScissorianMask:
 		'''
 		大量增加生命再生速度！
 		移速更快！仇恨降低！敌人更少！
-		''' */
-	/* ScrappyHead:
+		'''
+	ScrappyHead:
 		'''
 		在头顶上召唤一个哨兵，向附近的敌人发射激光
 		+8%魔法和召唤伤害
-		''' */
-	/* ShadeWraithHead:
+		'''
+	ShadeWraithHead:
 		'''
 		生命值跌落太低时获得暂时的强大属性提升
 		回光返照？
-		''' */
-	// StoniaHat: 免疫摔落伤害
-	/* TerricHead:
+		'''
+	StoniaHat: 免疫摔落伤害
+	TerricHead:
 		'''
 		魔法暴击率逐步提高
 		+20最大生命
-		''' */
-	/* AstolfoMask:
+		'''
+	AstolfoMask:
 		'''
 		增加生命回复
 		使所有触碰你的人罹患ATD（阿斯托弗传染病）
-		''' */
-	/* VerlHat:
+		'''
+	VerlHat:
 		'''
 		获得魔法手铐和魔力花的效果
 		唤起音韵之力痛击你的敌人！
 		每过几秒钟，你的魔法和远程伤害将大幅提升！
-		''' */
-	/* VerlMask:
+		'''
+	VerlMask:
 		'''
 		获得魔法箭袋的效果并增加5%远程伤害
 		唤起音韵之力痛击你的敌人！
 		每过几秒钟，你的魔法和远程伤害将大幅提升！
-		''' */
-	/* VextinMask:
+		'''
+	VextinMask:
 		'''
 		获得沙丘行者靴的效果
 		无需靴子即可高速行走！
 		+3防御力
-		''' */
-	/* WindmillionHat:
+		'''
+	WindmillionHat:
 		'''
 		“夫物芸芸，各复归其根.”
 		+30%投掷速度
 		大幅增加投掷武器的击退
-		''' */
-	// WinterbornHead: 冰锥会出现在你身边保护你，最多三只
-	/* WitchenHat:
+		'''
+	WinterbornHead: 冰锥会出现在你身边保护你，最多三只
+	WitchenHat:
 		'''
 		你对社会做出了巨大的贡献！女巫们会尊重你！
 		获得魔力花和魔法手铐的效果
 		极高的魔力回复
 		魔力消耗减少50%
 		花之韵律！
-		''' */
-	/* XexterianHat:
+		'''
+	XexterianHat:
 		'''
 		获得沙丘行者靴的效果
 		无需靴子即可高速行走！
 		+5防御力
 		获得禁戒套装的效果
 		拥有熔火箭袋的效果，将木箭点燃
-		''' */
+		'''
 }
 
 GintzelShield: {
-	// DisplayName: Gintzel Ram Shield
-	// Tooltip: ""
+	DisplayName: Gintzel Ram Shield
+	Tooltip: ""
 }
 
 VirulentHelm: {
-	/* Tooltip:
+	Tooltip:
 		'''
 		5% increased damage
 		8% increased critical strike chance
-		''' */
-	// DisplayName: Virulent Helm
+		'''
+	DisplayName: Virulent Helm
 }
 
 VirulentArmor: {
-	// Tooltip: Slightly increased life regeneration
-	// DisplayName: Virulent Armor
+	Tooltip: Slightly increased life regeneration
+	DisplayName: Virulent Armor
 }
 
 VirulentLegs: {
-	// Tooltip: Slightly increased movement speed and acceleration
-	// DisplayName: Virulent Leg
+	Tooltip: Slightly increased movement speed and acceleration
+	DisplayName: Virulent Leg
 }
 
 Lihh: {
-	// Tooltip: ""
-	// DisplayName: Lihh
+	Tooltip: ""
+	DisplayName: Lihh
 }
