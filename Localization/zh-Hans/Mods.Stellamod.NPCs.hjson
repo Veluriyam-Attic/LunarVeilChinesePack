@@ -4,21 +4,21 @@ LonelySorceress: {
 	DisplayName: 孤独女巫
 	// Bestiary: 一名奇怪的女士.她身上的魔力几乎满溢...
 	// Bestiary2: 孤独可怜的魔法少女.
-	// Button: Spar with your new wife
+	// Button: 和你的新老婆切磋一番！
 	// Basic1: I wanna be like party girl {0}
-	// Basic2: Mmm it's soo nice to meet you, wanna play with me :3
-	// Basic3: "I'm all alone in this castle, if only someone could have fun with me :> "
-	// Basic4: Mwhahahahaha I am the most evil sorceress on the planet!!!
-	// Basic5: "Obviously I want you to stay! Can you just stay here for a while- no, forever? I mean it isn't too much of an ask. "
-	// Basic6: There were these two that came by, one of them looked like me and had fox ears too! I wonder what breed she is.
-	// Basic7: This place can be shared by only us two you know, you can be here for me :)
-	// Basic8: Nobody really gets me you know, but I can see it in your eyes, we'll be made for each other :p
-	// Basic9: I think if you want to, maybe we can spar??? It would be so fun with you!
-	// Basic10: I think this place is accidently communistic...
-	// Basic11: Where did that Carian tome go?
-	// Basic12: Hii babe! Can we pleaseee fight? I haven't been able to do anything for sooo long and I just wanna have fun but nobody lets me do anything around here, so pretty pleasee
-	// Basic13: Funny enough I'm actually older than I act, take a guess I bet you didn't answer 26 lol!!
-	// Basic14: Shhh hush hun, we should try to spar instead :3
+	// Basic2: 见到你真好啊，想要和我玩玩吗 :3
+	// Basic3: "天天呆在这城堡里，好寂寞哦..."
+	// Basic4: 啊哈哈哈哈哈哈哈哈！我就是这个星球上最邪恶的魔法少女！！！
+	// Basic5: "我当然想要你留下啦！你能在这陪我一会...到永远吗？这不是什么大问题吧."
+	// Basic6: 之前有两个人从这路过，其中一个和我长得很像，甚至也有狐狸耳朵！我想认识认识她.
+	// Basic7: 你搬过来住吧！这样这里就只有我们两个啦！
+	// Basic8: 没有人理解我，但我从你的眼睛里能看得出，咱俩就是天作之合！
+	// Basic9: 如果你想的话，咱们来玩玩吧！
+	// Basic10: 这里好像不小心变成共产主义国家了...
+	// Basic11: 那本古籍哪去了？
+	// Basic12: 嗨~宝贝~能和我打一架吗？我在这里无所事事好长时间了，没人跟我玩...求求你啦！
+	// Basic13: 我的年纪比看起来高哦~猜猜看？你肯定猜不中26的哈哈哈！
+	// Basic14: 嘘，无需多言，来切磋一番吧！:3
 }
 
 CarianKnight.DisplayName: 卡里亚骑士
@@ -191,7 +191,7 @@ VoidWall.DisplayName: 虚空之墙
 UnderworldRift: {
 	DisplayName: 地狱裂隙
 	// Bestiary: 一个怪异的虚空裂缝，扰动它可能会产生灾难性的后果......
-	// Button: Disturb Rift
+	// Button: 试探裂隙
 }
 
 VoidWormTail.DisplayName: 虚空虫尾
@@ -548,7 +548,7 @@ CellConverter: {
 	// Basic4: YEEERRRM
 	// Special0: Weapon Converted!
 	// Special1: KRRRT, Sensors say you have inputed a token, here you go per request.
-	// Special2: Womp womp, looks like nothing for you!
+	// Special2: 嘟嘟~, looks like nothing for you!
 	// Special3: Error, try again.
 	// Special4: Put in another token.
 }
@@ -949,12 +949,12 @@ IrradiaIdle: {
 	DisplayName: 伊瑞蒂安
 	// Bestiary: 歌维赫堡深处的神秘人物
 	// Bestiary2: ???
-	// Button: Show Verlia's Manifested Bravery
-	// Basic1: Leave before you too become corrupt
-	// Basic2: Get away from here.
-	// Basic3: I miss them
-	// Basic4: ... Delgrim...
-	// Special1: Stop bothering me, you don't deserve to die.
+	// Button: 展示薇莉娅的灵魂核心
+	// Basic1: 在你也被腐化之前离开这里
+	// Basic2: 滚出这里.
+	// Basic3: 我想她们...
+	// Basic4: ...戴尔格林...
+	// Special1: 别来烦我.你都不值得被我亲手杀死.
 }
 
 Havoc.DisplayName: 浩劫
@@ -1082,11 +1082,11 @@ GothiviaIdle: {
 	// Bestiary: 你从歌瑟梵身上感受到一股...神圣的气息.
 	// Bestiary2: ???
 	// Button: Challenge
-	// Basic1: I shouldn't have left..
-	// Basic2: Verlia.. Irradia...
-	// Basic3: A monster you are
-	// Basic4: ...Interesting...
-	// Special1: You're not worth the effort, Rek can avenge them for me. Idiot.
+	// Basic1: 或许我就不该离开...
+	// Basic2: 薇莉娅...伊瑞蒂安...
+	// Basic3: 你真是个怪物
+	// Basic4: ...有点东西...
+	// Special1: 让莱克为她们复仇吧.对付你不需要我亲自出手，蠢货.
 }
 
 StartGoth: {
@@ -1123,22 +1123,22 @@ EreshkigalIdle: {
 	DisplayName: 厄莉什基迦勒
 	// Bestiary: 禁锢了齐格飞的神秘人物
 	// Bestiary2: 痴恋者厄莉什基迦勒
-	// Button: Sigfried?
+	// Button: 询问关于齐格飞
 	// Button2: Give her something
-	// Basic1: Leave me and my husband alone
-	// Basic2: You should all be jealous that I'm here.
-	// Basic3: Welcome welcome! Come here to feast your eyes on us?
-	// Basic4: Oh dear Sigfried how we've met..
-	// Basic5: Come and go you will, you'll be broken more than the others.
-	// Special1: OMG, OMG OMG OMG OMG
-	// Special2: What is this? Nothing of importance to me... You are worthless, you're life is as valuable as a cinderspark summer ant, you mean nothing. You should get me something good NOW. You should burn in the Cinderspark..
-	// Special3: "Oh what a darling he is. Too bad I'm tasked with keeping him here forever right? He can't escape me :3 "
-	// Special4: Sigfried is my husband you know. We met on the sacred lands of the Illuria, I may have been kicked out numerous times to talk to my king but I'd do anything to get with him
-	// Special5: He's so pure, going for such high level threats such as Lumi and stealing her singularity. That's the type of man I like, one who isn't afraid to get their hands dirty.
-	// Special6: I wish we could stay together always.
-	// Special7: Oh his dear Mordred, I bet he doesn't even know hit wife was trapped within a weapon :)
-	// Special8: Stupid dragon always getting in the way to getting to my wonderous babe, I would trap it as well but then it'd anger my dearest here.
-	// Special9: How many doors do I need to store Lumi? I don't really know but I don't care. As long as she doesn't come after my husband.
+	// Basic1: 让我和我的丈夫在这里独享二人时光吧
+	// Basic2: 你们都应该羡慕我！
+	// Basic3: 欢迎！欢迎！来一饱眼福吧
+	// Basic4: 亲爱的齐格飞...我还记得我们相遇的那天...
+	// Basic5: 匆忙的来，匆忙的走，将自己搞得支离破碎...
+	// Special1: 天哪天哪天哪天哪！！
+	// Special2: 这是什么...不要紧，它和你一样毫无用处，像一只蚂蚁一样不值一提.赶紧给我找到点有价值的东西，不然我就把你扔到烬火之地永世焚烧.
+	// Special3: "我的任务就是把他永远关在这里，对他来说可不是什么好消息对吧 :3"
+	// Special4: 我丈夫就是齐格飞.我们初次见面是在星树的圣地，我已经被他的守卫赶出那里不知道多少次了，但为了他这一切都值得.
+	// Special5: 他是那么的纯粹，敢向琉明那样的高级威胁下手，还偷走了她的奇点！我就喜欢这种干事干净利落毫无顾忌的男人.
+	// Special6: 我们要永远在一起~
+	// Special7: 哦，那个莫德雷德呀...我敢肯定他都不知道他的妻子已经被囚禁在一把武器里了.
+	// Special8: 那条蠢龙，总是守着我的宝贝不让我靠近...要不是我丈夫会生气，我早就把那龙也关到这里了.
+	// Special9: 我要用多少扇门才能困住琉明？算了，也不重要，只要她不来找我的丈夫就行.
 	// Special10: Special11:
 	// Special12: Special13:
 }

@@ -90,11 +90,11 @@ EventWorld: {
 // LabCrystal: Insert a Focal Crystal
 
 Dice: {
-	// 1: Wohooo
-	// 2: Omg, its something!
-	// 3: Are you disappointed? You should be.
-	// 4: Wow, you have no maidens and no luck...
-	// 5: Sooo lucky!
+	// 1: 芜湖！
+	// 2: 哎呦！掉东西了！
+	// 3: 失望吗？失望就对啦
+	// 4: 幸运女神完全不搭理你呢.
+	// 5: 幸运！
 }
 
 Bridget: {
@@ -132,59 +132,59 @@ Bridget: {
 // FlamecrestPlayer: Resisted!
 
 DiceinNPC: {
-	// 1: Wohooo
-	// 2: Omg, its something!
-	// 3: Are you disappointed? You should be.
-	// 4: Wow, you have no maidens and no luck...
-	// 5: Sooo lucky!
-	// 6: WHATTT, you should not be this lucky...
-	// 7: Pfffft HAHA, laugh at this user.
-	// 8: Sometimes, you just have to tie your hair back and get on your knees.
-	// 9: Womp womp
-	// 10: NOW THIS IS AMAZEBALLS
+	// 1: 芜湖！
+	// 2: 哎呦！掉东西了！
+	// 3: 失望吗？失望就对啦
+	// 4: 幸运女神完全不搭理你呢.
+	// 5: 幸运！
+	// 6: 你怎么这么幸运？开挂了吧！.
+	// 7: 噗——哈哈哈！真是个倒霉蛋！
+	// 8: 有时，你就该乖乖接受事实
+	// 9: 嘟嘟~
+	// 10: 震撼人心！
 }
 
 BloodCystDead: {
-	// 1: The dread shrouds you...
-	// 2: Darkness...
+	// 1: 恐惧缠绞着你...
+	// 2: 黑暗涌动...
 }
 
 GothiviaDeath: {
-	// 1: Stoppp~
-	// 2: I'm cant-
+	// 1: 停——
+	// 2: 我不——
 }
 
 IrradiatedNest: {
-	// 1: Significant damage detected...
-	// 2: deploying Communication transmission device
-	// 3: Transmission successful!
-	// 4: Back up vessel destroyed...
-	// 5: Proceed with D. S. D. P!
+	// 1: 检测到严重损伤...
+	// 2: 启动通讯装置
+	// 3: 成功连接！
+	// 4: 后备机体已被摧毁...
+	// 5: 运行程序 D.S.D.P.！
 }
 
 StarrVeriplant: {
-	// 1: Weak!
-	// 2: Armor Broke!
-	// 3: Player Wrath UP!
-	// 4: Player Speed UP!
+	// 1: 虚弱！
+	// 2: 护甲破碎！
+	// 3: 玩家怒气加成！
+	// 4: 玩家速度加成！
 }
 
-// SunStalkerPreSpawn: The Sun...
+// SunStalkerPreSpawn: 烈日...
 
 ZuiDeath: {
 	// 1: I think I have a headache...
 	// 2: I'll see you later at my shop! Fun time :)
 }
 
-// DesertRune: Desert Harvest Collected!
-// IceRune: Ice Harvest Collected!
-// JungleRune: Jungle Harvest Collected!
-// OceanRune: Ocean Harvest Collected!
-// SkyRune: Sky Harvest Collected!
-// OverworldRune: Overworld Harvest Collected!
-// PearledGold: Veriplant Harvest Collected!
+// DesertRune: 收集了沙漠符文！
+// IceRune: 收集了雪地符文！
+// JungleRune: 收集了丛林符文！
+// OceanRune: 收集了海洋符文！
+// SkyRune: 收集了天空符文！
+// OverworldRune: 收集了地表符文！
+// PearledGold: 收集了殆绿符文！
 // BoundGia: Im being taken away help!
-// Flower: Flower destroyed
+// Flower: 收集了花束
 
 IgniterStart: {
 	// Strike: STRIKE!!
