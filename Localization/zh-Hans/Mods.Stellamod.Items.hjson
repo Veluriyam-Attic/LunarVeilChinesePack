@@ -7825,7 +7825,7 @@ SetBonus: {
 }
 
 GintzelShield: {
-	DisplayName: Gintzel Ram Shield
+	DisplayName: 玄铁之盾
 	Tooltip: ""
 }
 
@@ -7849,9 +7849,6 @@ VirulentLegs: {
 }
 
 Lihh: {
-	Tooltip:
-		'''
-		连续射出两支箭！每第三次射击发射燃烧箭！
-		'''
+	Tooltip: 连续射出两支箭！每第三次射击发射燃烧箭！
 	DisplayName: Lihh
 }
