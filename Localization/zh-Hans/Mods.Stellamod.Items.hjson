@@ -1216,7 +1216,6 @@ Hornet: {
 		风度翩翩，高贵非凡！
 		射出优雅炸弹与弹丸，数量惊人，如星辰般璀璨
 		弹雨盛宴，彰显力量与尊贵，一场视觉与战斗的双重盛宴
-				无关《空洞骑士》，纯属灵感巧合
 		'''
 }
 
@@ -2627,8 +2626,8 @@ JellyBow: {
 }
 
 LAZER: {
-	DisplayName: LAZER
-	Tooltip: I'm a lasering
+	DisplayName: 激光
+	Tooltip: 我是个激光
 }
 
 RustlockPistol: {
@@ -2794,8 +2793,8 @@ LightSpand: {
 }
 
 MoonMothStaff: {
-	DisplayName: Moon Moth Staff
-	Tooltip: Woa
+	DisplayName: 月蛾法杖
+	Tooltip: 哇呜
 }
 
 SolMothStaff: {
@@ -4448,7 +4447,7 @@ GraftedSoul: {
 }
 
 GoldenHeartBalls: {
-	DisplayName: Golden Heart Balls
+	DisplayName: 金心正一面体
 	Tooltip: Would match the golden shower :)
 }
 
@@ -6574,7 +6573,7 @@ IshtarPainting: {
 }
 
 Robi: {
-	DisplayName: Robi
+	DisplayName: 左布
 	Tooltip: ""
 }
 
@@ -6749,7 +6748,7 @@ MeredaX: {
 	Tooltip:
 		'''
 		这是唯一能让你双手同时握持的枪械，如同舞动双刃的战神，既灵活又致命
-		仿佛冥后厄莉什基迦勒赋予了你暗夜的力量，每一发子弹，都是对敌人命运的静默宣判
+		仿佛痴恋的狂渊巫女，厄莉什基迦勒赋予了你暗夜的力量，每一发子弹，都是对敌人命运的静默宣判
 		'''
 }
 
@@ -7615,7 +7614,7 @@ SetBonus: {
 	CelestiaMoonHelmet:
 		'''
 		大量增加生命再生速度！
-		Move faster and enemies  that hit you take damage back!
+		移动速度加快并且回击攻击你的敌人！
 		'''
 	CelestiaMoonMask:
 		'''
@@ -7833,23 +7832,26 @@ GintzelShield: {
 VirulentHelm: {
 	Tooltip:
 		'''
-		5% increased damage
-		8% increased critical strike chance
+		+5%伤害
+		+8%暴击率
 		'''
-	DisplayName: Virulent Helm
+	DisplayName: 瘴煞头盔
 }
 
 VirulentArmor: {
-	Tooltip: Slightly increased life regeneration
-	DisplayName: Virulent Armor
+	Tooltip: 增加少量生命再生速度
+	DisplayName: 瘴煞胸甲
 }
 
 VirulentLegs: {
-	Tooltip: Slightly increased movement speed and acceleration
-	DisplayName: Virulent Leg
+	Tooltip: 增加少量移动速度和加速度
+	DisplayName: 瘴煞护腿
 }
 
 Lihh: {
-	Tooltip: ""
+	Tooltip:
+		'''
+		连续射出两支箭！每第三次射击发射燃烧箭！
+		'''
 	DisplayName: Lihh
 }
