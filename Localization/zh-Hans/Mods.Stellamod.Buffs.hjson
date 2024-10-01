@@ -789,6 +789,6 @@ GothivianFlames: {
 }
 
 HolyAnxiety: {
-	// DisplayName: Holy Anxiety
-	// Description: Mods.Stellamod.Buffs.HolyAnxiety.Description
+	DisplayName: 神忧
+	Description: Mods.Stellamod.Buffs.HolyAnxiety.Description
 }
