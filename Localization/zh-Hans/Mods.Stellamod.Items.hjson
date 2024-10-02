@@ -1897,11 +1897,11 @@ OceanScroll: {
 
 OceansTrinket: {
 	DisplayName: 海之奇珍
-	Tooltip: 
-	    '''
-	    +1仆从上限
-	    +8%召唤伤害！[c/ff0000:【乘算】]
-	    '''
+	Tooltip:
+		'''
+		+1仆从上限
+		+8%召唤伤害！[c/ff0000:【乘算】]
+		'''
 }
 
 RuneOfCorsage: {
@@ -4109,11 +4109,11 @@ STARCORE: {
 
 BottleOfGrail: {
 	DisplayName: 砾金瓶
-	Tooltip: 
-	    '''
-	    +1召唤栏
-	    附赠一个关不掉的星璇背景
-	    '''
+	Tooltip:
+		'''
+		+1召唤栏
+		附赠一个关不掉的星璇背景
+		'''
 }
 
 ReverieExtenderPowder: {
@@ -4133,11 +4133,11 @@ MidfortuneExtenderPowder: {
 
 BonedThrowBroochA: {
 	DisplayName: 掷骨饰符
-	Tooltip: 
-	    '''
-	    增加20%投掷速度和伤害
-	    增加移速！[c/ff0000:【乘算】]
-	    '''
+	Tooltip:
+		'''
+		增加20%投掷速度和伤害
+		增加移速！[c/ff0000:【乘算】]
+		'''
 }
 
 LuckyWinnerBroochA: {
@@ -4501,9 +4501,10 @@ PotionOfHallowWand: {
 AppretienceBreastplate: {
 	DisplayName: 学徒胸甲
 	Tooltip:
-	    '''+20%暴击率
-	    +5最大生命值！
-	    '''
+		'''
+		+20%暴击率
+		+5最大生命值！
+		'''
 }
 
 AppretienceHat: {
@@ -5620,13 +5621,13 @@ HeatedVerliaBroochA: {
 }
 
 AmberBroochA: {
-	Tooltip: 
-	    '''
-	    增加40%移动速度
-	    +5防御
-	    增加挖掘速度！
-	    玩的开心哦~
-	    '''
+	Tooltip:
+		'''
+		增加40%移动速度
+		+5防御
+		增加挖掘速度！
+		玩的开心哦~
+		'''
 	DisplayName: 琥珀饰符
 }
 
@@ -7102,10 +7103,10 @@ STARBOMBERBossRel: {
 MardenthMask: {
 	DisplayName: 玛登斯的蒙纱假面
 	Tooltip:
-	    ''' 
-	    +10最大生命值
-	    -10%伤害！[c/ff0000:【乘算】]
-	    '''
+		'''
+		+10最大生命值
+		-10%伤害！[c/ff0000:【乘算】]
+		'''
 }
 
 MardenthPants: {
