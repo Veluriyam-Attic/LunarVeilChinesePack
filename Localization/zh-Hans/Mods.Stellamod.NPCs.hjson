@@ -1,313 +1,313 @@
-RoyalHorsemage.DisplayName: 皇家骑士
+RoyalHorsemage.DisplayName:皇家骑士
 
-LonelySorceress: {
-	DisplayName: 孤独女巫
-	Bestiary: 一名奇怪的女士.她身上的魔力几乎满溢...
-	Bestiary2: 孤独可怜的魔法少女.
-	Button: 和你的新老婆切磋一番！
-	Basic1: 我想变得像派对女孩那样
-	Basic2: 见到你真好啊，想要和我玩玩吗 :3
-	Basic3: 天天呆在这城堡里，好寂寞哦... :>
-	Basic4: 啊哈哈哈哈哈哈哈哈！我就是这个星球上最邪恶的魔法少女！！！
-	Basic5: 我当然想要你留下啦！你能在这陪我一会...到永远吗？这不是什么大问题吧.
-	Basic6: 之前有两个人从这路过，其中一个和我长得很像，甚至也有狐狸耳朵！我想认识认识她.
-	Basic7: 你搬过来住吧！这样这里就只有我们两个啦！:)
-	Basic8: 没有人理解我，但我从你的眼睛里能看得出，咱俩就是天作之合！:p
-	Basic9: 如果你想的话，咱们来玩玩吧！
-	Basic10: 这里好像不小心变成共产主义国家了...
-	Basic11: 那本古籍哪去了？
-	Basic12: 嗨~宝贝~能和我打一架吗？我在这里无所事事好长时间了，没人跟我玩...求求你啦！
-	Basic13: 我的年纪比看起来高哦~猜猜看？你肯定猜不中26的哈哈哈！
-	Basic14: 嘘，无需多言，来切磋一番吧！:3
+LonelySorceress:{
+	DisplayName:孤独女巫
+	Bestiary:一名奇怪的女士.她身上的魔力几乎满溢...
+	Bestiary2:孤独可怜的魔法少女.
+	Button:和你的新老婆切磋一番！
+	Basic1:我想变得像派对女孩那样
+	Basic2:见到你真好啊，想要和我玩玩吗:3
+	Basic3:天天呆在这城堡里，好寂寞哦...:>
+	Basic4:啊哈哈哈哈哈哈哈哈！我就是这个星球上最邪恶的魔法少女！！！
+	Basic5:我当然想要你留下啦！你能在这陪我一会...到永远吗？这不是什么大问题吧.
+	Basic6:之前有两个人从这路过，其中一个和我长得很像，甚至也有狐狸耳朵！我想认识认识她.
+	Basic7:你搬过来住吧！这样这里就只有我们两个啦！:)
+	Basic8:没有人理解我，但我从你的眼睛里能看得出，咱俩就是天作之合！:p
+	Basic9:如果你想的话，咱们来玩玩吧！
+	Basic10:这里好像不小心变成共产主义国家了...
+	Basic11:那本古籍哪去了？
+	Basic12:嗨~宝贝~能和我打一架吗？我在这里无所事事好长时间了，没人跟我玩...求求你啦！
+	Basic13:我的年纪比看起来高哦~猜猜看？你肯定猜不中26的哈哈哈！
+	Basic14:嘘，无需多言，来切磋一番吧！:3
 }
 
-CarianKnight.DisplayName: 卡里亚骑士
-AlcaricVoidSmall.DisplayName: 阿卡里亚虚空凝聚体
+CarianKnight.DisplayName:卡里亚骑士
+AlcaricVoidSmall.DisplayName:阿卡里亚虚空凝聚体
 
-ShadowWraith: {
-	DisplayName: 暗影幽灵
-	Bestiary: 由骷髅王统领的小型骷髅头，在黑暗中寻找下一名受害者.
+ShadowWraith:{
+	DisplayName:暗影幽灵
+	Bestiary:由骷髅王统领的小型骷髅头，在黑暗中寻找下一名受害者.
 }
 
-ShadeSlime: {
-	DisplayName: 暗影史莱姆
-	Bestiary: 由纯粹黑暗凝聚成的凝胶状生命体，由某个强大的怪物召唤而来.
+ShadeSlime:{
+	DisplayName:暗影史莱姆
+	Bestiary:由纯粹黑暗凝聚成的凝胶状生命体，由某个强大的怪物召唤而来.
 }
 
-RoyalSlime: {
-	DisplayName: 皇家史莱姆
-	Bestiary: 史莱姆王室的继承者，在史莱姆王退位后将由它来接替王位...
+RoyalSlime:{
+	DisplayName:皇家史莱姆
+	Bestiary:史莱姆王室的继承者，在史莱姆王退位后将由它来接替王位...
 }
 
-IvythornSlime.DisplayName: 刺藤史莱姆
-TribalWorshipper.DisplayName: 部落狂热者
+IvythornSlime.DisplayName:刺藤史莱姆
+TribalWorshipper.DisplayName:部落狂热者
 
-TribalPriest: {
-	DisplayName: 部落祭司
-	Bestiary: 部族崇拜者中的佼佼者
+TribalPriest:{
+	DisplayName:部落祭司
+	Bestiary:部族崇拜者中的佼佼者
 }
 
-TribalPeasant: {
-	DisplayName: 部落农民
-	Bestiary: 即使是幽曦战士中最弱小、最贫穷的人，仍然是可怕的敌人.
+TribalPeasant:{
+	DisplayName:部落农民
+	Bestiary:即使是幽曦战士中最弱小、最贫穷的人，仍然是可怕的敌人.
 }
 
-TribalGuard.DisplayName: 部落守卫
-TopazBeetle.DisplayName: 黄玉甲虫
-SapphireBeetle.DisplayName: 蓝玉甲虫
-RubyBeetle.DisplayName: 红宝石甲虫
-MossyZombie.DisplayName: 苔藓僵尸
+TribalGuard.DisplayName:部落守卫
+TopazBeetle.DisplayName:黄玉甲虫
+SapphireBeetle.DisplayName:蓝玉甲虫
+RubyBeetle.DisplayName:红宝石甲虫
+MossyZombie.DisplayName:苔藓僵尸
 
-MorrowedJellyFish: {
-	DisplayName: 幽曦水母
-	Bestiary: 一只异常强大的水母，受幽曦的力量影响后变得更加危险.
+MorrowedJellyFish:{
+	DisplayName:幽曦水母
+	Bestiary:一只异常强大的水母，受幽曦的力量影响后变得更加危险.
 }
 
-EmeraldBeetle.DisplayName: 绿宝石甲虫
-AmethystBeetle.DisplayName: 紫晶甲虫
-GoliathJellyfish.DisplayName: 巨像水母
-GoliathCryogenicJellyfish.DisplayName: 冰皇水母
-WinterSoul3.DisplayName: 凛冬之魂
-WinterSoul2.DisplayName: 凛冬之魂
-WinterSoul1.DisplayName: 凛冬之魂
-WinterBornSlime.DisplayName: 冬诞史莱姆
-WinterbornBat.DisplayName: 冬诞蝙蝠
-HarvestVirulent.DisplayName: 丰获瘴煞
-SkyRune.DisplayName: 天空符文
-RedLightBig.DisplayName: 光虹
-PearledGold.DisplayName: 珍珠之金
-OverworldRuneLightBig.DisplayName: 地表符文光线
-OverworldRune.DisplayName: 地表符文
-OceanRuneLightBig.DisplayName: 海洋符文光线
-OceanRune.DisplayName: 海洋符文
-JungleRune.DisplayName: 丛林符文
-HarvestUM.DisplayName: 丰获UM
-HarvestOverworld.DisplayName: 丛林地表
-HarvestGovheil.DisplayName: 丰获歌维赫
-GreenLightBig.DisplayName: 光绿
-GoldLightBig.DisplayName: 光金
-DesertRuneLightBig.DisplayName: 沙漠符文光线
-DesertRune.DisplayName: 沙漠符文
-BlueLightBig.DisplayName: 光蓝
-HarvestIce.DisplayName: 丰获之冰
+EmeraldBeetle.DisplayName:绿宝石甲虫
+AmethystBeetle.DisplayName:紫晶甲虫
+GoliathJellyfish.DisplayName:巨像水母
+GoliathCryogenicJellyfish.DisplayName:冰皇水母
+WinterSoul3.DisplayName:凛冬之魂
+WinterSoul2.DisplayName:凛冬之魂
+WinterSoul1.DisplayName:凛冬之魂
+WinterBornSlime.DisplayName:冬诞史莱姆
+WinterbornBat.DisplayName:冬诞蝙蝠
+HarvestVirulent.DisplayName:丰获瘴煞
+SkyRune.DisplayName:天空符文
+RedLightBig.DisplayName:光虹
+PearledGold.DisplayName:珍珠之金
+OverworldRuneLightBig.DisplayName:地表符文光线
+OverworldRune.DisplayName:地表符文
+OceanRuneLightBig.DisplayName:海洋符文光线
+OceanRune.DisplayName:海洋符文
+JungleRune.DisplayName:丛林符文
+HarvestUM.DisplayName:丰获UM
+HarvestOverworld.DisplayName:丛林地表
+HarvestGovheil.DisplayName:丰获歌维赫
+GreenLightBig.DisplayName:光绿
+GoldLightBig.DisplayName:光金
+DesertRuneLightBig.DisplayName:沙漠符文光线
+DesertRune.DisplayName:沙漠符文
+BlueLightBig.DisplayName:光蓝
+HarvestIce.DisplayName:丰获之冰
 
-GovheilProtector: {
-	DisplayName: 歌维赫护卫
-	Bestiary: 歌维赫堡最后的保护者，他们可不容小觑...
+GovheilProtector:{
+	DisplayName:歌维赫护卫
+	Bestiary:歌维赫堡最后的保护者，他们可不容小觑...
 }
 
-GovheilGuardian: {
-	DisplayName: 歌维赫卫兵
-	Bestiary: 心甘情愿为歌瑟梵献出生命的守卫
+GovheilGuardian:{
+	DisplayName:歌维赫卫兵
+	Bestiary:心甘情愿为歌瑟梵献出生命的守卫
 }
 
-Gintzling: {
-	DisplayName: 玄铁小兵
-	Bestiary: 最低等的玄铁士兵，但仍然致命！他们也需要吃饭的呀 :(
+Gintzling:{
+	DisplayName:玄铁小兵
+	Bestiary:最低等的玄铁士兵，但仍然致命！他们也需要吃饭的呀:(
 }
 
-GintzeWindRider.DisplayName: 玄铁风骑
-GintzeWarrior.DisplayName: 玄铁战士
-GintzeSpearman.DisplayName: 玄铁矛兵
+GintzeWindRider.DisplayName:玄铁风骑
+GintzeWarrior.DisplayName:玄铁战士
+GintzeSpearman.DisplayName:玄铁矛兵
 
-GintzeSolider: {
-	DisplayName: 玄铁重兵
-	Bestiary: 歌瑟梵麾下的士兵！需谨慎应对
+GintzeSolider:{
+	DisplayName:玄铁重兵
+	Bestiary:歌瑟梵麾下的士兵！需谨慎应对
 }
 
-GintzeCaptain: {
-	DisplayName: 玄铁指挥官
-	Bestiary: 歌瑟梵麾下的队长！需谨慎应对
+GintzeCaptain:{
+	DisplayName:玄铁指挥官
+	Bestiary:歌瑟梵麾下的队长！需谨慎应对
 }
 
-GintziaHand: {
-	DisplayName: 玄铁之手
-	Bestiary: 一只稻草人，被漂浪火焰中的热情唤醒.
+GintziaHand:{
+	DisplayName:玄铁之手
+	Bestiary:占位符
 }
 
-StarSlime.DisplayName: 星绽史莱姆
-DiceinNPC.DisplayName: 赌博骰子
-Shrewmet.DisplayName: 焦烬幼虫
-Shrewder.DisplayName: 焦烬爬虫
+StarSlime.DisplayName:星绽史莱姆
+DiceinNPC.DisplayName:赌博骰子
+Shrewmet.DisplayName:焦烬幼虫
+Shrewder.DisplayName:焦烬爬虫
 
-SnowWalkerNPC: {
-	DisplayName: 雪地漫步者
-	Bestiary: 最可爱最好的小家伙！不要对它们那么残忍！
+SnowWalkerNPC:{
+	DisplayName:雪地漫步者
+	Bestiary:最可爱最好的小家伙！不要对它们那么残忍！
 }
 
-SandWalkerNPC: {
-	DisplayName: 沙地漫步者
-	Bestiary: 最可爱最好的小家伙！不要对它们那么残忍！
+SandWalkerNPC:{
+	DisplayName:沙地漫步者
+	Bestiary:最可爱最好的小家伙！不要对它们那么残忍！
 }
 
-THEGREATDEVOURER.DisplayName: 伟 大 吞 噬 者
-FlamingWitch.DisplayName: 火焰巫女
-CinderCrawlerTail.DisplayName: 灰烬爬行者尾部
-CinderCrawlerHead.DisplayName: 灰烬爬行者头部
-CinderCrawlerBody.DisplayName: 灰烬爬行者身躯
-CharredSoul.DisplayName: 焦黑之魂
-CharredSkulls.DisplayName: 焦黑头骨
-BottomFeeder.DisplayName: 地底觅食者
-WaterRifle.DisplayName: 喷水枪
-WaterLauncher.DisplayName: 水弹发射器
-WaterGun.DisplayName: 水枪
-WaterCogwork.DisplayName: 浸水齿轮
-SpikeBallGun.DisplayName: 刺球发射器
-NeedleGun.DisplayName: 针枪
-IronNailGun.DisplayName: 铁钉枪
-PandorasSeeker.DisplayName: 潘多拉探寻者
-PandorasKnife.DisplayName: 潘多拉之刃
+THEGREATDEVOURER.DisplayName:伟大吞噬者
+FlamingWitch.DisplayName:火焰巫女
+CinderCrawlerTail.DisplayName:灰烬爬行者尾部
+CinderCrawlerHead.DisplayName:灰烬爬行者头部
+CinderCrawlerBody.DisplayName:灰烬爬行者身躯
+CharredSoul.DisplayName:焦黑之魂
+CharredSkulls.DisplayName:焦黑头骨
+BottomFeeder.DisplayName:地底觅食者
+WaterRifle.DisplayName:喷水枪
+WaterLauncher.DisplayName:水弹发射器
+WaterGun.DisplayName:水枪
+WaterCogwork.DisplayName:浸水齿轮
+SpikeBallGun.DisplayName:刺球发射器
+NeedleGun.DisplayName:针枪
+IronNailGun.DisplayName:铁钉枪
+PandorasSeeker.DisplayName:潘多拉探寻者
+PandorasKnife.DisplayName:潘多拉之刃
 
-PandorasGuard: {
-	DisplayName: 潘多拉守卫
-	Bestiary: 他们捍卫着属于他们自己的东西.
+PandorasGuard:{
+	DisplayName:潘多拉守卫
+	Bestiary:他们捍卫着属于他们自己的东西.
 }
 
-BlazingSerpentTail.DisplayName: 烈焰蛇尾
-BlazingSerpentBody.DisplayName: 烈焰蛇身
-BlazeBeamWarn.DisplayName: 烈焰光束警告
-CatacombsBossSpawn.DisplayName: 墓穴BOSS召唤
-Viola.DisplayName: 皎月魔琴
-Sword3.DisplayName: 剑
-Sword2.DisplayName: 剑
-Sword1.DisplayName: 剑
+BlazingSerpentTail.DisplayName:烈焰蛇尾
+BlazingSerpentBody.DisplayName:烈焰蛇身
+BlazeBeamWarn.DisplayName:烈焰光束警告
+CatacombsBossSpawn.DisplayName:墓穴BOSS召唤
+Viola.DisplayName:皎月魔琴
+Sword3.DisplayName:剑
+Sword2.DisplayName:剑
+Sword1.DisplayName:剑
 
-StarteV: {
-	DisplayName: 薇莉亚
-	Bestiary: 一个强力存在的克隆体:)
+StarteV:{
+	DisplayName:薇莉亚
+	Bestiary:占位符
 }
 
-GhostCharger.DisplayName: 幽灵奇兵
+GhostCharger.DisplayName:幽灵奇兵
 
-CloneV: {
-	DisplayName: 薇莉亚分身
-	Bestiary: 一个强力存在的克隆体:)
+CloneV:{
+	DisplayName:薇莉亚分身
+	Bestiary:一个强力存在的克隆体:)
 }
 
-Zapwarn.DisplayName: 打击警告
-Veiizal.DisplayName: 维依佐
-VoidWall.DisplayName: 虚空之墙
+Zapwarn.DisplayName:打击警告
+Veiizal.DisplayName:维依佐
+VoidWall.DisplayName:虚空之墙
 
-UnderworldRift: {
-	DisplayName: 地狱裂隙
-	Bestiary: 一个怪异的虚空裂缝，扰动它可能会产生灾难性的后果...
-	Button: 扰动裂隙
+UnderworldRift:{
+	DisplayName:地狱裂隙
+	Bestiary:一个怪异的虚空裂缝，扰动它可能会产生灾难性的后果...
+	Button:扰动裂隙
 }
 
-VoidWormTail.DisplayName: 虚空虫尾
-VoidWormHead.DisplayName: 虚空虫头
-VoidWormBody.DisplayName: 虚空虫体
-SunStalkerRayLightBig.DisplayName: 猎日游隼大射线
-SunStalkerRayLight.DisplayName: 猎日游隼射线
-SunStalkerPreSpawn.DisplayName: 猎日游隼
-SunStalkerLighting.DisplayName: 猎日游隼之光
-SunStalkerDeath.DisplayName: 猎日游隼
+VoidWormTail.DisplayName:虚空虫尾
+VoidWormHead.DisplayName:虚空虫头
+VoidWormBody.DisplayName:虚空虫体
+SunStalkerRayLightBig.DisplayName:猎日游隼大射线
+SunStalkerRayLight.DisplayName:猎日游隼射线
+SunStalkerPreSpawn.DisplayName:猎日游隼
+SunStalkerLighting.DisplayName:猎日游隼之光
+SunStalkerDeath.DisplayName:猎日游隼
 
-SunStalker: {
-	DisplayName: 猎日游隼
-	BossChecklistIntegration.SpawnInfo: 在沙漠中的祭坛使用[i:Stellamod/SunClaw]
-	Bestiary: 曾经的空中猛将，与所有巨鸟一样，出生于烬火之地.
+SunStalker:{
+	DisplayName:猎日游隼
+	BossChecklistIntegration.SpawnInfo:在沙漠中的祭坛使用[i:Stellamod/SunClaw]
+	Bestiary:曾经的空中猛将，与所有巨鸟一样，出生于烬火之地.
 }
 
-Sun.DisplayName: 太阳
-StoneDeath.DisplayName: 心石圣卫
-Flowerball.DisplayName: 闪光精灵
-STARBOMBERGUN.DisplayName: 星 爆 轰 炸 枪
-STARLINGBIG.DisplayName: 大 型 星 际 混 沌
-STARLING.DisplayName: 星 际 混 沌
-STARBOMBERLASERWARNBIG.DisplayName: 星爆者 大激光警告
-STARBOMBERLASERWARN.DisplayName: 星爆者 激光警告
+Sun.DisplayName:太阳
+StoneDeath.DisplayName:心石圣卫
+Flowerball.DisplayName:闪光精灵
+STARBOMBERGUN.DisplayName:星爆轰炸枪
+STARLINGBIG.DisplayName:大型星际混沌
+STARLING.DisplayName:星际混沌
+STARBOMBERLASERWARNBIG.DisplayName:星爆者大激光警告
+STARBOMBERLASERWARN.DisplayName:星爆者激光警告
 
-STARBOMBER: {
-	DisplayName: 星 爆 者
-	BossChecklistIntegration.SpawnInfo: 极光星雨之中，它们会随机从天而降.
-	Bestiary: 毁灭是此物唯一的使命.绯琦可能是在黑市买到的它们，见到它一定要悉数摧毁.
+STARBOMBER:{
+	DisplayName:星爆者
+	BossChecklistIntegration.SpawnInfo:极光星雨之中，它们会随机从天而降.
+	Bestiary:毁灭是此物唯一的使命.绯琦可能是在黑市买到的它们，见到它一定要悉数摧毁.
 }
 
-Voidling.DisplayName: 虚无灵体
+Voidling.DisplayName:虚无灵体
 
-SingularityOrb: {
-	DisplayName: 奇点球体
-	Bestiary: 曾经是一只普通的绿史莱姆，在酸蚀之地变异成了此毒物.
+SingularityOrb:{
+	DisplayName:奇点球体
+	Bestiary:占位符
 }
 
-SingularitySparkBig.DisplayName: 奇点火花
-SingularitySpark.DisplayName: 奇点火花
-SingularityLazer2.DisplayName: 奇点消亡
-SingularityLazer.DisplayName: 奇点消亡
+SingularitySparkBig.DisplayName:奇点火花
+SingularitySpark.DisplayName:奇点火花
+SingularityLazer2.DisplayName:奇点消亡
+SingularityLazer.DisplayName:奇点消亡
 
-LazerOrb: {
-	DisplayName: 激光球
-	Bestiary: 曾经是一只普通的绿史莱姆，在酸蚀之地变异成了此毒物.
+LazerOrb:{
+	DisplayName:激光球
+	Bestiary:占位符
 }
 
-Jackoslime.DisplayName: 灯笼杰克史莱姆
-JackDeath.DisplayName: 灯笼杰克
+Jackoslime.DisplayName:灯笼杰克史莱姆
+JackDeath.DisplayName:灯笼杰克
 
-Jack: {
-	DisplayName: 灯笼杰克
-	BossChecklistIntegration.SpawnInfo: 在出生点右侧的古谕城堡中找到稻草人并使用[i:Stellamod/WanderingEssence].
-	Bestiary: 一只稻草人，被漂浪火焰中的热情唤醒.
+Jack:{
+	DisplayName:灯笼杰克
+	BossChecklistIntegration.SpawnInfo:在出生点右侧的古谕城堡中找到稻草人并使用[i:Stellamod/WanderingEssence].
+	Bestiary:一只稻草人，被漂浪火焰中的热情唤醒.
 }
 
-IrradiatedNestDeath.DisplayName: 辐射巢穴
+IrradiatedNestDeath.DisplayName:辐射巢穴
 
-IrradiatedNest: {
-	DisplayName: 辐射巢穴
-	BossChecklistIntegration.SpawnInfo: 找到未知信号的来源，或者向吉娅购买[i:Stellamod/EDR]并在酸蚀之地使用它."
-	Bestiary: 一个扭曲的造物.其中装着一颗机械巨鸟的卵.吉娅结合了酸蚀之地的作品.
-	Bestiary2: 辐射巢穴
+IrradiatedNest:{
+	DisplayName:辐射巢穴
+	BossChecklistIntegration.SpawnInfo:找到未知信号的来源，或者向吉娅购买[i:Stellamod/EDR]并在酸蚀之地使用它."
+	Bestiary:一个扭曲的造物.其中装着一颗机械巨鸟的卵.吉娅结合了酸蚀之地的作品.
+	Bestiary2:辐射巢穴
 }
 
-IrradiatedCreeper.DisplayName: 辐射爬行者
-IRNDeathBomb.DisplayName: 辐射巢穴死亡炸弹
-IrradieagleSurvent.DisplayName: 辐射侦察机
-Irradieagle.DisplayName: 辐射护巢鹰
+IrradiatedCreeper.DisplayName:辐射爬行者
+IRNDeathBomb.DisplayName:辐射巢穴死亡炸弹
+IrradieagleSurvent.DisplayName:辐射侦察机
+Irradieagle.DisplayName:辐射护巢鹰
 
-Train2: {
-	DisplayName: 火车2
-	Bestiary: 歌瑟梵最宏伟的造物的一部分.
+Train2:{
+	DisplayName:火车2
+	Bestiary:歌瑟梵最宏伟的造物的一部分.
 }
 
-Train1: {
-	DisplayName: 火车1
-	Bestiary: 歌瑟梵最宏伟的造物的一部分.
+Train1:{
+	DisplayName:火车1
+	Bestiary:歌瑟梵最宏伟的造物的一部分.
 }
 
-Rek: {
-	DisplayName: 浩劫
-	Bestiary: 歌瑟梵的小宠物.
+Rek:{
+	DisplayName:浩劫
+	Bestiary:歌瑟梵的小宠物.
 }
 
-Gothiviabb: {
-	DisplayName: 歌瑟梵对话框
-	Bestiary: 看来她已经知道你摧毁了代达斯和那颗奇点.哎呦.
+Gothiviabb:{
+	DisplayName:歌瑟梵对话框
+	Bestiary:看来她已经知道你摧毁了代达斯和那颗奇点.哎呦.
 }
 
-Gothiviab: {
-	DisplayName: 伊瑞蒂安
-	Bestiary: 她不是真正的歌瑟梵，她到底在哪？
+Gothiviab:{
+	DisplayName:伊瑞蒂安
+	Bestiary:她不是真正的歌瑟梵，她到底在哪？
 }
 
-FenixWarn.DisplayName: 绯琦裂镖
-FenixSnipe.DisplayName: 绯琦闪切
-FenixSlash.DisplayName: 绯琦斩击
+FenixWarn.DisplayName:绯琦裂镖
+FenixSnipe.DisplayName:绯琦闪切
+FenixSlash.DisplayName:绯琦斩击
 
-Fenix: {
-	DisplayName: 绯琦
-	BossChecklistIntegration.SpawnInfo: 她在世界左侧上空的皇都等待着.她想和你玩！
-	Bestiary: 这名皇后几乎封闭了自我，在积蓄力量对齐格飞发起复仇的途中她舍弃了几乎其他一切.强大而孤独，且仍在寻觅一名恋人.
-	Bestiary2: 逐仇者，绯琦
+Fenix:{
+	DisplayName:绯琦
+	BossChecklistIntegration.SpawnInfo:她在世界左侧上空的皇都等待着.她想和你玩！
+	Bestiary:这名皇后几乎封闭了自我，在积蓄力量对齐格飞发起复仇的途中她舍弃了几乎其他一切.强大而孤独，且仍在寻觅一名恋人.
+	Bestiary2:逐仇者，绯琦
 }
 
-ExpoiyosOrb.DisplayName: 爆破之球
-AlcSpark.DisplayName: 火花
-DrownOut.DisplayName: 淹没
-ALCADSWIRL.DisplayName: 阿 尔 卡 迪 亚 漩 涡
-ALCADHOLE.DisplayName: 阿 尔 卡 迪 亚 黑 洞
+ExpoiyosOrb.DisplayName:爆破之球
+AlcSpark.DisplayName:火花
+DrownOut.DisplayName:淹没
+ALCADSWIRL.DisplayName:阿尔卡迪亚漩涡
+ALCADHOLE.DisplayName:阿尔卡迪亚黑洞
 
-DreadMiresHeart: {
-	DisplayName: 绛渊恶巫之心
+DreadMiresHeart:{
+	DisplayName:绛渊恶巫之心
 	Bestiary:
 		'''
 		惊惧力量之心
@@ -315,318 +315,318 @@ DreadMiresHeart: {
 		'''
 }
 
-DreadSurvent: {
-	DisplayName: 恐惧仆从
-	Bestiary: 强力的骷髅仆从，被邪恶力量侵蚀（绛渊恶巫玩腻的玩物）
+DreadSurvent:{
+	DisplayName:恐惧仆从
+	Bestiary:强力的骷髅仆从，被邪恶力量侵蚀（绛渊恶巫玩腻的玩物）
 }
 
-DreadMireZapwarnBig.DisplayName: 绛渊恶巫技能警告
-DreadMireZapwarn.DisplayName: 绛渊恶巫技能
-DreadMirePentagramSmall.DisplayName: 绛渊恶巫小魔星
-DreadMirePentagramMid.DisplayName: 绛渊恶巫魔星
-DreadMirePentagram.DisplayName: 绛渊恶巫大魔星
+DreadMireZapwarnBig.DisplayName:绛渊恶巫技能警告
+DreadMireZapwarn.DisplayName:绛渊恶巫技能
+DreadMirePentagramSmall.DisplayName:绛渊恶巫小魔星
+DreadMirePentagramMid.DisplayName:绛渊恶巫魔星
+DreadMirePentagram.DisplayName:绛渊恶巫大魔星
 
-DreadMire: {
-	DisplayName: 绛渊恶巫
-	Bestiary: 天纱三神之一，其力量被不洁意图污染.
+DreadMire:{
+	DisplayName:绛渊恶巫
+	Bestiary:天纱三神之一，其力量被不洁意图污染.
 }
 
-DreadFireCircle: {
-	DisplayName: 恐惧火圈
-	Bestiary: 曾经是一只普通的绿史莱姆，在酸蚀之地变异成了此毒物.
+DreadFireCircle:{
+	DisplayName:恐惧火圈
+	Bestiary:占位符
 }
 
-DreadFireBomb.DisplayName: 恐惧火焰爆破
-BloodCystDead.DisplayName: 血肉囊
+DreadFireBomb.DisplayName:恐惧火焰爆破
+BloodCystDead.DisplayName:血肉囊
 
-BloodCyst: {
-	DisplayName: 血肉囊
-	Bestiary: 一颗水晶，具有唤醒天纱三神之一的力量.
+BloodCyst:{
+	DisplayName:血肉囊
+	Bestiary:一颗水晶，具有唤醒天纱三神之一的力量.
 }
 
-SolarSingularity: {
-	DisplayName: 太阳奇点
-	Bestiary: 一颗小型奇点，便换来了他的永世忠诚守护.
+SolarSingularity:{
+	DisplayName:太阳奇点
+	Bestiary:一颗小型奇点，便换来了他的永世忠诚守护.
 }
 
-SolarPortal: {
-	DisplayName: 太阳传送门
-	Bestiary: 一只稻草人，被漂浪火焰中的热情唤醒.
+SolarPortal:{
+	DisplayName:太阳传送门
+	Bestiary:占位符
 }
 
-DRay.DisplayName: D射线
-LanternOfHope.DisplayName: 希望之灯
-Daedus.DisplayName: 代达斯
-CaevaSnipe.DisplayName: 凯尔狙击
-CaevaDeathRowR.DisplayName: 凯尔R死亡
-CaevaDeathRow.DisplayName: 凯尔死亡
+DRay.DisplayName:D射线
+LanternOfHope.DisplayName:希望之灯
+Daedus.DisplayName:代达斯
+CaevaSnipe.DisplayName:凯尔狙击
+CaevaDeathRowR.DisplayName:凯尔R死亡
+CaevaDeathRow.DisplayName:凯尔死亡
 
-Caeva: {
-	DisplayName: 凯尔
-	Bestiary: 一只稻草人，被漂浪火焰中的热情唤醒.
+Caeva:{
+	DisplayName:凯尔
+	Bestiary:占位符
 }
 
-ToxicHornet.DisplayName: 剧毒黄蜂
-ToxicBoulder.DisplayName: 蕴毒巨石
-AcidSpirit.DisplayName: 酸蚀精灵
-AcidSlime.DisplayName: 酸蚀史莱姆
-AcidProbe.DisplayName: 酸蚀探测器
-AbyssalSlime.DisplayName: 深渊史莱姆
-AbyssalSkull.DisplayName: 深渊骷髅
-AbyssalSeeker.DisplayName: 深渊探寻者
+ToxicHornet.DisplayName:剧毒黄蜂
+ToxicBoulder.DisplayName:蕴毒巨石
+AcidSpirit.DisplayName:酸蚀精灵
+AcidSlime.DisplayName:酸蚀史莱姆
+AcidProbe.DisplayName:酸蚀探测器
+AbyssalSlime.DisplayName:深渊史莱姆
+AbyssalSkull.DisplayName:深渊骷髅
+AbyssalSeeker.DisplayName:深渊探寻者
 
-AbysmLunatic: {
-	DisplayName: 深渊狂热者
-	Bestiary: 骷髅王的仆从，在黑暗中寻找着下一个目标.
+AbysmLunatic:{
+	DisplayName:深渊狂热者
+	Bestiary:骷髅王的仆从，在黑暗中寻找着下一个目标.
 }
 
-TericGramNPC2.DisplayName: 特里克吉姆
-TericGramNPC.DisplayName: 特里克吉姆
+TericGramNPC2.DisplayName:特里克吉姆
+TericGramNPC.DisplayName:特里克吉姆
 
-Sparn: {
-	DisplayName: 斯帕恩
-	BossChecklistIntegration.SpawnInfo: 在机关墓穴中使用[i:Stellamod/CursedShard]，它也许会现身...
+Sparn:{
+	DisplayName:斯帕恩
+	BossChecklistIntegration.SpawnInfo:在机关墓穴中使用[i:Stellamod/CursedShard]，它也许会现身...
 }
 
-WaterJellyfish: {
-	DisplayName: 水母
-	BossChecklistIntegration.SpawnInfo: 在浸水墓穴中使用[i:Stellamod/CursedShard]，它也许会现身...
+WaterJellyfish:{
+	DisplayName:水母
+	BossChecklistIntegration.SpawnInfo:在浸水墓穴中使用[i:Stellamod/CursedShard]，它也许会现身...
 }
 
-PandorasFlamebox: {
-	DisplayName: 潘多拉火焰盒
-	BossChecklistIntegration.SpawnInfo: 在烈火墓穴中使用[i:Stellamod/CursedShard]，它也许会现身...
+PandorasFlamebox:{
+	DisplayName:潘多拉火焰盒
+	BossChecklistIntegration.SpawnInfo:在烈火墓穴中使用[i:Stellamod/CursedShard]，它也许会现身...
 }
 
-Cogwork: {
-	DisplayName: 废旧齿轮
-	BossChecklistIntegration.SpawnInfo: 在机关墓穴或浸水墓穴中使用[i:Stellamod/CursedShard]，它也许会现身...
+Cogwork:{
+	DisplayName:废旧齿轮
+	BossChecklistIntegration.SpawnInfo:在机关墓穴或浸水墓穴中使用[i:Stellamod/CursedShard]，它也许会现身...
 }
 
-BlazingSerpentHead: {
-	DisplayName: 烈焰长蛇
-	BossChecklistIntegration.SpawnInfo: 在烈火墓穴中使用[i:Stellamod/CursedShard]，它也许会现身...
-	Bestiary: 我想是在燃烧着自己的芳华吧.
+BlazingSerpentHead:{
+	DisplayName:烈焰长蛇
+	BossChecklistIntegration.SpawnInfo:在烈火墓穴中使用[i:Stellamod/CursedShard]，它也许会现身...
+	Bestiary:我想是在燃烧着自己的芳华吧.
 }
 
-StarrVeriplant: {
-	DisplayName: 石心圣卫
-	BossChecklistIntegration.SpawnInfo: 使用新手礼包中的[i:Stellamod/AnotherRock]来前往其场地，之后与石心之花互动.
-	Bestiary: 一具倍受喜爱的魔力石偶，保卫着自然生灵，擅闯者统统被其化作顽石.
+StarrVeriplant:{
+	DisplayName:石心圣卫
+	BossChecklistIntegration.SpawnInfo:使用新手礼包中的[i:Stellamod/AnotherRock]来前往其场地，之后与石心之花互动.
+	Bestiary:一具倍受喜爱的魔力石偶，保卫着自然生灵，擅闯者统统被其化作顽石.
 }
 
-Sylia: {
-	DisplayName: 赛莉亚
-	BossChecklistIntegration.SpawnInfo: 在地狱中找到一处遗迹，扰动其中的奇异裂隙.
-	Bestiary: 一个被黑暗魔法吞噬的人，甚至比绯琦还要走火入魔.
-	Bestiary2: 赛莉亚，梅瑞娜之姊妹
+Sylia:{
+	DisplayName:赛莉亚
+	BossChecklistIntegration.SpawnInfo:在地狱中找到一处遗迹，扰动其中的奇异裂隙.
+	Bestiary:一个被黑暗魔法吞噬的人，甚至比绯琦还要走火入魔.
+	Bestiary2:赛莉亚，梅瑞娜之姊妹
 }
 
-VerliaB: {
-	DisplayName: 皎寒之月，薇莉娅
-	BossChecklistIntegration.SpawnInfo: 前往雪原上的穹月仪殿之巅，在圣坛处使用[i:Stellamod/MoonflameLantern]
-	Bestiary: 星与月的女王，维西尔的姐妹，无可匹敌的魔剑士
+VerliaB:{
+	DisplayName:皎寒之月，薇莉娅
+	BossChecklistIntegration.SpawnInfo:前往雪原上的穹月仪殿之巅，在圣坛处使用[i:Stellamod/MoonflameLantern]
+	Bestiary:星与月的女王，维西尔的姐妹，无可匹敌的魔剑士
 }
 
-SingularityFragment: {
-	DisplayName: 破碎奇点
-	BossChecklistIntegration.SpawnInfo: 在冰雪地深处的匿影中找到祭坛并使用[i:Stellamod/VoidKey]
-	Bestiary: 天寰神巫获赠的宝物，被绯琦盗走后用于封印薇莉娅.
-	Bestiary2: 破碎奇点
+SingularityFragment:{
+	DisplayName:破碎奇点
+	BossChecklistIntegration.SpawnInfo:在冰雪地深处的匿影中找到祭坛并使用[i:Stellamod/VoidKey]
+	Bestiary:天寰神巫获赠的宝物，被绯琦盗走后用于封印薇莉娅.
+	Bestiary2:破碎奇点
 }
 
-CommanderGintzia: {
-	DisplayName: 金戈亚指挥官
-	BossChecklistIntegration.SpawnInfo: 当你拥有3个或以上的npc并且已经击败了石心圣卫，一支军队就会入侵.
-	Bestiary: 他很邪恶，但又是个纸老虎.这家伙在与绯琦的战争中背叛了歌瑟梵，他的军队加入了另一方去争夺权力.
-	Bestiary2: 变节者，金戈亚指挥官
+CommanderGintzia:{
+	DisplayName:金戈亚指挥官
+	BossChecklistIntegration.SpawnInfo:当你拥有3个或以上的npc并且已经击败了石心圣卫，一支军队就会入侵.
+	Bestiary:他很邪恶，但又是个纸老虎.这家伙在与绯琦的战争中背叛了歌瑟梵，他的军队加入了另一方去争夺权力.
+	Bestiary2:变节者，金戈亚指挥官
 }
 
-DaedusR: {
-	DisplayName: 遗世者，代达斯
-	BossChecklistIntegration.SpawnInfo: 与幽曦深处的石碑互动
-	Bestiary: 力量的追随者，甘愿献出自己的生命与自由成为奇点的容器，作为守卫被永世封印于歌维赫的残骸中.
-	Bestiary2: 渴求力量的石偶
+DaedusR:{
+	DisplayName:遗世者，代达斯
+	BossChecklistIntegration.SpawnInfo:与幽曦深处的石碑互动
+	Bestiary:力量的追随者，甘愿献出自己的生命与自由成为奇点的容器，作为守卫被永世封印于歌维赫的残骸中.
+	Bestiary2:渴求力量的石偶
 }
 
-Aimacra: {
-	DisplayName: 安魅凯拉
+Aimacra:{
+	DisplayName:安魅凯拉
 
-	TownNPCMood: {
-		Content: 我很满足
-		NoHome: 我讨厌无家可归
-		FarFromHome: 我离家太远了
-		LoveSpace: 我喜欢大一些的房间
-		DislikeCrowded: 我不喜欢较小的房间
-		HateCrowded: 我讨厌狭小的房间
-		LoveBiome: 我非常喜欢{BiomeName}.
-		LikeBiome: 我喜欢{BiomeName}.
-		DislikeBiome: 我讨厌{BiomeName}.
-		LoveNPC: 我非常喜欢{NPCName}.
-		LikeNPC: 我喜欢{NPCName}.
-		DislikeNPC: 我不喜欢{NPCName}.
-		HateNPC: 我讨厌{NPCName}.
-		LikeNPC_Princess: 我喜欢{NPCName}.
-		Princess_LovesNPC: 我喜欢{NPCName}.
+	TownNPCMood:{
+		Content:我很满足
+		NoHome:我讨厌无家可归
+		FarFromHome:我离家太远了
+		LoveSpace:我喜欢大一些的房间
+		DislikeCrowded:我不喜欢较小的房间
+		HateCrowded:我讨厌狭小的房间
+		LoveBiome:我非常喜欢{BiomeName}.
+		LikeBiome:我喜欢{BiomeName}.
+		DislikeBiome:我讨厌{BiomeName}.
+		LoveNPC:我非常喜欢{NPCName}.
+		LikeNPC:我喜欢{NPCName}.
+		DislikeNPC:我不喜欢{NPCName}.
+		HateNPC:我讨厌{NPCName}.
+		LikeNPC_Princess:我喜欢{NPCName}.
+		Princess_LovesNPC:我喜欢{NPCName}.
 	}
 
-	Census.SpawnCondition: 击败石心圣卫
-	Bestiary: 安魅凯拉？？？从Diari来的？？好疯狂噢！
-	Button2: 谈话
-	Basic1: 动物学家她也像我一样拥有狐狸耳朵啊（憋笑）
-	Basic2: 你是否也觉得这个世界有点不对劲呢？
-	Basic3: 我不是喜欢夸夸其谈的人，但这个地方确实比艾科洛斯好多了.
-	Basic4: 希丝忒莉亚又叫我去找她了吗？
-	Basic5: 遇到你之前我一直在游荡
-	Basic6: 要不要试着上steam下载Diari玩玩？等等，我在说什么
-	Basic7: 是不是大家都认为我不喜欢平底锅呢？
-	Basic8: 之前艾科洛斯的那些事，就一笔勾销如何？
-	Basic9: 我真的很抱歉我们曾经所经历的一切，但是现在我们在这里应该有个新的开始，不是吗？
-	Basic10: 希丝忒莉亚又出去了，这次我可不会再去找她了
-	Basic11: 嘿，我要换衣服，你能去做点别的事情吗？但说实在的，你以前又不是没见过我换衣服.
-	Special1: 嗨，至少我们活着离开了艾科洛斯，维西尔也安全回到家乡，这已经是很好的结果了
-	Special2: 我不喜欢当希丝忒莉亚的杀手，emmmmm，说到这个，我今天遇到了一个叫维尔迪斯的家伙，他超酷的好吧
-	Special3: 我去地下找点东西，去去就回！
-	Special4: 什么才算是一个狂热摇滚者呢?摇滚还是不摇滚，这是一个问题...唉，有时候我感觉生活真是苦涩啊
-	Special5: 我在这里算什么职业呢...
-	Special6: 对于在艾科洛斯发生的事情，我深感抱歉，我们还可以继续作患难与共的朋友吗?
-	Special7: 这里怎么也有星爆者啊！！！
-	Special8: 我今天没有摸鱼玩几何冲刺，快夸我(•ω•`)
-	Special9: 我短暂的一生中，我见识过各种各样事物，但我真没想到会有人比希丝忒莉亚还要欲望高涨——指绯琦.那可是希丝忒莉亚的力量来源啊！
-	Special10: 在对于自己有一半人类的血统这件事情上，我非常讨厌
+	Census.SpawnCondition:击败石心圣卫
+	Bestiary:安魅凯拉？？？从Diari来的？？好疯狂噢！
+	Button2:谈话
+	Basic1:动物学家她也像我一样拥有狐狸耳朵啊（憋笑）
+	Basic2:你是否也觉得这个世界有点不对劲呢？
+	Basic3:我不是喜欢夸夸其谈的人，但这个地方确实比艾科洛斯好多了.
+	Basic4:希丝忒莉亚又叫我去找她了吗？
+	Basic5:遇到你之前我一直在游荡
+	Basic6:要不要试着上steam下载Diari玩玩？等等，我在说什么
+	Basic7:是不是大家都认为我不喜欢平底锅呢？
+	Basic8:之前艾科洛斯的那些事，就一笔勾销如何？
+	Basic9:我真的很抱歉我们曾经所经历的一切，但是现在我们在这里应该有个新的开始，不是吗？
+	Basic10:希丝忒莉亚又出去了，这次我可不会再去找她了
+	Basic11:嘿，我要换衣服，你能去做点别的事情吗？但说实在的，你以前又不是没见过我换衣服.
+	Special1:嗨，至少我们活着离开了艾科洛斯，维西尔也安全回到家乡，这已经是很好的结果了
+	Special2:我不喜欢当希丝忒莉亚的杀手，emmmmm，说到这个，我今天遇到了一个叫维尔迪斯的家伙，他超酷的好吧
+	Special3:我去地下找点东西，去去就回！
+	Special4:什么才算是一个狂热摇滚者呢?摇滚还是不摇滚，这是一个问题...唉，有时候我感觉生活真是苦涩啊
+	Special5:我在这里算什么职业呢...
+	Special6:对于在艾科洛斯发生的事情，我深感抱歉，我们还可以继续作患难与共的朋友吗?
+	Special7:这里怎么也有星爆者啊！！！
+	Special8:我今天没有摸鱼玩几何冲刺，快夸我(•ω•`)
+	Special9:我短暂的一生中，我见识过各种各样事物，但我真没想到会有人比希丝忒莉亚还要欲望高涨——指绯琦.那可是希丝忒莉亚的力量来源啊！
+	Special10:在对于自己有一半人类的血统这件事情上，我非常讨厌
 }
 
-Bordoc: {
-	DisplayName: 波尔杜克
-	Bestiary: 燃烧，冒烟
-	Bestiary2: 铁匠波尔杜克
-	Button: 幽曦古谕之心
-	Basic1: 蒸汽朋克人的零件不错
-	Basic2: 喀 喀
-	Basic3: 所有认识我的人中，没人问过我是怎么说话的...
-	Basic4: 我对赌博不屑一顾
-	Basic5: 我打造的盔甲无可匹敌！
-	Basic6: 希丝忒莉亚和安魅凯拉最近过来转了一圈，她们居然敢嘲笑我的工艺！
-	Basic7: 我炎热无比！
-	Basic8: 哈，我的技巧天下无双！
-	Basic9: 燃烧，燃烧，热量，热量！
-	Basic10: 我坚不可摧！
-	Basic11: 这里有点热啊
-	Basic12: 我只知道，歌瑟梵在她与世界之间设下了重重阻碍，没人能找到她.
-	Basic13: 那些玄铁蠢货们真是不识时务，现在他们用不了我造的盔甲了.
-	Basic14: 咯咯咯咯 嗡嗡嗡 咯吱咯吱
-	Special1: 向我证明你值得拥有它：这是一个破损的核心，如果你能修复它，它就归你了.你对歌瑟梵的忠诚能够支持你走出这一步吗？如果你失败了,你可不是第一个.但如果你成功了，她会由衷感谢你的.
+Bordoc:{
+	DisplayName:波尔杜克
+	Bestiary:燃烧，冒烟
+	Bestiary2:铁匠波尔杜克
+	Button:幽曦古谕之心
+	Basic1:蒸汽朋克人的零件不错
+	Basic2:喀喀
+	Basic3:"所有认识我的人中，没人问过我是怎么说话的..."
+	Basic4:我对赌博不屑一顾
+	Basic5:我打造的盔甲无可匹敌！
+	Basic6:希丝忒莉亚和安魅凯拉最近过来转了一圈，她们居然敢嘲笑我的工艺！
+	Basic7:我炎热无比！
+	Basic8:哈，我的技巧天下无双！
+	Basic9:燃烧，燃烧，热量，热量！
+	Basic10:我坚不可摧！
+	Basic11:这里有点热啊
+	Basic12:我只知道，歌瑟梵在她与世界之间设下了重重阻碍，没人能找到她.
+	Basic13:那些玄铁蠢货们真是不识时务，现在他们用不了我造的盔甲了.
+	Basic14:咯咯咯咯嗡嗡嗡咯吱咯吱
+	Special1:向我证明你值得拥有它：这是一个破损的核心，如果你能修复它，它就归你了.你对歌瑟梵的忠诚能够支持你走出这一步吗？如果你失败了,你可不是第一个.但如果你成功了，她会由衷感谢你的.
 }
 
-BoundGia: {
-	DisplayName: 受缚的吉娅
+BoundGia:{
+	DisplayName:受缚的吉娅
 
-	TownNPCMood: {
-		Content: 我很满足
-		NoHome: 我讨厌无家可归
-		FarFromHome: 我离家太远了
-		LoveSpace: 我喜欢大一些的房间
-		DislikeCrowded: 我不喜欢较小的房间
-		HateCrowded: 我讨厌狭小的房间
-		LikeNPC_Princess: 我喜欢{NPCName}.
-		Princess_LovesNPC: 我超级喜欢{NPCName}.
+	TownNPCMood:{
+		Content:我很满足
+		NoHome:我讨厌无家可归
+		FarFromHome:我离家太远了
+		LoveSpace:我喜欢大一些的房间
+		DislikeCrowded:我不喜欢较小的房间
+		HateCrowded:我讨厌狭小的房间
+		LikeNPC_Princess:我喜欢{NPCName}.
+		Princess_LovesNPC:我超级喜欢{NPCName}.
 	}
 
-	Basic: 天哪，太谢谢你帮我松绑了！我都记不清我在这里呆了多久...一群应该是幽曦那里的斥候把我扔到这就走了.正当我要放弃的时候你就把我救了！你那里有能住的地方吗？
-	Bestiary: 瘴煞之地的一名被绑架的科学家
-	Button2: 上交符文
+	Basic:天哪，太谢谢你帮我松绑了！我都记不清我在这里呆了多久...一群应该是幽曦那里的斥候把我扔到这就走了.正当我要放弃的时候你就把我救了！你那里有能住的地方吗？
+	Bestiary:瘴煞之地的一名被绑架的科学家
+	Button2:上交符文
 }
 
-CellConverter: {
-	DisplayName: 分子转换器
-	Bestiary: 在一个古老的魔法工厂里仍然运转着
-	Bestiary2: 分子转换器
-	Button: 放入废料
-	Basic1: 咯咯 哒哒 吱 喀
-	Basic2: 我 要 废料
-	Basic3: 请 做 一些 废料 来 交换. 喀.
-	Basic4: 呜呜呜 轰
-	Special0: 武器 已 转化 完成
-	Special1: 咯咯， 传感器 检测 到 废料， 给 你 东西
-	Special2: 呜 呜， 没有 东西 给 你
-	Special3: 出现 错误， 请 再次 尝试
-	Special4: 请 继续 放入 废料
+CellConverter:{
+	DisplayName:分子转换器
+	Bestiary:在一个古老的魔法工厂里仍然运转着
+	Bestiary2:分子转换器
+	Button:放入废料
+	Basic1:咯咯哒哒吱喀
+	Basic2:我要废料
+	Basic3:请做一些废料来交换.喀.
+	Basic4:呜呜呜轰
+	Special0:武器已转化完成
+	Special1:咯咯，传感器检测到废料，给你东西
+	Special2:呜呜，没有东西给你
+	Special3:出现错误，请再次尝试
+	Special4:请继续放入废料
 }
 
-Delgrim: {
-	DisplayName: 戴尔格林
-	Bestiary: 魔法，工匠？有趣...
-	Bestiary2: 永世工匠戴尔格林
-	Button: 听他讲些往事
-	Basic1: 你可真是冷静啊
-	Basic2: 每个人都为了锻造相关事情来到这里，想必你也一样吧
-	Basic3: 啊,又一位访客？
-	Basic4: 现在世界形势如何？
-	Basic5: 我不想惹麻烦，你也不必过于拘谨.
-	Special1: 很久很久以前，有一个繁荣的都城，我们过去称之为“幽曦城堡”。这是一座在歌瑟梵、薇莉亚和伊瑞蒂安保护下繁荣的城市。我曾经是其中的一员。歌瑟梵爱着我们每一个人，薇莉亚会指挥军队，而伊瑞蒂安则喜欢研究机械。
-	Special2: 伊瑞蒂安总会制造出令人惊叹的发明，我会去参加她主持的每一场演示，观看她的机械剑的战斗与战备演示。薇莉亚有时也会参与进来，将伊瑞蒂安的发明全部击败。不得不说，薇莉亚是一名很厉害的剑客。
-	Special3: 总会在早上10点降临，对城市所有成员进行问候，并给我们带来甜点，那曾是我生命中最快乐的时光。此外，莱克会给我们带来阳光，照亮地下的一切。
-	Special4: 虽然薇莉亚和歌瑟梵看起来并不像，而且性格也截然不同，但实际上她们两个是双胞胎姐妹。薇莉亚总是活泼好动，歌瑟梵静雅且富有爱心，两人相处得十分融洽
-	Special5: 在伊瑞蒂安制造的所有发明中，我最喜欢的是模仿歌瑟梵的莱克制作的“浩劫龙械”。它是一头壮丽的巨兽。在演示中，它甚至能够与薇莉亚抗衡，要是能回到过去的那些时光该多好啊。
-	Special6: 因为薇莉亚那个笨蛋对危机意识的缺失，导致薇莉亚训练的玄铁军队实际上是并不可靠的。那支军队总是从不防御，只管冲锋在前。我在想，当我们在抵御卡里亚战士的时候，这支军队在哪儿呢？
-	Special7: 有时候，我不自矜会回忆起在“幽曦城堡”的时光，思考我们为何会如此彻底地衰落。我记得有一个名为波尔杜克的铁匠，他技艺高超，但他又过于自负不愿改变自己的生活方式。伊瑞蒂安教给了我一些令我至今受益匪浅的惊人之事，还有所有的人们……那些人们……
-	Special8: 我曾经深爱着伊瑞蒂安，直到战争将我们分离，我们之间的缘分非常奇妙。魔女和魔法组合技真是令人头疼。我虽然不讨厌魔法，但魔法却是导致我和伊瑞蒂安分离的原因。我永远不会忘记那个指挥官绯琦以及她那些卡利亚骑士的军队脸上的战胜后的得意。
-	Special9: 那本该是充满欢乐的一天，但那一天一些外出旅行的人感染了被后世称为“瘴煞”的瘟疫回到了幽曦城堡。这种瘟疫像酸液一样侵蚀着我们的灵魂，它像黑死病一样袭击了我们的村庄。它大幅度削弱了我们的力量，然后卡里亚军队在危机时刻趁虚而入，以至于我们完全没有获胜的希望。
-	Special10: 薇莉娅有一天离开了幽曦之地，去附近村庄寻找与魔女们和平相处的办法。她是她们三个中最有魔法天赋的，所以她也是最有机会能够找到破局之法的人。但是当她回来时，她已经陷入了疯狂。
-	Special11: 当薇莉娅从她的旅途归来时，她提供了一些改变了我们生活方式的办法与建议。由于我和伊拉迪亚的关系，使得我也了解到那些办法与建议。薇莉娅和我们分享了一本来自一个魔女村庄的卷轴，但这也将是一切灾难的起点。
-	Special12: 在瘟疫出现后，薇莉娅就出发去寻找治愈瘟疫的方法了。而歌瑟梵则尽她最大的努力去治疗每一个人，但她只有一个人，能尽的力量太有限了。
-	Special13: 在一个月黑风高的晚上，一只狐狸出现在薇莉娅和歌瑟梵的住宅门前。当我看到那只狐狸变成了一个高大的人形生物时，我才意识到她并不是狐狸，她是兽人！！！在遇到她之前，我以为她们种族已经灭绝了几千年了！
-	Special14: 当那位狐狸女士来到我心爱之人门前时，她拿出了一个我认为是灯笼的东西。然后一道巨大的蓝色闪光伴随着歌瑟梵的尖叫从屋内传出。然后薇莉娅就消失了。
-	Special15: “蓝色闪光”后，很多人急忙跑到尖叫发出的地方。但是我们只看到了手里拿着一张纸条哭泣的歌瑟梵，以及一位自称绯琦的狐狸女士。
-	Special16: 绯琦是一位身材高大、看起来极其强大的女性，甚至我们中的很多人认为她比歌瑟梵更强大。但是大家又认为失去家人、在悲痛爆发的歌瑟梵力量会更强大。
-	Special17: 自从薇莉娅消失后，瘟疫快速蔓延，“幽曦城堡”已经名存实亡，没人维持军队秩序，歌瑟梵深受打击一蹶不振，伊瑞蒂安则在尽力安抚着所有人。那真是一段可怕的岁月。
-	Special18: 瑞蒂安向我解释了在薇莉娅身上发生了什么。因为薇莉娅从绯琦的村庄偷了一本书，绯琦将薇莉娅的灵魂困在灯笼里，并用秘密力量上在她身上进行实验，绯琦真是太邪恶了。我们或许再也见不到她了，对吧？
-	Special19: 我曾经认为伊瑞蒂安教导我是为了冲淡失去薇莉娅的悲伤。但是我现在反应过来，她可能用这种方式来思念薇莉娅，虽然我当时没有意识到她的情绪，但我始终陪在她身边。
-	Special20: 时间匆匆，不曾停留，我甚至也曾感染“瘴煞”，但最后歌瑟梵治愈了我。就算是莱克，最终也没有逃过被感染的命运，但由于浩劫龙械是机械的，它不会被感染。在我们古老村庄的遗迹中，生活得好的大多是金属生物。
-	Special21: 虽然最后瘟疫被歌瑟梵治愈了，但是我们村庄大约有九成人被“瘴煞”瘟疫夺去了生命。瘟疫之后，我们的军队、对生活的热爱、和生活的意志都开始慢慢瓦解。
-	Special22: 我现在还记得当时自己躺在床上，伊瑞蒂安就陪在我身边，我们一起看着我们的城市一点点走向破败，一起互相安慰。
-	Special23: 在我们城市遭受瘟疫一段时间后，歌赫梵离开了城市去追寻力量来拯救薇莉亚与复仇，留下了伊瑞蒂安来管理整个城市。你猜猜谁不久之后谁来了？是绯琦这个恶魔！她来摧毁了我们剩下的一切。
-	Special24: 绯琦就像一只猎食的秃鹫，而我们则是她的食物。伊瑞蒂安践行了作为领袖的责任，她牺牲自己吸引绯琦，我被迫与她分开。从那以后我再也没有见过她，但我知道我在某处一定能找到她。她是绝不会输给绯琦的...
-	Special25: “大迁徙”，这就是我对逃离我们城市进行远行的称呼。随着卡利亚军队的逼近，我们通过地下隧道躲避，包括我在内的一些人，再也没有回到地面。我甚至被邀请过前往“古谕遗境”。
-	Special26: 那些在“大迁徙”中成功到达地面的人重建了“幽曦城堡”，但从波尔杜克的消息来看，“幽曦城堡”已经不再是原来的“幽曦城堡”了。居民出于恐惧对所有人关闭了城门，并且他们在寻找歌赫梵，但是歌赫梵从未说过她去了哪里，因此寻找起来犹如大海捞针。
-	Special27: 我在地下隧道里待了10年，现在我和我所携带的所有物品与电子设备都在这里。为了寻找伊瑞蒂安，我走遍了这个世界除地面的每个角落。我现在已经力不从心了，如果再次遇到绯琦，我就只能接受天命引颈受戮了吧
-	Special28: 你知道吗，或许我应该和幽曦城堡的其他成员一起逃亡，在我们逃跑时很多人分开了，很多人死了，见鬼，我或许是唯一的幸存者，但我却在这里独自苟活。
-	Special29: 我现在创作的作品都来自于我的探索，我会再次找到伊瑞蒂安，我会说些什么向她道歉。如果我当初能阻止这一切发生，我会不顾她的意愿留下来。
-	Special30: 在我过去和未来的所有年岁里，我永远无法理解像绯琦这样的人。她折磨人的态度，她为什么要费尽心思杀死我们，为什么瘟疫如此难以抵挡，以及为什么我不能留下来，这些都是为了你，伊瑞蒂安。
+Delgrim:{
+	DisplayName:戴尔格林
+	Bestiary:魔法，工匠？有趣...
+	Bestiary2:永世工匠戴尔格林
+	Button:听他讲些往事
+	Basic1:你可真是冷静啊
+	Basic2:每个人都为了锻造相关事情来到这里，想必你也一样吧
+	Basic3:啊,又一位访客？
+	Basic4:现在世界形势如何？
+	Basic5:我不想惹麻烦，你也不必过于拘谨.
+	Special1:很久很久以前，有一个繁荣的都城，我们过去称之为“幽曦城堡”。这是一座在歌瑟梵、薇莉亚和伊瑞蒂安保护下繁荣的城市。我曾经是其中的一员。歌瑟梵爱着我们每一个人，薇莉亚会指挥军队，而伊瑞蒂安则喜欢研究机械。
+	Special2:伊瑞蒂安总会制造出令人惊叹的发明，我会去参加她主持的每一场演示，观看她的机械剑的战斗与战备演示。薇莉亚有时也会参与进来，将伊瑞蒂安的发明全部击败。不得不说，薇莉亚是一名很厉害的剑客。
+	Special3:总会在早上10点降临，对城市所有成员进行问候，并给我们带来甜点，那曾是我生命中最快乐的时光。此外，莱克会给我们带来阳光，照亮地下的一切。
+	Special4:虽然薇莉亚和歌瑟梵看起来并不像，而且性格也截然不同，但实际上她们两个是双胞胎姐妹。薇莉亚总是活泼好动，歌瑟梵静雅且富有爱心，两人相处得十分融洽
+	Special5:在伊瑞蒂安制造的所有发明中，我最喜欢的是模仿歌瑟梵的莱克制作的“浩劫龙械”。它是一头壮丽的巨兽。在演示中，它甚至能够与薇莉亚抗衡，要是能回到过去的那些时光该多好啊。
+	Special6:"因为薇莉亚那个笨蛋对危机意识的缺失，导致薇莉亚训练的玄铁军队实际上是并不可靠的。那支军队总是从不防御，只管冲锋在前。我在想，当我们在抵御卡里亚战士的时候，这支军队在哪儿呢？
+	Special7:有时候，我不自矜会回忆起在“幽曦城堡”的时光，思考我们为何会如此彻底地衰落。我记得有一个名为波尔杜克的铁匠，他技艺高超，但他又过于自负不愿改变自己的生活方式。伊瑞蒂安教给了我一些令我至今受益匪浅的惊人之事，还有所有的人们……那些人们……
+	Special8:我曾经深爱着伊瑞蒂安，直到战争将我们分离，我们之间的缘分非常奇妙。魔女和魔法组合技真是令人头疼。我虽然不讨厌魔法，但魔法却是导致我和伊瑞蒂安分离的原因。我永远不会忘记那个指挥官绯琦以及她那些卡利亚骑士的军队脸上的战胜后的得意。
+	Special9:那本该是充满欢乐的一天，但那一天一些外出旅行的人感染了被后世称为“瘴煞”的瘟疫回到了幽曦城堡。这种瘟疫像酸液一样侵蚀着我们的灵魂，它像黑死病一样袭击了我们的村庄。它大幅度削弱了我们的力量，然后卡里亚军队在危机时刻趁虚而入，以至于我们完全没有获胜的希望。
+	Special10:薇莉娅有一天离开了幽曦之地，去附近村庄寻找与魔女们和平相处的办法。她是她们三个中最有魔法天赋的，所以她也是最有机会能够找到破局之法的人。但是当她回来时，她已经陷入了疯狂。
+	Special11:当薇莉娅从她的旅途归来时，她提供了一些改变了我们生活方式的办法与建议。由于我和伊拉迪亚的关系，使得我也了解到那些办法与建议。薇莉娅和我们分享了一本来自一个魔女村庄的卷轴，但这也将是一切灾难的起点。
+	Special12:在瘟疫出现后，薇莉娅就出发去寻找治愈瘟疫的方法了。而歌瑟梵则尽她最大的努力去治疗每一个人，但她只有一个人，能尽的力量太有限了。
+	Special13:在一个月黑风高的晚上，一只狐狸出现在薇莉娅和歌瑟梵的住宅门前。当我看到那只狐狸变成了一个高大的人形生物时，我才意识到她并不是狐狸，她是兽人！！！在遇到她之前，我以为她们种族已经灭绝了几千年了！
+	Special14:当那位狐狸女士来到我心爱之人门前时，她拿出了一个我认为是灯笼的东西。然后一道巨大的蓝色闪光伴随着歌瑟梵的尖叫从屋内传出。然后薇莉娅就消失了。
+	Special15:“蓝色闪光”后，很多人急忙跑到尖叫发出的地方。但是我们只看到了手里拿着一张纸条哭泣的歌瑟梵，以及一位自称绯琦的狐狸女士。
+	Special16:绯琦是一位身材高大、看起来极其强大的女性，甚至我们中的很多人认为她比歌瑟梵更强大。但是大家又认为失去家人、在悲痛爆发的歌瑟梵力量会更强大。
+	Special17:自从薇莉娅消失后，瘟疫快速蔓延，“幽曦城堡”已经名存实亡，没人维持军队秩序，歌瑟梵深受打击一蹶不振，伊瑞蒂安则在尽力安抚着所有人。那真是一段可怕的岁月。
+	Special18:瑞蒂安向我解释了在薇莉娅身上发生了什么。因为薇莉娅从绯琦的村庄偷了一本书，绯琦将薇莉娅的灵魂困在灯笼里，并用秘密力量上在她身上进行实验，绯琦真是太邪恶了。我们或许再也见不到她了，对吧？
+	Special19:我曾经认为伊瑞蒂安教导我是为了冲淡失去薇莉娅的悲伤。但是我现在反应过来，她可能用这种方式来思念薇莉娅，虽然我当时没有意识到她的情绪，但我始终陪在她身边。
+	Special20:时间匆匆，不曾停留，我甚至也曾感染“瘴煞”，但最后歌瑟梵治愈了我。就算是莱克，最终也没有逃过被感染的命运，但由于浩劫龙械是机械的，它不会被感染。在我们古老村庄的遗迹中，生活得好的大多是金属生物。
+	Special21:虽然最后瘟疫被歌瑟梵治愈了，但是我们村庄大约有九成人被“瘴煞”瘟疫夺去了生命。瘟疫之后，我们的军队、对生活的热爱、和生活的意志都开始慢慢瓦解。
+	Special22:我现在还记得当时自己躺在床上，伊瑞蒂安就陪在我身边，我们一起看着我们的城市一点点走向破败，一起互相安慰。
+	Special23:在我们城市遭受瘟疫一段时间后，歌赫梵离开了城市去追寻力量来拯救薇莉亚与复仇，留下了伊瑞蒂安来管理整个城市。你猜猜谁不久之后谁来了？是绯琦这个恶魔！她来摧毁了我们剩下的一切。
+	Special24:绯琦就像一只猎食的秃鹫，而我们则是她的食物。伊瑞蒂安践行了作为领袖的责任，她牺牲自己吸引绯琦，我被迫与她分开。从那以后我再也没有见过她，但我知道我在某处一定能找到她。她是绝不会输给绯琦的...
+	Special25:“大迁徙”，这就是我对逃离我们城市进行远行的称呼。随着卡利亚军队的逼近，我们通过地下隧道躲避，包括我在内的一些人，再也没有回到地面。我甚至被邀请过前往“古谕遗境”。
+	Special26:那些在“大迁徙”中成功到达地面的人重建了“幽曦城堡”，但从波尔杜克的消息来看，“幽曦城堡”已经不再是原来的“幽曦城堡”了。居民出于恐惧对所有人关闭了城门，并且他们在寻找歌赫梵，但是歌赫梵从未说过她去了哪里，因此寻找起来犹如大海捞针。
+	Special27:我在地下隧道里待了10年，现在我和我所携带的所有物品与电子设备都在这里。为了寻找伊瑞蒂安，我走遍了这个世界除地面的每个角落。我现在已经力不从心了，如果再次遇到绯琦，我就只能接受天命引颈受戮了吧
+	Special28:你知道吗，或许我应该和幽曦城堡的其他成员一起逃亡，在我们逃跑时很多人分开了，很多人死了，见鬼，我或许是唯一的幸存者，但我却在这里独自苟活。
+	Special29:我现在创作的作品都来自于我的探索，我会再次找到伊瑞蒂安，我会说些什么向她道歉。如果我当初能阻止这一切发生，我会不顾她的意愿留下来。
+	Special30:在我过去和未来的所有年岁里，我永远无法理解像绯琦这样的人。她折磨人的态度，她为什么要费尽心思杀死我们，为什么瘟疫如此难以抵挡，以及为什么我不能留下来，这些都是为了你，伊瑞蒂安。
 }
 
-Gambit: {
-	DisplayName: 赌徒
+Gambit:{
+	DisplayName:赌徒
 
-	TownNPCMood: {
-		Content: "{$Mods.Stellamod.TownNPCMood.Gambit.Content}"
-		NoHome: 我无家可归了
-		FarFromHome: 我离家太远了
-		LoveSpace: 我真的喜欢这个地方
-		DislikeCrowded: 我不喜欢人太多，给我换个地方吧
-		HateCrowded: 这里人太多了，我希望可以给我一个和你独处的空间
-		LoveBiome: 哦，这真棒
-		LikeBiome: 太酷了
-		DislikeBiome: 我不喜欢这个群落
-		LoveNPC: 我超级喜欢你
-		LikeNPC: "{$Mods.Stellamod.TownNPCMood.Gambit.LikeNPC}"
-		DislikeNPC: "{$Mods.Stellamod.TownNPCMood.Gambit.DislikeNPC}"
-		HateNPC: "{$Mods.Stellamod.TownNPCMood.Gambit.HateNPC}"
-		LikeNPC_Princess: 我喜欢{NPCName}.
-		Princess_LovesNPC: 我喜欢{NPCName}.
+	TownNPCMood:{
+		Content:"{$Mods.Stellamod.TownNPCMood.Gambit.Content}"
+		NoHome:我无家可归了
+		FarFromHome:我离家太远了
+		LoveSpace:我真的喜欢这个地方
+		DislikeCrowded:我不喜欢人太多，给我换个地方吧
+		HateCrowded:这里人太多了，我希望可以给我一个和你独处的空间
+		LoveBiome:哦，这真棒
+		LikeBiome:太酷了
+		DislikeBiome:我不喜欢这个群落
+		LoveNPC:我超级喜欢你
+		LikeNPC:"{$Mods.Stellamod.TownNPCMood.Gambit.LikeNPC}"
+		DislikeNPC:"{$Mods.Stellamod.TownNPCMood.Gambit.DislikeNPC}"
+		HateNPC:"{$Mods.Stellamod.TownNPCMood.Gambit.HateNPC}"
+		LikeNPC_Princess:我喜欢{NPCName}.
+		Princess_LovesNPC:我喜欢{NPCName}.
 	}
 
-	Census.SpawnCondition: 背包中存在遗迹勋章
-	Bestiary: 她太喜欢那些遗迹勋章了！以至于她已经对你生出了感情 :(
-	Bestiary2: 赌徒泽丽
-	Button2: 求婚
-	Basic1: 我太喜欢派对女孩啦！她又善良又有趣！你觉得你能不能...给我们互相介绍一下？
-	Basic2: 嗨~，我叫泽丽！我有时会有点神经质，但在一个充满爱与死亡的世界中这样不是最好了吗！！
-	Basic3: 听说幽曦之地很漂亮，但我问薇绿的时候她说那里的社会已经快要完全失控了，我还是先不去那里了为妙.
-	Basic4: 我这里有点好东西卖给你！都是我自己捡来的和你打Boss剩下的东西~你也很棒哟！
-	Basic5: 哎，你知道你的赌博骰子都是谁在扔对吧？就是我呀你个小傻瓜.
-	Basic6: 咱们来结个婚，你意下如何？
-	Basic7: 买点东西吧！难不成~你想把自己卖给我？
+	Census.SpawnCondition:背包中存在遗迹勋章
+	Bestiary:她太喜欢那些遗迹勋章了！以至于她已经对你生出了感情:(
+	Bestiary2:赌徒泽丽
+	Button2:求婚
+	Basic1:我太喜欢派对女孩啦！她又善良又有趣！你觉得你能不能...给我们互相介绍一下？
+	Basic2:嗨~，我叫泽丽！我有时会有点神经质，但在一个充满爱与死亡的世界中这样不是最好了吗！！
+	Basic3:听说幽曦之地很漂亮，但我问薇绿的时候她说那里的社会已经快要完全失控了，我还是先不去那里了为妙.
+	Basic4:我这里有点好东西卖给你！都是我自己捡来的和你打Boss剩下的东西~你也很棒哟！
+	Basic5:哎，你知道你的赌博骰子都是谁在扔对吧？就是我呀你个小傻瓜.
+	Basic6:咱们来结个婚，你意下如何？
+	Basic7:买点东西吧！难不成~你想把自己卖给我？
 	Special1:
 		'''
 		天哪你答应了？？？！！！当然啦甜心~
@@ -645,507 +645,509 @@ Gambit: {
 		'''
 }
 
-Gia: {
-	DisplayName: 吉娅
+Gia:{
+	DisplayName:吉娅
 
-	TownNPCMood: {
-		Content: 我很满足
-		NoHome: 我讨厌无家可归
-		FarFromHome: 我离家太远了
-		LoveSpace: 我喜欢大一些的房间
-		DislikeCrowded: 我不喜欢较小的房间
-		HateCrowded: 我讨厌狭小的房间
-		LoveBiome: 我非常喜欢{BiomeName}.
-		LikeBiome: 我喜欢{BiomeName}.
-		DislikeBiome: 我讨厌{BiomeName}.
-		LoveNPC: 我超级喜欢{NPCName}.
-		LikeNPC: 我喜欢{NPCName}.
-		DislikeNPC: 我不喜欢{NPCName}.
-		HateNPC: 我讨厌{NPCName}.
-		LikeNPC_Princess: 我喜欢{NPCName}.
-		Princess_LovesNPC: 我喜欢{NPCName}.
+	TownNPCMood:{
+		Content:我很满足
+		NoHome:我讨厌无家可归
+		FarFromHome:我离家太远了
+		LoveSpace:我喜欢大一些的房间
+		DislikeCrowded:我不喜欢较小的房间
+		HateCrowded:IhatehowcrowdedIam.我讨厌狭小的房间
+		LoveBiome:我非常喜欢{BiomeName}.
+		LikeBiome:我喜欢{BiomeName}.
+		DislikeBiome:我讨厌{BiomeName}.
+		LoveNPC:我超级喜欢{NPCName}.
+		LikeNPC:我喜欢{NPCName}.
+		DislikeNPC:我不喜欢{NPCName}.
+		HateNPC:我讨厌{NPCName}.
+		LikeNPC_Princess:我喜欢{NPCName}.
+		Princess_LovesNPC:我喜欢{NPCName}.
 	}
 
-	Bestiary: 看看这瘴煞的势头，你这次可真惹上大麻烦了.
-	Bestiary2: 研究员吉娅
-	Button2: 交付符文
-	Basic1: 蒸汽朋克人有那么多超棒的机械！我好想要啊.
-	Basic2: 很久之前我还在研究生物科技，但是那件作品出了岔子，残片飞散到了世界各处.你可能已经找到了其中的几片.
-	Basic3: 如果你能找到那些我遗失的科技零件，就能造出我的独创机器，重试我的试验！
-	Basic4: 向导知道的实在太多了，他真的只是个人类吗？我感觉有什么其它东西与他有联系...
-	Basic5: 商人一直在说什么危险的大眼球...它要是敢来，我就让它尝尝我的反生物激光.
-	Basic6: 安魅凯拉看起来不错，可惜她已经有伴了.
-	Basic7: 蒸汽朋克人也不赖嘛，我想和她试试：)
-	Basic8: 有多少零件材料就给我拿来多少！
-	Basic9: 真不敢相信我居然一时疏忽把“它”放出来了...这下事情复杂了好多.
-	Basic10: 给我收集一些符文碎片吧！反正你闲着也是闲着.
-	Special1: 感谢你帮我找到了这块符文.这对我弥补这烂摊子的研究很有帮助！
-	Special2: 感谢你帮我找到了这块符文.这对我弥补这烂摊子的研究很有帮助！
-	Special3: 感谢你帮我找到了这块符文.这对我弥补这烂摊子的研究很有帮助！
-	Special4: 感谢你帮我找到了这块符文.这对我弥补这烂摊子的研究很有帮助！
-	Special5: 感谢你帮我找到了这块符文，我会仔细研究它的.这是些回礼，难表谢意...
-	Special6: 感谢你帮我找到了这块符文.这对我弥补这烂摊子的研究很有帮助！
+	Bestiary:看看这瘴煞的势头，你这次可真惹上大麻烦了.
+	Bestiary2:研究员吉娅
+	Button2:交付符文
+	Basic1:蒸汽朋克人有那么多超棒的机械！我好想要啊.
+	Basic2:很久之前我还在研究生物科技，但是那件作品出了岔子，残片飞散到了世界各处.你可能已经找到了其中的几片.
+	Basic3:如果你能找到那些我遗失的科技零件，就能造出我的独创机器，重试我的试验！
+	Basic4:向导知道的实在太多了，他真的只是个人类吗？我感觉有什么其它东西与他有联系...
+	Basic5:商人一直在说什么危险的大眼球...它要是敢来，我就让它尝尝我的反生物激光.
+	Basic6:安魅凯拉看起来不错，可惜她已经有伴了.
+	Basic7:蒸汽朋克人也不赖嘛，我想和她试试：)
+	Basic8:有多少零件材料就给我拿来多少！
+	Basic9:真不敢相信我居然一时疏忽把“它”放出来了...这下事情复杂了好多.
+	Basic10:给我收集一些符文碎片吧！反正你闲着也是闲着.
+	Special1:感谢你帮我找到了这块符文.这对我弥补这烂摊子的研究很有帮助！
+	Special2:感谢你帮我找到了这块符文.这对我弥补这烂摊子的研究很有帮助！
+	Special3:感谢你帮我找到了这块符文.这对我弥补这烂摊子的研究很有帮助！
+	Special4:感谢你帮我找到了这块符文.这对我弥补这烂摊子的研究很有帮助！
+	Special5:感谢你帮我找到了这块符文，我会仔细研究它的.这是些回礼，难表谢意...
+	Special6:感谢你帮我找到了这块符文.这对我弥补这烂摊子的研究很有帮助！
 }
 
-Ginztel: {
-	DisplayName: 玄铁军官
+Ginztel:{
+	DisplayName:玄铁军官
 
-	TownNPCMood: {
-		Content: 我很满足
-		NoHome: 我讨厌无家可归
-		FarFromHome: 我离家太远了
-		LoveSpace: 我喜欢大一些的房间
-		DislikeCrowded: 我不喜欢较小的房间
-		HateCrowded: 我讨厌狭小的房间
-		LoveBiome: 我非常喜欢{BiomeName}.
-		LikeBiome: 我喜欢{BiomeName}.
-		DislikeBiome: 我不喜欢{BiomeName}.
-		LoveNPC: 我超级喜欢{NPCName}.
-		LikeNPC: 我喜欢{NPCName}.
-		DislikeNPC: 我不喜欢{NPCName}.
-		HateNPC: 我讨厌{NPCName}.
-		LikeNPC_Princess: 我喜欢{NPCName}.
-		Princess_LovesNPC: 我喜欢{NPCName}.
+	TownNPCMood:{
+		Content:我很满足
+		NoHome:我讨厌无家可归
+		FarFromHome:我离家太远了
+		LoveSpace:我喜欢大一些的房间
+		DislikeCrowded:我不喜欢较小的房间
+		HateCrowded:我讨厌狭小的房间
+		LoveBiome:我非常喜欢{BiomeName}.
+		LikeBiome:我喜欢{BiomeName}.
+		DislikeBiome:我不喜欢{BiomeName}.
+		LoveNPC:我超级喜欢{NPCName}.
+		LikeNPC:我喜欢{NPCName}.
+		DislikeNPC:我不喜欢{NPCName}.
+		HateNPC:我讨厌{NPCName}.
+		LikeNPC_Princess:我喜欢{NPCName}.
+		Princess_LovesNPC:我喜欢{NPCName}.
 	}
 
-	Census.SpawnCondition: 击败金戈亚指挥官
-	Bestiary: 这名已退休的玄铁军官被你的力量大为震惊，他决定来看看...以及蹭个住处.
-	Basic1: 嘿嘿，那个爆破专家不错，他有好多炸弹...
-	Basic2: 俺只是来看看...或者在这住一小会.
-	Basic3: 俺的那帮人好弱啊.真是给你添麻烦了.
-	Basic4: 俺卖的东西好多都是是从俺们基地拿来的！俺们都觉得你还是个不错的家伙！
-	Basic5: 如果歌瑟梵挂了俺们就能抢她的东西啦！你一定要赢啊！
-	Basic6: 俺们不强，但俺们最稀罕薇莉娅，才敢偷她姐姐的东西.
-	Basic7: 你一定要把歌瑟梵狠狠的揍一顿呀！俺们看着她那副目中无人的表情就来气！她还霸占了俺们的家...
+	Census.SpawnCondition:击败金戈亚指挥官
+	Bestiary:这名已退休的玄铁军官被你的力量大为震惊，他决定来看看...以及蹭个住处.
+	Basic1:嘿嘿，那个爆破专家不错，他有好多炸弹...
+	Basic2:俺只是来看看...或者在这住一小会.
+	Basic3:俺的那帮人好弱啊.真是给你添麻烦了.
+	Basic4:俺卖的东西好多都是是从俺们基地拿来的！俺们都觉得你还是个不错的家伙！
+	Basic5:如果歌瑟梵挂了俺们就能抢她的东西啦！你一定要赢啊！
+	Basic6:俺们不强，但俺们最稀罕薇莉娅，才敢偷她姐姐的东西.
+	Basic7:你一定要把歌瑟梵狠狠的揍一顿呀！俺们看着她那副目中无人的表情就来气！她还霸占了俺们的家...
 }
 
-Merena: {
-	DisplayName: 梅瑞娜
-	Bestiary: 魔法，魔法，还有更多魔法！
-	Bestiary2: 着迷术士梅瑞娜
-	Button: 任务
-	Basic1: 说起来，服装商经常来这里买我们的魔法丝绸和布.
-	Basic2: 你最近有见过我的妹妹赛利亚吗？她跑哪去了...
-	Basic3: 我要成为史上最强的魔法师！
-	Basic4: 绯琦真是理想中的皇后！她给了我们一切！
-	Basic5: 这地方太安静了，我不喜欢，但能够站在绯琦身边，这点小事不算什么.
-	Basic6: 安魅凯拉很棒哎.她最近来这里寻找饰符来着.
-	Basic7: 呃..你能稍微帮我个忙吗？会有回报的！
-	Basic8: 我一生的梦想就是成为最强的女巫！但我总是被人超越，尤其是我的姐妹.
-	Basic9: 哪天我见到我妹妹了，一定要当场打败她！
-	Basic10: 奇怪，这里的经济怎么这么像...共产主义？
-	Basic11: 里的东西都好棒啊！
-	Basic12: 毫无争议，绯琦才是这片大陆上最强的女巫.可能比神圣的光之巫女还强.我恨那家伙.
-	Basic13: 哈，我还记得那个薇莉娅.脑袋一根筋，但力量还挺强.她因为从皇都偷了魔法书而被流放.我可能还需要那本书.
-	Special1: 别光站着，去干掉薇莉娅！她从皇都偷了一本书，我需要它！
-	Special2: 哇，谢了！接下来我想要幽曦村落里的一个特殊球体，那里面蕴藏着世间独一无二的魔法，我想好好研究一下它到底是怎么形成的，而且这本书里也提到了需要它.
-	Special3: 哇哦~看看这精美的橙色条纹，看看从这里流出的魔力！你居然真的把它搞到手了！非常感谢！接下来拿给我100个粉尘袋就好了，是酿造药水用的.
-	Special4: 好样的，这对你来说没什么难度吧？接下来我需要一些含有魔法的纸张.需要许多材料，快去吧！
-	Special5: 哦哦哦太棒了！还有最后一件事想要拜托你.传说，古时候有个贼偷了一本极其重要的古籍，并藏在无尽深渊之下.你能去找找它是不是真的存在吗？无论花多久都是值得的...
-	Special6: 我的天呐！！！我一生都在等这一天！！它居然真的存在！那些故事都是真的...哇哇哇哇哇——谁还管那些啊！我们一起来做世界上最厉害的魔法师吧！！感激不尽，我会把我有的一切都卖给你！
-	Special7: 嘿呀，你帮我把所有的心愿都完成了！我实在不知道如何报答你，有空来我的商店逛逛吧！
+Merena:{
+	DisplayName:梅瑞娜
+	Bestiary:魔法，魔法，还有更多魔法！
+	Bestiary2:着迷术士梅瑞娜
+	Button:任务
+	Basic1:说起来，服装商经常来这里买我们的魔法丝绸和布.
+	Basic2:你最近有见过我的妹妹赛利亚吗？她跑哪去了...
+	Basic3:我要成为史上最强的魔法师！
+	Basic4:绯琦真是理想中的皇后！她给了我们一切！
+	Basic5:这地方太安静了，我不喜欢，但能够站在绯琦身边，这点小事不算什么.
+	Basic6:安魅凯拉很棒哎.她最近来这里寻找饰符来着.
+	Basic7:呃..你能稍微帮我个忙吗？会有回报的！
+	Basic8:我一生的梦想就是成为最强的女巫！但我总是被人超越，尤其是我的姐妹.
+	Basic9:哪天我见到我妹妹了，一定要当场打败她！
+	Basic10:奇怪，这里的经济怎么这么像...共产主义？
+	Basic11:里的东西都好棒啊！
+	Basic12:毫无争议，绯琦才是这片大陆上最强的女巫.可能比神圣的光之巫女还强.我恨那家伙.
+	Basic13:哈，我还记得那个薇莉娅.脑袋一根筋，但力量还挺强.她因为从皇都偷了魔法书而被流放.我可能还需要那本书.
+	Special1:别光站着，去干掉薇莉娅！她从皇都偷了一本书，我需要它！
+	Special2:哇，谢了！接下来我想要幽曦村落里的一个特殊球体，那里面蕴藏着世间独一无二的魔法，我想好好研究一下它到底是怎么形成的，而且这本书里也提到了需要它.
+	Special3:哇哦~看看这精美的橙色条纹，看看从这里流出的魔力！你居然真的把它搞到手了！非常感谢！接下来拿给我100个粉尘袋就好了，是酿造药水用的.
+	Special4:好样的，这对你来说没什么难度吧？接下来我需要一些含有魔法的纸张.需要许多材料，快去吧！
+	Special5:哦哦哦太棒了！还有最后一件事想要拜托你.传说，古时候有个贼偷了一本极其重要的古籍，并藏在无尽深渊之下.你能去找找它是不是真的存在吗？无论花多久都是值得的...
+	Special6:我的天呐！！！我一生都在等这一天！！它居然真的存在！那些故事都是真的...哇哇哇哇哇——谁还管那些啊！我们一起来做世界上最厉害的魔法师吧！！感激不尽，我会把我有的一切都卖给你！
+	Special7:嘿呀，你帮我把所有的心愿都完成了！我实在不知道如何报答你，有空来我的商店逛逛吧！
 }
 
-NaturalWitch: {
-	DisplayName: 自然女巫
-	Bestiary: 歌瑟梵麾下的士兵！需谨慎应对
+NaturalWitch:{
+	DisplayName:自然女巫
+	Bestiary:占位符
 }
 
-Zui: {
-	DisplayName: 蕊
-	BossChecklistIntegration: 击败世纪之花后，蕊会卖一件物品，允许你挑战她.
-	Bestiary: 一名周游大陆的旅者，似乎掌握着强大的力量.
-	Bestiary2: 旅者 蕊
-	Button: 任务
-	Basic1: 树妖是个好人呀！她对我们都很友好，还帮我做些种花的杂务！
-	Basic2: 我们之前不得不把几名女巫从这里赶了出去，真可惜啊...
-	Basic3: 我其实没有一直站在这里不动.只是碰巧每次你来我都在这里而已.
-	Basic4: 我在想办法阻止邪恶地形和瘴煞之地的扩散，但目前为止我还没想出什么良策.
-	Basic5: 如果你正闲着，去给我收集一些东西如何？
-	Basic6: 希丝忒莉亚？啊...对...我和她有过一段交情.
-	Basic7: 安魅凯拉也挺棒的，虽然我才认识她.
-	Basic8: 我很强吗？不不不，我只是个旅者而已.
-	Basic9: 我在想，我们离开了那里之后，沃德府怎么样了.看来有必要去和她们叙叙旧了."
-	Basic10: 你是和希丝忒莉亚一起来这里的吗？
-	Basic11: 这里的植物太棒了！我比希丝忒莉亚早一小会来的，当时正赶上一片骚乱，好像是有人想要扰乱时间和能量.
-	Basic12: 希丝忒莉亚的目标是“平衡”.其实我也一样，但我还是更喜欢干些悠闲一点的事，比如收集些植物.
-	Basic13: 帮我收集我想要的东西，我能给你奖励！
-	Basic14: 帮帮我嘛~
-	Special1: 嗨~谢谢你来帮我！给我收集一些植物之类的吧，就装在这个袋子里！我会给你回礼的！
-	Special2: 嘿嘿，接下来的任务有点难了哦.去给我找一些更加稀有的植物吧，装满这个袋子就行！感谢！
-	Special3: 好的，这些我就收下了，拿好你的奖励！能再给我收集一点吗
-	Special4: 好的，这些我就收下了，拿好你的奖励！能再给我收集一点吗
-	Special5: 完成3个任务了，棒哎！我在商店里给你准备了更多好东西！再来3个，还有更多惊喜！
-	Special6: 6个任务，厉害！我又进了一批你可能想要的好东西！再给我收集4个吧 ;p
-	Special7: 哎呀，10个任务完成了？你真是前所未有啊！正好前段时间我去找希丝忒莉亚，她给了我些东西我都放在商店里了，你看看吧.再做10个任务，还有好东西！
-	Special8: 你完成了20个任务！万分感激！我的商店里又有新东西啦！还想要更多？再完成10个任务，就差不多到了咱们的玩乐时间啦！
-	Special9: 真是太太太感谢你了！我的商店完全对你开放了！等以后你需要我的帮助时，我一定会答应的 ;p
-	Special10: 嗨呀！我觉得我需要的东西已经够用了.谢谢你的好意，看看我的商店如何？
-	Special11: 嘿！你想为我做一些任务吗！如果你愿意做的话我会拓展魔法商店的物品！我真的有很多好玩意.我将会成为穹月天纱最好的女巫！你会帮我写一本伟大的自传吗？但你需要先替我杀死薇莉娅.
+Zui:{
+	DisplayName:蕊
+	BossChecklistIntegration:击败世纪之花后，蕊会卖一件物品，允许你挑战她.
+	Bestiary:一名周游大陆的旅者，似乎掌握着强大的力量.
+	Bestiary2:旅者蕊
+	Button:任务
+	Basic1:树妖是个好人呀！她对我们都很友好，还帮我做些种花的杂务！
+	Basic2:我们之前不得不把几名女巫从这里赶了出去，真可惜啊...
+	Basic3:我其实没有一直站在这里不动.只是碰巧每次你来我都在这里而已.
+	Basic4:我在想办法阻止邪恶地形和瘴煞之地的扩散，但目前为止我还没想出什么良策.
+	Basic5:如果你正闲着，去给我收集一些东西如何？
+	Basic6:希丝忒莉亚？啊...对...我和她有过一段交情.
+	Basic7:安魅凯拉也挺棒的，虽然我才认识她.
+	Basic8:我很强吗？不不不，我只是个旅者而已.
+	Basic9:我在想，我们离开了那里之后，沃德府怎么样了.看来有必要去和她们叙叙旧了."
+	Basic10:你是和希丝忒莉亚一起来这里的吗？
+	Basic11:这里的植物太棒了！我比希丝忒莉亚早一小会来的，当时正赶上一片骚乱，好像是有人想要扰乱时间和能量.
+	Basic12:希丝忒莉亚的目标是“平衡”.其实我也一样，但我还是更喜欢干些悠闲一点的事，比如收集些植物.
+	Basic13:帮我收集我想要的东西，我能给你奖励！
+	Basic14:帮帮我嘛~
+	Special1:嗨~谢谢你来帮我！给我收集一些植物之类的吧，就装在这个袋子里！我会给你回礼的！
+	Special2:嘿嘿，接下来的任务有点难了哦.去给我找一些更加稀有的植物吧，装满这个袋子就行！感谢！
+	Special3:好的，这些我就收下了，拿好你的奖励！能再给我收集一点吗
+	Special4:好的，这些我就收下了，拿好你的奖励！能再给我收集一点吗
+	Special5:完成3个任务了，棒哎！我在商店里给你准备了更多好东西！再来3个，还有更多惊喜！
+	Special6:6个任务，厉害！我又进了一批你可能想要的好东西！再给我收集4个吧;p
+	Special7:哎呀，10个任务完成了？你真是前所未有啊！正好前段时间我去找希丝忒莉亚，她给了我些东西我都放在商店里了，你看看吧.再做10个任务，还有好东西！
+	Special8:你完成了20个任务！万分感激！我的商店里又有新东西啦！还想要更多？再完成10个任务，就差不多到了咱们的玩乐时间啦！
+	Special9:真是太太太感谢你了！我的商店完全对你开放了！等以后你需要我的帮助时，我一定会答应的;p
+	Special10:嗨呀！我觉得我需要的东西已经够用了.谢谢你的好意，看看我的商店如何？
+	//Special11:Heyyouwannadoaquest?I'llopenupmyexpansivemagicshopforyouifyoudo..IhavequitesomegreatgoodiesinstorebutIwanttobecomethebestwitchinalloftheLunarVeil,andIwantyoutohelpmemakeatome,butfirstIneedyoutokillVerliafirstforme.
 }
 
-AbandonedMinor.DisplayName: 遭弃矿工
-AbandonedMinorSummon.DisplayName: 遭弃矿工生成
-FloweredRedLight.DisplayName: 花开红光
-FloweredWhiteLight.DisplayName: 花开白光
-RedFlower.DisplayName: 地藏红花
-WhiteFlower.DisplayName: 地藏白花
-DreadFireBombG.DisplayName: 恐惧火焰炸弹
-HeatBombLighting.DisplayName: 热能炸弹闪光
-HeatBombRayLight.DisplayName: 热能炸弹辐射
+AbandonedMinor.DisplayName:遭弃矿工
+AbandonedMinorSummon.DisplayName:遭弃矿工生成
+FloweredRedLight.DisplayName:花开红光
+FloweredWhiteLight.DisplayName:花开白光
+RedFlower.DisplayName:地藏红花
+WhiteFlower.DisplayName:地藏白花
+DreadFireBombG.DisplayName:恐惧火焰炸弹
+HeatBombLighting.DisplayName:热能炸弹闪光
+HeatBombRayLight.DisplayName:热能炸弹辐射
 
-Rustwork: {
-	DisplayName: 生锈机械
-	Bestiary: 一个生锈的齿轮，或许有一些神奇的能力.
+Rustwork:{
+	DisplayName:生锈机械
+	Bestiary:一个生锈的齿轮，或许有一些神奇的能力.
 }
 
-MechanicalMinorSummon.DisplayName: 机械矿工生成
-MechanicalMinor.DisplayName: 机械矿工
-InfusedSlime.DisplayName: 注能史莱姆
-RustedBomber.DisplayName: 生锈炮弹发射器
-RustedBomberSummon.DisplayName: 生锈炮弹发射器生成
-Steeru.DisplayName: 齿轮构造体
+MechanicalMinorSummon.DisplayName:机械矿工生成
+MechanicalMinor.DisplayName:机械矿工
+InfusedSlime.DisplayName:注能史莱姆
+RustedBomber.DisplayName:生锈炮弹发射器
+RustedBomberSummon.DisplayName:生锈炮弹发射器生成
+Steeru.DisplayName:齿轮构造体
 
-ZuiTheTraveller: {
-	DisplayName: 辉光女神,蕊
-	Bestiary: 蕊，绝不是什么等闲之辈，但看样子很喜欢休闲玩乐.希丝忒莉亚与她有不浅的交情.
-	Bestiary2: 辉光女神,蕊
+ZuiTheTraveller:{
+	DisplayName:辉光女神,蕊
+	Bestiary:蕊，绝不是什么等闲之辈，但看样子很喜欢休闲玩乐.希丝忒莉亚与她有不浅的交情.
+	Bestiary2:辉光女神,蕊
 }
 
-TestLaserNPC.DisplayName: 测试激光NPC
+TestLaserNPC.DisplayName:测试激光NPC
 
-UnknownSignal: {
-	DisplayName: 神秘信号源
-	Bestiary: 未知信号源
-	Button: 触碰
-	Basic: 一个模糊的声音确认了你的身份.看来就是这里没错.
+UnknownSignal:{
+	DisplayName:神秘信号源
+	Bestiary:未知信号源
+	Button:触碰
+	Basic:一个模糊的声音确认了你的身份.看来就是这里没错.
 }
 
-AlcaricVoidBig.DisplayName: 巨型阿卡里亚虚空凝聚体
-ZuiLASERWARN.DisplayName: 蕊激光警告
-GoldBeamWarn.DisplayName: 金色激光警告
-ZuiDeath.DisplayName: 辉光女神，蕊
-LuminullSpiritCrystal.DisplayName: 黯光灵晶
-IceRune.DisplayName: 冰雪符文
-VerliaSpawn.DisplayName: 薇莉娅
-Bossdeath1.DisplayName: Boss死亡1
+AlcaricVoidBig.DisplayName:巨型阿卡里亚虚空凝聚体
+ZuiLASERWARN.DisplayName:蕊激光警告
+GoldBeamWarn.DisplayName:金色激光警告
+ZuiDeath.DisplayName:辉光女神，蕊
+LuminullSpiritCrystal.DisplayName:黯光灵晶
+IceRune.DisplayName:冰雪符文
+VerliaSpawn.DisplayName:薇莉娅
+Bossdeath1.DisplayName:Boss死亡1
 
-DeathVerlia: {
-	DisplayName: 薇莉娅
-	Bestiary: 一个强力存在的克隆体:)
+DeathVerlia:{
+	DisplayName:薇莉娅
+	Bestiary:占位符
 }
 
-VerliaDP.DisplayName: 薇莉娅
+VerliaDP.DisplayName:薇莉娅
 
-Niivi: {
-	DisplayName: 尼伊维
-	BossChecklistIntegration.SpawnInfo: 尼伊维总是在星月巨树旁边徘徊...或沉睡于其上.对她造成足够的伤害就能激怒她.
-	Bestiary: 太初祖龙，尼伊维
+Niivi:{
+	DisplayName:尼伊维
+	BossChecklistIntegration.SpawnInfo:尼伊维总是在星月巨树旁边徘徊...或沉睡于其上.对她造成足够的伤害就能激怒她.
+	Bestiary:太初祖龙，尼伊维
 }
 
-IllurianMage: {
-	DisplayName: 星树法师
-	Bestiary: 一名来自齐格飞时代受人尊敬的魔法师
+IllurianMage:{
+	DisplayName:星树法师
+	Bestiary:一名来自齐格飞时代受人尊敬的魔法师
 }
 
-IllurianGuard.DisplayName: 星树守卫
-SyliaDeath.DisplayName: 赛莉亚
+IllurianGuard.DisplayName:星树守卫
+SyliaDeath.DisplayName:赛莉亚
 
-Veldris: {
-	DisplayName: 维尔迪斯
-	Bestiary: 冰寒刺骨
-	Bestiary2: 刺客维尔迪斯
-	Button: 闲聊
-	Basic1: 她的零件不错
-	Basic2: 下一个杀谁？
-	Basic3: 近来如何？
-	Basic4: 一会我还得再去赌几局.
-	Basic5: 那个希丝忒莉亚真的很吓人
-	Basic6: 哪天我一定要去一趟皇都.他们应该能让我的武器更强
-	Basic7: 好冷...
-	Basic8: 嘿，你！过来买点东西！
-	Basic9: 冬天也不那么冷了
-	Basic10: 所有人都在说什么乱七八糟的神，快把我逼疯了
-	Basic11: 我完全不懂那些姐妹们为什么都不彼此联系.难道她们有什么不可告人的秘密？
-	Basic12: 我要是个重要人物该多好啊
-	Basic13: 有的时候我也想带着一支军队四处征战，但我只是想再见见维依佐
-	Basic14: 少侠有何需求？
-	Special1: 近来如何啊？外面都乱成一锅粥了，得亏你还想来.我？我就是个卖杂货的而已.只要你别惹上什么大人物，咱们应该不会有刀剑相向的那一天.
-	Special2: 每次我听到有人提那些神我都觉得不可忍受.希丝忒莉亚想要把它们全干掉我可太支持了.她和绯琦一样，都不是那种盲目追求力量的人.据我所知绯琦只是想要复仇，这我完全能理解.
-	Special3: 想要用我的武器，就小心点用，别把它们弄散架了.那可都是黯光和特殊合金做成的，为了造它们我特意去星树偷来的材料！
-	Special4: 我真想好好吐槽一下那个星树.为什么那有条龙啊？而且她就那么若无其事地在闲逛！他们不是已经在瘴煞-酸蚀-那里被灭绝了吗？我想搞点鳞片，但一直有人看着...
-	Special5: 之前，这栋建筑可算得上是大师之作.然后绯琦集结了她的整支军队就为了建那座大殿堂来困住某位偷了她东西的婊子...要我说，纯纯的邪恶做法，而且太过了.
-	Special6: 前几天有几个骑士经过这里，一直说着什么“和平与礼仪”，我实在受不了他们的唠叨了，就去了星月巨树，他们居然住在那上面？我从那拿了些材料，感觉力量很强，说不定都和天纱琉明有联系.
-	Special7: 有活干的时候最舒服了.你要是看谁不顺眼，就来找我吧.上一个给我委托的叫赛利亚，她让我去干掉一个叫瑞拉德的家伙，可找了我好一阵子.
-	Special8: 我和赛利亚还算相处得来，只要你了解她，她还是很有趣的.她一直在回避皇都和她的姐妹梅瑞娜.之后有空的话我想和她一起去旅个游之类的.
-	Special9: 想象一下，你在屋里睡得好好的，某个神朝你这边扔了一张陷阱卡，整栋房子就毁了，很烦人对吧？我还得天天朝外看着，提防黑洞.
-	Special10: 在我还小的时候，还没等到取名，我父母就被一个该死的黑洞疯子给害了，好像是叫...星烁.那是30年前的事，但我仍然记忆犹新.我现在这个名字还是一个朋友给取的.
+Veldris:{
+	DisplayName:维尔迪斯
+	Bestiary:冰寒刺骨
+	Bestiary2:刺客维尔迪斯
+	Button:闲聊
+	Basic1:她的零件不错
+	Basic2:下一个杀谁？
+	Basic3:近来如何？
+	Basic4:一会我还得再去赌几局.
+	Basic5:那个希丝忒莉亚真的很吓人
+	Basic6:哪天我一定要去一趟皇都.他们应该能让我的武器更强
+	Basic7:好冷...
+	Basic8:嘿，你！过来买点东西！
+	Basic9:冬天也不那么冷了
+	Basic10:所有人都在说什么乱七八糟的神，快把我逼疯了
+	Basic11:我完全不懂那些姐妹们为什么都不彼此联系.难道她们有什么不可告人的秘密？
+	Basic12:我要是个重要人物该多好啊
+	Basic13:有的时候我也想带着一支军队四处征战，但我只是想再见见维依佐
+	Basic14:少侠有何需求？
+	Special1:近来如何啊？外面都乱成一锅粥了，得亏你还想来.我？我就是个卖杂货的而已.只要你别惹上什么大人物，咱们应该不会有刀剑相向的那一天.
+	Special2:每次我听到有人提那些神我都觉得不可忍受.希丝忒莉亚想要把它们全干掉我可太支持了.她和绯琦一样，都不是那种盲目追求力量的人.据我所知绯琦只是想要复仇，这我完全能理解.
+	Special3:想要用我的武器，就小心点用，别把它们弄散架了.那可都是黯光和特殊合金做成的，为了造它们我特意去星树偷来的材料！
+	Special4:我真想好好吐槽一下那个星树.为什么那有条龙啊？而且她就那么若无其事地在闲逛！他们不是已经在瘴煞-酸蚀-那里被灭绝了吗？我想搞点鳞片，但一直有人看着...
+	Special5:之前，这栋建筑可算得上是大师之作.然后绯琦集结了她的整支军队就为了建那座大殿堂来困住某位偷了她东西的婊子...要我说，纯纯的邪恶做法，而且太过了.
+	Special6:前几天有几个骑士经过这里，一直说着什么“和平与礼仪”，我实在受不了他们的唠叨了，就去了星月巨树，他们居然住在那上面？我从那拿了些材料，感觉力量很强，说不定都和天纱琉明有联系.
+	Special7:有活干的时候最舒服了.你要是看谁不顺眼，就来找我吧.上一个给我委托的叫赛利亚，她让我去干掉一个叫瑞拉德的家伙，可找了我好一阵子.
+	Special8:我和赛利亚还算相处得来，只要你了解她，她还是很有趣的.她一直在回避皇都和她的姐妹梅瑞娜.之后有空的话我想和她一起去旅个游之类的.
+	Special9:想象一下，你在屋里睡得好好的，某个神朝你这边扔了一张陷阱卡，整栋房子就毁了，很烦人对吧？我还得天天朝外看着，提防黑洞.
+	Special10:在我还小的时候，还没等到取名，我父母就被一个该死的黑洞疯子给害了，好像是叫...星烁.那是30年前的事，但我仍然记忆犹新.我现在这个名字还是一个朋友给取的.
 }
 
-SupernovaZapwarn.DisplayName: 超新星电击警告
+SupernovaZapwarn.DisplayName:超新星电击警告
 
-SupernovaOrb: {
-	DisplayName: 超新星球体
-	Bestiary: 曾经是一只普通的绿史莱姆，在酸蚀之地变异成了此毒物.
+SupernovaOrb:{
+	DisplayName:超新星球体
+	Bestiary:占位符
 }
 
-SupernovaFragment: {
-	DisplayName: 破碎超新星
-	BossChecklistIntegration.SpawnInfo: 前往烬火之地，巴结奥丁.直到他给你一份为厄莉什基迦勒准备的礼物.接受礼物后，她就会给你需要的东西.
-	Bestiary: 天纱琉明赠予其姐妹的强大礼物
-	Bestiary2: 破碎超新星
+SupernovaFragment:{
+	DisplayName:破碎超新星
+	BossChecklistIntegration.SpawnInfo:前往烬火之地，巴结奥丁直到他给你一份为厄莉什基迦勒准备的礼物.接受礼物后，她就会给你需要的东西.
+	Bestiary:天纱琉明赠予其姐妹的强大礼物
+	Bestiary2:破碎超新星
 }
 
-Sirestias: {
-	DisplayName: 希丝忒莉亚
-	Bestiary: 你与这位存在之间永恒的羁绊回荡不绝...
-	Basic1: 哦？来陪陪我吗？
-	Basic2: 嗯，安魅凯拉怎么样了？算了，我又不是不知道.
-	Basic3: 玩的还开心吗？
-	Basic4: 我都快忘了你和我已经绑定在一起.
-	Basic5: 你愿意为我做事，我真是欣慰啊.
-	Special1: 好耶！！我们距离目标又进了一步！你不觉得激动吗？<3
-	Special2: 又一个神倒下了！
-	Special3: 我也没找到什么更好的东西，所以多给你一颗宝珠吧！
-	Special4: 去做些我规划的事吧，咱们的时间可不多啊 ;P
-	Button: 接下来做什么？
-	Button2: 给予陨神之像
-	Downed1: 击败那个守卫之后，金戈亚指挥官很快就会从歌维赫堡率军入侵.他就是个软柿子，速战速决，把他打趴下！
-	Downed2: 我推荐去古谕之地探索，或者收集材料挑战灯笼杰克或者猎日游隼.如果你想干些别的，去左边的女巫村落找蕊吧，她有事情要拜托你.
-	Downed3: 好样的宝贝.接下来去右边的古谕沼泽干掉灯笼杰克吧.他不是很强，只要有漂浪焰华就能把他召唤出来.
-	Downed4: 干得好！是时候去沙漠里打鸟了.它叫“猎日游隼”，有些挑战性，但不太多.用蚁狮上颚做出它的召唤物，在沙漠地表找到它的祭坛！
-	Downed5: 下一个目标，守护者代达斯.他力量不凡，是歌瑟梵的尽忠护卫，也就是说，是钓上这条大鱼的重要一环.他拥有一颗奇点的力量，小心！他目前沉睡于古谕地下，不需要做什么额外措施就可以去挑战.
-	Downed6: 好嘞，接下来的任务可能有些难度了.如果血月发生，我们需要抓住机会干掉绛渊恶巫.打破血肉囊或者收集恐惧残片来召唤她.她是天纱三姐妹之一，曾经被称作“天寰神巫”，留她活着风险太大.如果干成，奖励自然会有的.
-	Downed7: 我们的计划正大步前进！我不清楚你最近又干掉了哪些怪物，但是时候干正事了.名单上的下一位是薇莉娅.在见到她之前还有不少事情要完成.去弄到一把虚空钥匙，在冰雪地下的神殿中有不少东西等着你.找到祭坛，击败那个守卫，拿到提灯.薇莉娅的灵魂被绯琦囚禁在那里面，但我们需要让她彻底死掉，来引出歌瑟梵.
-	Downed8: OK，你拿到那盏灯了！等到晚上去到冰雪地圣殿的顶端释放她.这是直到如今我们最大的挑战，但我相信你的能力.抱歉，安魅凯拉不想再被我当刺客使唤了，这次轮到你上了！
-	Downed9: 哦天，这也太棒了！我们现阶段的任务全都完成了！等到你打败了血肉墙再来找我吧！我们一定能净化这个世界上的一切威胁，一起向前.感谢你的付出.
-	Downed10: 哟，又见面了.我发现了个问题，代达斯并不是歌瑟梵筑起的唯一一道障碍.安魅凯拉刚在那个绿油油的地方地下找到了一座城堡，上面有歌瑟梵的印记，你能去看看吗？至少太阳还没变绿，说明我们还有时间.还有，沙漠地下，海洋里，洞穴中存在着三座墓穴，里面的东西应该会帮到你.
-	Downed11: 那边有个人在假装歌瑟梵？奇怪.歌瑟梵本人貌似也正在赶回这个世界.再者，这个世界的天空好像出现了些异变，掉下奇怪的东西.小心 星 爆 者，安魅凯拉告诉我它们在这里也有被制造，和在艾科洛斯一样.
-	Downed12: 我之前还觉得迷迭香城的造物不会出现在这里呢.看来艾科洛斯和这个世界确实有一定联系.我感受到地狱的左侧有个奇异的能量扰动，维尔德斯告诉我那可能是赛莉亚搞的鬼，她的黑暗魔法可能会阻碍我们，我们要先发制人把她除掉.
-	Downed13: 虚空女巫...真有意思.应该和安魅凯拉说的那个梅瑞娜有点关系.我没怎么去过皇室首都，那里太远，但那个女王也在我们的名单上.她的力量很强，而且我没和她沟通过.要不你去把她干掉？
-	Downed14: 厄莉什基迦勒？我知道这个名字.她也不应该出现在这里的.如果她是迷路了，我们也许可以帮帮她？
-	Downed15: 哇呜！你也太高效了！我要不要直接让你接手整个计划呢...开玩笑的啦.接下来你就自由探索吧，好好准备迎战月球领主.
-	Downed16: 我真没想到你去打她...我在四处转悠的时候遇见了她，感觉她还不错的.你说你没杀了她？也好，反正她也不在我们的名单上，也没给我们添乱.
-	Downed17: 干得不错.是时候去找歌瑟梵了.凭心而论她并不坏，但她的领导力总能激励坏人去干坏事，我们就给她一个教训，让她停止这样.
-	Downed18: 我本来没想杀她的，我们没有理由对尼伊维下手.你想要装备？要是有帮助的话，那好吧，但她可没有做任何恶事.
-	Downed19: 好好，歌瑟梵答应暂时保持冷静，我们应该不用刺杀她了.我现在对杀了她的姐妹感到有些抱歉...希望维西尔不会发现吧.
+Sirestias:{
+	DisplayName:希丝忒莉亚
+	Bestiary:你与这位存在之间永恒的羁绊回荡不绝...
+	Basic1:哦？来陪陪我吗？
+	Basic2:嗯，安魅凯拉怎么样了？算了，我又不是不知道.
+	Basic3:玩的还开心吗？
+	Basic4:我都快忘了你和我已经绑定在一起.
+	Basic5:你愿意为我做事，我真是欣慰啊.
+	Special1:好耶！！我们距离目标又进了一步！你不觉得激动吗？<3
+	Special2:又一个神倒下了！
+	Special3:我也没找到什么更好的东西，所以多给你一颗宝珠吧！
+	Special4:去做些我规划的事吧，咱们的时间可不多啊;P
+	Button:接下来做什么？
+	Button2:给予陨神之像
+	Downed1:击败那个守卫之后，金戈亚指挥官很快就会从歌维赫堡率军入侵.他就是个软柿子，速战速决，把他打趴下！
+	Downed2:我推荐去古谕之地探索，或者收集材料挑战灯笼杰克或者猎日游隼.如果你想干些别的，去左边的女巫村落找蕊吧，她有事情要拜托你.
+	Downed3:好样的宝贝.接下来去右边的古谕沼泽干掉灯笼杰克吧.他不是很强，只要有漂浪焰华就能把他召唤出来.
+	Downed4:干得好！是时候去沙漠里打鸟了.它叫“猎日游隼”，有些挑战性，但不太多.用蚁狮上颚做出它的召唤物，在沙漠地表找到它的祭坛！
+	Downed5:下一个目标，守护者代达斯.他力量不凡，是歌瑟梵的尽忠护卫，也就是说，是钓上这条大鱼的重要一环.他拥有一颗奇点的力量，小心！他目前沉睡于古谕地下，不需要做什么额外措施就可以去挑战.
+	Downed6:好嘞，接下来的任务可能有些难度了.如果血月发生，我们需要抓住机会干掉绛渊恶巫.打破血肉囊或者收集恐惧残片来召唤她.她是天纱三姐妹之一，曾经被称作“天寰神巫”，留她活着风险太大.如果干成，奖励自然会有的.
+	Downed7:我们的计划正大步前进！我不清楚你最近又干掉了哪些怪物，但是时候干正事了.名单上的下一位是薇莉娅.在见到她之前还有不少事情要完成.去弄到一把虚空钥匙，在冰雪地下的神殿中有不少东西等着你.找到祭坛，击败那个守卫，拿到提灯.薇莉娅的灵魂被绯琦囚禁在那里面，但我们需要让她彻底死掉，来引出歌瑟梵.
+	Downed8:OK，你拿到那盏灯了！等到晚上去到冰雪地圣殿的顶端释放她.这是直到如今我们最大的挑战，但我相信你的能力.抱歉，安魅凯拉不想再被我当刺客使唤了，这次轮到你上了！
+	Downed9:哦天，这也太棒了！我们现阶段的任务全都完成了！等到你打败了血肉墙再来找我吧！我们一定能净化这个世界上的一切威胁，一起向前.感谢你的付出.
+	Downed10:哟，又见面了.我发现了个问题，代达斯并不是歌瑟梵筑起的唯一一道障碍.安魅凯拉刚在那个绿油油的地方地下找到了一座城堡，上面有歌瑟梵的印记，你能去看看吗？至少太阳还没变绿，说明我们还有时间.还有，沙漠地下，海洋里，洞穴中存在着三座墓穴，里面的东西应该会帮到你.
+	Downed11:那边有个人在假装歌瑟梵？奇怪.歌瑟梵本人貌似也正在赶回这个世界.再者，这个世界的天空好像出现了些异变，掉下奇怪的东西.小心星爆者，安魅凯拉告诉我它们在这里也有被制造，和在艾科洛斯一样.
+	Downed12:我之前还觉得迷迭香城的造物不会出现在这里呢.看来艾科洛斯和这个世界确实有一定联系.我感受到地狱的左侧有个奇异的能量扰动，维尔德斯告诉我那可能是赛莉亚搞的鬼，她的黑暗魔法可能会阻碍我们，我们要先发制人把她除掉.
+	Downed13:虚空女巫...真有意思.应该和安魅凯拉说的那个梅瑞娜有点关系.我没怎么去过皇室首都，那里太远，但那个女王也在我们的名单上.她的力量很强，而且我没和她沟通过.要不你去把她干掉？
+	Downed14:厄莉什基迦勒？我知道这个名字.她也不应该出现在这里的.如果她是迷路了，我们也许可以帮帮她？
+	Downed15:哇呜！你也太高效了！我要不要直接让你接手整个计划呢...开玩笑的啦.接下来你就自由探索吧，好好准备迎战月球领主.
+	Downed16:我真没想到你去打她...我在四处转悠的时候遇见了她，感觉她还不错的.你说你没杀了她？也好，反正她也不在我们的名单上，也没给我们添乱.
+	Downed17:干得不错.是时候去找歌瑟梵了.凭心而论她并不坏，但她的领导力总能激励坏人去干坏事，我们就给她一个教训，让她停止这样.
+	Downed18:我本来没想杀她的，我们没有理由对尼伊维下手.你想要装备？要是有帮助的话，那好吧，但她可没有做任何恶事.
+	Downed19:好好，歌瑟梵答应暂时保持冷静，我们应该不用刺杀她了.我现在对杀了她的姐妹感到有些抱歉...希望维西尔不会发现吧.
 }
 
-JellyGlow.DisplayName: 发光水母皇后
-BabyJellyGlow.DisplayName: 发光水母
+JellyGlow.DisplayName:发光水母皇后
+BabyJellyGlow.DisplayName:发光水母
 
-DreadMonolith: {
-	DisplayName: 恐怖巨石
-	Bestiary: 一颗水晶，具有唤醒天纱三神之一的力量.
+DreadMonolith:{
+	DisplayName:恐怖巨石
+	Bestiary:一颗水晶，具有唤醒天纱三神之一的力量.
 }
 
-HavocHead.DisplayName: 浩劫头部
-HavocSegmentBack.DisplayName: 浩劫后段
-HavocSegmentFront.DisplayName: 浩劫前段
-HavocSegmentMiddle.DisplayName: 浩劫中段
-HavocTail.DisplayName: 浩劫尾部
+HavocHead.DisplayName:浩劫头部
+HavocSegmentBack.DisplayName:浩劫后段
+HavocSegmentFront.DisplayName:浩劫前段
+HavocSegmentMiddle.DisplayName:浩劫中段
+HavocTail.DisplayName:浩劫尾部
 
-IrradiaIdle: {
-	DisplayName: 伊瑞蒂安
-	Bestiary: 歌维赫堡最深处的神秘人物
-	Bestiary2: ???
-	Button: 展示薇莉娅的灵魂核心
-	Basic1: 在你也被腐化前离开这里.
-	Basic2: 滚出去。
-	Basic3: 我想她们...
-	Basic4: ... 戴尔格林...
-	Special1: 别来烦我.我不想杀你.
+IrradiaIdle:{
+	DisplayName:伊瑞蒂安
+	Bestiary:歌维赫堡最深处的神秘人物
+	Bestiary2:???
+	Button:展示薇莉娅的灵魂核心
+	Basic1:在你也被腐化前离开这里.
+	Basic2:滚出去。
+	Basic3:我想她们...
+	Basic4:...戴尔格林...
+	Special1:别来烦我.我不想杀你.
 }
 
-Havoc.DisplayName: 浩劫
+Havoc.DisplayName:浩劫
 
-Ishtar: {
-	DisplayName: 狂渊
-	Bestiary: 狂渊入口
-	Bestiary2: 狂渊入口
+Ishtar:{
+	DisplayName:狂渊
+	Bestiary:狂渊入口
+	Bestiary2:狂渊入口
 }
 
-PULSARHOLE.DisplayName: 脉 冲 黑 洞
-BabySwarmer.DisplayName: 蚁狮蜂宝宝
-BabySwarmerSummon.DisplayName: 蚁狮蜂宝宝召唤
-HavocSignal.DisplayName: 浩劫信号
-IrradiaElectricBoxNode.DisplayName: 伊瑞蒂安带电节点
-IrradiaSpikeBox.DisplayName: 伊瑞蒂安尖刺盒
+PULSARHOLE.DisplayName:脉冲黑洞
+BabySwarmer.DisplayName:蚁狮蜂宝宝
+BabySwarmerSummon.DisplayName:蚁狮蜂宝宝召唤
+HavocSignal.DisplayName:浩劫信号
+IrradiaElectricBoxNode.DisplayName:伊瑞蒂安带电节点
+IrradiaSpikeBox.DisplayName:伊瑞蒂安尖刺盒
 
-Irradia: {
-	DisplayName: 伊瑞蒂安
-	BossChecklistIntegration.SpawnInfo: 在酸蚀地下的歌维赫堡深处找到她，并给她[i:Stellamod/ManifestedBravery]
-	Bestiary: 歌维赫堡最忠实最固执的守护者.她仅有的愿望是再次见到她的亲人与家园.
-	Bestiary2: 伊瑞蒂安与浩劫龙械
+Irradia:{
+	DisplayName:伊瑞蒂安
+	BossChecklistIntegration.SpawnInfo:在酸蚀地下的歌维赫堡深处找到她，并给她[i:Stellamod/ManifestedBravery]
+	Bestiary:歌维赫堡最忠实最固执的守护者.她仅有的愿望是再次见到她的亲人与家园.
+	Bestiary2:伊瑞蒂安与浩劫龙械
 }
 
-DreadMireR: {
-	DisplayName: 绛渊恶巫
-	BossChecklistIntegration.SpawnInfo: 摧毁三颗恐怖巨石并制作恐惧徽章在夜晚使用.
-	Bestiary: 她主动放弃了自己的奇点，换来了这令人恐惧的魔法，将不安与惊惶散步整个大陆.
-	Bestiary2: 天寰——等等，绛渊恶巫？
+DreadMireR:{
+	DisplayName:绛渊恶巫
+	BossChecklistIntegration.SpawnInfo:摧毁三颗恐怖巨石并制作恐惧徽章在夜晚使用.
+	Bestiary:她主动放弃了自己的奇点，换来了这令人恐惧的魔法，将不安与惊惶散步整个大陆.
+	Bestiary2:天寰——等等，绛渊恶巫？
 }
 
-DreadMirePentagramV2.DisplayName: 绛渊五角星
+DreadMirePentagramV2.DisplayName:绛渊五角星
 
-StartIrradia: {
-	DisplayName: 唤醒伊瑞蒂安
-	Bestiary: 一件恶事的开端
+StartIrradia:{
+	DisplayName:唤醒伊瑞蒂安
+	Bestiary:一件恶事的开端
 }
 
-GraveShard: {
-	DisplayName: 墓碑碎片
-	Bestiary: 一颗水晶，具有唤醒天纱三神之一的力量.
+GraveShard:{
+	DisplayName:墓碑碎片
+	Bestiary:一颗水晶，具有唤醒天纱三神之一的力量.
 }
 
-IncresianDisc.DisplayName: 英克雷西安圆盘
+IncresianDisc.DisplayName:英克雷西安圆盘
 
-Mardenth: {
-	DisplayName: 玛登斯
-	Bestiary: 达登的三个孩子里面，最弱小的一个
-	Bestiary2: 天纱之玛登斯
-	Button2: 闲聊
-	Basic1: 她有那么多酷炫的装置，我喜欢它们！
-	Basic2: 那个叫齐格飞的家伙真是该死啊
-	Basic3: 厄莉什基迦勒在哪？
-	Basic4: 代达斯，乔维亚, 达登?你们都去哪里了？
-	Basic5: 你瞧，我相当可怕。我可以用我的双手摧毁一切。
-	Basic6: 我需要进一步练习我的电系魔法。如果我父亲还活着，他一定会为我感到骄傲的。天哪，我真希望你能在这里，达登
-	Basic7: 我从没见过我的母亲...
-	Basic8: 为什么乔维亚总是在天上呢？
-	Basic9: 嘿，你，快走开！
-	Basic10: 你这个骚扰女性的家伙！
-	Special1: 呵呵呵，我喜欢吃那些小虫子，但它们总是不停地扭动。这让我想起了我们父亲达登离开我们的时候。
-	Special2: 代达斯去哪了？他很久以前就离开我们了。我希望他没有被歌瑟梵影响。她似乎对权力着迷并且渴望权力。也许这只是我这么觉得吧。
-	Special3: 或许只有我一个人觉得，但是厄莉什基迦勒确实有些性感，不是吗？什么，你说你不知道？！不是？哥们！你对女人的品味也太差了吧！
-	Special4: 你不会明白我们是怎样的存在。我们比除了神之外的所有人都高贵。只有神才能拥有如此高的地位。爬吧，你这虫豸。
-	Special5: 我希望齐格飞没有发疯。他真是个混蛋，就连我们亲爱的厄莉什基迦勒也离开我们去封印他了……
-	Special6: 也许我是唯一一个质疑这些人基因的人。比如他们都是从哪里遗传来的美貌？？？我之所以戴着这个面具，是因为我长得像哥布林一样...
-	Special7: 我现在就想看到蕊和厄莉什基迦勒的海滩写真集！
-	Special8: 我想要变得更强大，但这需要大量的训练。任何敢于索取超出所给予的人都应该受到惩罚。
-	Special9: 那些在井里的人？他们被困在那里，因为他们在生活中做了一些愚蠢的交易来获得更多的力量，就像我们这些伟大的天纱人一样，我们永远地困住了他们。
-	Special10: 我不知道外面的世界是什么样子的。
+Mardenth:{
+	DisplayName:玛登斯
+	Bestiary:达登的三个孩子里面，最弱小的一个
+	Bestiary2:天纱之玛登斯
+	Button2:闲聊
+	Basic1:她有那么多酷炫的装置，我喜欢它们！
+	Basic2:那个叫齐格飞的家伙真是该死啊
+	Basic3:厄莉什基迦勒在哪？
+	Basic4:代达斯，乔维亚,达登?你们都去哪里了？
+	Basic5:你瞧，我相当可怕。我可以用我的双手摧毁一切。
+	Basic6:我需要进一步练习我的电系魔法。如果我父亲还活着，他一定会为我感到骄傲的。天哪，我真希望你能在这里，达登
+	Basic7:我从没见过我的母亲...
+	Basic8:为什么乔维亚总是在天上呢？
+	Basic9:嘿，你，快走开！
+	Basic10:你这个骚扰女性的家伙！
+	Special1:呵呵呵，我喜欢吃那些小虫子，但它们总是不停地扭动。这让我想起了我们父亲达登离开我们的时候。
+	Special2:代达斯去哪了？他很久以前就离开我们了。我希望他没有被歌瑟梵影响。她似乎对权力着迷并且渴望权力。也许这只是我这么觉得吧。
+	Special3:或许只有我一个人觉得，但是厄莉什基迦勒确实有些性感，不是吗？什么，你说你不知道？！不是？哥们！你对女人的品味也太差了吧！
+	Special4:你不会明白我们是怎样的存在。我们比除了神之外的所有人都高贵。只有神才能拥有如此高的地位。爬吧，你这虫豸。
+	Special5:我希望齐格飞没有发疯。他真是个混蛋，就连我们亲爱的厄莉什基迦勒也离开我们去封印他了……
+	Special6:也许我是唯一一个质疑这些人基因的人。比如他们都是从哪里遗传来的美貌？？？我之所以戴着这个面具，是因为我长得像哥布林一样...
+	Special7:我现在就想看到蕊和厄莉什基迦勒的海滩写真集！
+	Special8:我想要变得更强大，但这需要大量的训练。任何敢于索取超出所给予的人都应该受到惩罚。
+	Special9:那些在井里的人？他们被困在那里，因为他们在生活中做了一些愚蠢的交易来获得更多的力量，就像我们这些伟大的天纱人一样，我们永远地困住了他们。
+	Special10:我不知道外面的世界是什么样子的。
 }
 
-Ordin: {
-	DisplayName: 奥丁
-	Bestiary: 地下深处的火焰与浓烟
-	Bestiary2: 星树新君奥丁
-	Button: 回想齐格飞
-	Basic1: 此女身怀绝技，机巧非凡
-	Basic2: 速速退出吾之视线！
-	Basic3: 汝行步蹒跚，犹如初生之犊未谙世故
-	Basic4: 何其微薄之宠爱，竟上达天听
-	Basic5: 尔非神格之材，何足论天地主宰
-	Basic6: 齐格飞，汝必全躯而返，否则吾将亲往，以吾之手，将汝从那妖妇之爪中解脱！
-	Basic7: 将彼等之具现体，悉数呈于吾前
-	Special1: 汝之纠缠，已至厌烦。收下此物，速速离去，莫再扰吾安宁，汝之行径，实难容忍
-	Special2: 欲居人先，然吾所驻之地，充斥伪善与权力之虚饰
-	Special3: 昔日齐格飞亦是少年郎，于汝眼中似兄弟，于他人则如恶徒.
-	Special4: 吾等圣堡，竟罹此焚劫。吾心所愿，悉于齐格飞揭咒之下，已非昔比
-	Special5: 汝且安卧于斯，余生休再相见
-	Special6: 慎尔言辞。厄莉什基迦勒，痴恋之狂渊巫女也，夺多兄之命。然其于恋人中预言成真，故非伪神
-	Special7: 吾等宏图，随天纱之土而偃息。凡逆吾心爱之世者，必尽数了断
-	Special8: 昭其灵魄，引之吾侧。厚赏于尔，迨天命缄默
-	Special9: 尼伊维，天纱之域守护者，竟诅咒汝兄，令其于权财中独占且窃。贪婪之行，致恋人陷囹圄
-	Special10: 今吾抱恙而坐，静待天纱之域变迁
+Ordin:{
+	DisplayName:奥丁
+	Bestiary:地下深处的火焰与浓烟
+	Bestiary2:星树新君奥丁
+	Button:回想齐格飞
+	Basic1:此女身怀绝技，机巧非凡
+	Basic2:速速退出吾之视线！
+	Basic3:汝行步蹒跚，犹如初生之犊未谙世故
+	Basic4:何其微薄之宠爱，竟上达天听
+	Basic5:尔非神格之材，何足论天地主宰
+	Basic6:齐格飞，汝必全躯而返，否则吾将亲往，以吾之手，将汝从那妖妇之爪中解脱！
+	Basic7:将彼等之具现体，悉数呈于吾前
+	Special1:汝之纠缠，已至厌烦。收下此物，速速离去，莫再扰吾安宁，汝之行径，实难容忍
+	Special2:欲居人先，然吾所驻之地，充斥伪善与权力之虚饰
+	Special3:昔日齐格飞亦是少年郎，于汝眼中似兄弟，于他人则如恶徒.
+	Special4:吾等圣堡，竟罹此焚劫。吾心所愿，悉于齐格飞揭咒之下，已非昔比
+	Special5:"汝且安卧于斯，余生休再相见"
+	Special6:慎尔言辞。厄莉什基迦勒，痴恋之狂渊巫女也，夺多兄之命。然其于恋人中预言成真，故非伪神
+	Special7:吾等宏图，随天纱之土而偃息。凡逆吾心爱之世者，必尽数了断
+	Special8:昭其灵魄，引之吾侧。厚赏于尔，迨天命缄默
+	Special9:尼伊维，天纱之域守护者，竟诅咒汝兄，令其于权财中独占且窃。贪婪之行，致恋人陷囹圄
+	Special10:今吾抱恙而坐，静待天纱之域变迁
 }
 
-DustNadoSpawner.DisplayName: 龙卷风生成
-Stalker.DisplayName: 潜行者
-StalkerSpawner.DisplayName: 潜行者生成
+DustNadoSpawner.DisplayName:龙卷风生成
+Stalker.DisplayName:潜行者
+StalkerSpawner.DisplayName:潜行者生成
 
-RekSnake: {
-	DisplayName: 不熄炽龙，莱克
-	BossChecklistIntegration.SpawnInfo: 歌瑟梵的忠卫.必须击败他才能拥有挑战歌瑟梵的资格.
-	Bestiary: 烬火之地的一条盘龙，端坐食物链顶端.对歌瑟梵有特别的好感，甚至成了她的贴身护卫.
-	Bestiary2: 炽阳盘龙，莱克
+RekSnake:{
+	DisplayName:不熄炽龙，莱克
+	BossChecklistIntegration.SpawnInfo:歌瑟梵的忠卫.必须击败他才能拥有挑战歌瑟梵的资格.
+	Bestiary:烬火之地的一条盘龙，端坐食物链顶端.对歌瑟梵有特别的好感，甚至成了她的贴身护卫.
+	Bestiary2:炽阳盘龙，莱克
 }
 
-RekFireCrystal.DisplayName: 莱克火晶
-RekFireEye.DisplayName: 火焰之眼
-Sun2.DisplayName: 太阳
+RekFireCrystal.DisplayName:莱克火晶
+RekFireEye.DisplayName:火焰之眼
+Sun2.DisplayName:太阳
 
-GothiviaIyx: {
-	DisplayName: 青黯琉曦，歌瑟梵•伊斯
-	BossChecklistIntegration.SpawnInfo: 击败伊瑞蒂安之后，她将在酸蚀之地等待着你.击败莱克后方能发起挑战.
-	Bestiary: 琉阳与大罗之女王.一切生命皆在她的管辖之下.
-	Bestiary2: 青黯琉曦，歌瑟梵•伊斯
+GothiviaIyx:{
+	DisplayName:青黯琉曦，歌瑟梵•伊斯
+	BossChecklistIntegration.SpawnInfo:击败伊瑞蒂安之后，她将在酸蚀之地等待着你.击败莱克后方能发起挑战.
+	Bestiary:琉阳与大罗之女王.一切生命皆在她的管辖之下.
+	Bestiary2:青黯琉曦，歌瑟梵•伊斯
 }
 
-Carmody.DisplayName: 阳炎爆
-CarmodyGreen.DisplayName: 碧绿阳炎爆
-SupernovaZapwarnFinal.DisplayName: 超新星电击警告
+Carmody.DisplayName:阳炎爆
+CarmodyGreen.DisplayName:碧绿阳炎爆
+SupernovaZapwarnFinal.DisplayName:超新星电击警告
 
-GothiviaIdle: {
-	DisplayName: 歌瑟梵
-	Bestiary: 你从歌瑟梵身上感受到一股...神圣的气息.
-	Bestiary2: ???
-	Button: 挑战
-	Basic1: 或许我就不该离开...
-	Basic2: 薇莉娅...伊瑞蒂安...
-	Basic3: 你真是个怪物
-	Basic4: ...有点东西...
-	Special1: 让莱克为她们复仇吧.对付你不需要我亲自出手，蠢货.
+GothiviaIdle:{
+	DisplayName:歌瑟梵
+	Bestiary:你从歌瑟梵身上感受到一股...神圣的气息.
+	Bestiary2:???
+	Button:挑战
+	Basic1:或许我就不该离开...
+	Basic2:薇莉娅...伊瑞蒂安...
+	Basic3:你真是个怪物
+	Basic4:...有点东西...
+	Special1:让莱克为她们复仇吧.对付你不需要我亲自出手，蠢货.
 }
 
-StartGoth: {
-	DisplayName: 唤醒歌瑟梵
-	Bestiary: 一件恶事的开端.
+StartGoth:{
+	DisplayName:唤醒歌瑟梵
+	Bestiary:一件恶事的开端.
 }
 
-RekSnakeIdle.DisplayName: 莱克
-CentipedeTail.DisplayName: 蜈蚣尾部
-CentipedeHead.DisplayName: 蜈蚣头部
-CentipedeBody.DisplayName: 蜈蚣身体
-IrravheilSlime.DisplayName: 灾疫史莱姆
-IrravheilLandwormTail.DisplayName: 灾疫蠕虫尾
-IrravheilLandwormHead.DisplayName: 灾疫蠕虫头
-IrravheilLandwormBody.DisplayName: 灾疫蠕虫身体
+RekSnakeIdle.DisplayName:莱克
+CentipedeTail.DisplayName:蜈蚣尾部
+CentipedeHead.DisplayName:蜈蚣头部
+CentipedeBody.DisplayName:蜈蚣身体
+IrravheilSlime.DisplayName:灾疫史莱姆
+IrravheilLandwormTail.DisplayName:灾疫蠕虫尾
+IrravheilLandwormHead.DisplayName:灾疫蠕虫头
+IrravheilLandwormBody.DisplayName:灾疫蠕虫身体
 
-IrravheilSprayer: {
-	DisplayName: 灾疫喷射者
-	Bestiary: 一位在被污染之前常常从伊瑞蒂安购买旧零件的卑微平民。酸蚀腐化了他的心智，促使着他寻求报复.
+IrravheilSprayer:{
+	DisplayName:灾疫喷射者
+	Bestiary:一位在被污染之前常常从伊瑞蒂安购买旧零件的卑微平民。酸蚀腐化了他的心智，促使着他寻求报复.
 }
 
-Tulacrowe: {
-	DisplayName: 图拉克罗
-	Bestiary: 在不复往日的歌维赫堡，昔日歌瑟梵最虔诚的崇拜者在腐疫的驱使下，再次起身为其而战.
+Tulacrowe:{
+	DisplayName:图拉克罗
+	Bestiary:在不复往日的歌维赫堡，昔日歌瑟梵最虔诚的崇拜者在腐疫的驱使下，再次起身为其而战.
 }
 
-NiiviCrystalStars.DisplayName: 尼伊维星状水晶
-NiiviCrystalLightning.DisplayName: 尼伊维闪电水晶
-NiiviCrystalFrost.DisplayName: 尼伊维冰冻水晶
-NiiviRoaming.DisplayName: 尼伊维
-GothiviaDeath.DisplayName: 歌瑟梵
+NiiviCrystalStars.DisplayName:尼伊维星状水晶
+NiiviCrystalLightning.DisplayName:尼伊维闪电水晶
+NiiviCrystalFrost.DisplayName:尼伊维冰冻水晶
+NiiviRoaming.DisplayName:尼伊维
+GothiviaDeath.DisplayName:歌瑟梵
 
-EreshkigalIdle: {
-	DisplayName: 厄莉什基迦勒
-	Bestiary: 禁锢了齐格飞的神秘天纱人
-	Bestiary2: 痴恋者厄莉什基迦勒
-	Button: 询问关于齐格飞
-	Button2: 给她送一件礼物
-	Basic1: 让我和我的丈夫在这里独享二人时光吧
-	Basic2: 你们都应该羡慕我！
-	Basic3: 欢迎！欢迎！来一饱眼福吧
-	Basic4: 亲爱的齐格飞...我还记得我们相遇的那天...
-	Basic5: 匆忙的来，匆忙的走，将自己搞得支离破碎...
-	Special1: 天哪天哪天哪天哪！！
-	Special2: 这是什么...不要紧，它和你一样毫无用处，像一只蚂蚁一样不值一提.你要是想送礼，就送点有价值的东西，不然我就把你扔到烬火之地永世焚烧.
-	Special3: 我的任务就是把他永远关在这里，对他来说可不是什么好消息对吧 :3
-	Special4: 我丈夫就是齐格飞.我们初次见面是在星树的圣地，我已经被他的守卫赶出那里不知道多少次了，但为了他这一切都值得.
-	Special5: 他是那么的纯粹，敢向琉明那样的高级威胁下手，还偷走了她的奇点！我就喜欢这种干事干净利落毫无顾忌的男人.
-	Special6: 我们要永远在一起~
-	Special7: 哦，还有那个莫德雷德...我敢肯定他都不知道他的妻子已经被囚禁在一把武器里了.
-	Special8: 那条蠢龙，总是守着我的宝贝不让我靠近...要不是我丈夫会生气，我早就把那龙也关到这里了.
-	Special9: 我要用多少扇门才能困住琉明？算了，也不重要，只要她不来找我的丈夫，我应该不用把她关起来.
-	Special10: Special11:
-	Special12: Special13:
+EreshkigalIdle:{
+	DisplayName:厄莉什基迦勒
+	Bestiary:禁锢了齐格飞的神秘天纱人
+	Bestiary2:痴恋者厄莉什基迦勒
+	Button:询问关于齐格飞
+	Button2:给她送一件礼物
+	Basic1:让我和我的丈夫在这里独享二人时光吧
+	Basic2:你们都应该羡慕我！
+	Basic3:欢迎！欢迎！来一饱眼福吧
+	Basic4:亲爱的齐格飞...我还记得我们相遇的那天...
+	Basic5:匆忙的来，匆忙的走，将自己搞得支离破碎...
+	Special1:天哪天哪天哪天哪！！
+	Special2:这是什么...不要紧，它和你一样毫无用处，像一只蚂蚁一样不值一提.你要是想送礼，就送点有价值的东西，不然我就把你扔到烬火之地永世焚烧.
+	Special3:我的任务就是把他永远关在这里，对他来说可不是什么好消息对吧:3
+	Special4:我丈夫就是齐格飞.我们初次见面是在星树的圣地，我已经被他的守卫赶出那里不知道多少次了，但为了他这一切都值得.
+	Special5:他是那么的纯粹，敢向琉明那样的高级威胁下手，还偷走了她的奇点！我就喜欢这种干事干净利落毫无顾忌的男人.
+	Special6:我们要永远在一起~
+	Special7:哦，还有那个莫德雷德...我敢肯定他都不知道他的妻子已经被囚禁在一把武器里了.
+	Special8:那条蠢龙，总是守着我的宝贝不让我靠近...要不是我丈夫会生气，我早就把那龙也关到这里了.
+	Special9:我要用多少扇门才能困住琉明？算了，也不重要，只要她不来找我的丈夫，我应该不用把她关起来.
+	Special10:
+	Special11:
+	Special12:
+	Special13:
 }
 
-GraveSeeker.DisplayName: 墓地探寻者
+GraveSeeker.DisplayName:墓地探寻者
 
-Azurerin: {
-	DisplayName: 艾祖瑞霖
-	Bestiary: 一只稻草人，被漂浪火焰中的热情唤醒.
+Azurerin:{
+	DisplayName:艾祖瑞霖
+	Bestiary:一只稻草人，被漂浪火焰中的热情唤醒.
 }

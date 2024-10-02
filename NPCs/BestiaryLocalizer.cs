@@ -55,7 +55,7 @@ public class BestiaryLocalizer : ModSystem
             { "Singularity Fragment", "破碎奇点" }, // SingularityFragment
             
             { "Destruction is what these bring, Fenix may of purchased some things off the black market, destroy these immediately...", "毁灭是此物唯一的用途.绯琦可能是在黑市买到的它们，见到它一定要悉数摧毁." }, // STARBOMBER
-            { "STARBOMBER", "星 爆 者" }, // STARBOMBER
+            { "STARBOMBER", "星爆者" }, // STARBOMBER
             
             { "A beloved magical stone guardian, protected the natural life and would petrify anyone who disturbs it.", "一具倍受喜爱的魔力石偶，保卫着自然生灵，擅闯者统统被其化作顽石." }, // StarrVeriplant
             

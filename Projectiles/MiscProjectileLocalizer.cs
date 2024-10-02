@@ -6,7 +6,7 @@ internal class MiscProjectileLocalizer : ModSystem
     {
         #region AuroreanStarbomber
         ForceLocalizeSystem.LocalizeByTypeName("AuroreanStarbomber", "SpawnStarBomber", new() {
-            { "STARBOMBER crashes down!", "星 爆 者 从天砸落！" },
+            { "STARBOMBER crashes down!", "星爆者从天砸落！" },
         });
         #endregion
         #region BloodLampProjectileModifications

@@ -69,7 +69,7 @@ MorrowedBroochA: {
 		+2防御
 		+2%远程伤害
 		+25%弓箭伤害
-		这就是Deep Dark ♂ 寓言的力量吗
+		这就是寓言的力量吗
 		'''
 }
 
@@ -79,7 +79,7 @@ SlimeBroochA: {
 		'''
 		跳得更高！
 		快速下落，弹弹的！
-		（汉化者注：不免疫摔落伤害）
+		（不免疫摔落伤害）
 		好可耐~ ：P
 		'''
 }
@@ -146,7 +146,8 @@ PlantH: {
 	Tooltip:
 		'''
 		百花草木之力与你同在！
-		+40生命 +15防御
+		+40生命
+		+15防御
 		但你的速度会降低 0v0
 		'''
 }
@@ -197,7 +198,8 @@ CelestiaMoonBreastplate: {
 	Tooltip:
 		'''
 		女皇的魔法精华！
-		+60最大魔力值，+1仆从栏
+		+60最大魔力值
+		+1仆从栏
 		+20最大生命值
 		'''
 }
@@ -227,7 +229,8 @@ CelestiaMoonMask: {
 	Tooltip:
 		'''
 		女皇的魔法精华！
-		+20最大魔力值，+1仆从栏
+		+20最大魔力值
+		+1仆从栏
 		'''
 }
 
@@ -1512,7 +1515,7 @@ GovheilChainplate: {
 GovheilBreastplate: {
 	Tooltip:
 		'''
-		6%魔法与召唤伤害！[c/ff0000:【乘算】]
+		+6%魔法与召唤伤害！[c/ff0000:【乘算】]
 		+50最大魔力值
 		+10最大生命值
 		+1仆从栏
@@ -1894,7 +1897,11 @@ OceanScroll: {
 
 OceansTrinket: {
 	DisplayName: 海之奇珍
-	Tooltip: +1仆从上限，+8%召唤伤害！[c/ff0000:【乘算】]
+	Tooltip: 
+	    '''
+	    +1仆从上限
+	    +8%召唤伤害！[c/ff0000:【乘算】]
+	    '''
 }
 
 RuneOfCorsage: {
@@ -3753,7 +3760,7 @@ ShadowCloak: {
 	DisplayName: 影匿披风
 	Tooltip:
 		'''
-		8防御
+		+8防御
 		+4%伤害减免
 		降低仇恨，接近你的敌人会被施加减益
 		融入暗影...
@@ -4025,7 +4032,7 @@ Lacerator: {
 		{$CommonItemTooltip.Whips}
 		这武器打中敌人后，敌人就像被切成两半，血量和防御都只剩下一半
 		真是切片切丁，爽快极了！
-		（汉化者注：对boss无效）
+		（对boss无效）
 		'''
 }
 
@@ -4102,7 +4109,11 @@ STARCORE: {
 
 BottleOfGrail: {
 	DisplayName: 砾金瓶
-	Tooltip: +1召唤栏，并附赠一个关不掉的星璇背景
+	Tooltip: 
+	    '''
+	    +1召唤栏
+	    附赠一个关不掉的星璇背景
+	    '''
 }
 
 ReverieExtenderPowder: {
@@ -4122,7 +4133,11 @@ MidfortuneExtenderPowder: {
 
 BonedThrowBroochA: {
 	DisplayName: 掷骨饰符
-	Tooltip: 增加20%投掷速度和伤害，增加移速！[c/ff0000:【乘算】]
+	Tooltip: 
+	    '''
+	    增加20%投掷速度和伤害
+	    增加移速！[c/ff0000:【乘算】]
+	    '''
 }
 
 LuckyWinnerBroochA: {
@@ -4466,7 +4481,8 @@ MagicalBroochA: {
 	Tooltip:
 		'''
 		看来你真想做个法师啊
-		+100最大魔力值，+50最大生命值
+		+100最大魔力值
+		+50最大生命值
 		获得魔法手铐与魔力花效果
 		减少95%魔力消耗，是的你没看错
 		+20%魔法伤害[c/ff0000:【乘算】]
@@ -4484,7 +4500,10 @@ PotionOfHallowWand: {
 
 AppretienceBreastplate: {
 	DisplayName: 学徒胸甲
-	Tooltip: +20%暴击率与+5最大生命值！
+	Tooltip:
+	    '''+20%暴击率
+	    +5最大生命值！
+	    '''
 }
 
 AppretienceHat: {
@@ -4637,7 +4656,8 @@ FireEmblem: {
 		'''
 		你的攻击同时造成随机火焰减益
 		暴击有几率引发爆炸并灼烧敌人！
-		...你是不是以为这是别的什么东西？（汉化者注：同名游戏《火焰纹章》）
+		...你是不是以为这是别的什么东西？
+		（同名游戏《火焰纹章》）
 		'''
 }
 
@@ -4657,7 +4677,7 @@ IcarusFeather: {
 		'''
 		即使飞行时间耗尽也可以继续飞行！
 		...但如果你这么做，你的翅膀会起火，灼烧生命并降低灵活性
-		（汉化者注：伊卡洛斯，古希腊神话人物，大发明家代达罗斯之子.两人用代达罗斯造出的翅膀逃离监狱时，伊卡洛斯固定翅膀用的蜡被太阳融化，坠入海洋身亡）
+		（伊卡洛斯，古希腊神话人物，大发明家代达罗斯之子.两人用代达罗斯造出的翅膀逃离监狱时，伊卡洛斯固定翅膀用的蜡被太阳融化，坠入海洋身亡）
 		'''
 }
 
@@ -5600,7 +5620,13 @@ HeatedVerliaBroochA: {
 }
 
 AmberBroochA: {
-	Tooltip: 增加40%移动速度，+5防御，并增加挖掘速度！玩的开心哦~
+	Tooltip: 
+	    '''
+	    增加40%移动速度
+	    +5防御
+	    增加挖掘速度！
+	    玩的开心哦~
+	    '''
 	DisplayName: 琥珀饰符
 }
 
@@ -5634,8 +5660,8 @@ DefensiveGraditudeBroochA: {
 	Tooltip:
 		'''
 		+50防御
-		哇..哦..你可不需要这个
 		-30%伤害[c/ff0000:【乘算】]
+		哇..哦..你可不需要这个
 		'''
 }
 
@@ -5754,7 +5780,7 @@ IrradiatedArrow: {
 }
 
 STARBLOCKER: {
-	DisplayName: 繁 星 阻 御
+	DisplayName: 繁星阻御
 	Tooltip: 使用此物品来中止一场极光星雨 :(
 }
 
@@ -5998,7 +6024,8 @@ IllurianWarriorChestplate: {
 IllurianCrestplate: {
 	Tooltip:
 		'''
-		+3仆从栏，+50最大魔力值
+		+3仆从栏
+		+50最大魔力值
 		-50最大生命值
 		'''
 	DisplayName: 星树纹饰胸甲
@@ -6007,8 +6034,10 @@ IllurianCrestplate: {
 IllurianCrestpants: {
 	Tooltip:
 		'''
-		+1仆从栏，+10%移动速度
-		+20%伤害，+15盔甲穿透[c/ff0000:【乘算】]
+		+1仆从栏
+		+10%移动速度
+		+20%伤害
+		+15盔甲穿透[c/ff0000:【乘算】]
 		-90最大生命值
 		'''
 	DisplayName: 星树纹饰护胫
@@ -6344,7 +6373,8 @@ GarbageChestplate: {
 		+25%召唤和投掷伤害！
 		10%投掷速度
 		+1仆从栏
-		+40最大生命值，并提升生命再生！
+		+40最大生命值
+		并提升生命再生！
 		赶紧把它扔了吧！
 		'''
 	DisplayName: 垃圾胸甲
@@ -6695,7 +6725,7 @@ Electrifying: {
 }
 
 STARBUST: {
-	DisplayName: 星 辰 破 晓
+	DisplayName: 星辰破晓
 	Tooltip: 星辰轰炸者的机枪旋律，于星际间狂舞，织梦为弹，燃尽宇宙的夜
 }
 
@@ -6805,7 +6835,8 @@ RadiantsparkBoots: {
 		稍微提升生命再生
 		+30最大生命值！
 		足下生花，免疫岩浆！
-		+15%暴击率，+5%伤害！[c/ff0000:【乘算】]
+		+15%暴击率
+		+5%伤害！[c/ff0000:【乘算】]
 		它会是你未来战斗中的有力帮助
 		'''
 	DisplayName: 辉光烁影靴
@@ -7065,12 +7096,16 @@ TheMarksman: {
 
 STARBOMBERBossRel: {
 	Tooltip: ""
-	DisplayName: 星 爆 者 圣物
+	DisplayName: 星爆者 圣物
 }
 
 MardenthMask: {
 	DisplayName: 玛登斯的蒙纱假面
-	Tooltip: +10最大生命值，但-10%伤害！[c/ff0000:【乘算】]
+	Tooltip:
+	    ''' 
+	    +10最大生命值
+	    -10%伤害！[c/ff0000:【乘算】]
+	    '''
 }
 
 MardenthPants: {
@@ -7204,7 +7239,7 @@ VeiledScriptureMiner2: {
 
 		等下等下等下，刚才我看到前面有个白毛少女，当时我就想，她可真好看.
 		冰邦不知道又抽什么风，居然直接走上去和她撩骚...然后她过来对着我们一顿猛打.
-		挖煤工作结束.向 星 爆 者 单元汇报.
+		挖煤工作结束.向 星爆者 单元汇报.
 
 		- 达尔里·米夏的日志-2
 
@@ -7627,14 +7662,15 @@ SetBonus: {
 	AcidVisor: 站立不动时产生剧毒光环!
 	AlcaliteMask:
 		'''
-		+1随从上限
+		+1仆从栏
 		星树的明星护佑着你!
 		'''
 	AlsisMask:
 		'''
 		你是一名真正的大法师...
 		获得魔力花、魔法手铐的效果，并增加魔力星的拾取范围！
-		减少70%的魔力消耗并提高魔力再生速度
+		减少70%的魔力消耗
+		提高魔力再生速度
 		'''
 	ArtisanMask:
 		'''
@@ -7642,7 +7678,8 @@ SetBonus: {
 		每隔一小段时间进行一次倒计时，当你听到“Zero“时
 		你将必定暴击，伤害加倍！
 		移动时留下彩墨轨迹
-		+20%暴击率，+20护甲穿透
+		+20%暴击率
+		+20护甲穿透
 		'''
 	AstrasilkHead:
 		'''
@@ -7653,7 +7690,8 @@ SetBonus: {
 		'''
 		这幅盔甲已经磨损了...
 		给予熔火箭袋的效果
-		增加20%远程伤害，但是生命值上限固定为400
+		增加20%远程伤害
+		但是生命值上限固定为400
 		'''
 	DaediaMask:
 		'''
@@ -7673,7 +7711,7 @@ SetBonus: {
 		'''
 	ElagentHead:
 		'''
-		+1随从上限
+		+1仆从栏
 		+45最大生命
 		击中敌人有小概率呼唤天使神力对敌人造成重击！
 		'''
@@ -7693,26 +7731,26 @@ SetBonus: {
 	GarbageMask:
 		'''
 		免疫击退
-		+2随从上限
+		+2仆从栏
 		'''
 	GovheilHelmet:
 		'''
 		降低仇恨
 		歌维赫之刃将会保护你
 		每过几秒会大幅提高你的魔法和召唤伤害
-		+2随从上限!
+		+2仆从栏!
 		'''
 	GovheilMask:
 		'''
 		降低仇恨
 		歌维赫魔能弓将会随你而战
 		每过几秒会大幅提高你的魔法和召唤伤害
-		+2随从上限!
+		+2仆从栏!
 		'''
 	HeavyMetalHead:
 		'''
 		召唤两个玄铁护卫来给你而战
-		+1随从上限
+		+1仆从栏
 		'''
 	HuntrianHelmet:
 		'''
@@ -7745,7 +7783,7 @@ SetBonus: {
 	MiracleHead:
 		'''
 		+16%召唤伤害
-		+2哨兵上限
+		+2哨兵栏
 		你的攻击可以撕裂敌人的灵魂
 		收集灵魂碎片将会增加你的挥鞭速度和召唤伤害
 		当你受到伤害时会重置此效果
@@ -7753,7 +7791,7 @@ SetBonus: {
 	GintzeMask:
 		'''
 		召唤两个玄铁护卫来给你而战
-		+1随从上限
+		+1仆从栏
 		'''
 	ScissorianMask:
 		'''
@@ -7825,7 +7863,7 @@ SetBonus: {
 }
 
 GintzelShield: {
-	DisplayName: 玄铁之盾
+	DisplayName: 玄铁冲击盾
 	Tooltip: ""
 }
 
@@ -7849,6 +7887,10 @@ VirulentLegs: {
 }
 
 Lihh: {
-	Tooltip: 连续射出两支箭！每第三次射击发射燃烧箭！
-	DisplayName: Lihh
+	Tooltip:
+		'''
+		连续射出两支箭！
+		每第三次射击发射燃烧箭！
+		'''
+	DisplayName: 承阳弓
 }
