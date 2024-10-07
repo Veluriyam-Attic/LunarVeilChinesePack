@@ -109,7 +109,7 @@ IllusionistBook: {
 		'''
 		增加生命再生！
 		+3%伤害
-		+5%暴击率
+		+3%暴击率
 		'''
 }
 
@@ -162,7 +162,7 @@ SapContainer: {
 }
 
 WoodenShield: {
-	DisplayName: 木制盾牌
+	DisplayName: 木制冲击盾牌
 	Tooltip:
 		'''
 		真棒，一面木盾？
