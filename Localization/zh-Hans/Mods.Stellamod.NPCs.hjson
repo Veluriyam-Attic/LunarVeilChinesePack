@@ -205,7 +205,7 @@ SunStalkerDeath.DisplayName: 猎日游隼
 
 SunStalker: {
 	DisplayName: 猎日游隼
-	BossChecklistIntegration.SpawnInfo: 在沙漠中的祭坛使用[i:Stellamod/SunClaw]
+	BossChecklistIntegration.SpawnInfo: 右键沙漠中的祭坛
 	Bestiary: 曾经的空中猛将，与所有巨鸟一样，出生于烬火之地.
 }
 

@@ -38,7 +38,7 @@ DiariBroochA: {
 		+2防御
 		火焰行走特效？
 		还有永久饱腹！
-		+10最大生命值值上限和最大魔力值值上限
+		+10最大生命值上限和最大魔力值上限
 		+5%伤害！[c/ff0000:【乘算】]
 		（Diari是作者在Steam上的一款游戏）
 		'''
@@ -1018,8 +1018,8 @@ Auroran: {
 }
 
 EnergizedNail: {
-	DisplayName: 能量之钉
-	Tooltip: 带电的钉子，真不可思议
+	DisplayName: 勇者的冲击盾
+	Tooltip: 带电的勇者之盾，真不可思议
 }
 
 FrostSwing: {
@@ -1228,7 +1228,7 @@ MorrowSalface: {
 }
 
 SteamedNail: {
-	DisplayName: 蒸气铁锥
+	DisplayName: 蒸气冲击盾
 	Tooltip: 用力撞他们（我说的就是这个意思）
 }
 
@@ -1982,7 +1982,7 @@ SunGlyph: {
 }
 
 WoodShield: {
-	DisplayName: 木护盾
+	DisplayName: 木制冲击盾
 	Tooltip: 更好的楯
 }
 
@@ -2201,7 +2201,7 @@ SunStalkerBag: {
 }
 
 VoidLantern: {
-	DisplayName: 虚冥提灯
+	DisplayName: 净月奇点之灯
 	Tooltip: ""
 }
 
@@ -2668,8 +2668,8 @@ TychineGun: {
 }
 
 VoidBlaster: {
-	DisplayName: 虚无破空
-	Tooltip: 以虚无为动力，射出的正是——子弹！
+	DisplayName: 皓月破空
+	Tooltip: 以皓月为动力，射出的正是——子弹！
 }
 
 WingedFury: {
@@ -2726,7 +2726,7 @@ SwarmerStaff: {
 }
 
 VoidStaff: {
-	DisplayName: 虚无法杖
+	DisplayName: 皓月法杖
 	Tooltip:
 		'''
 		召唤迷你奇点为你战斗！
@@ -2735,8 +2735,8 @@ VoidStaff: {
 }
 
 X3144: {
-	DisplayName: X3144
-	Tooltip: ""
+	DisplayName: 探测遥控装置 (X3144)
+	Tooltip: 召唤一个毁灭者探针为你战斗！
 }
 
 AcidicLancher: {
@@ -2996,7 +2996,7 @@ MagnusMagnum: {
 }
 
 VoidKey: {
-	DisplayName: 虚空钥匙
+	DisplayName: 皓月之匙
 	Tooltip: 带上此物，去冰川下的深渊寻找宝物吧
 }
 
@@ -3361,7 +3361,7 @@ FurihaMKIII: {
 }
 
 M61X: {
-	DisplayName: M61 X
+	DisplayName: 赤铁速驰者 (M61X)
 	Tooltip: ""
 }
 
@@ -3598,7 +3598,7 @@ AlsisMask: {
 
 WickofSorcery: {
 	DisplayName: 魔咒烛心
-	Tooltip: 有史以来最好的棍子，但也仅仅只是一个棍子
+	Tooltip: 有史以来最好的棍子，但也仅仅只是一个棍子.当你完成梅瑞娜的任务线后获得此物
 }
 
 Voyager: {
@@ -4156,7 +4156,7 @@ GrailHairpinYoyo: {
 }
 
 StarringGraft: {
-	DisplayName: 星辰接引者
+	DisplayName: 极星映天
 	Tooltip: 把那些星星从地上捡起来吧
 }
 
@@ -4443,7 +4443,7 @@ CatacombTrapStoneBlock: {
 
 CatacombsKey: {
 	DisplayName: 地下墓穴钥匙
-	Tooltip: 使用它来进入位于海洋、沙漠、与地下的墓穴！
+	Tooltip: 用这些进入极光下的天纱群系中的地下墓穴.
 }
 
 CatacombsDoor: {
@@ -6095,8 +6095,12 @@ MushyCard: {
 }
 
 XX4160: {
-	Tooltip: ""
-	DisplayName: X X4160
+	DisplayName: 迷你枪 (X-X4160)
+	Tooltip:
+		'''
+		右键点击可以在激光机枪模式和加特林机枪模式之间切换.
+		如果长时间使用激光机枪模式，武器会过热！
+		'''
 }
 
 ExampleScriptureItem: {
@@ -6809,7 +6813,7 @@ TempleKeyPart: {
 
 M38F30: {
 	Tooltip: ""
-	DisplayName: M38 F30
+	DisplayName: 赤铁重集束枪
 }
 
 StarSilk: {
