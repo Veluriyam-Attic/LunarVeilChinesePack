@@ -6095,12 +6095,12 @@ MushyCard: {
 }
 
 XX4160: {
-	DisplayName: 迷你枪 (X-X4160)
 	Tooltip:
 		'''
 		右键点击可以在激光机枪模式和加特林机枪模式之间切换.
 		如果长时间使用激光机枪模式，武器会过热！
 		'''
+	DisplayName: 迷你枪 (X-X4160)
 }
 
 ExampleScriptureItem: {
