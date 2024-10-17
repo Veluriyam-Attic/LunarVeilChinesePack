@@ -596,7 +596,7 @@ Medal: {
 	Tooltip:
 		'''
 		一枚勋章，看起来十分古老
-		把他放在你的物品栏中，可以吸引某人，双重意义上的...
+		把它放在你的物品栏中，可以吸引某人，双重意义上的...
 		'''
 }
 
@@ -4103,7 +4103,7 @@ CelestiasWeddingRing: {
 }
 
 STARCORE: {
-	DisplayName: 星 爆 之 核
+	DisplayName: 星爆之核
 	Tooltip: 由最具毁灭性的轰炸机械掉落
 }
 
