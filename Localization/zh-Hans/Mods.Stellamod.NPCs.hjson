@@ -891,7 +891,7 @@ SupernovaOrb: {
 
 SupernovaFragment: {
 	DisplayName: 破碎超新星
-	BossChecklistIntegration.SpawnInfo: 前往烬火之地，巴结奥丁直到他给你一份为厄莉什基迦勒准备的礼物.接受礼物后，她就会给你需要的东西.
+	BossChecklistIntegration.SpawnInfo: 前往烬火之地，向奥丁巴结一份给厄莉什基迦勒的礼物，然后去狂渊将其送给她。接受礼物后，她可能会以你想要的东西来报答你
 	Bestiary: 天纱琉明赠予其姐妹的强大礼物
 	Bestiary2: 破碎超新星
 }
