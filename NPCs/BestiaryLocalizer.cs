@@ -84,7 +84,7 @@ public class BestiaryLocalizer : ModSystem
             { "A Captain of Gofria's ranks, be careful", "歌瑟梵麾下的士兵！需谨慎应对" }, // GintzeSolider
             { "Lowest of the Gintze but can wipe you out fast! They need food too yknow :(", "最低等的玄铁士兵，但仍然致命！他们也需要吃饭的呀 :(" }, // Gintzling
             { "The highest form of worshippers of Gothivia corrupted and risen from the grounds of the fallen Govheil Castle", "在不复往日的歌维赫堡，昔日歌瑟梵最虔诚的崇拜者在腐疫的驱使下，再次起身为其而战." }, // Tulacrowe
-            { "A lowly civilian who bought old parts from Irradia before being contaminated. They now seek revenge after having their minds altered by the acid.", "一位在被污染之前常常从伊瑞蒂安购买旧零件的卑微平民。酸蚀腐化了他的心智，促使着他寻求报复." }, // IrravheilSprayer
+            { "A lowly civilian who bought old parts from Irradia before being contaminated. They now seek revenge after having their minds altered by the acid.", "一位在被污染之前常常从伊瑞蒂安购买旧零件的卑微平民.酸蚀腐化了他的心智，促使着他寻求报复." }, // IrravheilSprayer
             { "Guardians who are ready to die for Gothivia?", "心甘情愿为歌瑟梵献出生命的守卫" }, // GovheilGuardian
             { "The last protectors of the govheil, and they are pretty formidable...", "歌维赫堡最后的保护者，他们不容小觑..." }, // GovheilProtector
             { "A respected sorcerer from Sigfried's old rein", "一名来自齐格飞时代受人尊敬的魔法师" }, // IllurianMage
