@@ -11,7 +11,7 @@ LonelySorceress: {
 	Basic4: 啊哈哈哈哈哈哈哈哈！我就是这个星球上最邪恶的魔法少女！！！
 	Basic5: 我当然想要你留下啦！你能在这陪我一会...到永远吗？这不是什么大问题吧.
 	Basic6: 之前有两个人从这路过，其中一个和我长得很像，甚至也有狐狸耳朵！我想认识认识她.
-	Basic7: 你搬过来住吧！这样这里就只有我们两个啦！:)
+	Basic7: 你搬过来住吧！这样这里就只有我们两个啦！:）
 	Basic8: 没有人理解我，但我从你的眼睛里能看得出，咱俩就是天作之合！:p
 	Basic9: 如果你想的话，咱们来玩玩吧！
 	Basic10: 这里好像不小心变成共产主义国家了...
@@ -103,7 +103,7 @@ GovheilGuardian: {
 
 Gintzling: {
 	DisplayName: 玄铁小兵
-	Bestiary: 最低等的玄铁士兵，但仍然致命！他们也需要吃饭的呀:(
+	Bestiary: 最低等的玄铁士兵，但仍然致命！他们也需要吃饭的呀:（
 }
 
 GintzeWindRider.DisplayName: 玄铁风骑
@@ -181,7 +181,7 @@ GhostCharger.DisplayName: 幽灵奇兵
 
 CloneV: {
 	DisplayName: 薇莉亚分身
-	Bestiary: 一个强力存在的克隆体:)
+	Bestiary: 一个强力存在的克隆体:）
 }
 
 Zapwarn.DisplayName: 打击警告

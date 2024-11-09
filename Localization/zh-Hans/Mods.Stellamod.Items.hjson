@@ -137,7 +137,7 @@ PaperPaws: {
 	Tooltip:
 		'''
 		你的召唤物们已经很努力啦，关照一下它们吧
-		+1仆从栏
+		+1随从栏
 		'''
 }
 
@@ -179,7 +179,6 @@ Steali: {
 		双击方向键冲刺，冲刺过程中无敌！
 		增加生命再生
 		冲刺过程中不能攻击
-		某穿着黑色披风的白色小骑士表示很赞
 		'''
 }
 
@@ -199,7 +198,7 @@ CelestiaMoonBreastplate: {
 		'''
 		女皇的魔法精华！
 		+60最大魔力值
-		+1仆从栏
+		+1随从栏
 		+20最大生命值
 		'''
 }
@@ -208,7 +207,7 @@ CelestiaMoonHelmet: {
 	DisplayName: 星月之盔
 	Tooltip:
 		'''
-		帝王的魔法精华！
+		女皇的魔法精华！
 		+2%近战与远程伤害
 		+35最大生命值
 		'''
@@ -230,7 +229,7 @@ CelestiaMoonMask: {
 		'''
 		女皇的魔法精华！
 		+20最大魔力值
-		+1仆从栏
+		+1随从栏
 		'''
 }
 
@@ -271,7 +270,7 @@ LovestruckBreastplate: {
 	Tooltip:
 		'''
 		感受爱意
-		+60最大生命值，+1仆从栏
+		+60最大生命值，+1随从栏
 		'''
 }
 
@@ -300,7 +299,7 @@ GintzeMask: {
 	Tooltip:
 		'''
 		稀有金属制成！
-		+2仆从栏
+		+2随从栏
 		+50最大生命值
 		'''
 }
@@ -408,7 +407,7 @@ VerlMask: {
 	DisplayName: 薇月面具
 	Tooltip:
 		'''
-		戴上它你瞬间就觉得自己变漂亮了！
+		戴上它你有没有觉得自己变漂亮了！
 		+7%远程伤害
 		+15暴击率！
 		+20最大生命值
@@ -881,8 +880,8 @@ BonePicklerCard: {
 	DisplayName: 骨尘引爆符牌
 	Tooltip:
 		'''
-		以神秘粉末标记敌手以神秘粉末标记敌手
-		挥动“骨尘引爆符牌”，长按攻击，连锁爆炸席卷战场，敌手瞬间化为尘埃
+		以神秘粉末标记敌方以神秘粉末标记敌方
+		挥动“骨尘引爆符牌”，长按攻击，连锁爆炸席卷战场，敌方瞬间化为尘埃
 		'''
 }
 
@@ -890,7 +889,7 @@ DaedCard: {
 	DisplayName: 幽冥符牌
 	Tooltip:
 		'''
-		以神秘粉末标记敌手
+		以神秘粉末标记敌方
 		长按攻击，引爆标记处，幽冥之火瞬间吞噬敌人，战场为之震动
 		'''
 }
@@ -899,7 +898,7 @@ EYIgniter: {
 	DisplayName: 天眼符牌
 	Tooltip:
 		'''
-		以神秘粉末标记敌手
+		以神秘粉末标记敌方
 		长按攻击按钮，释放出毁灭性的能量，让敌人无处遁形
 		'''
 }
@@ -908,7 +907,7 @@ FrostCard: {
 	DisplayName: 霜寒符牌
 	Tooltip:
 		'''
-		以神秘粉末标记敌手
+		以神秘粉末标记敌方
 		长按攻击按钮，释放霜冻能量，引爆标记，让敌人在冰霜中颤抖，化为寒霜之下的尘埃
 		'''
 }
@@ -917,8 +916,8 @@ GothivCard: {
 	DisplayName: 哥特符牌
 	Tooltip:
 		'''
-		以神秘粉末标记敌手
-		长按攻击按钮，引爆标记，造成爆炸伤害
+		以神秘粉末标记敌方
+		先用粉末击中敌人，然后切换到这个武器并攻击以引发爆炸！
 		'''
 }
 
@@ -926,8 +925,8 @@ LovestruckCard: {
 	DisplayName: 恋心符牌
 	Tooltip:
 		'''
-		以神秘粉末标记敌手
-		长按攻击按钮，引爆标记，造成爆炸伤害
+		以神秘粉末标记敌方
+		先用粉末击中敌人，然后切换到这个武器并攻击以引发爆炸！
 		'''
 }
 
@@ -935,8 +934,8 @@ ScorcheCard: {
 	DisplayName: 炙炎符牌
 	Tooltip:
 		'''
-		以神秘粉末标记敌手
-		长按攻击按钮，引爆标记，造成爆炸伤害
+		以神秘粉末标记敌方
+		先用粉末击中敌人，然后切换到这个武器并攻击以引发爆炸！
 		'''
 }
 
@@ -944,8 +943,8 @@ StarrCard: {
 	DisplayName: 星辉符牌
 	Tooltip:
 		'''
-		以神秘粉末标记敌手
-		长按攻击按钮，引爆标记，造成爆炸伤害
+		以神秘粉末标记敌方
+		先用粉末击中敌人，然后切换到这个武器并攻击以引发爆炸！
 		'''
 }
 
@@ -953,8 +952,8 @@ StarterCard: {
 	DisplayName: 起始符牌
 	Tooltip:
 		'''
-		以神秘粉末标记敌手
-		长按攻击按钮，引爆标记，造成爆炸伤害
+		以神秘粉末标记敌方
+		先用粉末击中敌人，然后切换到这个武器并攻击以引发爆炸！
 		'''
 }
 
@@ -962,8 +961,8 @@ WCIgniter: {
 	DisplayName: 万能符牌
 	Tooltip:
 		'''
-		以神秘粉末标记敌手
-		长按攻击按钮，引爆标记，造成爆炸伤害
+		以神秘粉末标记敌方
+		先用粉末击中敌人，然后切换到这个武器并攻击以引发爆炸！
 		'''
 }
 
@@ -1004,7 +1003,7 @@ Splitflame: {
 
 Antaciz: {
 	DisplayName: 安塔奇飞刃
-	Tooltip: 飞转利刃 扫清障碍
+	Tooltip: 召唤一个跟随鼠标移动的旋转飞刃！
 }
 
 Auroran: {
@@ -1042,12 +1041,12 @@ Gutinier: {
 
 HornedNail: {
 	DisplayName: 角刺之钉
-	Tooltip: 于滑稽之爪下，净涤尘埃，笑意盎然
+	Tooltip: 冲向鼠标位置，如果冲刺过程中击中了敌人会反弹
 }
 
 MorrowRapier: {
 	DisplayName: 幽曦之锋
-	Tooltip: 戳刺武器，功能明确——就是戳
+	Tooltip: 功能明确——就是戳
 }
 
 MorrowSword: {
@@ -1094,10 +1093,10 @@ PocketSand: {
 		'''
 		向他们洒下魔法尘
 		穿透铠甲，敌人无处遁形，沙粒成刃
-		神秘之尘，战斗中不可或缺，巧用制胜
+		神秘之尘，战时不可或缺，巧用制胜
 		'''
 }
-
+// 没有这玩意
 ArcanalPowder: {
 	DisplayName: 星烁魔法尘
 	Tooltip:
@@ -1207,8 +1206,8 @@ WoodenCrossbow: {
 	DisplayName: 木弩
 	Tooltip:
 		'''
-		这把简约的弩，一次三箭齐发，破空之声，震撼人心
-		只需轻按，连珠箭矢，如流星划破夜空，璀璨夺目
+		请等待箭矢完成填装
+		一次可射出三只箭矢
 		'''
 }
 
@@ -1217,14 +1216,18 @@ Hornet: {
 	Tooltip:
 		'''
 		风度翩翩，高贵非凡！
-		射出优雅炸弹与弹丸，数量惊人，如星辰般璀璨
-		弹雨盛宴，彰显力量与尊贵，一场视觉与战斗的双重盛宴
+		发射时同时射出子弹和弹丸
+		弹丸会产生爆炸
 		'''
 }
 
 MorrowSalface: {
 	DisplayName: 古谕萨尔法斯
-	Tooltip: 先连射三箭，随后施放巨大秘法箭，古谕之力，破敌于无形
+	Tooltip: 
+		'''
+		先连射三箭，随后施放巨大秘法箭
+		古谕之力，破敌于无形
+		'''
 }
 
 SteamedNail: {
@@ -1236,9 +1239,8 @@ Teraciz: {
 	DisplayName: 彩绘魔炮
 	Tooltip:
 		'''
-		油漆子弹，现实重绘新画卷
-		现实涂鸦，一发入魂笑开颜
-		精准打击，色彩斑斓敌消散
+		喷出绚丽的色彩！
+		重绘你的世界吧！
 		'''
 }
 
@@ -1256,8 +1258,8 @@ wowgun: {
 	DisplayName: WOW
 	Tooltip:
 		'''
-		你用木头造枪，想象它威力无边
-		我以声音为弹，助你击中所愿之地
+		汝用木头造枪，想象它威力无边
+		咱以声音为弹，助汝达所愿之地
 		'''
 }
 
@@ -1267,7 +1269,7 @@ AlcadizDagger: {
 		'''
 		你的召唤物将优先攻击被集火的敌人
 		召唤物将从你的盾中显现出来
-		它们将作为临时召唤物，为你的其他仆从提供支援！
+		它们将作为临时召唤物，为你的其他随从提供支援！
 		当它激活时，它会为你加持，让你的防御力提升10点！
 		'''
 }
@@ -1341,9 +1343,10 @@ BurningAngel: {
 	DisplayName: 烈焰天使
 	Tooltip:
 		'''
-		斧雨连天，触地轰鸣
-		风向随心，连击加速
-		重金铸斧，力撼千钧
+		向鼠标位置射出飞斧
+		在空中停滞一段时间后爆炸
+		连续命中会加快下一次投掷速度！
+		由沉重的传说中的金属制成！
 		'''
 }
 
@@ -1376,12 +1379,12 @@ WeiI: {
 	DisplayName: Wei I
 	Tooltip: ""
 }
-
+// 无实物
 ZebiI: {
 	DisplayName: Zebi I
 	Tooltip: ""
 }
-
+// 无实物
 ShrineLifeCI: {
 	Tooltip: ""
 	DisplayName: 生命水晶圣坛
@@ -1391,8 +1394,9 @@ Curlistine: {
 	DisplayName: 星河锁愿·夜语剑
 	Tooltip:
 		'''
-		唯有敌影临近，星辰漩涡始动，锁剑如流星雨倾泻而下，精准无遗.
-		维尔利亚之愿，化作守护之光，于你身畔绽放，赐予无尽勇气与希望.
+		[c/46b5e0:仅当附近有敌人时才有效]
+		射出许多由旋转的星辰引导的链剑.
+		薇莉娅之愿，化作守护之光，于你身畔绽放，赐予无尽勇气与希望.
 		'''
 }
 
@@ -1462,7 +1466,7 @@ SupernovaSitar: {
 		'''
 		爱意浓浓
 		月与星，薇莉亚之力
-		专属礼物，为你定制
+		这是专门给你的礼物！
 		'''
 }
 
@@ -1518,7 +1522,7 @@ GovheilBreastplate: {
 		+6%魔法与召唤伤害！[c/ff0000:【乘算】]
 		+50最大魔力值
 		+10最大生命值
-		+1仆从栏
+		+1随从栏
 		'''
 	DisplayName: 歌维赫胸甲
 }
@@ -1584,7 +1588,7 @@ DaediaBreastplate: {
 	Tooltip:
 		'''
 		+60最大生命值
-		+2仆从栏
+		+2随从栏
 		'''
 	DisplayName: 黛蒂亚胸甲
 }
@@ -1628,17 +1632,17 @@ MerchantCrossbow: {
 		'''
 		谁料商贾亦武行，售卖兵器显神通，跨界经营展宏图
 		手持弩弓显威风，商道江湖两相宜，刚柔并济显英姿
-		笑谈间，慷慨赠弩，商海浮沉皆从容，豪情洒脱笑江湖
+		笑谈间，慨赠弩，商海浮沉皆从容，豪情洒脱笑江湖
 		'''
 }
 
 LeadCrossbow: {
-	Tooltip: 轻握简弩，蓄力倾泻箭雨，于战场织就一曲钢铁与勇气的颂歌.
+	Tooltip: 蓄力后一次性射出大量箭矢
 	DisplayName: 铅弩
 }
 
 IronCrossbow: {
-	Tooltip: 简约之弩，蓄力一按，化静为动，倾泻无尽箭矢，编织成夜空中最致命的流星雨.
+	Tooltip: 蓄力后一次性射出大量箭矢
 	DisplayName: 铁弩
 }
 
@@ -1646,8 +1650,8 @@ DungeonCrossbow: {
 	Tooltip:
 		'''
 		哦，真有点阴森...
-		一把简单的弩弓，蓄力一按，射出弩箭
-		击中目标，骨骼显现，惊异无比
+		蓄力后一次性射出大量箭矢
+		击飞敌方的骨头！
 		'''
 	DisplayName: 骨织弩
 }
@@ -1656,8 +1660,8 @@ GoldCrossbow: {
 	DisplayName: 黄金弩
 	Tooltip:
 		'''
-		这柄弩，简约设计中蕴含着连续射击的力量，只需蓄力一按，箭矢如雨倾泻而出
-		它更镶嵌了红宝石箭头，每一次发射，都是瑰丽与力量的交织，让对手在惊艳中败退！
+		蓄力后一次性射出大量箭矢
+		箭头更是镶嵌了红玉！
 		'''
 }
 
@@ -1665,8 +1669,8 @@ PlatinumCrossbow: {
 	DisplayName: 铂金弩
 	Tooltip:
 		'''
-		寻常之弩，连珠射矢破长空
-		红宝石箭，璀璨光芒映血红
+		蓄力后一次性射出大量箭矢
+		箭头更是镶嵌了红玉！
 		'''
 }
 
@@ -1674,17 +1678,17 @@ SilverCrossbow: {
 	DisplayName: 银弩
 	Tooltip:
 		'''
-		寻常之弩，连珠射矢破长空
-		蓝宝石箭藏于简易之弩，射出的瞬间，夜空划过深邃的光芒
+		蓄力后一次性射出大量箭矢
+		箭头更是镶嵌了蓝玉！
 		'''
 }
 
 TungstenCrossbow: {
-	DisplayName: 钨钢弩
+	DisplayName: 钨弩
 	Tooltip:
 		'''
-		这把朴素的弩，只需轻按，便能连发箭矢，穿梭于风中
-		内藏蓝宝石箭，光芒四射，于暗夜中点亮一抹璀璨
+		蓄力后一次性射出大量箭矢
+		箭头更是镶嵌了蓝玉！
 		'''
 }
 
@@ -1692,8 +1696,8 @@ MorrowedCrossbow: {
 	DisplayName: 古谕之弩
 	Tooltip:
 		'''
-		狙击之弩，连珠发矢疾如风
-		古谕苏醒，心中燃起传说之火！
+		狙击之弩，连珠发矢疾如风！
+		古谕苏醒，心中燃起传说火！
 		'''
 }
 
@@ -1710,17 +1714,17 @@ SpiderillaCrossbow: {
 	DisplayName: 蛛灵之弩
 	Tooltip:
 		'''
-		狙型弩，连发速矢，穿梭如风，破敌无声息
-		奇技突现，蛛卵四散，生命之舞，自然之谜
-		恐蛛者慎，此弩非彼，挑战心魔，勇者无惧
+		狙击弩，长按以释放大量箭矢
+		射出一串蛛卵......所以SpAde......
+		你都有蜘蛛恐惧症了你还要用这个？
 		'''
 }
 
 DesertCrossbow: {
 	Tooltip:
 		'''
-		霰弹弩，弩箭纷飞，四散如雨
-		蓄力一按，风暴射击，力量与美
+		霰弹弩
+		长按以蓄力并射出一连串分散的沙矢
 		比风迅疾，传说中的速度，无人能及
 		'''
 	DisplayName: 旋风沙弩
@@ -1730,8 +1734,8 @@ FrostyCrossbow: {
 	DisplayName: 极光霜弩
 	Tooltip:
 		'''
-		这把霰弹弩，如同冬神的怒吼，向四周撒播冰霜的种子！
-		蓄力一按，召唤一场寒冰风暴，将敌人冻结在时间的裂缝中！
+		霰弹弩
+		长按以蓄力并射出一连串分散的冰矢
 		让你成为冰雪世界的主宰，让每一发箭矢都成为冰封的使者！
 		'''
 }
@@ -1740,8 +1744,8 @@ CoralCrossbow: {
 	DisplayName: 夜珊瑚弩
 	Tooltip:
 		'''
-		这是一把专为猎人打造的速度型弩弓
-		蓄力一按，射出疾风之箭！
+		一把专为猎人打造的速度型弩弓
+		长按以蓄力并射出一连串箭矢
 		绝对的力量，愤怒的咆哮，混乱的熵，终章的序曲！
 		'''
 }
@@ -1750,8 +1754,8 @@ MoltenCrossbow: {
 	DisplayName: 炽焰之弩
 	Tooltip:
 		'''
-		猎者之弩，速如疾风，专为狩猎而生
-		持而射之，箭矢连绵，如夜空流星雨
+		一把专为猎人打造的速度型弩弓
+		长按以蓄力并射出一连串箭矢
 		世间纷扰，吾欲观其燎原，以火照天，映人心之暗
 		'''
 }
@@ -1760,8 +1764,8 @@ FabiliaCrossbow: {
 	DisplayName: 赤炎翔隼
 	Tooltip:
 		'''
-		这款霰弹弩炮，犹如狂风中的暴雨，能向四面八方喷射箭矢！
-		蓄力一按，释放你的火力风暴！
+		霰弹弩，可以射向很多方向！
+		长按以蓄力并射出一连串箭矢
 		用这把威力十足的赤炎翔隼，让敌人在爆炸中灰飞烟灭，享受胜利的喜悦吧！
 		'''
 }
@@ -1770,8 +1774,8 @@ JadeJungleCrossbow: {
 	DisplayName: 翠林幽弩
 	Tooltip:
 		'''
-		狙击之弩，蓄力一瞬，释放疾风箭雨，穿梭于战场的缝隙
-		箭矢尾随绿叶，轻舞飞扬，为死寂的战斗添上一抹生机的翠绿
+		狙击弩，蓄力以射出一连串的箭矢
+		箭矢携着绿叶，轻舞飞扬，为死寂的战斗添上一抹生机的翠绿
 		偶尔，草香四溢，箭尖轻触，自然的甘甜在紧张的战斗中悄然绽放
 		'''
 }
@@ -1789,8 +1793,8 @@ Valtotude: {
 	DisplayName: 风漩仪
 	Tooltip:
 		'''
-		生成漩涡，锁敌风暴中
-		群敌一处，召唤攻，全中！
+		生成一个会困住敌怪的漩涡
+		这非常适合让你的召唤物聚集起来攻击！
 		'''
 }
 
@@ -1899,7 +1903,7 @@ OceansTrinket: {
 	DisplayName: 海之奇珍
 	Tooltip:
 		'''
-		+1仆从上限
+		+1随从上限
 		+8%召唤伤害！[c/ff0000:【乘算】]
 		'''
 }
@@ -2049,12 +2053,12 @@ AstrasilkLegs: {
 
 ElagentBody: {
 	DisplayName: 典雅大衣
-	Tooltip: +1仆从栏
+	Tooltip: +1随从栏
 }
 
 ElagentHead: {
 	DisplayName: 典雅头冠
-	Tooltip: +20%仆从伤害
+	Tooltip: +20%随从伤害
 }
 
 ElagentLegs: {
@@ -2062,7 +2066,7 @@ ElagentLegs: {
 	Tooltip:
 		'''
 		+10%召唤伤害[c/ff0000:【乘算】]
-		+2仆从栏
+		+2随从栏
 		增加移动速度
 		'''
 }
@@ -2350,11 +2354,11 @@ DirtPickaxe: {
 }
 
 Aneuriliac: {
-	DisplayName: 奥尼琉光炮
+	DisplayName: 奥尼琉光
 	Tooltip:
 		'''
-		迅速喷射神秘光束，其源不明
-		观其轨迹，绚烂如流星，威力撼动心弦
+		迅速吐出一些神秘的投射物！
+		我完全不知道这是什么，别问我！
 		'''
 }
 
@@ -2367,8 +2371,9 @@ FungalFlace: {
 	DisplayName: 核花爆破
 	Tooltip:
 		'''
-		这武器，名为核花爆破，看似温柔的花朵
-		却能释放惊人的力量，花开花落，敌人在爆炸中颤抖，世界在芬芳中宁静
+		释放核能花朵的力量！
+		等等，它们真的是核能的吗？
+		不管怎样，它们还是会爆炸
 		'''
 }
 
@@ -2401,8 +2406,8 @@ StaffoftheIrradiaflare: {
 	DisplayName: 辐射酸灵杖
 	Tooltip:
 		'''
-		汲取酸液之力，释放强力酸暴，威力非凡，信我，兄弟
-		来源可靠，力量源自深邃，一击即中，腐蚀敌胆
+		汲取酸液之力，释放强力酸暴
+		兄弟，信我！它真的很强！
 		'''
 }
 
@@ -2435,9 +2440,9 @@ TorrentialLance: {
 	DisplayName: 湍流之枪
 	Tooltip:
 		'''
-		用它穿透敌人，所过之处留下泡泡
-		短暂无敌，但冲刺结束时会陷入虚弱
-		穿敌而过，谨慎使用，把握时机
+		用它刺向你的敌人！
+		击中敌人后会留下泡泡
+		你将在冲刺过程中短暂无敌，但冲刺结束时你会变得很脆弱！
 		'''
 }
 
@@ -2448,7 +2453,7 @@ VoidsGrasp: {
 
 WintersStom: {
 	DisplayName: 冬霜怒击
-	Tooltip: 每三击，释放霜雪爆破，雪花四溅，伤敌无声
+	Tooltip: 每三发造成霜雪爆破
 }
 
 ArchariliteRaysword: {
@@ -2501,7 +2506,7 @@ ScarecrowSaber: {
 
 SkyrageShasher: {
 	DisplayName: 天怒破空刃
-	Tooltip: 挥舞即风暴，斩击裂长空，每一击皆天怒，显赫无匹.
+	Tooltip: 挥舞以射出撕裂长空的风暴
 }
 
 GladiatorSpear: {
@@ -2513,8 +2518,8 @@ Infernis: {
 	DisplayName: 地狱
 	Tooltip:
 		'''
-		它，如同流星划破夜空，一支炽烈的长矛，承载着毁灭的使命.
-		它在轨迹的终点绽放，化作一场炫目的火焰风暴，将一切吞噬于烈焰之中.
+		企图划过夜空的长矛
+		终究被重重碾在地上
 		'''
 }
 
@@ -2525,7 +2530,7 @@ StalkersTallon: {
 
 TheIrradiaspear: {
 	DisplayName: 辐射之矛
-	Tooltip: 它绽放幽灵之舞，幻影分身酸雨般倾泻，腐蚀敌心，绘写战场哀歌
+	Tooltip: 蓄力，松开后射出带有酸性的幻影
 }
 
 StarKeeper: {
@@ -2540,7 +2545,7 @@ SwordOfGlactia: {
 
 SwordOfTheJungleGoddess: {
 	DisplayName: 丛林女神之剑
-	Tooltip: 请不要制作这个
+	Tooltip: 请不要制作这个——
 }
 
 WoodenSaber: {
@@ -2557,19 +2562,24 @@ ArchariliteEnergyShot: {
 	DisplayName: 赤铁光弦弓
 	Tooltip:
 		'''
-		这把弓，一挥之下，三箭齐发，如流星划破夜空，绚烂而致命
-		得赤铁潜能激发器之助，威力倍增，每一箭都携带着破晓之力，无坚不摧
+		一次射出三支箭
+		可以被赤铁潜能激发器增强！
 		'''
 }
 
 AssassinsDischarge: {
 	DisplayName: 刺影瞬破
-	Tooltip: 这是一把专为暗夜行者定制的弓，弦动影随，箭出无声，于月色下勾勒死亡的弧线，刺客之魂，尽在其中
+	Tooltip: 一把专为暗夜行者定制的弓
 }
 
 BrokenWrath: {
 	DisplayName: 碎怒
-	Tooltip: 这武器发射的，是废墟中的碎片，它们在空中唱着未来的歌，每一片都在呼喊新的希望
+	Tooltip: 
+		'''
+		射出废墟中的碎片.
+		它们在空中唱着未来的歌，每一片都在呼喊新的希望
+		译者注：祝愿全世界的所有战争早日结束......
+		'''
 }
 
 CloudBow: {
@@ -2579,12 +2589,12 @@ CloudBow: {
 
 Crysalizer: {
 	DisplayName: 冰霜晶化者
-	Tooltip: 三连晶化弹，破敌于霜晶之舞，璀璨夺目，冰封敌踪
+	Tooltip: 一次向敌人发射三颗晶化弹
 }
 
 DeathShot: {
 	DisplayName: 冥界之吻
-	Tooltip: 骷髅狙神，夜幕下的幽灵，一枪穿魂，传说在月光下诞生
+	Tooltip: 一把为骷髅表情符号设计的狙击枪.
 }
 
 DivineSniper: {
@@ -2604,27 +2614,27 @@ GraniteMagmum: {
 
 IceWalker: {
 	DisplayName: 冰行者
-	Tooltip: 每隔两箭，寒冰之灵附体，射出冻结一切的冰霜箭矢!
+	Tooltip: 每两发射出一支冻结一切的冰霜箭矢!
 }
 
 IrradieagleWrath: {
 	DisplayName: 翔鹰怒射
-	Tooltip: 鹰翔天际，怒射箭雨，精准无匹，敌无所遁
+	Tooltip: 射出分散的箭矢
 }
 
 Irradishark: {
 	DisplayName: 爆鲨酸雨
-	Tooltip: 随机轰炸，酸鲨四溅，爆炸如雨
+	Tooltip: 随机射出酸性爆炸鲨鱼
 }
 
 IvynShot: {
 	DisplayName: 艾文弓
-	Tooltip: 一把寻常弓，无他，唯射尔
+	Tooltip: 一把普通的弓
 }
 
 JackoShot: {
 	DisplayName: 杰克弓
-	Tooltip: 一把寻常弓，无他，唯射尔
+	Tooltip: 一把普通的弓
 }
 
 JellyBow: {
@@ -2639,7 +2649,7 @@ LAZER: {
 
 RustlockPistol: {
 	DisplayName: 锈铐手枪
-	Tooltip: 射击虚空，效果绝佳！
+	Tooltip: 射击空处，效果绝佳！
 }
 
 Rustvolver: {
@@ -2693,11 +2703,11 @@ DripplerStaff: {
 }
 
 IrradiatedCreeperStaff: {
-	DisplayName: 辐射爬行者法杖
+	DisplayName: 辐射飞眼怪法杖
 	Tooltip:
 		'''
-		召唤受辐射影响的爬行者，为你而战！
-		辐射爬行者对敌人释放辐射，移动轨迹充满神秘
+		召唤受辐射影响的飞眼怪，为你而战！
+		辐射飞眼怪对敌人释放辐射，移动轨迹充满神秘
 		我看到了它与辐射共生的奇妙之处
 		'''
 }
@@ -2730,7 +2740,7 @@ VoidStaff: {
 	Tooltip:
 		'''
 		召唤迷你奇点为你战斗！
-		需两个仆从栏
+		需2随从栏
 		'''
 }
 
@@ -2791,7 +2801,7 @@ ZthoKnifes: {
 
 CyroBolt: {
 	DisplayName: 冰霜飞弹
-	Tooltip: 射出冰霜飞弹，似乎有些不稳定
+	Tooltip: 射出似乎有些不稳定的冰霜飞弹
 }
 
 LightSpand: {
@@ -2865,7 +2875,7 @@ RestingGroundsI: {
 
 ShinobiTome: {
 	DisplayName: 忍者心经
-	Tooltip: 无手亦可挥，秘籍在心，忍者之魂，战场无影踪
+	Tooltip: 适合没有手的忍者！
 }
 
 GintzlSpear: {
@@ -2884,7 +2894,7 @@ RuneOfWind: {
 
 GintzlsSteed: {
 	DisplayName: 玄铁之影
-	Tooltip: 心中有矢，无臂亦能飞箭，长空划过，传奇自成
+	Tooltip: 哈哈，这确实是个谜.可能是某种忍者的神秘技巧吧！
 }
 
 Gallasis: {
@@ -2922,7 +2932,7 @@ GintzeCard: {
 		'''
 		撒下粉末，轻舞尘埃，激活神秘力量
 		成为勇士，或许只差那张关键的牌
-		长按攻击按钮，引爆标记，造成爆炸伤害
+		先用粉末击中敌人，然后切换到这个武器并攻击以引发爆炸！
 		'''
 }
 
@@ -2971,7 +2981,7 @@ IceboundStaff: {
 	Tooltip:
 		'''
 		召唤寒冰中的冬蝠为你作战！
-		蝙蝠仅占半格召唤位，群起攻敌
+		蝙蝠仅占半格召唤位
 		冰封魔力与精灵之力，共冻结敌人！
 		'''
 }
@@ -3006,7 +3016,7 @@ Neptune8Card: {
 		'''
 		星际深处的火花
 		点燃尘埃与粉末的激情
-		长按攻击按钮，引爆标记，造成爆炸伤害
+		先用粉末击中敌人，然后切换到这个武器并攻击以引发爆炸！
 		'''
 }
 
@@ -3181,7 +3191,7 @@ Alcanine: {
 	Tooltip:
 		'''
 		召唤师的标配！
-		+2仆从栏！
+		+2随从栏！
 		+10%召唤伤害！[c/ff0000:【乘算】]
 		'''
 }
@@ -3271,8 +3281,8 @@ GothiviasCard: {
 	DisplayName: 歌瑟梵焰符牌
 	Tooltip:
 		'''
-		"会造成轻微烧伤"她给的那张纸条上如是说
-		长按攻击按钮，引爆标记，造成爆炸伤害
+		"会造成轻微烧伤"——她给的那张纸条上如是说
+		先用粉末击中敌人，然后切换到这个武器并攻击以引发爆炸！
 		'''
 }
 
@@ -3631,10 +3641,10 @@ VampireScepter: {
 	DisplayName: 吸血魔杖
 	Tooltip:
 		'''
-		召唤血族火炬，助你战斗无阻
-		火炬夺生机，近敌吸血无度
-		召唤伤增，威力倍出
-		唯一在手，独步天下
+		召唤一个吸血鬼火炬来助战
+		禁用生命自然恢复，接近敌人时将会获得很高的吸血
+		激活时大幅增加召唤物的伤害
+		同时只能存在一个
 		'''
 }
 
@@ -3886,7 +3896,7 @@ KaleidoscopicInk: {
 
 ArtistsHeart: {
 	DisplayName: 艺术家之心
-	Tooltip: 爱画成痴，以画为投！
+	Tooltip: 你对绘画的热爱如此强烈，以至于你把它扔向你的敌人！
 }
 
 InkingSpire: {
@@ -4227,15 +4237,15 @@ Yumiko: {
 
 FrostMonger: {
 	DisplayName: 寒霜剑影
-	Tooltip: 挥洒寒夜霜刃，光标所至，冰霜之威尽斩敌群！
+	Tooltip: 用冰冷夜晚的力量，划过你光标附近的敌人！
 }
 
 AlcadzianCard: {
 	DisplayName: 阿尔卡迪亚爆裂符牌
 	Tooltip:
 		'''
-		以神秘粉末标记敌手
-		再以牌为引，引爆炫目爆炸，敌人在璀璨光芒中败退
+		以神秘粉末标记敌方
+		先用粉末击中敌人，然后切换到这个武器并攻击以引发爆炸！
 		'''
 }
 
@@ -4243,8 +4253,8 @@ BOMBERCard: {
 	DisplayName: 爆破符牌
 	Tooltip:
 		'''
-		以神秘粉末标记敌手
-		切换此牌，长按攻击，引爆连环爆炸，战场瞬间化为火海
+		以神秘粉末标记敌方
+		先用粉末击中敌人，然后切换到这个武器并攻击以引发爆炸！
 		'''
 }
 
@@ -4252,8 +4262,8 @@ BurningCard: {
 	DisplayName: 灼热符牌
 	Tooltip:
 		'''
-		以神秘粉末标记敌手
-		长按攻击按钮，引爆标记，造成爆炸伤害
+		以神秘粉末标记敌方
+		先用粉末击中敌人，然后切换到这个武器并攻击以引发爆炸！
 		'''
 }
 
@@ -4261,8 +4271,8 @@ FenixxCard: {
 	DisplayName: 绯琦符牌
 	Tooltip:
 		'''
-		以神秘粉末标记敌手
-		长按攻击按钮，引爆标记，造成爆炸伤害
+		以神秘粉末标记敌方
+		先用粉末击中敌人，然后切换到这个武器并攻击以引发爆炸！
 		'''
 }
 
@@ -4270,8 +4280,8 @@ GrailedCard: {
 	DisplayName: 砾金符牌
 	Tooltip:
 		'''
-		以神秘粉末标记敌手
-		长按攻击按钮，引爆标记，造成爆炸伤害
+		以神秘粉末标记敌方
+		先用粉末击中敌人，然后切换到这个武器并攻击以引发爆炸！
 		'''
 }
 
@@ -4279,8 +4289,8 @@ LarvaedCard: {
 	DisplayName: 幽蝶符牌
 	Tooltip:
 		'''
-		以神秘粉末标记敌手
-		长按攻击按钮，引爆标记，造成爆炸伤害
+		以神秘粉末标记敌方
+		先用粉末击中敌人，然后切换到这个武器并攻击以引发爆炸！
 		'''
 }
 
@@ -4288,8 +4298,8 @@ StyngerCard: {
 	DisplayName: 刺蜇符牒
 	Tooltip:
 		'''
-		以神秘粉末标记敌手
-		长按攻击按钮，引爆标记，造成爆炸伤害
+		以神秘粉末标记敌方
+		先用粉末击中敌人，然后切换到这个武器并攻击以引发爆炸！
 		'''
 }
 
@@ -4412,7 +4422,7 @@ DungeonedRockCard: {
 	Tooltip:
 		'''
 		要么被石头砸中，要么体验一下‘巨石’强森的威力，看哪个更有趣吧
-		长按攻击按钮，引爆标记，造成爆炸伤害
+		先用粉末击中敌人，然后切换到这个武器并攻击以引发爆炸！
 		'''
 }
 
@@ -4962,7 +4972,7 @@ VitalityInsource: {
 		回复102生命与魔力
 		给予蜂蜜增益！
 		'''
-	DisplayName: 瓶内容物·活力
+	DisplayName: 活力
 }
 
 HealthyInsource: {
@@ -4971,11 +4981,11 @@ HealthyInsource: {
 		40秒钟冷却！
 		回复35生命
 		'''
-	DisplayName: 瓶内容物·生命
+	DisplayName: 生命魔能
 }
 
 FloweredInsource: {
-	DisplayName: 瓶内容物·繁花
+	DisplayName: 繁花魔能
 	Tooltip:
 		'''
 		20秒钟冷却！
@@ -4986,7 +4996,7 @@ FloweredInsource: {
 }
 
 VialedInsource: {
-	DisplayName: 瓶内容物·幽曦秘药
+	DisplayName: 幽曦魔能
 	Tooltip:
 		'''
 		20秒钟冷却！
@@ -5005,15 +5015,15 @@ EpsidonInsource: {
 		获得20秒铁皮、敏捷与蜂蜜效果！
 		回复200生命！
 		'''
-	DisplayName: 瓶内容物·奇迹
+	DisplayName: 奇迹魔能
 }
 
 CogBomber: {
 	DisplayName: 齿轮爆裂者
 	Tooltip:
 		'''
-		发射微缩的核弹，爆炸后化作数不清的小火苗，四处蔓延
-		就像一场烟火的盛宴，绚烂而短暂，让人不禁惊呼“嘭”！ 
+		发射小型核弹，它们会爆炸成几个小火堆~
+		轰隆隆 :) 
 		'''
 }
 
@@ -5021,7 +5031,7 @@ GearGutter: {
 	DisplayName: 机巧幽谷
 	Tooltip:
 		'''
-		疾风穿云，铁线银针，破空无痕，穿刺永恒！
+		发射一根极快且可以无限穿透敌人的铁针
 		咕哒咕哒咕哒，机簧轻响，奏响死亡的前奏！
 		'''
 }
@@ -5141,20 +5151,20 @@ EckasectSire: {
 	DisplayName: 圣裁者艾克萨
 	Tooltip:
 		'''
-		希丝忒莉亚心爱，泽诺维亚手创
-		一器三式，独特能力切换，耗蓝二十
-		击敌留色标，辨色施技，威力骇人
-		起源绿芒，弹雨洒落，范围杀敌
-		解放者紫，精准狙击，一击毙命
-		制裁橙光，激光横扫，面伤连绵
-		辨色施技，各显神通，战场主宰
-		一剑三变，威力无边，圣裁者艾克萨
+		由希丝忒莉亚和Zenovia钟爱的武器
+		可以切换模式以获得这个武器的独特能力！消耗20点法力！！
+		击中敌人时会在敌人的部分区域出现彩色圆圈！
+		这些颜色与武器上的一个模式相协调，如果使用得当，
+		会造成毁灭性的伤害！
+		创世纪 - 绿色，可以射出炸弹！
+		解放者 - 紫色，可以进行高伤害的狙击！
+		执行者 - 橙色，范围广泛但伤害较低...
 		'''
 }
 
 TheTraumatizer: {
 	DisplayName: 创痕镭枪
-	Tooltip: 扇形激光，伤敌刻骨，创伤与记忆同在
+	Tooltip: 射出扇形激光，不仅能杀死敌人，还能给他们留下心理创伤......
 }
 
 FloweredCard: {
@@ -5163,7 +5173,7 @@ FloweredCard: {
 		'''
 		这是点燃粉末与尘埃的引子
 		从银河深处而来，点燃宇宙的火花
-		长按攻击按钮，引爆标记，造成爆炸伤害
+		先用粉末击中敌人，然后切换到这个武器并攻击以引发爆炸！
 		'''
 }
 
@@ -5173,7 +5183,7 @@ MetallianCard: {
 		'''
 		这是点燃粉末与尘埃的引子
 		从银河深处而来，点燃宇宙的火花
-		长按攻击按钮，引爆标记，造成爆炸伤害
+		先用粉末击中敌人，然后切换到这个武器并攻击以引发爆炸！
 		'''
 }
 
@@ -5183,7 +5193,7 @@ ZuiCard: {
 		'''
 		这是点燃粉末与尘埃的引子
 		从银河深处而来，点燃宇宙的火花
-		长按攻击按钮，引爆标记，造成爆炸伤害
+		先用粉末击中敌人，然后切换到这个武器并攻击以引发爆炸！
 		'''
 }
 
@@ -5208,8 +5218,8 @@ CompletedCollectorsBag: {
 }
 
 ArncharSuperCharger: {
-	DisplayName: 赤铁强力充能器
-	Tooltip: 极大增强赤铁武器与工具！
+	DisplayName: 赤铁潜能激发器
+	Tooltip: 极大增强赤铁武器与工具！ 
 }
 
 CinderChesti: {
@@ -5221,8 +5231,8 @@ FlameBuster: {
 	DisplayName: 烈焰破晓
 	Tooltip:
 		'''
-		弹雨倾泻，如疾风骤雨扫过战场
-		时日推移，武器愈加速，终将喷射火球，化为炽烈风暴!
+		发射一系列散弹
+		随着时间的推移，这把武器的射击速度会加快，并且会开始发射火球！
 		'''
 }
 
@@ -5297,7 +5307,7 @@ AzaleanLeggings: {
 
 SolarianChestplate: {
 	DisplayName: Scolon胸甲
-	Tooltip: 一名开发者（Scolon）给了你这套装备... 以及+1仆从栏！
+	Tooltip: 一名开发者（Scolon）给了你这套装备... 以及+1随从栏！
 }
 
 SolarianHat: {
@@ -5331,19 +5341,19 @@ ToxicHornetStaff: {
 }
 
 ZenoviasPikpikGlove: {
-	DisplayName: Zenovia的皮克罐
+	DisplayName: Zenovia的皮克敏罐
 	Tooltip:
 		'''
 		将皮克敏散布大地，无论何地，皆可为战.
 		添洋葱为配件，增伤强身，成就超凡！
-		（译者注：Zenovia是此mod的首席开发者）
+		（Zenovia是此mod的首席开发者）
 		'''
 }
 
 OnionOfUselessness: {
 	Tooltip:
 		'''
-		在你的皮克罐中加入黄色与蓝色皮克敏！
+		在你的皮克敏罐中加入黄色与蓝色皮克敏！
 		为你的皮克敏+11伤害
 		'''
 	DisplayName: 无用洋葱
@@ -5352,7 +5362,7 @@ OnionOfUselessness: {
 OnionOfStrength: {
 	Tooltip:
 		'''
-		在你的皮克罐中加入黄色、蓝色、白色和紫色皮克敏！
+		在你的皮克敏罐中加入黄色、蓝色、白色和紫色皮克敏！
 		为你的皮克敏+70伤害
 		'''
 	DisplayName: 力量洋葱
@@ -5361,7 +5371,7 @@ OnionOfStrength: {
 OnionOfSight: {
 	Tooltip:
 		'''
-		在你的皮克罐中加入黄色、蓝色和白色皮克敏！
+		在你的皮克敏罐中加入黄色、蓝色和白色皮克敏！
 		为你的皮克敏+30伤害
 		'''
 	DisplayName: 视力洋葱
@@ -5370,7 +5380,7 @@ OnionOfSight: {
 OnionOfHeight: {
 	Tooltip:
 		'''
-		在你的皮克罐中加入黄色皮克敏！
+		在你的皮克敏罐中加入黄色皮克敏！
 		为你的皮克敏+5伤害
 		'''
 	DisplayName: 高度洋葱
@@ -5463,7 +5473,7 @@ Scatterbombs: {
 	Tooltip:
 		'''
 		造成极高伤害，而且它其实并不是散弹，嘿嘿~
-		（泽米企业不承担伤害或副作用责任，你也没机会活下来告状.）
+		（Zemmie企业不承担伤害或副作用责任，你也没机会活下来告状.）
 		'''
 	DisplayName: 散弹爆破
 }
@@ -5513,7 +5523,7 @@ ScrappyLegs: {
 	Tooltip:
 		'''
 		增加移动速度
-		+1仆从栏
+		+1随从栏
 		'''
 }
 
@@ -5523,7 +5533,7 @@ ScrappyHead: {
 		'''
 		+8%召唤与魔法伤害
 		+4%伤害减免
-		+1仆从栏
+		+1随从栏
 		'''
 }
 
@@ -5533,7 +5543,7 @@ ScrappyBody: {
 		'''
 		+12%召唤与魔法伤害
 		+8%伤害减免
-		+2仆从栏
+		+2随从栏
 		'''
 }
 
@@ -5542,7 +5552,7 @@ MagiciansCodeHat: {
 	Tooltip:
 		'''
 		+20%魔法与召唤伤害[c/ff0000:【乘算】]
-		+3仆从栏
+		+3随从栏
 		10%伤害减免！
 		增加生命再生
 		+100最大生命值
@@ -5577,22 +5587,22 @@ IrradiaBossRel: {
 }
 
 ZuiBossRel: {
-	Tooltip: ta到底是谁？
+	Tooltip: 她到底是谁？
 	DisplayName: 蕊圣物
 }
 
 NyxiaHat: {
-	DisplayName: 霓希雅帽
+	DisplayName: Nyxia帽
 	Tooltip: 首席开发者Zenovia的礼物！请去看看steam上的Diari吧:(
 }
 
 NyxiaRobe: {
-	DisplayName: 霓希雅长袍
+	DisplayName: Nyxia长袍
 	Tooltip: 首席开发者Zenovia的礼物！给予5%伤害减免, +6%魔法伤害以及增强生命再生！
 }
 
 NyxiaThighs: {
-	DisplayName: 霓希雅护腿
+	DisplayName: Nyxia护腿
 	Tooltip: 感谢你们游玩我的mod！爱你们哟 - 首席开发者Zenovia
 }
 
@@ -5747,22 +5757,22 @@ IceRuneI: {
 
 TitaniumBullet: {
 	DisplayName: 钛金破甲弹
-	Tooltip: 双连破甲击，首击震魂魄，次击虽弱，却透甲入骨，如影随形，令强敌无处遁形
+	Tooltip: 造成两次伤害，第二次伤害较低但可以穿甲
 }
 
 RadiantArrow: {
 	DisplayName: 辉光之箭
-	Tooltip: 这箭矢随时间加速，宛如追命流星，无视一切防御，精准锁敌，直击要害！
+	Tooltip: 随时间不断加速并追踪敌人，忽视对方防御
 }
 
 AdamantiteBullet: {
 	DisplayName: 精金穿甲弹
-	Tooltip: 双连破甲击，首击震魂魄，次击虽弱，却透甲入骨，如影随形，令强敌无处遁形
+	Tooltip: 造成两次伤害，第二次伤害较低但可以穿甲
 }
 
 EldritchArrow: {
 	DisplayName: 幽古魔箭
-	Tooltip: 这箭矢能召唤星球碎块，它们在被击中后会自动反击敌人，射出能量束.
+	Tooltip: 召唤星球碎块，它们在被击中后会自动反击敌人，射出能量束.
 }
 
 DriveRound: {
@@ -5772,7 +5782,7 @@ DriveRound: {
 
 SpacialDistortionBullet: {
 	DisplayName: 扭曲子弹
-	Tooltip: 燃起深渊之焰，焚尽一切黑暗与罪恶，让不灭的火光照亮深渊的尽头.
+	Tooltip: 造成深渊火焰效果
 }
 
 IrradiatedArrow: {
@@ -5806,7 +5816,7 @@ ThePenetrator: {
 
 SingularDive: {
 	DisplayName: 孤行深潜
-	Tooltip: 右键轻启，仆从涌现；长旋一击，敌溃如云！
+	Tooltip: 右键使用小随从，旋转并且获得更长的攻击距离！
 }
 
 DelgrimsHammer: {
@@ -5834,31 +5844,31 @@ Voltenstein: {
 		越强的手套词条越多
 		2个词条!
 		'''
-	DisplayName: 沃特恩斯坦
+	DisplayName: 圣霆笼手
 }
 
 BlankBrooch: {
-	DisplayName: 未完成的饰符
+	DisplayName: 未加工的饰符
 	Tooltip: 拥有无限潜能的模板，用于制作某种物品！
 }
 
 BlankCard: {
-	DisplayName: 未完成的符牌
+	DisplayName: 未加工的符牌
 	Tooltip: 拥有无限潜能的模板，用于制作某种物品！
 }
 
 BlankCrossbow: {
-	DisplayName: 未完成的弩
+	DisplayName: 未加工的弩
 	Tooltip: 拥有无限潜能的模板，用于制作某种物品！
 }
 
 BlankSafunai: {
-	DisplayName: 未完成的鞭刃
+	DisplayName: 未加工的鞭刃
 	Tooltip: 拥有无限潜能的模板，用于制作某种物品！
 }
 
 Hultinstein: {
-	DisplayName: 赫尔廷斯坦
+	DisplayName: 始源笼手
 	Tooltip:
 		'''
 		这是一段狂野的格斗经历！
@@ -5882,12 +5892,12 @@ AuroreanStarball: {
 }
 
 BlankOrb: {
-	DisplayName: 未完成的球体
+	DisplayName: 未加工的球体
 	Tooltip: 拥有无限潜能的模板，用于制作某种物品！
 }
 
 Mardenstein: {
-	DisplayName: 玛登斯坦
+	DisplayName: 堕魔笼手
 	Tooltip:
 		'''
 		这将是一次震撼人心的体验！
@@ -6025,7 +6035,7 @@ IllurianWarriorChestplate: {
 IllurianCrestplate: {
 	Tooltip:
 		'''
-		+3仆从栏
+		+3随从栏
 		+50最大魔力值
 		-50最大生命值
 		'''
@@ -6035,7 +6045,7 @@ IllurianCrestplate: {
 IllurianCrestpants: {
 	Tooltip:
 		'''
-		+1仆从栏
+		+1随从栏
 		+10%移动速度
 		+20%伤害
 		+15盔甲穿透[c/ff0000:【乘算】]
@@ -6088,8 +6098,8 @@ Hookarama: {
 MushyCard: {
 	Tooltip:
 		'''
-		以神秘粉末标记敌手
-		长按攻击按钮，引爆标记，造成爆炸伤害
+		以神秘粉末标记敌方
+		先用粉末击中敌人，然后切换到这个武器并攻击以引发爆炸！
 		'''
 	DisplayName: 柔梦符牒
 }
@@ -6224,7 +6234,7 @@ VeiledScriptureAzurerin: {
 
 		她对繁星有着强烈的共鸣，也与天寰神巫建立了深厚的联系.
 		在家庭的种种因素下，她也开始寻求力量，只为让她的姐妹不再疏远.是她主动向琉明要求奇点，但其赋予的力量并没有帮助她完成最初的目标.
-		她行事拘谨，深思熟虑.她的灵魂已和奇点绑定，使她成为一名可怕的敌手，但她的迷茫与优柔寡断正是她的弱点.
+		她行事拘谨，深思熟虑.她的灵魂已和奇点绑定，使她成为一名可怕的敌方，但她的迷茫与优柔寡断正是她的弱点.
 		另外，在封印齐格飞的行动中她也出了一份力，她与蕊还有一丝交情.
 
 		现如今，她与琉明沉眠于星海中，梦境中的繁星化作极光星雨落向大地.
@@ -6355,7 +6365,7 @@ GarbagePants: {
 	Tooltip:
 		'''
 		+10%移动速度
-		+1仆从栏
+		+1随从栏
 		和奥萨马·本·拉登有得一拼
 		'''
 	DisplayName: 垃圾护腿
@@ -6366,7 +6376,7 @@ GarbageMask: {
 		'''
 		+15%召唤和投掷伤害！
 		+30%投掷速度
-		+2仆从栏
+		+2随从栏
 		纯纯的垃圾
 		'''
 	DisplayName: 垃圾头罩
@@ -6377,7 +6387,7 @@ GarbageChestplate: {
 		'''
 		+25%召唤和投掷伤害！
 		10%投掷速度
-		+1仆从栏
+		+1随从栏
 		+40最大生命值
 		并提升生命再生！
 		赶紧把它扔了吧！
@@ -6404,7 +6414,7 @@ Iknoctstein: {
 		越强的手套词条越多
 		5个词条!
 		'''
-	DisplayName: 伊克诺克斯坦
+	DisplayName: 碎星笼手
 }
 
 Gothinstein: {
@@ -6415,7 +6425,7 @@ Gothinstein: {
 		击敌得额外伤害，片刻无敌，胜者之赏.
 		击中，下次攻击快如闪电；失手，等待更漫长
 		'''
-	DisplayName: 歌瑟梵斯坦
+	DisplayName: 青曦笼手
 }
 
 Friedstein: {
@@ -6428,7 +6438,7 @@ Friedstein: {
 
 		攻速惊人，击中后加速，但若失手，等待更漫长.
 		'''
-	DisplayName: 弗莱德斯坦
+	DisplayName: 仙辉笼手
 }
 
 ManifestedLove: {
@@ -6454,7 +6464,7 @@ AlcaliteMask: {
 	Tooltip:
 		'''
 		+8%魔法与召唤伤害
-		+1仆从栏
+		+1随从栏
 		'''
 }
 
@@ -6463,7 +6473,7 @@ AlcaliteRobe: {
 	Tooltip:
 		'''
 		+12%魔法与召唤伤害
-		+2仆从栏
+		+2随从栏
 		'''
 }
 
@@ -6473,7 +6483,7 @@ AlcaliteTrunks: {
 		'''
 		提升移动速度与加速度
 		+4%魔法与召唤伤害
-		+1仆从栏
+		+1随从栏
 		'''
 }
 
@@ -6517,12 +6527,12 @@ Cryal: {
 
 MahoganyStorm: {
 	DisplayName: 檀木风暴
-	Tooltip: 释放一连串箭矢，如檀木之风暴，密集覆盖敌人，不留丝毫喘息之机
+	Tooltip: 发射了一连串的箭！
 }
 
 Dunderbustion: {
 	DisplayName: 雷炎连爆
-	Tooltip: 这把突发步枪，亲手打造却命运多舛，机械故障频发，宛如一位桀骜不驯的野马，随时可能失控，却也因此拥有了独一无二的灵魂
+	Tooltip: 一把由于手工制作而出现严重机械故障的突击步枪.
 }
 
 Polaris: {
@@ -6530,7 +6540,7 @@ Polaris: {
 	Tooltip:
 		'''
 		蓄力以释放毁灭激光
-		其能源，尼伊维之泪，蕴含无尽力量
+		其能源，尼伊维之泪，蕴含无尽力量 
 		'''
 }
 
@@ -6558,8 +6568,8 @@ FrameStaff: {
 }
 
 LiliumArrow: {
-	Tooltip: 这些箭矢击中目标后，炸裂成璀璨的金色碎片，犹如黄金流星雨般追踪敌人，绽放爆炸的火花.
-	DisplayName: 百合箭矢
+	Tooltip: 当这些箭射中目标时，它们会分裂成金色碎片，并伴随着爆炸向敌人袭去.
+	DisplayName: 百合箭
 }
 
 IshtarKey: {
@@ -6625,8 +6635,8 @@ ImperfectionStaff: {
 IshtarCard: {
 	Tooltip:
 		'''
-		以神秘粉末标记敌手
-		长按攻击按钮，引爆标记，造成爆炸伤害
+		以神秘粉末标记敌方
+		先用粉末击中敌人，然后切换到这个武器并攻击以引发爆炸！
 		'''
 	DisplayName: 狂渊符牌
 }
@@ -6662,8 +6672,8 @@ IllureCard: {
 	DisplayName: 迷魅符牌
 	Tooltip:
 		'''
-		以神秘粉末标记敌手
-		长按攻击按钮，引爆标记，造成爆炸伤害
+		以神秘粉末标记敌方
+		先用粉末击中敌人，然后切换到这个武器并攻击以引发爆炸！
 		'''
 }
 
@@ -6685,14 +6695,14 @@ GunHolster: {
 	DisplayName: 枪套
 	Tooltip:
 		'''
-		双枪齐舞，火力翻倍
-		右手轻点，切换自如
+		允许你同时使用两把较小的枪械.
+		右键以使用你的另一把枪.
 		'''
 }
 
 BurnBlast: {
 	DisplayName: 炽焰爆裂
-	Tooltip: 沉重大炮，一击裂空，火球分身，燃尽敌踪
+	Tooltip: 一种较重的副武器，能够发射一个强大的分裂火球.
 }
 
 Eagle: {
@@ -6702,22 +6712,22 @@ Eagle: {
 
 RavestBlast: {
 	DisplayName: 狂飙脉冲
-	Tooltip: 三发脉动波连环出击，犹如电音节上的狂热，一波未平一波又起
+	Tooltip: 发射三发脉冲波
 }
 
 MsFreeze: {
 	DisplayName: 霜冷女王
-	Tooltip: 她迅疾发射出霜冻激光，如同冬日里最锐利的寒风，瞬间凝固一切
+	Tooltip: 快速发射冰冷的激光！
 }
 
 MintyBlast: {
 	DisplayName: 霜火之吻
-	Tooltip: 这把武器，吐露的是冰与火的歌，寒冷中蕴藏燃烧的力量
+	Tooltip: 一把令人不寒而栗的喷火器
 }
 
 RocketLauncher: {
 	DisplayName: 火箭怒啸
-	Tooltip: 火箭一发，天地震撼，但谨记安全，勿让自己受牵连
+	Tooltip: 发射一枚火箭……不过它可能会伤害到你自己...
 }
 
 Electrifying: {
@@ -6731,12 +6741,12 @@ Electrifying: {
 
 STARBUST: {
 	DisplayName: 星辰破晓
-	Tooltip: 星辰轰炸者的机枪旋律，于星际间狂舞，织梦为弹，燃尽宇宙的夜
+	Tooltip: 一把机关枪，但是是星际轰炸机风格的！
 }
 
 AssassinsRecharge: {
 	DisplayName: 影杀回魂
-	Tooltip: 它射出的光束，带着适度的生命汲取之力，每一次击中，都像在敌人心脏上轻轻一吻，却能为自己注入生机
+	Tooltip: 发射一枚具有适量吸血效果的箭矢！
 }
 
 BubbleBussy: {
@@ -6750,7 +6760,7 @@ BubbleBussy: {
 
 CinderNeedle: {
 	DisplayName: 灰烬之针
-	Tooltip: 疾速连发，火焰针雨，织成一片炽热的天网
+	Tooltip: 快速射出火焰针.
 }
 
 Devolver: {
@@ -6770,12 +6780,12 @@ RobedSandstone: {
 
 AzureWrath: {
 	DisplayName: 紫霆湛怒
-	Tooltip: 紫电迅疾，能量光弹划破夜空，如流星雨般倾泻而下
+	Tooltip: 快速地发射紫色能量冲击波！
 }
 
 CarrotPatrol: {
 	DisplayName: 萝卜守望者
-	Tooltip: 发射萝卜弹，触地开花，化作满天小碎片，撒下一地惊喜
+	Tooltip: 射出胡萝卜，这些胡萝卜在撞击时会分裂成几个小胡萝卜碎片.
 }
 
 MeredaX: {
@@ -6798,7 +6808,7 @@ SrTetanus: {
 
 TheReaving: {
 	DisplayName: 噬灭掠影
-	Tooltip: 我们在掠夺中寻爱，在谎言里成诗，生命是一场华丽的迷藏
+	Tooltip: 我们编织梦想，我们拥抱爱，我们在生命的篇章中编织谎言.
 }
 
 TempleKeyMold: {
@@ -6864,7 +6874,7 @@ HavocSignaler: {
 
 IcelockLongbow: {
 	DisplayName: 冰封星弓
-	Tooltip: 每一箭释放多重冰羽，最终汇聚成一颗璀璨的冰霜之星，照亮并冻结敌人
+	Tooltip: 每次射击都会射出更多的箭，最终发射出一颗强大的星形箭矢！
 }
 
 Chillrend: {
@@ -7070,8 +7080,9 @@ RibbonStaff: {
 	DisplayName: 彩带魔杖
 	Tooltip:
 		'''
-		彩带魔杖，束缚敌手，如礼盒缠绕，定身于优雅之中
-		释放魔力，敌人化为绚烂彩纸，烟花般绽放，战场亦成舞会
+		按住左键能在鼠标旁边生成一个圈
+		圈内的敌人会被彩带系成一个结
+		松开将会爆炸
 		'''
 }
 
@@ -7082,7 +7093,7 @@ WiggleDiggle: {
 
 NiceBusterr: {
 	DisplayName: 璀璨破界者
-	Tooltip: 在这一带，我们可不客气
+	Tooltip: 在这一带，我们可从不客气
 }
 
 Mordred: {
@@ -7146,8 +7157,8 @@ IceCubeMaker: {
 	DisplayName: 霜雪魔方
 	Tooltip:
 		'''
-		霜雪风暴席卷战场，冰块弹跳，寒冰乐章响彻云霄
-		寒风凛冽，你是冰雪的主宰，每一击都冻结敌人于时间之中
+		发射一团冰立方体，它们会相互弹跳以及从敌人身上弹开！
+		保持冷静~
 		'''
 }
 
@@ -7183,7 +7194,11 @@ GothiviaIyxBag: {
 
 GothiviaBossRel: {
 	DisplayName: 歌瑟梵圣物
-	Tooltip: 烈阳终有落下之时....
+	Tooltip: 
+		'''
+		烈阳终有落下之时......
+		明月必将升起之刻......
+		'''
 }
 
 SerpentWings: {
@@ -7227,7 +7242,7 @@ SerpentStaff: {
 	Tooltip:
 		'''
 		召唤巨蛇为你而战
-		仆从栏越多，蛇身渐长，力量倍增
+		随从栏越多，蛇身渐长，力量倍增
 		'''
 }
 
@@ -7443,10 +7458,10 @@ CinderBomber: {
 	DisplayName: 烬土轰炸
 	Tooltip:
 		'''
-		击中敌人后，炸弹会弹开
-		接住它，下次投掷伤害提升！
-		连击五次，炸弹点燃，开始爆炸
-		无限叠加，威力无界
+		击中敌人后，炸弹会反弹回来.
+		接住炸弹下一次供给将获得投掷伤害加成！
+		连续接住5次后，炸弹会起火并开始爆炸.
+		可以无限叠加.
 		'''
 }
 
@@ -7454,11 +7469,11 @@ LilStinger: {
 	DisplayName: 小刺叮
 	Tooltip:
 		'''
-		击中敌人，小蜂弹开.
-		接住小蜂，下次攻击伤害升级.
-		连击五次后，小蜂开始爆炸攻击！
-		追踪能力强劲.
-		威力无限叠加，战斗不止.
+		击中敌人后，蜜蜂会反弹回来.
+		接住蜜蜂下一次供给将获得投掷伤害加成！
+		连续接住5次后，蜜蜂会起火并开始爆炸.
+		具有强大的追踪能力.
+		可以无限叠加.
 		'''
 }
 
@@ -7479,11 +7494,11 @@ FlinchMachine: {
 	DisplayName: 惊惧之扇
 	Tooltip:
 		'''
-		击中敌人，扇子弹回.
-		接住扇子，下次投掷伤害提升.
-		连击五次后，每三击的第三下，重创敌人！
-		无限叠加，威力无尽.
-		这扇，便是那狠心人掷我之物.
+		击中敌人后，风扇会反弹回来.
+		接住风扇以获得下一次投掷的伤害加成！
+		连续组合达到5次后，每第三次攻击会特别强力！
+		可以无限叠加.
+		这兄弟朝我扔了什么？
 		'''
 }
 
@@ -7517,7 +7532,7 @@ Pegasus: {
 		'''
 		召唤尼伊维的三颗晶石环绕
 		发射各种元素攻击，攻势连绵不绝
-		这套晶石独一无二，需要三个仆从槽位才能使用
+		这套晶石独一无二，需要3随从栏才能使用
 		'''
 }
 
@@ -7535,8 +7550,8 @@ DreadsVile: {
 	Tooltip:
 		'''
 		想体验如绛渊恶巫般横扫千军的速度？现在，你也能将恐惧散布于世！
-		对敌人点击，释放致命一击，同时获得免疫与骷髅加持！
-		若攻击落空，小心反噬的接触伤害及随之而来的虚弱期
+		点击敌人进行一次打击，这将赋予你免伤并生成骷髅头！
+		但如果你错过了，你很可能会受到接触伤害，并且会进入冷却时间！
 		'''
 }
 
@@ -7544,9 +7559,9 @@ CentipedeStaff: {
 	DisplayName: 百足魔杖
 	Tooltip:
 		'''
-		召唤伊瑞蒂安地虫，为你撕裂战场！
-		地虫擒敌，暴拽四方，无人可逃
-		随召唤位增多，虫躯倍长，力能摧山！
+		召唤一条伊瑞蒂安地虫为你战斗！
+		地虫抓住敌人并猛烈地拖拽他们.
+		随着使用的仆从槽位数量增加，它会变得更长更强大！
 		'''
 }
 
@@ -7569,8 +7584,8 @@ VulcanBreaker: {
 	DisplayName: 炎君破晓
 	Tooltip:
 		'''
-		挥动熔岩之锤，于敌胸炸裂
-		火焰四溅，光明与灰烬共舞
+		挥舞一把熔岩之锤，它在敌人体内爆发！
+		鲜焰四溅：P	
 		'''
 }
 
@@ -7604,7 +7619,7 @@ JianxinPants: {
 		'''
 		+10盔甲穿透
 		+10%伤害[c/ff0000:【乘算】]
-		+3仆从栏
+		+3随从栏
 		'''
 }
 
@@ -7667,7 +7682,7 @@ SetBonus: {
 	AcidVisor: 站立不动时产生剧毒光环!
 	AlcaliteMask:
 		'''
-		+1仆从栏
+		+1随从栏
 		星树的明星护佑着你!
 		'''
 	AlsisMask:
@@ -7716,7 +7731,7 @@ SetBonus: {
 		'''
 	ElagentHead:
 		'''
-		+1仆从栏
+		+1随从栏
 		+45最大生命
 		击中敌人有小概率呼唤天使神力对敌人造成重击！
 		'''
@@ -7736,26 +7751,26 @@ SetBonus: {
 	GarbageMask:
 		'''
 		免疫击退
-		+2仆从栏
+		+2随从栏
 		'''
 	GovheilHelmet:
 		'''
 		降低仇恨
 		歌维赫之刃将会保护你
 		每过几秒会大幅提高你的魔法和召唤伤害
-		+2仆从栏!
+		+2随从栏!
 		'''
 	GovheilMask:
 		'''
 		降低仇恨
 		歌维赫魔能弓将会随你而战
 		每过几秒会大幅提高你的魔法和召唤伤害
-		+2仆从栏!
+		+2随从栏!
 		'''
 	HeavyMetalHead:
 		'''
 		召唤两个玄铁护卫来给你而战
-		+1仆从栏
+		+1随从栏
 		'''
 	HuntrianHelmet:
 		'''
@@ -7796,7 +7811,7 @@ SetBonus: {
 	GintzeMask:
 		'''
 		召唤两个玄铁护卫来给你而战
-		+1仆从栏
+		+1随从栏
 		'''
 	ScissorianMask:
 		'''

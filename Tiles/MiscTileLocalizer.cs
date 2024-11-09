@@ -27,7 +27,7 @@ public class MiscTileLocalizer : ModSystem
         #endregion
         #region FlowerSummon
         ForceLocalizeSystem.LocalizeByType(typeof(FlowerSummon), nameof(FlowerSummon.MouseOver), new() {
-            { "Old Guard's Shrine", "老守卫的石坛" },
+            { "Old Guard's Shrine", "石心之花" },
         });
         ForceLocalizeSystem.LocalizeByType(typeof(FlowerSummon), nameof(FlowerSummon.RightClick), new() {
             { "The Stone Guardian has awoken!", "石心圣卫已苏醒！" },
