@@ -1097,7 +1097,7 @@ PocketSand: {
 		神秘之尘，战时不可或缺，巧用制胜
 		'''
 }
-// 没有这玩意
+
 ArcanalPowder: {
 	DisplayName: 星烁魔法尘
 	Tooltip:
@@ -1224,7 +1224,7 @@ Hornet: {
 
 MorrowSalface: {
 	DisplayName: 古谕萨尔法斯
-	Tooltip: 
+	Tooltip:
 		'''
 		先连射三箭，随后施放巨大秘法箭
 		古谕之力，破敌于无形
@@ -1380,12 +1380,12 @@ WeiI: {
 	DisplayName: Wei I
 	Tooltip: ""
 }
-// 无实物
+
 ZebiI: {
 	DisplayName: Zebi I
 	Tooltip: ""
 }
-// 无实物
+
 ShrineLifeCI: {
 	Tooltip: ""
 	DisplayName: 生命水晶圣坛
@@ -2575,7 +2575,7 @@ AssassinsDischarge: {
 
 BrokenWrath: {
 	DisplayName: 碎怒
-	Tooltip: 
+	Tooltip:
 		'''
 		射出废墟中的碎片.
 		它们在空中唱着未来的歌，每一片都在呼喊新的希望
@@ -5220,7 +5220,7 @@ CompletedCollectorsBag: {
 
 ArncharSuperCharger: {
 	DisplayName: 赤铁潜能激发器
-	Tooltip: 极大增强赤铁武器与工具！ 
+	Tooltip: 极大增强赤铁武器与工具！
 }
 
 CinderChesti: {
@@ -6198,7 +6198,7 @@ VeiledScriptureGothivia: {
 	Tooltip:
 		'''
 		左键阅读
-		可被铸成塑像，来与希丝忒莉亚兑换奖励
+		可被铸成塑像，在击败对应Boss后来与希丝忒莉亚兑换奖励
 		'''
 	DisplayName: 天纱圣典·歌瑟梵
 	Content:
@@ -6224,7 +6224,7 @@ VeiledScriptureAzurerin: {
 	Tooltip:
 		'''
 		左键阅读
-		可被铸成塑像，来与希丝忒莉亚兑换奖励
+		可被铸成塑像，在击败对应Boss后来与希丝忒莉亚兑换奖励
 		'''
 	DisplayName: 天纱圣典·艾祖瑞霖
 	Content:
@@ -6289,7 +6289,7 @@ VeiledScriptureSigfried: {
 	Tooltip:
 		'''
 		左键阅读
-		可被铸成塑像，来与希丝忒莉亚兑换奖励
+		可被铸成塑像，在击败对应Boss后来与希丝忒莉亚兑换奖励
 		'''
 }
 
@@ -6317,7 +6317,7 @@ VeiledScriptureCozmire: {
 	Tooltip:
 		'''
 		左键阅读
-		可被铸成塑像，来与希丝忒莉亚兑换奖励
+		可被铸成塑像，在击败对应Boss后来与希丝忒莉亚兑换奖励
 		'''
 }
 
@@ -7198,7 +7198,7 @@ GothiviaIyxBag: {
 
 GothiviaBossRel: {
 	DisplayName: 歌瑟梵圣物
-	Tooltip: 
+	Tooltip:
 		'''
 		烈阳终有落下之时......
 		明月必将升起之刻......
