@@ -753,7 +753,6 @@ NaturalWitch: {
 
 Zui: {
 	DisplayName: Zui
-	BossChecklistIntegration: After Plantera, Zui will sell you an item that'll allow you to fight her in the witch town!
 	Bestiary: A traveller of the lands who may hold great power
 	Bestiary2: Zui the Traveller
 	Button: Zui's Quests
@@ -810,6 +809,7 @@ ZuiTheTraveller: {
 	DisplayName: Zui The Radiance
 	Bestiary: Zui, not exactly someone that can be killed but loves to play around I guess? Sirestias is closely accompanied with her
 	Bestiary2: Zui the Radiance
+	BossChecklistIntegration.SpawnInfo: After Plantera, Zui will sell you an item that'll allow you to fight her in the witch town!
 }
 
 TestLaserNPC.DisplayName: Test Laser N P C

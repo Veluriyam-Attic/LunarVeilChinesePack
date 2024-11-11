@@ -41,6 +41,7 @@ DiariBroochA: {
 		+10最大生命值上限和最大魔力值上限
 		+5%伤害！[c/ff0000:【乘算】]
 		（Diari是作者在Steam上的一款游戏）
+		[c/00FFB3:新手礼包获得]
 		'''
 }
 
@@ -50,6 +51,7 @@ FlyingFishBroochA: {
 		'''
 		增加速度，+2防御！
 		咸鱼都会飞了，你还有什么理由躺平呢？？？
+		[c/00FFB3:掉落自飞鱼]
 		'''
 }
 
@@ -81,6 +83,7 @@ SlimeBroochA: {
 		快速下落，弹弹的！
 		（不免疫摔落伤害）
 		好可耐~ ：P
+		[c/00FFB3:从安魅凯拉处购买或击杀史莱姆掉落]
 		'''
 }
 
@@ -120,6 +123,7 @@ JellyfishTissue: {
 		哇哦，好东西！
 		+40防御
 		但代价是减少40%伤害...[c/ff0000:【乘算】]
+		[c/00FFB3:掉落自幽曦之地的幽曦水母、巨像水母和冰皇水母]
 		'''
 }
 
@@ -129,6 +133,7 @@ MOTT: {
 		'''
 		每10秒钟在地上留下刺球
 		+5%远程伤害
+		[c/00FFB3:从镶金宝袋中开出]
 		'''
 }
 
@@ -138,6 +143,7 @@ PaperPaws: {
 		'''
 		你的召唤物们已经很努力啦，关照一下它们吧
 		+1随从栏
+		[c/00FFB3:售卖于赌徒]
 		'''
 }
 
@@ -180,6 +186,7 @@ Steali: {
 		增加生命再生
 		冲刺过程中不能攻击
 		某穿着黑色披风的白色小骑士觉得很赞
+		[c/00FFB3:掉落自克苏鲁之眼]
 		'''
 }
 
@@ -753,7 +760,7 @@ Orb1I: {
 }
 
 ShrineI: {
-	DisplayName: 薇莉亚月华圣坛
+	DisplayName: 薇莉娅月华圣坛
 	Tooltip: ""
 }
 
@@ -1434,6 +1441,7 @@ VerliaBroochA: {
 		攻击敌人时有概率释放强力伤害雪花！
 		+50最大魔力值！
 		+5防御！
+		[c/00FFB3:掉落自皎寒之月，薇莉亚]
 		'''
 	DisplayName: 薇莉娅的蕴魔饰符
 }
@@ -1442,9 +1450,9 @@ SwordsOfRevengence: {
 	Tooltip:
 		'''
 		我心永恒，爱意不灭！
-		召唤一把卡里斯汀之剑，唤醒薇莉亚小剑的生命力！
+		召唤一把卡里斯汀之剑，唤醒薇莉娅小剑的生命力！
 		仅在敌人近身时激活
-		激发薇莉亚胸针效果！
+		激发薇莉娅胸针效果！
 		（魔力提升50，防御加5，击中时有密集雪花！）
 		'''
 	DisplayName: 复仇之剑
@@ -1456,7 +1464,7 @@ HarmonicBlasphemy: {
 		'''
 		爱意满满，宇宙回响！
 		月光炮强，威力无双！
-		薇莉亚赠，小月为弹，
+		薇莉娅赠，小月为弹，
 		音乐之力，响彻云霄.
 		'''
 }
@@ -1466,7 +1474,7 @@ SupernovaSitar: {
 	Tooltip:
 		'''
 		爱意浓浓
-		月与星，薇莉亚之力
+		月与星，薇莉娅之力
 		这是专门给你的礼物！
 		'''
 }
@@ -1787,6 +1795,7 @@ Heatspot: {
 		'''
 		燃起来吧！
 		+4%魔法伤害 :P[c/ff0000:【乘算】]
+		[c/00FFB3:掉落自秃鹰]
 		'''
 }
 
@@ -1830,7 +1839,11 @@ AcidStaketers: {
 
 AquaCrystal: {
 	DisplayName: 水能晶体
-	Tooltip: +15%远程暴击率！
+	Tooltip: 
+		'''
+		+15%远程暴击率！
+		[c/00FFB3:完成蕊的三个任务后或将远古海洋符文交给吉娅后概率得到]
+		'''
 }
 
 AquaticHealingNecklace: {
@@ -1839,6 +1852,7 @@ AquaticHealingNecklace: {
 		'''
 		小幅增加生命恢复
 		+10%移动速度
+		[c/00FFB3:将远古海洋符文交给吉娅后概率得到]
 		'''
 }
 
@@ -1849,17 +1863,24 @@ ArncharMagazine: {
 
 ClamsPearl: {
 	DisplayName: 古蚌明珠
-	Tooltip: 发出微弱光芒 :)
+	Tooltip: 
+		'''
+		发出微弱光芒 :)
+		[c/00FFB3:售卖于玄铁军官]
+		'''
 }
 
 CloudSkaters: {
 	DisplayName: 浮云靴
 	Tooltip: 减弱重力，畅行天际！
 }
-
 CoralBand: {
 	DisplayName: 珊瑚手环
-	Tooltip: +5%近战伤害与暴击率！
+	Tooltip: 
+		'''
+		+5%近战伤害与暴击率！
+		[c/00FFB3:将远古海洋符文交给吉娅后概率得到]
+		'''
 }
 
 GintzlMetal: {
@@ -1869,7 +1890,11 @@ GintzlMetal: {
 
 EaglesGrace: {
 	DisplayName: 雄鹰之风采
-	Tooltip: 古谕的神圣窝巢之中，一只雄鹰将其双翼赐予你
+	Tooltip: 
+		'''
+		古谕的神圣窝巢之中，一只雄鹰将其双翼赐予你
+		[c/00FFB3:在玄铁房的金箱中概率获得]
+		'''
 }
 
 GhostExcalibur: {
@@ -1892,12 +1917,17 @@ LunarBand: {
 		'''
 		+8%暴击率
 		在夜晚，增加12%伤害并发出光芒[c/ff0000:【乘算】]
+		[c/00FFB3:在雪原深处的匿影群系中击杀深渊史莱姆、深渊骷髅、深渊探寻者和深渊狂热者获得]
 		'''
 }
 
 OceanScroll: {
 	DisplayName: 海之卷轴
-	Tooltip: +10%魔法暴击率
+	Tooltip: 
+		'''
+		+10%魔法暴击率
+		[c/00FFB3:将远古海洋符文交给吉娅后概率得到]
+		'''
 }
 
 OceansTrinket: {
@@ -1906,6 +1936,7 @@ OceansTrinket: {
 		'''
 		+1随从上限
 		+8%召唤伤害！[c/ff0000:【乘算】]
+		[c/00FFB3:将远古海洋符文交给吉娅后概率得到]
 		'''
 }
 
@@ -1936,7 +1967,11 @@ RuneOfStealth: {
 
 ShadeCharm: {
 	DisplayName: 魅夜之石
-	Tooltip: 魅夜之石，夜中明灯，魔力减耗，照亮前行.
+	Tooltip: 
+		'''
+		魅夜之石，夜中明灯，魔力减耗，照亮前行.
+		[c/00FFB3:掉落自夜晚地表刷新的暗影幽灵]
+		'''
 }
 
 ShadeScarf: {
@@ -1952,8 +1987,12 @@ ShadeScarf: {
 }
 
 ShellSheid: {
-	DisplayName: 贝壳护盾
-	Tooltip: 这很壳以！
+	DisplayName: 贝壳护盾 
+	Tooltip: 
+		'''
+		这很壳以！
+		[c/00FFB3:将远古海洋符文交给吉娅后概率得到]
+		'''
 }
 
 SoulStrideres: {
@@ -1983,7 +2022,11 @@ StarflareBand: {
 
 SunGlyph: {
 	DisplayName: 耀日符印
-	Tooltip: 在白天大幅提升所有伤害
+	Tooltip: 
+		'''
+		在白天大幅提升所有伤害
+		[c/00FFB3:掉落自猎日游隼]
+		'''
 }
 
 WoodShield: {
@@ -2910,6 +2953,7 @@ GintzlBroochA: {
 		迅风之力！
 		+4防御
 		所有物品都能自动挥舞！
+		[c/00FFB3:掉落自金戈亚指挥官]
 		'''
 }
 
@@ -3043,7 +3087,11 @@ Alcarish: {
 
 AurelusBlightBroochA: {
 	DisplayName: 匿影饰符
-	Tooltip: 光越亮，影越浓...
+	Tooltip: 
+		'''
+		光越亮，影越浓...
+		[c/00FFB3:掉落自破碎奇点]
+		'''
 }
 
 AbyssalPowder: {
@@ -3088,12 +3136,20 @@ Kilvier: {
 
 DaedussSunSheid: {
 	DisplayName: 辉日护盾
-	Tooltip: 在歌瑟梵与薇莉娅的名号下熠熠生辉
+	Tooltip: 
+		'''
+		在歌瑟梵与薇莉娅的名号下熠熠生辉
+		[c/00FFB3:掉落自世遗者，代达斯]
+		'''
 }
 
 BearBroochA: {
 	DisplayName: 蛮熊饰符
-	Tooltip: 增加大量的魔力再生！还有+4防御
+	Tooltip: 
+		'''
+		增加大量的魔力再生！还有+4防御
+		[c/00FFB3:掉落自世遗者，代达斯]
+		'''
 }
 
 DreadBroochA: {
@@ -3102,6 +3158,7 @@ DreadBroochA: {
 		'''
 		+40最大生命值
 		其实她好像也没那么坏嘛~
+		[c/00FFB3:掉落自绛渊恶巫]
 		'''
 }
 
@@ -3112,6 +3169,7 @@ MalShieldBroochA: {
 		我感觉这不太对劲...
 		+7防御
 		+7%近战伤害！[c/ff0000:【乘算】]
+		[c/00FFB3:从玄铁军官处购买]
 		'''
 }
 
@@ -3122,6 +3180,7 @@ VixedBroochA: {
 		傀儡早已精疲力竭
 		+5%伤害
 		+40最大生命值
+		[c/00FFB3:掉落自世遗者，代达斯]
 		'''
 }
 
@@ -3209,7 +3268,11 @@ GovheilHolsterBroochA: {
 
 GovhenShield: {
 	DisplayName: 葛文护盾
-	Tooltip: 一面十分坚韧的盾牌
+	Tooltip: 
+		'''
+		一面十分坚韧的盾牌
+		[c/00FFB3:在歌维赫堡中找到]
+		'''
 }
 
 GreekLantern: {
@@ -3253,6 +3316,7 @@ BurningGBroochA: {
 		'''
 		攻击敌人时释放灵液并引发爆炸
 		+5%近战伤害[c/ff0000:【乘算】]
+		[c/00FFB3:掉落自歌瑟梵或伊瑞蒂安]
 		'''
 }
 
@@ -3428,7 +3492,11 @@ ThrowingCards: {
 
 Bread: {
 	DisplayName: 面包
-	Tooltip: 你还记得你吃过多少片面包吗？
+	Tooltip: 
+		'''
+		你还记得你吃过多少片面包吗？
+		[c/00FFB3:掉落自玄铁卫兵]
+		'''
 }
 
 BowledCream: {
@@ -3446,12 +3514,12 @@ IgniterCardsMKII: {
 }
 
 DesertRuneI: {
-	DisplayName: 远古符文
+	DisplayName: 远古沙漠符文
 	Tooltip: 也许吉娅会想要它？
 }
 
 OverworldRuneI: {
-	DisplayName: 远古符文
+	DisplayName: 远古地表符文
 	Tooltip: 也许吉娅会想要它？
 }
 
@@ -3462,7 +3530,7 @@ ThrowingCardsMKII: {
 
 JungleRuneI: {
 	Tooltip: 也许吉娅会想要它？
-	DisplayName: 远古符文
+	DisplayName: 远古丛林符文
 }
 
 AlcadzBlock: {
@@ -3560,6 +3628,7 @@ StoniaBroochA: {
 		免疫摔落伤害，+2防御！
 		增加挖掘速度，在黑暗中发光
 		但失去15%伤害[c/ff0000:【乘算】]
+		[c/00FFB3:击败石心圣卫后的石心箱中获得]
 		'''
 }
 
@@ -3749,7 +3818,7 @@ AlcadThrowingCards: {
 }
 
 OceanRuneI: {
-	DisplayName: 远古符文
+	DisplayName: 远古海洋符文
 	Tooltip: 也许吉娅会想要它？
 }
 
@@ -4032,6 +4101,7 @@ MiracleWings: {
 		允许飞行与缓降
 		按住“下”键以悬停
 		看这翅膀的样子...能飞起来就是个奇迹
+		[c/00FFB3:掉落自赛莉亚]
 		'''
 }
 
@@ -4073,6 +4143,7 @@ LittleScissor: {
 		'''
 		双击方向键来快速冲刺！
 		冲刺时撕裂空间并留下追踪能量
+		[c/00FFB3:掉落自赛莉亚]
 		'''
 }
 
@@ -4129,7 +4200,11 @@ BottleOfGrail: {
 
 ReverieExtenderPowder: {
 	DisplayName: 魔法尘增效器·幻想
-	Tooltip: 增加130%的魔法尘距离
+	Tooltip: 
+		'''
+		增加130%的魔法尘距离
+		[c/00FFB3:售卖于赌徒]
+		'''
 }
 
 GrailedExtenderPowder: {
@@ -4148,6 +4223,7 @@ BonedThrowBroochA: {
 		'''
 		增加20%投掷速度和伤害
 		增加移速！[c/ff0000:【乘算】]
+		[c/00FFB3:掉落自骷髅王]
 		'''
 }
 
@@ -4173,12 +4249,20 @@ StarringGraft: {
 
 OceanicExtenderPowder: {
 	DisplayName: 魔法尘增效器·海洋
-	Tooltip: 增加150%的魔法尘距离
+	Tooltip: 
+		'''
+		增加150%的魔法尘距离
+		[c/00FFB3:将远古海洋符文交给吉娅后概率得到]
+		'''
 }
 
 MorrowedJelliesBroochA: {
 	DisplayName: 幽曦水母饰符
-	Tooltip: 戴上它，你就是全村最肉的仔，再加40防御！
+	Tooltip: 
+		'''
+		戴上它，你就是全村最肉的仔，再加40防御！
+		[c/00FFB3:掉落自幽曦之地的幽曦水母、巨像水母和冰皇水母]
+		'''
 }
 
 BonedExtenderPowder: {
@@ -4198,7 +4282,11 @@ MushyExtenderPowder: {
 
 TomedDustingFlames: {
 	DisplayName: 火焰魔法尘指南
-	Tooltip: 引爆某些魔法粉尘时产生火焰爆破
+	Tooltip: 
+		'''
+		引爆某些魔法粉尘时产生火焰爆破
+		[c/00FFB3:掉落自灯笼杰克]
+		'''
 }
 
 TomedDustingMagic: {
@@ -4545,7 +4633,11 @@ UlvenHelmet: {
 
 RottenHeart: {
 	DisplayName: 腐朽之心
-	Tooltip: 已经裂成碎片，完全腐朽.修复它，便是为歌瑟梵提供了又一道屏障...
+	Tooltip: 
+		'''
+		已经裂成碎片，完全腐朽.修复它，便是为歌瑟梵提供了又一道屏障...
+		[c/00FFB3:后神寓地地表npc卖]
+		'''
 }
 
 IronHook: {
@@ -4636,6 +4728,7 @@ AquaticEmblem: {
 		'''
 		击中敌人时有几率召唤泡泡来包围它们！
 		泡泡的持续时间很长
+		[c/00FFB3:从击败浸水墓穴中的迷你Boss掉落的沉沦宝藏盒中开出]
 		'''
 }
 
@@ -4645,6 +4738,7 @@ Barry: {
 		'''
 		召唤一圈刺来保护你
 		人见人爱 :)
+		[c/00FFB3:从击败机关墓穴中的迷你Boss掉落的机关宝藏盒中开出]
 		'''
 }
 
@@ -4654,12 +4748,17 @@ Bonfire: {
 		'''
 		在你头顶上召唤一只火烛灵，它会增加你的生命再生并提供照明
 		在你不移动时效果更好！
+		[c/00FFB3:从击败烈火墓穴中的迷你Boss掉落的燃烬宝藏盒中开出]
 		'''
 }
 
 Cleats: {
 	DisplayName: 钉鞋
-	Tooltip: 增加移动速度和加速度，并发出微弱光芒！
+	Tooltip: 
+		'''
+		增加移动速度和加速度，并发出微弱光芒！
+		[c/00FFB3:从击败机关墓穴中的迷你Boss掉落的机关宝藏盒中开出]
+		'''
 }
 
 FireEmblem: {
@@ -4670,6 +4769,7 @@ FireEmblem: {
 		暴击有几率引发爆炸并灼烧敌人！
 		...你是不是以为这是别的什么东西？
 		（同名游戏《火焰纹章》）
+		[c/00FFB3:从击败烈火墓穴中的迷你Boss掉落的燃烬宝藏盒中开出]
 		'''
 }
 
@@ -4680,6 +4780,7 @@ FlamecrestShield: {
 		免疫所有火焰类减益！
 		所有火焰类攻击对你造成的伤害减半！
 		再来烧我呀~ :P
+		[c/00FFB3:从击败烈火墓穴中的迷你Boss掉落的燃烬宝藏盒中开出]
 		'''
 }
 
@@ -4690,6 +4791,7 @@ IcarusFeather: {
 		即使飞行时间耗尽也可以继续飞行！
 		...但如果你这么做，你的翅膀会起火，灼烧生命并降低灵活性
 		（伊卡洛斯，古希腊神话人物，大发明家代达罗斯之子.两人用代达罗斯造出的翅膀逃离监狱时，伊卡洛斯固定翅膀用的蜡被太阳融化，坠入海洋身亡）
+		[c/00FFB3:从击败烈火墓穴中的迷你Boss掉落的燃烬宝藏盒中开出]
 		'''
 }
 
@@ -4699,6 +4801,7 @@ OceancrestShield: {
 		'''
 		每过一小会，就会出现泡泡保护你免受一次伤害！
 		无限的水下呼吸！
+		[c/00FFB3:从击败浸水墓穴中的迷你Boss掉落的沉沦宝藏盒中开出]
 		'''
 }
 
@@ -4708,6 +4811,7 @@ Panacea: {
 		'''
 		免疫中毒，剧毒与流血！
 		+40最大生命值
+		[c/00FFB3:从击败浸水墓穴中的迷你Boss掉落的沉沦宝藏盒中开出]
 		'''
 }
 
@@ -4717,6 +4821,7 @@ SpikedEmblem: {
 		'''
 		+8%伤害
 		攻击敌人时，伸出锁链将其拉向你并造成额外伤害！
+		[c/00FFB3:从击败机关墓穴中的迷你Boss掉落的机关宝藏盒中开出]
 		'''
 }
 
@@ -4726,12 +4831,17 @@ TyphoonInABottle: {
 		'''
 		获得一个极其强力的二段跳！
 		稍微增加移速与跳跃速度
+		[c/00FFB3:从击败浸水墓穴中的迷你Boss掉落的沉沦宝藏盒中开出]
 		'''
 }
 
 WaterproofHeadphones: {
 	DisplayName: 防水耳机
-	Tooltip: +40最大生命值，+4%伤害减免
+	Tooltip: 
+		'''
+		+40最大生命值，+4%伤害减免
+		[c/00FFB3:从击败浸水墓穴中的迷你Boss掉落的沉沦宝藏盒中开出]
+		'''
 }
 
 BurningFlask: {
@@ -4887,12 +4997,17 @@ AlcaricQuiver: {
 		'''
 		将木箭转化为虚能箭
 		虚能箭飞得更快，伤害更高，而且会爆炸！
+		[c/00FFB3:在穹月仪殿（雪原上方的天空中）或皇都（世界最左侧的天空中）的宝箱中获得]
 		'''
 }
 
 BlackRose: {
 	DisplayName: 黑蔷薇
-	Tooltip: 使用魔力药水不会造成魔力病，但会对自己造成轻微伤害
+	Tooltip: 
+		'''
+		使用魔力药水不会造成魔力病，但会对自己造成轻微伤害
+		[c/00FFB3:在穹月仪殿（雪原上方的天空中）或皇都（世界最左侧的天空中）的宝箱中获得]
+		'''
 }
 
 LittleWand: {
@@ -4901,12 +5016,17 @@ LittleWand: {
 		'''
 		能用它施放什么魔法呢...？
 		只有最强的巫师才能使用它
+		[c/00FFB3:在穹月仪殿（雪原上方的天空中）或皇都（世界最左侧的天空中）的宝箱中获得]
 		'''
 }
 
 WindedQuiver: {
 	DisplayName: 迅风箭袋
-	Tooltip: 将木箭转化为迅风箭，可以穿透敌人！
+	Tooltip: 
+		'''
+		将木箭转化为迅风箭，可以穿透敌人！
+		[c/00FFB3:在地表风车房里开出]
+		'''
 }
 
 AimacraWig: {
@@ -5048,7 +5168,11 @@ TheTingler: {
 
 KnivedQuiver: {
 	DisplayName: 利刃箭袋
-	Tooltip: 将木箭转化为飞刀，即高速又穿透！
+	Tooltip: 
+		'''
+		将木箭转化为飞刀，即高速又穿透！
+		[c/00FFB3:在地下新木屋的金箱中开出]
+		'''
 }
 
 LifeSeekingVial: {
@@ -5130,7 +5254,11 @@ WitchenHat: {
 
 IceClimbers: {
 	DisplayName: 极地攀登靴
-	Tooltip: 可爬墙，溜冰，且+10最大生命值！
+	Tooltip: 
+		'''
+		可爬墙，溜冰，且+10最大生命值！
+		[c/00FFB3:售卖于蕊]
+		'''
 }
 
 MoltenScrap: {
@@ -5356,6 +5484,7 @@ OnionOfUselessness: {
 		'''
 		在你的皮克敏罐中加入黄色与蓝色皮克敏！
 		为你的皮克敏+11伤害
+		[c/00FFB3:完成蕊的十个任务后开始售卖]
 		'''
 	DisplayName: 无用洋葱
 }
@@ -5365,6 +5494,7 @@ OnionOfStrength: {
 		'''
 		在你的皮克敏罐中加入黄色、蓝色、白色和紫色皮克敏！
 		为你的皮克敏+70伤害
+		[c/00FFB3:完成蕊的三十个任务后开始售卖]
 		'''
 	DisplayName: 力量洋葱
 }
@@ -5374,6 +5504,7 @@ OnionOfSight: {
 		'''
 		在你的皮克敏罐中加入黄色、蓝色和白色皮克敏！
 		为你的皮克敏+30伤害
+		[c/00FFB3:完成蕊的二十个任务后开始售卖]
 		'''
 	DisplayName: 视力洋葱
 }
@@ -5383,6 +5514,7 @@ OnionOfHeight: {
 		'''
 		在你的皮克敏罐中加入黄色皮克敏！
 		为你的皮克敏+5伤害
+		[c/00FFB3:完成蕊的三个任务后开始售卖]
 		'''
 	DisplayName: 高度洋葱
 }
@@ -5427,7 +5559,7 @@ ElectricCrystal: {
 }
 
 SkyRuneI: {
-	DisplayName: 远古符文
+	DisplayName: 远古天空符文
 	Tooltip: 也许吉娅会想要它？
 }
 
@@ -5644,7 +5776,11 @@ AmberBroochA: {
 
 VillagersBroochA: {
 	DisplayName: 村庄饰符
-	Tooltip: 看人不爽？正好，用这增加的12%伤害痛扁他们吧！[c/ff0000:【乘算】]
+	Tooltip: 
+		'''
+		看人不爽？正好，用这增加的12%伤害痛扁他们吧！[c/ff0000:【乘算】]
+		[c/00FFB3:从伊瑞蒂安或戴尔格林处购买]
+		'''
 }
 
 RadianuiBar: {
@@ -5729,7 +5865,11 @@ IvythornShuriken: {
 
 SewingKit: {
 	DisplayName: 织影套件包
-	Tooltip: 允许你制作和使用奇迹物品！
+	Tooltip: 
+		'''
+		允许你制作和使用奇迹物品！
+		[c/00FFB3:掉落自赛莉亚]
+		'''
 }
 
 Hitme: {
@@ -5753,7 +5893,7 @@ LuminullSpiritFragments: {
 
 IceRuneI: {
 	Tooltip: 也许吉娅会想要它？
-	DisplayName: 远古符文
+	DisplayName: 远古雪原符文
 }
 
 TitaniumBullet: {
@@ -5917,7 +6057,7 @@ TheActualMoon: {
 		{$CommonItemTooltip.SummonTagDamage}
 		{$CommonItemTooltip.Whips}
 		这是一件更重的球体武器，拥有更强劲的冲击爆炸威力！
-		我已经成为了薇莉亚
+		我已经成为了薇莉娅
 		'''
 }
 
@@ -6005,7 +6145,11 @@ BlackBall: {
 }
 
 TomeofRaining: {
-	Tooltip: 随时召唤下雨！这是蕊的谢礼！
+	Tooltip: 
+		'''
+		随时召唤下雨！这是蕊的谢礼！
+		[c/00FFB3:完成蕊的任务获得]
+		'''
 	DisplayName: 唤雨魔书
 }
 
@@ -6363,6 +6507,7 @@ IllurianBroochA: {
 		增加奔跑速度与灵活性！
 		减少防御...
 		星树与你同在
+		[c/00FFB3:击败世纪之花后在星树（地图右侧天空中的巨树）的宝箱中获得]
 		'''
 }
 
@@ -6573,7 +6718,11 @@ FrameStaff: {
 }
 
 LiliumArrow: {
-	Tooltip: 当这些箭射中目标时，它们会分裂成金色碎片，并伴随着爆炸向敌人袭去.
+	Tooltip: 
+		'''
+		当这些箭射中目标时，它们会分裂成金色碎片，并伴随着爆炸向敌人袭去.
+		[c/00FFB3:完成肉后蕊的任务获得]
+		'''
 	DisplayName: 百合箭
 }
 
@@ -6864,11 +7013,15 @@ RadiantsparkBoots: {
 
 AntlionWings: {
 	DisplayName: 蚁狮之翼
-	Tooltip: ""
+	Tooltip: "[c/00FFB3:掉落自蚁狮蜂宝宝]"
 }
 
 ZuiBomb: {
-	Tooltip: 击中敌人时召唤蕊的力量，爆炸并造成大量伤害！
+	Tooltip: 
+		'''
+		击中敌人时召唤蕊的力量，爆炸并造成大量伤害！
+		[c/00FFB3:掉落自蕊]
+		'''
 	DisplayName: 蕊之辉光
 }
 
@@ -7172,7 +7325,7 @@ Vixyl: {
 		'''
 		精准把握斩击与受击的时机，以反击敌人攻击
 		反击能够完全抵消所有伤害，并发动强力的反击斩击
-		在反击后的一小段时间内，你将如同薇莉亚一般，施展一连串的快速攻击
+		在反击后的一小段时间内，你将如同薇莉娅一般，施展一连串的快速攻击
 		'''
 }
 
@@ -7206,7 +7359,11 @@ GothiviaBossRel: {
 }
 
 SerpentWings: {
-	Tooltip: 不息炽龙的双翼，给予30秒钟的飞行时间！
+	Tooltip: 
+		'''
+		不息炽龙的双翼，给予30秒钟的飞行时间！
+		[c/00FFB3:掉落自莱克或售卖于奥丁]
+		'''
 	DisplayName: 炽焰盘龙翼
 }
 
@@ -7215,6 +7372,7 @@ GothinWings: {
 		'''
 		多漂亮的翅膀，看着就让人想把它穿上！给予90秒的飞行时间！
 		可以与时装栏的翅膀在外观上共存！亲手打造出你最心仪的造型！
+		[c/00FFB3:掉落自歌瑟梵]
 		'''
 	DisplayName: 歌瑟梵之翼
 }
@@ -7229,6 +7387,7 @@ FoxMark: {
 		+5%伤害[c/ff0000:【乘算】]
 		与我签订契约，成为魔法狐娘吧！
 		"她会治愈我的..."
+		[c/00FFB3:掉落自绯琦]
 		'''
 }
 
@@ -7546,6 +7705,7 @@ WoodyBroochA: {
 		'''
 		接触地面时增加30%伤害！
 		但~滞空时减少30%伤害！
+		[c/00FFB3:掉落自瘴煞群系的灾疫史莱姆]
 		'''
 }
 
@@ -7571,7 +7731,11 @@ CentipedeStaff: {
 
 SirestiasMask: {
 	DisplayName: 希丝忒莉亚的假面
-	Tooltip: 满血时增加30%伤害！
+	Tooltip: 
+		'''
+		满血时增加30%伤害！
+		[c/00FFB3:完成希丝忒莉亚的任务概率获得]
+		'''
 }
 
 VoidalPassageway: {

@@ -753,7 +753,6 @@ NaturalWitch: {
 
 Zui: {
 	DisplayName: 蕊
-	BossChecklistIntegration: 击败世纪之花后，蕊会卖一件物品，允许你挑战她.
 	Bestiary: 一名周游大陆的旅者，似乎掌握着强大的力量.
 	Bestiary2: 旅者蕊
 	Button: 任务
@@ -810,6 +809,7 @@ ZuiTheTraveller: {
 	DisplayName: 辉光女神,蕊
 	Bestiary: 蕊，绝不是什么等闲之辈，但看样子很喜欢休闲玩乐.希丝忒莉亚与她有不浅的交情.
 	Bestiary2: 辉光女神,蕊
+	BossChecklistIntegration.SpawnInfo: 击败世纪之花后，蕊会卖一件物品，允许你挑战她.
 }
 
 TestLaserNPC.DisplayName: 测试激光NPC
