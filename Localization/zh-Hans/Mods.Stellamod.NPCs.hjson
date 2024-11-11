@@ -781,6 +781,7 @@ Zui: {
 	Special9: 真是太太太感谢你了！我的商店完全对你开放了！等以后你需要我的帮助时，我一定会答应的;p
 	Special10: 嗨呀！我觉得我需要的东西已经够用了.谢谢你的好意，看看我的商店如何？
 	// Special11: Hey you wanna do a quest? I'll open up my expansive magic shop for you if you do.. I have quite some great goodies in store but I want to become the best witch in all of the Lunar Veil, and I want you to help me make a tome, but first I need you to kill Verlia first for me.
+	// BossChecklistIntegration: After Plantera, Zui will sell you an item that'll allow you to fight her in the witch town!
 }
 
 AbandonedMinor.DisplayName: 遭弃矿工

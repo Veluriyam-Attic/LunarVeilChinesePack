@@ -1839,7 +1839,7 @@ AcidStaketers: {
 
 AquaCrystal: {
 	DisplayName: 水能晶体
-	Tooltip: 
+	Tooltip:
 		'''
 		+15%远程暴击率！
 		[c/00FFB3:完成蕊的三个任务后或将远古海洋符文交给吉娅后概率得到]
@@ -1863,7 +1863,7 @@ ArncharMagazine: {
 
 ClamsPearl: {
 	DisplayName: 古蚌明珠
-	Tooltip: 
+	Tooltip:
 		'''
 		发出微弱光芒 :)
 		[c/00FFB3:售卖于玄铁军官]
@@ -1874,9 +1874,10 @@ CloudSkaters: {
 	DisplayName: 浮云靴
 	Tooltip: 减弱重力，畅行天际！
 }
+
 CoralBand: {
 	DisplayName: 珊瑚手环
-	Tooltip: 
+	Tooltip:
 		'''
 		+5%近战伤害与暴击率！
 		[c/00FFB3:将远古海洋符文交给吉娅后概率得到]
@@ -1890,7 +1891,7 @@ GintzlMetal: {
 
 EaglesGrace: {
 	DisplayName: 雄鹰之风采
-	Tooltip: 
+	Tooltip:
 		'''
 		古谕的神圣窝巢之中，一只雄鹰将其双翼赐予你
 		[c/00FFB3:在玄铁房的金箱中概率获得]
@@ -1923,7 +1924,7 @@ LunarBand: {
 
 OceanScroll: {
 	DisplayName: 海之卷轴
-	Tooltip: 
+	Tooltip:
 		'''
 		+10%魔法暴击率
 		[c/00FFB3:将远古海洋符文交给吉娅后概率得到]
@@ -1967,7 +1968,7 @@ RuneOfStealth: {
 
 ShadeCharm: {
 	DisplayName: 魅夜之石
-	Tooltip: 
+	Tooltip:
 		'''
 		魅夜之石，夜中明灯，魔力减耗，照亮前行.
 		[c/00FFB3:掉落自夜晚地表刷新的暗影幽灵]
@@ -1987,8 +1988,8 @@ ShadeScarf: {
 }
 
 ShellSheid: {
-	DisplayName: 贝壳护盾 
-	Tooltip: 
+	DisplayName: 贝壳护盾
+	Tooltip:
 		'''
 		这很壳以！
 		[c/00FFB3:将远古海洋符文交给吉娅后概率得到]
@@ -2022,7 +2023,7 @@ StarflareBand: {
 
 SunGlyph: {
 	DisplayName: 耀日符印
-	Tooltip: 
+	Tooltip:
 		'''
 		在白天大幅提升所有伤害
 		[c/00FFB3:掉落自猎日游隼]
@@ -3087,7 +3088,7 @@ Alcarish: {
 
 AurelusBlightBroochA: {
 	DisplayName: 匿影饰符
-	Tooltip: 
+	Tooltip:
 		'''
 		光越亮，影越浓...
 		[c/00FFB3:掉落自破碎奇点]
@@ -3136,7 +3137,7 @@ Kilvier: {
 
 DaedussSunSheid: {
 	DisplayName: 辉日护盾
-	Tooltip: 
+	Tooltip:
 		'''
 		在歌瑟梵与薇莉娅的名号下熠熠生辉
 		[c/00FFB3:掉落自世遗者，代达斯]
@@ -3145,7 +3146,7 @@ DaedussSunSheid: {
 
 BearBroochA: {
 	DisplayName: 蛮熊饰符
-	Tooltip: 
+	Tooltip:
 		'''
 		增加大量的魔力再生！还有+4防御
 		[c/00FFB3:掉落自世遗者，代达斯]
@@ -3268,7 +3269,7 @@ GovheilHolsterBroochA: {
 
 GovhenShield: {
 	DisplayName: 葛文护盾
-	Tooltip: 
+	Tooltip:
 		'''
 		一面十分坚韧的盾牌
 		[c/00FFB3:在歌维赫堡中找到]
@@ -3492,7 +3493,7 @@ ThrowingCards: {
 
 Bread: {
 	DisplayName: 面包
-	Tooltip: 
+	Tooltip:
 		'''
 		你还记得你吃过多少片面包吗？
 		[c/00FFB3:掉落自玄铁卫兵]
@@ -4200,7 +4201,7 @@ BottleOfGrail: {
 
 ReverieExtenderPowder: {
 	DisplayName: 魔法尘增效器·幻想
-	Tooltip: 
+	Tooltip:
 		'''
 		增加130%的魔法尘距离
 		[c/00FFB3:售卖于赌徒]
@@ -4249,7 +4250,7 @@ StarringGraft: {
 
 OceanicExtenderPowder: {
 	DisplayName: 魔法尘增效器·海洋
-	Tooltip: 
+	Tooltip:
 		'''
 		增加150%的魔法尘距离
 		[c/00FFB3:将远古海洋符文交给吉娅后概率得到]
@@ -4258,7 +4259,7 @@ OceanicExtenderPowder: {
 
 MorrowedJelliesBroochA: {
 	DisplayName: 幽曦水母饰符
-	Tooltip: 
+	Tooltip:
 		'''
 		戴上它，你就是全村最肉的仔，再加40防御！
 		[c/00FFB3:掉落自幽曦之地的幽曦水母、巨像水母和冰皇水母]
@@ -4282,7 +4283,7 @@ MushyExtenderPowder: {
 
 TomedDustingFlames: {
 	DisplayName: 火焰魔法尘指南
-	Tooltip: 
+	Tooltip:
 		'''
 		引爆某些魔法粉尘时产生火焰爆破
 		[c/00FFB3:掉落自灯笼杰克]
@@ -4633,7 +4634,7 @@ UlvenHelmet: {
 
 RottenHeart: {
 	DisplayName: 腐朽之心
-	Tooltip: 
+	Tooltip:
 		'''
 		已经裂成碎片，完全腐朽.修复它，便是为歌瑟梵提供了又一道屏障...
 		[c/00FFB3:后神寓地地表npc卖]
@@ -4754,7 +4755,7 @@ Bonfire: {
 
 Cleats: {
 	DisplayName: 钉鞋
-	Tooltip: 
+	Tooltip:
 		'''
 		增加移动速度和加速度，并发出微弱光芒！
 		[c/00FFB3:从击败机关墓穴中的迷你Boss掉落的机关宝藏盒中开出]
@@ -4837,7 +4838,7 @@ TyphoonInABottle: {
 
 WaterproofHeadphones: {
 	DisplayName: 防水耳机
-	Tooltip: 
+	Tooltip:
 		'''
 		+40最大生命值，+4%伤害减免
 		[c/00FFB3:从击败浸水墓穴中的迷你Boss掉落的沉沦宝藏盒中开出]
@@ -5003,7 +5004,7 @@ AlcaricQuiver: {
 
 BlackRose: {
 	DisplayName: 黑蔷薇
-	Tooltip: 
+	Tooltip:
 		'''
 		使用魔力药水不会造成魔力病，但会对自己造成轻微伤害
 		[c/00FFB3:在穹月仪殿（雪原上方的天空中）或皇都（世界最左侧的天空中）的宝箱中获得]
@@ -5022,7 +5023,7 @@ LittleWand: {
 
 WindedQuiver: {
 	DisplayName: 迅风箭袋
-	Tooltip: 
+	Tooltip:
 		'''
 		将木箭转化为迅风箭，可以穿透敌人！
 		[c/00FFB3:在地表风车房里开出]
@@ -5168,7 +5169,7 @@ TheTingler: {
 
 KnivedQuiver: {
 	DisplayName: 利刃箭袋
-	Tooltip: 
+	Tooltip:
 		'''
 		将木箭转化为飞刀，即高速又穿透！
 		[c/00FFB3:在地下新木屋的金箱中开出]
@@ -5254,7 +5255,7 @@ WitchenHat: {
 
 IceClimbers: {
 	DisplayName: 极地攀登靴
-	Tooltip: 
+	Tooltip:
 		'''
 		可爬墙，溜冰，且+10最大生命值！
 		[c/00FFB3:售卖于蕊]
@@ -5776,7 +5777,7 @@ AmberBroochA: {
 
 VillagersBroochA: {
 	DisplayName: 村庄饰符
-	Tooltip: 
+	Tooltip:
 		'''
 		看人不爽？正好，用这增加的12%伤害痛扁他们吧！[c/ff0000:【乘算】]
 		[c/00FFB3:从伊瑞蒂安或戴尔格林处购买]
@@ -5865,7 +5866,7 @@ IvythornShuriken: {
 
 SewingKit: {
 	DisplayName: 织影套件包
-	Tooltip: 
+	Tooltip:
 		'''
 		允许你制作和使用奇迹物品！
 		[c/00FFB3:掉落自赛莉亚]
@@ -6145,7 +6146,7 @@ BlackBall: {
 }
 
 TomeofRaining: {
-	Tooltip: 
+	Tooltip:
 		'''
 		随时召唤下雨！这是蕊的谢礼！
 		[c/00FFB3:完成蕊的任务获得]
@@ -6718,7 +6719,7 @@ FrameStaff: {
 }
 
 LiliumArrow: {
-	Tooltip: 
+	Tooltip:
 		'''
 		当这些箭射中目标时，它们会分裂成金色碎片，并伴随着爆炸向敌人袭去.
 		[c/00FFB3:完成肉后蕊的任务获得]
@@ -7017,7 +7018,7 @@ AntlionWings: {
 }
 
 ZuiBomb: {
-	Tooltip: 
+	Tooltip:
 		'''
 		击中敌人时召唤蕊的力量，爆炸并造成大量伤害！
 		[c/00FFB3:掉落自蕊]
@@ -7359,7 +7360,7 @@ GothiviaBossRel: {
 }
 
 SerpentWings: {
-	Tooltip: 
+	Tooltip:
 		'''
 		不息炽龙的双翼，给予30秒钟的飞行时间！
 		[c/00FFB3:掉落自莱克或售卖于奥丁]
@@ -7731,7 +7732,7 @@ CentipedeStaff: {
 
 SirestiasMask: {
 	DisplayName: 希丝忒莉亚的假面
-	Tooltip: 
+	Tooltip:
 		'''
 		满血时增加30%伤害！
 		[c/00FFB3:完成希丝忒莉亚的任务概率获得]
