@@ -840,7 +840,11 @@ VerliaDP.DisplayName: 薇莉娅
 
 Niivi: {
 	DisplayName: 尼伊维
-	BossChecklistIntegration.SpawnInfo: 尼伊维总是在星月巨树旁边徘徊...或沉睡于其上.对她造成足够的伤害就能激怒她.
+	BossChecklistIntegration.SpawnInfo:
+		'''
+		[c/00FFB3:在尼伊维血量不足1%时停止攻击将以另一种方式解决战斗]
+		尼伊维总是在星月巨树旁边徘徊或沉睡于其上....对她造成足够的伤害就能激怒她.
+		'''
 	Bestiary: 太初祖龙，尼伊维
 }
 

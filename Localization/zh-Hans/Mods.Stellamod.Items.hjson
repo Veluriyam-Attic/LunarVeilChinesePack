@@ -25,7 +25,7 @@ AdvancedBroochesBackpack: {
 	Tooltip:
 		'''
 		+1远程伤害
-		+4%伤害[c/ff0000:【乘算】]
+		+4%伤害[c/ff0000:「乘算」]
 		允许你装备高级饰符！这非常有用！
 		包含了旅者的行囊所有效果！
 		'''
@@ -39,7 +39,7 @@ DiariBroochA: {
 		火焰行走特效？
 		还有永久饱腹！
 		+10最大生命值上限和最大魔力值上限
-		+5%伤害！[c/ff0000:【乘算】]
+		+5%伤害！[c/ff0000:「乘算」]
 		（Diari是作者在Steam上的一款游戏）
 		[c/00FFB3:新手礼包获得]
 		'''
@@ -122,7 +122,7 @@ JellyfishTissue: {
 		'''
 		哇哦，好东西！
 		+40防御
-		但代价是减少40%伤害...[c/ff0000:【乘算】]
+		但代价是减少40%伤害...[c/ff0000:「乘算」]
 		[c/00FFB3:掉落自幽曦之地的幽曦水母、巨像水母和冰皇水母]
 		'''
 }
@@ -162,7 +162,7 @@ SapContainer: {
 	DisplayName: 甘露瓶
 	Tooltip:
 		'''
-		每10秒钟喝下其中甘露并获得巨大的魔法伤害提升[c/ff0000:【乘算】]
+		每10秒钟喝下其中甘露并获得巨大的魔法伤害提升[c/ff0000:「乘算」]
 		常驻+7%魔法伤害
 		'''
 }
@@ -186,7 +186,7 @@ Steali: {
 		增加生命再生
 		冲刺过程中不能攻击
 		某穿着黑色披风的白色小骑士觉得很赞
-		[c/00FFB3:掉落自克苏鲁之眼]
+		[c/00FFB3:掉落自克苏鲁之眼或从波尔杜克或赌徒处售卖]
 		'''
 }
 
@@ -246,7 +246,7 @@ HuntrianBoots: {
 	Tooltip:
 		'''
 		腐蚀之木
-		+5%伤害[c/ff0000:【乘算】]
+		+5%伤害[c/ff0000:「乘算」]
 		-10最大生命值
 		+7%暴击率
 		'''
@@ -257,7 +257,7 @@ HuntrianChestplate: {
 	Tooltip:
 		'''
 		腐蚀之木
-		+5%伤害[c/ff0000:【乘算】]
+		+5%伤害[c/ff0000:「乘算」]
 		+10最大生命值 
 		+10%暴击率
 		'''
@@ -268,7 +268,7 @@ HuntrianHelmet: {
 	Tooltip:
 		'''
 		腐蚀之木
-		+5%伤害[c/ff0000:【乘算】]
+		+5%伤害[c/ff0000:「乘算」]
 		+20最大生命值
 		'''
 }
@@ -297,7 +297,7 @@ LovestruckMask: {
 	Tooltip:
 		'''
 		欲望女神的精华
-		+7%伤害[c/ff0000:【乘算】]
+		+7%伤害[c/ff0000:「乘算」]
 		+40最大生命值
 		'''
 }
@@ -309,6 +309,7 @@ GintzeMask: {
 		稀有金属制成！
 		+2随从栏
 		+50最大生命值
+		[c/00FFB3:掉落自自然女巫、玄铁军官或玄铁指挥官]
 		'''
 }
 
@@ -352,6 +353,7 @@ AstolfoBody: {
 		捏呀~
 		好香！
 		+20最大生命值
+		[c/00FFB3:售卖于派对女孩]
 		'''
 }
 
@@ -363,6 +365,7 @@ AstolfoMask: {
 		+2%伤害
 		+35最大生命值
 		增加挖掘速度！
+		[c/00FFB3:售卖于派对女孩]
 		'''
 }
 
@@ -373,6 +376,7 @@ AstolfoSkirt: {
 		闻起来像...水？
 		+5%移动速度
 		丰满的大腿prpr
+		[c/00FFB3:售卖于派对女孩]
 		'''
 }
 
@@ -457,17 +461,26 @@ Gambit: {
 		'''
 		{$CommonItemTooltip.RightClickToOpen}
 		孤注一掷，来赢得奖励吧！
+		[c/00FFB3:掉落自Boss或从赌徒处购买]
 		'''
 }
 
 GambitToken: {
 	DisplayName: 赌博代币
-	Tooltip: 在掷骰子的时候用它来一场真正的赌博吧！
+	Tooltip:
+		'''
+		在掷骰子的时候用它来一场真正的赌博吧！
+		[c/00FFB3:已经移除的物品]
+		'''
 }
 
 GildedBag1: {
 	DisplayName: 镶金宝袋
-	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	Tooltip:
+		'''
+		{$CommonItemTooltip.RightClickToOpen}
+		[c/00FFB3:从赌博骰子中开出]
+		'''
 }
 
 MoonflameLantern: {
@@ -476,16 +489,21 @@ MoonflameLantern: {
 		'''
 		歌瑟梵的姐妹薇莉娅之灵魂被囚于此物
 		夜幕之中，穹月仪殿之巅，借助圣坛将她释放
+		[c/00FFB3:在穹月仪殿（雪原上方）箱子内获得]
 		'''
 }
 
 SirestiasStarterBag: {
 	DisplayName: 希丝忒莉亚友情赞助新手礼包
-	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	Tooltip:
+		'''
+		{$CommonItemTooltip.RightClickToOpen}
+		[c/00FFB3:开局获得]
+		'''
 }
 
 VeribossBag: {
-	DisplayName: 殆绿boss袋
+	DisplayName: 殆绿Boss袋
 	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 }
 
@@ -536,6 +554,7 @@ FlowerBatch: {
 		"野芳发而幽香"
 		从某处收获来的花束
 		最适合用于制作植物相关物品！
+		[c/00FFB3:掉落自地藏百花或地藏红花]
 		'''
 }
 
@@ -696,7 +715,11 @@ VerianOre: {
 
 AlcaologyI: {
 	DisplayName: 阿尔卡迪亚研究台
-	Tooltip: 用于制作粉尘，和利用一些有用的材料
+	Tooltip:
+		'''
+		用于制作粉尘，和利用一些有用的材料
+		[c/00FFB3:在蕊旁边的地上放置了一个]
+		'''
 }
 
 Bar: {
@@ -971,6 +994,7 @@ WCIgniter: {
 		'''
 		以神秘粉末标记敌方
 		先用粉末击中敌人，然后切换到这个武器并攻击以引发爆炸！
+		[c/00FFB3:从镶金宝袋中开出]
 		'''
 }
 
@@ -1430,6 +1454,7 @@ VerliaHat: {
 		+50最大生命值！
 		+100最大魔力值！
 		我就知道你想戴上它...
+		[c/00FFB3:掉落自薇莉娅]
 		'''
 	DisplayName: 薇莉娅的魔法帽
 }
@@ -1441,7 +1466,7 @@ VerliaBroochA: {
 		攻击敌人时有概率释放强力伤害雪花！
 		+50最大魔力值！
 		+5防御！
-		[c/00FFB3:掉落自皎寒之月，薇莉亚]
+		[c/00FFB3:掉落自皎寒之月，薇莉娅]
 		'''
 	DisplayName: 薇莉娅的蕴魔饰符
 }
@@ -1497,7 +1522,7 @@ GovheilMask: {
 	DisplayName: 歌维赫面具
 	Tooltip:
 		'''
-		+8%魔法与召唤伤害！[c/ff0000:【乘算】]
+		+8%魔法与召唤伤害！[c/ff0000:「乘算」]
 		+10最大魔力值
 		+12%暴击率
 		那朵小红花能提升你的印象分哦
@@ -1507,7 +1532,7 @@ GovheilMask: {
 GovheilHelmet: {
 	Tooltip:
 		'''
-		+12%远程与近战伤害！[c/ff0000:【乘算】]
+		+12%远程与近战伤害！[c/ff0000:「乘算」]
 		允许自动挥舞
 		+10%暴击率
 		你想要变酷吗？
@@ -1518,7 +1543,7 @@ GovheilHelmet: {
 GovheilChainplate: {
 	Tooltip:
 		'''
-		+12%远程与近战伤害！[c/ff0000:【乘算】]
+		+12%远程与近战伤害！[c/ff0000:「乘算」]
 		+50最大生命值
 		获得魔法箭袋效果！
 		'''
@@ -1528,7 +1553,7 @@ GovheilChainplate: {
 GovheilBreastplate: {
 	Tooltip:
 		'''
-		+6%魔法与召唤伤害！[c/ff0000:【乘算】]
+		+6%魔法与召唤伤害！[c/ff0000:「乘算」]
 		+50最大魔力值
 		+10最大生命值
 		+1随从栏
@@ -1542,14 +1567,14 @@ GovheilThighs: {
 		'''
 		+7%移动速度
 		+10最大生命值
-		+5%伤害[c/ff0000:【乘算】]
+		+5%伤害[c/ff0000:「乘算」]
 		+15盔甲穿透
 		超丰满！
 		'''
 }
 
 XexterianLeggings: {
-	Tooltip: +5%伤害[c/ff0000:【乘算】]
+	Tooltip: +5%伤害[c/ff0000:「乘算」]
 	DisplayName: 熔鎏金护腿
 }
 
@@ -1557,7 +1582,7 @@ XexterianHat: {
 	DisplayName: 熔鎏金宽帽
 	Tooltip:
 		'''
-		+5%伤害[c/ff0000:【乘算】]
+		+5%伤害[c/ff0000:「乘算」]
 		+20最大生命值
 		你觉得是这个好还是禁戒套好？
 		'''
@@ -1569,7 +1594,7 @@ XexterianHeatplate: {
 		'''
 		+10盔甲穿透
 		+20最大生命值
-		+6%伤害[c/ff0000:【乘算】]
+		+6%伤害[c/ff0000:「乘算」]
 		+5%暴击率
 		'''
 }
@@ -1794,7 +1819,7 @@ Heatspot: {
 	Tooltip:
 		'''
 		燃起来吧！
-		+4%魔法伤害 :P[c/ff0000:【乘算】]
+		+4%魔法伤害 :P[c/ff0000:「乘算」]
 		[c/00FFB3:掉落自秃鹰]
 		'''
 }
@@ -1834,7 +1859,11 @@ Vheilatine: {
 
 AcidStaketers: {
 	DisplayName: 酸液滑行靴
-	Tooltip: 使装备者跑得飞快！
+	Tooltip:
+		'''
+		使装备者跑得飞快！
+		[c/00FFB3:在瘴煞地击杀酸蚀精灵、酸蚀史莱姆或酸蚀探测器获得]
+		'''
 }
 
 AquaCrystal: {
@@ -1917,7 +1946,7 @@ LunarBand: {
 	Tooltip:
 		'''
 		+8%暴击率
-		在夜晚，增加12%伤害并发出光芒[c/ff0000:【乘算】]
+		在夜晚，增加12%伤害并发出光芒[c/ff0000:「乘算」]
 		[c/00FFB3:在雪原深处的匿影群系中击杀深渊史莱姆、深渊骷髅、深渊探寻者和深渊狂热者获得]
 		'''
 }
@@ -1936,7 +1965,7 @@ OceansTrinket: {
 	Tooltip:
 		'''
 		+1随从上限
-		+8%召唤伤害！[c/ff0000:【乘算】]
+		+8%召唤伤害！[c/ff0000:「乘算」]
 		[c/00FFB3:将远古海洋符文交给吉娅后概率得到]
 		'''
 }
@@ -1980,7 +2009,7 @@ ShadeScarf: {
 	Tooltip:
 		'''
 		增加移动速度
-		+2%伤害[c/ff0000:【乘算】]
+		+2%伤害[c/ff0000:「乘算」]
 		具有潜遁披巾的所有效果，并且增加了+10最大生命值与+10%暴击率！
 		增加生命再生！
 		减少冲刺冷却！
@@ -2015,7 +2044,7 @@ StarflareBand: {
 	DisplayName: 星辉手环
 	Tooltip:
 		'''
-		+10%魔法伤害[c/ff0000:【乘算】]
+		+10%魔法伤害[c/ff0000:「乘算」]
 		增加魔力再生速度！
 		降低魔力消耗 :o
 		'''
@@ -2110,7 +2139,7 @@ ElagentLegs: {
 	DisplayName: 典雅长靴
 	Tooltip:
 		'''
-		+10%召唤伤害[c/ff0000:【乘算】]
+		+10%召唤伤害[c/ff0000:「乘算」]
 		+2随从栏
 		增加移动速度
 		'''
@@ -2221,7 +2250,12 @@ DreadmireBag: {
 
 EDR: {
 	DisplayName: EDR
-	Tooltip: 按下这个大红按钮后果自负...但你心中总有一个声音在怂恿着你
+	Tooltip:
+		'''
+		按下这个大红按钮后果自负...
+		但你心中总有一个声音在怂恿着你
+		[c/00FFB3:击败任意一个机械三王后从吉娅处购买]
+		'''
 }
 
 JackoBag: {
@@ -2296,12 +2330,22 @@ EldritchSoul: {
 
 Ivythorn: {
 	DisplayName: 荆棘常春藤
-	Tooltip: 这就像一种毒藤，它悄无声息地在生物间蔓延，用它的枝蔓编织出一片绿意，但这份绿意却藏着剧毒，美丽外表下隐藏着致命的陷阱
+	Tooltip:
+		'''
+		这就像一种毒藤。
+		它悄无声息地在生物间蔓延，用它的枝蔓编织出一片绿意。
+		但这份绿意却藏着剧毒，美丽外表下隐藏着致命的陷阱
+		[c/00FFB3:击杀地表史莱姆或者开宝箱获得]
+		'''
 }
 
 LostScrap: {
 	DisplayName: 失落废料
-	Tooltip: 远古时期尖端科技的残留物
+	Tooltip:
+		'''
+		远古时期尖端科技的残留物
+		[c/00FFB3:在歌维赫堡或击败薇莉娅后从梅瑞娜处购买]
+		'''
 }
 
 SpacialDistortionFragments: {
@@ -2910,6 +2954,8 @@ GothiviasSeal: {
 		'''
 		带上它，去往瘴煞之地的深处
 		城堡的大门向你敞开...
+		[c/00FFB3:掉落自世遗者，代达斯]
+		[c/00FFB3:背包存在此物时无法挑战代达斯]
 		'''
 }
 
@@ -3122,6 +3168,7 @@ GovheilPowder: {
 		向他们洒下魔法尘
 		纯粹的感觉
 		用这个击中敌人后，使用符牌引爆！
+		[c/00FFB3:在歌维赫堡中找到]
 		'''
 }
 
@@ -3132,7 +3179,11 @@ TheSunAndMoonCard: {
 
 Kilvier: {
 	DisplayName: 基尔维亚
-	Tooltip: 这可不是武器，对吧？
+	Tooltip:
+		'''
+		这可不是武器，对吧？
+		[c/00FFB3:在歌维赫堡中找到]
+		'''
 }
 
 DaedussSunSheid: {
@@ -3169,7 +3220,7 @@ MalShieldBroochA: {
 		'''
 		我感觉这不太对劲...
 		+7防御
-		+7%近战伤害！[c/ff0000:【乘算】]
+		+7%近战伤害！[c/ff0000:「乘算」]
 		[c/00FFB3:从玄铁军官处购买]
 		'''
 }
@@ -3190,7 +3241,7 @@ DaedenChestplate: {
 	Tooltip:
 		'''
 		丑得没眼看
-		+10%远程伤害[c/ff0000:【乘算】]
+		+10%远程伤害[c/ff0000:「乘算」]
 		+20盔甲穿透
 		+5%暴击率
 		'''
@@ -3206,7 +3257,7 @@ DaedenMask: {
 	Tooltip:
 		'''
 		肯定只有受虐狂会戴它吧...
-		+20%远程伤害[c/ff0000:【乘算】]
+		+20%远程伤害[c/ff0000:「乘算」]
 		大幅提升魔力再生！
 		+5%暴击率
 		'''
@@ -3253,7 +3304,7 @@ Alcanine: {
 		'''
 		召唤师的标配！
 		+2随从栏！
-		+10%召唤伤害！[c/ff0000:【乘算】]
+		+10%召唤伤害！[c/ff0000:「乘算」]
 		'''
 }
 
@@ -3264,6 +3315,7 @@ GovheilHolsterBroochA: {
 		将所有魔法武器的魔力消耗减半！
 		+7%魔法伤害
 		还有+2防御！
+		[c/00FFB3:在歌维赫堡中找到]
 		'''
 }
 
@@ -3278,7 +3330,11 @@ GovhenShield: {
 
 GreekLantern: {
 	DisplayName: 希腊秘灯
-	Tooltip: 歌瑟梵难道是希腊人？？？
+	Tooltip:
+		'''
+		歌瑟梵难道是希腊人？？？
+		[c/00FFB3:在歌维赫堡中找到]
+		'''
 }
 
 LanternOfAFallen: {
@@ -3288,12 +3344,20 @@ LanternOfAFallen: {
 
 Blackdot: {
 	DisplayName: 黑点
-	Tooltip: 这是谁起的名字？
+	Tooltip:
+		'''
+		这是谁起的名字？
+		[c/00FFB3:在歌维赫堡中找到]
+		'''
 }
 
 Galvinie: {
 	DisplayName: 金辉破空
-	Tooltip: 游戏的旋律，对鼠标而言，恐非悦耳之音
+	Tooltip:
+		'''
+		游戏的旋律，对鼠标而言，恐非悦耳之音
+		[c/00FFB3:在歌维赫堡中找到]
+		'''
 }
 
 TheBurningRod: {
@@ -3303,6 +3367,7 @@ TheBurningRod: {
 		召唤一盏灯为你战斗！
 		灯盏向敌人喷射灵液
 		虽不精准，但却管用
+		[c/00FFB3:在歌维赫堡中找到]
 		'''
 }
 
@@ -3316,7 +3381,7 @@ BurningGBroochA: {
 	Tooltip:
 		'''
 		攻击敌人时释放灵液并引发爆炸
-		+5%近战伤害[c/ff0000:【乘算】]
+		+5%近战伤害[c/ff0000:「乘算」]
 		[c/00FFB3:掉落自歌瑟梵或伊瑞蒂安]
 		'''
 }
@@ -3329,7 +3394,8 @@ Twirlers: {
 		将魔力消耗减半
 		增加生命再生
 		+20最大生命值
-		+30%伤害[c/ff0000:【乘算】]
+		+30%伤害[c/ff0000:「乘算」]
+		[c/00FFB3:掉落自伊瑞蒂安]
 		'''
 }
 
@@ -3463,12 +3529,16 @@ BasicGunParts: {
 
 AuroreanStarI: {
 	DisplayName: 极光之星
-	Tooltip: 一颗坠落之星吸收了阿尔卡迪亚空气中的魔力，形成了这颗超能之星！
+	Tooltip:
+		'''
+		一颗坠落之星吸收了阿尔卡迪亚空气中的魔力，形成了这颗超能之星！
+		[c/00FFB3:需求量极大]
+		'''
 }
 
 StoneKey: {
 	DisplayName: 石心之钥
-	Tooltip: ""
+	Tooltip: "[c/00FFB3:掉落自石心圣卫]"
 }
 
 NoxianWood: {
@@ -3591,17 +3661,21 @@ SkullpileI: {
 
 GiaPants: {
 	DisplayName: 吉娅的裤子
-	Tooltip: ""
+	Tooltip: "[c/00FFB3:售卖于吉娅]"
 }
 
 GiaSuit: {
 	DisplayName: 吉娅的上衣
-	Tooltip: ""
+	Tooltip: "[c/00FFB3:售卖于吉娅]"
 }
 
 GiaWig: {
 	DisplayName: 吉娅的假发
-	Tooltip: 你真的想要带上这个吗...
+	Tooltip:
+		'''
+		你真的想要带上这个吗...
+		[c/00FFB3:售卖于吉娅]
+		'''
 }
 
 BagOfCards: {
@@ -3610,6 +3684,7 @@ BagOfCards: {
 		'''
 		{$CommonItemTooltip.RightClickToOpen}
 		打开来获得卡牌！在困难模式能开出更多卡牌！
+		[c/00FFB3:售卖于赌徒]
 		'''
 }
 
@@ -3628,7 +3703,7 @@ StoniaBroochA: {
 		'''
 		免疫摔落伤害，+2防御！
 		增加挖掘速度，在黑暗中发光
-		但失去15%伤害[c/ff0000:【乘算】]
+		但失去15%伤害[c/ff0000:「乘算」]
 		[c/00FFB3:击败石心圣卫后的石心箱中获得]
 		'''
 }
@@ -3654,7 +3729,7 @@ AlsisChestplate: {
 		'''
 		-25最大生命值
 		+5%魔法暴击率
-		-5%魔法伤害[c/ff0000:【乘算】]
+		-5%魔法伤害[c/ff0000:「乘算」]
 		'''
 }
 
@@ -3730,7 +3805,7 @@ LunarianVoidHead: {
 		'''
 		+10%投掷暴击率
 		+20最大生命值
-		+25%投掷伤害[c/ff0000:【乘算】]
+		+25%投掷伤害[c/ff0000:「乘算」]
 		'''
 }
 
@@ -3739,7 +3814,7 @@ LunarianVoidLegs: {
 	Tooltip:
 		'''
 		+2%移动速度
-		+5%投掷伤害[c/ff0000:【乘算】]
+		+5%投掷伤害[c/ff0000:「乘算」]
 		'''
 }
 
@@ -3755,7 +3830,11 @@ ExploreMorrowedVillage: {
 
 ExploreMorrowedVillageC: {
 	DisplayName: 探索幽曦村落：任务完成！
-	Tooltip: 去找梅瑞娜领取你的奖励吧！
+	Tooltip:
+		'''
+		去找梅瑞娜领取你的奖励吧！
+		[c/00FFB3:左边天空绯琦旁边处]
+		'''
 }
 
 Give100DustBags: {
@@ -3765,7 +3844,11 @@ Give100DustBags: {
 
 Give100DustBagsC: {
 	DisplayName: 上交100个粉尘袋：任务完成！
-	Tooltip: 去找梅瑞娜领取你的奖励吧！
+	Tooltip:
+		'''
+		去找梅瑞娜领取你的奖励吧！
+		[c/00FFB3:左边天空绯琦旁边处]
+		'''
 }
 
 KillVerlia: {
@@ -3775,7 +3858,11 @@ KillVerlia: {
 
 KillVerliaC: {
 	DisplayName: 击败薇莉娅：任务完成！
-	Tooltip: 去找梅瑞娜领取你的奖励吧！
+	Tooltip:
+		'''
+		去找梅瑞娜领取你的奖励吧！
+		[c/00FFB3:左边天空绯琦旁边处]
+		'''
 }
 
 MakeMagicPaper: {
@@ -3785,7 +3872,11 @@ MakeMagicPaper: {
 
 MakeMagicPaperC: {
 	DisplayName: 制作魔法纸张：任务完成！
-	Tooltip: 去找梅瑞娜领取你的奖励吧！
+	Tooltip:
+		'''
+		去找梅瑞娜领取你的奖励吧！
+		[c/00FFB3:左边天空绯琦旁边处]
+		'''
 }
 
 MakeUltimateScroll: {
@@ -3924,7 +4015,7 @@ ArtisanBreastplate: {
 	Tooltip:
 		'''
 		别急，先把你自己裹得严严实实的.你可不想让颜料溅到皮肤上吧？
-		+5%伤害[c/ff0000:【乘算】]
+		+5%伤害[c/ff0000:「乘算」]
 		+5%暴击率
 		+15最大生命值
 		艺术家的标配 :)
@@ -3936,7 +4027,7 @@ ArtisanMask: {
 	Tooltip:
 		'''
 		一边画画一边胡思乱想真是最有趣的消遣之一了
-		+5%伤害[c/ff0000:【乘算】]
+		+5%伤害[c/ff0000:「乘算」]
 		+5%暴击率
 		+15最大生命值
 		看着不失性感，对吧？
@@ -3949,7 +4040,7 @@ ArtisanThighs: {
 		'''
 		宝贝儿，把大腿遮一下，要不然就有人要来抓你了:(
 		+20%移动速度
-		+5%伤害[c/ff0000:【乘算】]
+		+5%伤害[c/ff0000:「乘算」]
 		+15最大生命值
 		在颜料上滑行，就像Splatoon一样！
 		'''
@@ -4078,6 +4169,7 @@ MiracleBody: {
 		+12%召唤伤害
 		+20%鞭子距离
 		+1最大哨兵数
+		[c/00FFB3:掉落自塞莉亚]
 		'''
 }
 
@@ -4087,6 +4179,7 @@ MiracleHead: {
 		'''
 		+12%召唤伤害
 		+1最大哨兵数
+		[c/00FFB3:掉落自塞莉亚]
 		'''
 }
 
@@ -4180,7 +4273,7 @@ CelestiasWeddingRing: {
 		她爱我!她不爱我！
 		获得旅者的行囊的效果
 		免疫击退与岩浆！
-		+12%伤害[c/ff0000:【乘算】]
+		+12%伤害[c/ff0000:「乘算」]
 		+12%盔甲穿透！
 		'''
 }
@@ -4223,7 +4316,7 @@ BonedThrowBroochA: {
 	Tooltip:
 		'''
 		增加20%投掷速度和伤害
-		增加移速！[c/ff0000:【乘算】]
+		增加移速！[c/ff0000:「乘算」]
 		[c/00FFB3:掉落自骷髅王]
 		'''
 }
@@ -4443,7 +4536,7 @@ ScissorianChestplate: {
 		'''
 		+20%投掷暴击率
 		+15最大生命值
-		+10%投掷伤害[c/ff0000:【乘算】]
+		+10%投掷伤害[c/ff0000:「乘算」]
 		'''
 }
 
@@ -4459,7 +4552,7 @@ ScissorianGreaves: {
 
 ScissorianMask: {
 	DisplayName: 裁星者面具
-	Tooltip: +20%投掷伤害[c/ff0000:【乘算】]
+	Tooltip: +20%投掷伤害[c/ff0000:「乘算」]
 }
 
 DarkButcher: {
@@ -4543,7 +4636,11 @@ CatacombTrapStoneBlock: {
 
 CatacombsKey: {
 	DisplayName: 地下墓穴钥匙
-	Tooltip: 用这些进入极光下的天纱群系中的地下墓穴.
+	Tooltip:
+		'''
+		用这些进入极光下的天纱群系中的地下墓穴.
+		[c/00FFB3:掉落自血肉墙]
+		'''
 }
 
 CatacombsDoor: {
@@ -4585,7 +4682,7 @@ MagicalBroochA: {
 		+50最大生命值
 		获得魔法手铐与魔力花效果
 		减少95%魔力消耗，是的你没看错
-		+20%魔法伤害[c/ff0000:【乘算】]
+		+20%魔法伤害[c/ff0000:「乘算」]
 		'''
 }
 
@@ -4604,32 +4701,53 @@ AppretienceBreastplate: {
 		'''
 		+20%暴击率
 		+5最大生命值！
+		[c/00FFB3:售卖于波尔杜克]
 		'''
 }
 
 AppretienceHat: {
 	DisplayName: 学徒兜帽
-	Tooltip: +20%暴击率与最大生命值！
+	Tooltip:
+		'''
+		+20%暴击率与最大生命值！
+		[c/00FFB3:售卖于波尔杜克]
+		'''
 }
 
 AppretiencePants: {
 	DisplayName: 学徒护腿
-	Tooltip: +20%暴击率与最大生命值！
+	Tooltip:
+		'''
+		+20%暴击率与最大生命值！
+		[c/00FFB3:售卖于波尔杜克]
+		'''
 }
 
 UlvenChestplate: {
 	DisplayName: 钨文胸甲
-	Tooltip: +15盔甲穿透
+	Tooltip:
+		'''
+		+15盔甲穿透
+		[c/00FFB3:售卖于波尔杜克]
+		'''
 }
 
 UlvenGreaves: {
 	DisplayName: 钨文护腿
-	Tooltip: +25盔甲穿透
+	Tooltip:
+		'''
+		+25盔甲穿透
+		[c/00FFB3:售卖于波尔杜克]
+		'''
 }
 
 UlvenHelmet: {
 	DisplayName: 钨文头盔
-	Tooltip: +20盔甲穿透
+	Tooltip:
+		'''
+		+20盔甲穿透
+		[c/00FFB3:售卖于波尔杜克]
+		'''
 }
 
 RottenHeart: {
@@ -4637,7 +4755,7 @@ RottenHeart: {
 	Tooltip:
 		'''
 		已经裂成碎片，完全腐朽.修复它，便是为歌瑟梵提供了又一道屏障...
-		[c/00FFB3:后神寓地地表npc卖]
+		[c/00FFB3:血肉墙后在波尔杜克处售卖]
 		'''
 }
 
@@ -4702,6 +4820,7 @@ TreasureBoxFire: {
 		'''
 		{$CommonItemTooltip.RightClickToOpen}
 		你一定刚刚被烧了个半死吧
+		[c/00FFB3:击败烈火墓穴中的迷你Boss获得]
 		'''
 }
 
@@ -4711,6 +4830,7 @@ TreasureBoxTrap: {
 		'''
 		{$CommonItemTooltip.RightClickToOpen}
 		恩~我保证它上面没有陷阱呢~ ;)
+		[c/00FFB3:击败机关墓穴中的迷你Boss获得]
 		'''
 }
 
@@ -4720,6 +4840,7 @@ TreasureBoxWater: {
 		'''
 		{$CommonItemTooltip.RightClickToOpen}
 		好多...水...
+		[c/00FFB3:击败浸水墓穴中的迷你Boss获得]
 		'''
 }
 
@@ -4909,7 +5030,7 @@ DucanblitzBreastplate: {
 	Tooltip:
 		'''
 		+10最大生命值
-		+10%近战伤害！[c/ff0000:【乘算】]
+		+10%近战伤害！[c/ff0000:「乘算」]
 		'''
 }
 
@@ -4918,7 +5039,7 @@ DucanblitzCap: {
 	Tooltip:
 		'''
 		+10%暴击率
-		+12%近战伤害！[c/ff0000:【乘算】]
+		+12%近战伤害！[c/ff0000:「乘算」]
 		'''
 }
 
@@ -4929,7 +5050,7 @@ DucanblitzThighs: {
 		跑得飞快！
 		+10最大生命值
 		+15盔甲穿透
-		+2%近战伤害！[c/ff0000:【乘算】]
+		+2%近战伤害！[c/ff0000:「乘算」]
 		'''
 }
 
@@ -4943,7 +5064,7 @@ EldritchianCloak: {
 	Tooltip:
 		'''
 		+12%投掷速度
-		+16%投掷伤害[c/ff0000:【乘算】]
+		+16%投掷伤害[c/ff0000:「乘算」]
 		稍微增加生命再生
 		'''
 }
@@ -5032,7 +5153,12 @@ WindedQuiver: {
 
 AimacraWig: {
 	DisplayName: 安魅凯拉的假发
-	Tooltip: 很适合扮成安魅凯拉（来自作者的游戏Diari），同时给予+50最大生命值！
+	Tooltip:
+		'''
+		很适合扮成安魅凯拉（来自作者的游戏Diari）
+		同时给予50最大生命值！
+		[c/00FFB3:售卖于安魅凯拉]
+		'''
 }
 
 WindmillionBoots: {
@@ -5040,7 +5166,8 @@ WindmillionBoots: {
 	Tooltip:
 		'''
 		+10%移动速度
-		+10%投掷伤害[c/ff0000:【乘算】]
+		+10%投掷伤害[c/ff0000:「乘算」]
+		[c/00FFB3:在地表风车房里开出]
 		'''
 }
 
@@ -5050,7 +5177,8 @@ WindmillionHat: {
 		'''
 		+10最大生命值！
 		+10%投掷暴击率
-		+10%投掷伤害[c/ff0000:【乘算】]
+		+10%投掷伤害[c/ff0000:「乘算」]
+		[c/00FFB3:在地表风车房里开出]
 		'''
 }
 
@@ -5060,6 +5188,7 @@ WindmillionRobe: {
 		'''
 		+2%投掷暴击率
 		帅到起风~
+		[c/00FFB3:在地表风车房里开出]
 		'''
 }
 
@@ -5074,7 +5203,11 @@ VampiricVine: {
 
 WindmillShuriken: {
 	DisplayName: 风车手里剑
-	Tooltip: 风车般旋转的手里剑，不是用来拯救俄亥俄总统的
+	Tooltip:
+		'''
+		风车般旋转的手里剑，不是用来拯救俄亥俄总统的
+		[c/00FFB3:在地表风车房里开出]
+		'''
 }
 
 PerfectionStaff: {
@@ -5229,8 +5362,9 @@ WitchenRobe: {
 	Tooltip:
 		'''
 		+5%魔法暴击率和最大生命值
-		+20%魔法伤害[c/ff0000:【乘算】]
+		+20%魔法伤害[c/ff0000:「乘算」]
 		将他们卷入其中！
+		[c/00FFB3:完成蕊的二十个任务后开始售卖]
 		'''
 	DisplayName: 巫术法袍
 }
@@ -5240,6 +5374,7 @@ WitchenPants: {
 		'''
 		+30%移动速度
 		+20最大生命值
+		[c/00FFB3:完成蕊的二十个任务后开始售卖]
 		'''
 	DisplayName: 巫术护腿
 }
@@ -5249,6 +5384,7 @@ WitchenHat: {
 		'''
 		+3%魔法伤害
 		+10%魔法暴击率
+		[c/00FFB3:完成蕊的二十个任务后开始售卖]
 		'''
 	DisplayName: 巫术法帽
 }
@@ -5422,32 +5558,56 @@ VeroshotBow: {
 
 AzaleanChestplate: {
 	DisplayName: Azalean的胸甲
-	Tooltip: 一名开发者(Azza)给了你这套装备... 以及+12%远程伤害！
+	Tooltip:
+		'''
+		一名开发者(Azza)给了你这套装备... 以及+12%远程伤害！
+		[c/00FFB3:售卖于蕊]
+		'''
 }
 
 AzaleanHat: {
 	DisplayName: Azalean的帽子
-	Tooltip: 一名开发者(Azza)给了你这套装备！
+	Tooltip:
+		'''
+		一名开发者(Azza)给了你这套装备！
+		[c/00FFB3:售卖于蕊]
+		'''
 }
 
 AzaleanLeggings: {
 	DisplayName: Azalean的护腿
-	Tooltip: 一名开发者(Azza)给了你这套装备！
+	Tooltip:
+		'''
+		一名开发者(Azza)给了你这套装备！
+		[c/00FFB3:售卖于蕊]
+		'''
 }
 
 SolarianChestplate: {
 	DisplayName: Scolon胸甲
-	Tooltip: 一名开发者（Scolon）给了你这套装备... 以及+1随从栏！
+	Tooltip:
+		'''
+		一名开发者（Scolon）给了你这套装备... 以及+1随从栏！
+		[c/00FFB3:售卖于蕊]
+		'''
 }
 
 SolarianHat: {
 	DisplayName: Scolon头盔
-	Tooltip: 一名开发者（Scolon）给了你这套装备！
+	Tooltip:
+		'''
+		一名开发者（Scolon）给了你这套装备、！
+		[c/00FFB3:售卖于蕊]
+		'''
 }
 
 SolarianPants: {
 	DisplayName: Scolon护腿
-	Tooltip: 一名开发者（Scolon）给了你这套装备！
+	Tooltip:
+		'''
+		一名开发者（Scolon）给了你这套装备、！
+		[c/00FFB3:售卖于蕊]
+		'''
 }
 
 IyxTheInfamous: {
@@ -5555,7 +5715,11 @@ ScrapToken: {
 }
 
 ElectricCrystal: {
-	Tooltip: 增加6%伤害！刺激！[c/ff0000:【乘算】]
+	Tooltip:
+		'''
+		增加6%伤害！刺激！[c/ff0000:「乘算」]
+		[c/00FFB3:将废料给予分子转换器时概率获得]
+		'''
 	DisplayName: 电能水晶
 }
 
@@ -5685,11 +5849,12 @@ MagiciansCodeHat: {
 	DisplayName: 迷之魔法帽
 	Tooltip:
 		'''
-		+20%魔法与召唤伤害[c/ff0000:【乘算】]
+		+20%魔法与召唤伤害[c/ff0000:「乘算」]
 		+3随从栏
 		10%伤害减免！
 		增加生命再生
 		+100最大生命值
+		[c/00FFB3:掉落自蕊]
 		'''
 }
 
@@ -5702,12 +5867,17 @@ RadianceStone: {
 		平台越长越好哦:)  -蕊
 
 		战斗全程禁止飞行...
+		[c/00FFB3:击败世纪之花后售卖于蕊]
 		'''
 }
 
 ShopNote: {
 	DisplayName: 小纸条
-	Tooltip: 我看出你很有能力，从现在开始我的商店对你完全开放啦！
+	Tooltip:
+		'''
+		我看出你很有能力，从现在开始我的商店对你完全开放啦！
+		[c/00FFB3:掉落自蕊]
+		'''
 }
 
 FenixBossRel: {
@@ -5727,17 +5897,29 @@ ZuiBossRel: {
 
 NyxiaHat: {
 	DisplayName: Nyxia帽
-	Tooltip: 首席开发者Zenovia的礼物！请去看看steam上的Diari吧:(
+	Tooltip:
+		'''
+		首席开发者Zenovia的礼物！请去看看steam上的Diari吧:(
+		[c/00FFB3:售卖于蕊]
+		'''
 }
 
 NyxiaRobe: {
 	DisplayName: Nyxia长袍
-	Tooltip: 首席开发者Zenovia的礼物！给予5%伤害减免, +6%魔法伤害以及增强生命再生！
+	Tooltip:
+		'''
+		首席开发者Zenovia的礼物！给予5%伤害减免, +6%魔法伤害以及增强生命再生！
+		[c/00FFB3:售卖于蕊]
+		'''
 }
 
 NyxiaThighs: {
 	DisplayName: Nyxia护腿
-	Tooltip: 感谢你们游玩我的mod！爱你们哟 - 首席开发者Zenovia
+	Tooltip:
+		'''
+		感谢你们游玩我的mod！爱你们哟 - 首席开发者Zenovia
+		[c/00FFB3:售卖于蕊]
+		'''
 }
 
 NestBossRel: {
@@ -5750,7 +5932,7 @@ RadiatedBroochesBackpack: {
 		'''
 		散发着无限的善意之光！
 		允许你使用所有饰符！
-		+8%伤害！[c/ff0000:【乘算】]
+		+8%伤害！[c/ff0000:「乘算」]
 		'''
 	DisplayName: 辉映饰符背包
 }
@@ -5759,7 +5941,7 @@ HeatedVerliaBroochA: {
 	Tooltip:
 		'''
 		击中敌人时会产生冰霜与灵液，造成大量伤害！
-		+15%远程与投掷伤害！[c/ff0000:【乘算】]
+		+15%远程与投掷伤害！[c/ff0000:「乘算」]
 		'''
 	DisplayName: 辉映阴阳饰符
 }
@@ -5779,7 +5961,7 @@ VillagersBroochA: {
 	DisplayName: 村庄饰符
 	Tooltip:
 		'''
-		看人不爽？正好，用这增加的12%伤害痛扁他们吧！[c/ff0000:【乘算】]
+		看人不爽？正好，用这增加的12%伤害痛扁他们吧！[c/ff0000:「乘算」]
 		[c/00FFB3:从伊瑞蒂安或戴尔格林处购买]
 		'''
 }
@@ -5809,7 +5991,7 @@ DefensiveGraditudeBroochA: {
 	Tooltip:
 		'''
 		+50防御
-		-30%伤害[c/ff0000:【乘算】]
+		-30%伤害[c/ff0000:「乘算」]
 		哇..哦..你可不需要这个
 		'''
 }
@@ -5819,7 +6001,7 @@ GovheilWarriorBroochA: {
 	Tooltip:
 		'''
 		将魔法武器的魔力消耗减半！
-		+15%魔法伤害[c/ff0000:【乘算】]
+		+15%魔法伤害[c/ff0000:「乘算」]
 		+6防御
 		自动挥舞一切！
 		'''
@@ -5843,7 +6025,7 @@ StoningFlyBroochA: {
 		提高跳跃高度与加速度！
 		免疫摔落伤害!
 		在黑暗中发光!
-		+10%伤害[c/ff0000:【乘算】]
+		+10%伤害[c/ff0000:「乘算」]
 		+30%移动速度!
 		'''
 }
@@ -6159,6 +6341,8 @@ SirestiasToken: {
 		'''
 		为希丝忒莉亚完成目标后获赠的感恩谢礼
 		使用它在分子转换器处转换武器的职业！
+		[c/00FFB3:限量8个]
+		[c/00FFB3:仅在击败殒神之像对应的Boss后并将其给予希丝忒莉亚才能获得]
 		'''
 	DisplayName: 希丝忒莉亚的宝珠
 }
@@ -6169,13 +6353,21 @@ IlluriaChesti: {
 }
 
 IllurianWarriorGreaves: {
-	Tooltip: 即使是害怕到尿裤子的人，穿上它也能成为一名真正的捍卫者！
+	Tooltip:
+		'''
+		即使是害怕到尿裤子的人，穿上它也能成为一名真正的捍卫者！
+		[c/00FFB3:掉落自丛林深处星树箱（地下紫色结构）处的星树守卫]
+		'''
 	DisplayName: 星树捍卫者护腿
 }
 
 IllurianWarriorChestplate: {
 	Tooltip: 防御力极强！
-	DisplayName: 星树捍卫者之铠
+	DisplayName:
+		'''
+		星树捍卫者之铠
+		[c/00FFB3:掉落自丛林深处星树箱（地下紫色结构）处的星树守卫]
+		'''
 }
 
 IllurianCrestplate: {
@@ -6184,6 +6376,7 @@ IllurianCrestplate: {
 		+3随从栏
 		+50最大魔力值
 		-50最大生命值
+		[c/00FFB3:掉落自丛林深处星树箱（地下紫色结构）处的星树法师]
 		'''
 	DisplayName: 星树纹饰胸甲
 }
@@ -6194,8 +6387,9 @@ IllurianCrestpants: {
 		+1随从栏
 		+10%移动速度
 		+20%伤害
-		+15盔甲穿透[c/ff0000:【乘算】]
+		+15盔甲穿透[c/ff0000:「乘算」]
 		-90最大生命值
+		[c/00FFB3:掉落自丛林深处星树箱（地下紫色结构）处的星树法师]
 		'''
 	DisplayName: 星树纹饰护胫
 }
@@ -6204,16 +6398,22 @@ IllurianCrestmask: {
 	Tooltip:
 		'''
 		-50最大生命值
-		+12%魔法与召唤伤害！[c/ff0000:【乘算】]
+		+12%魔法与召唤伤害！[c/ff0000:「乘算」]
 		+10%暴击率
 		尼伊维很失望...
+		[c/00FFB3:掉落自丛林深处星树箱（地下紫色结构）处的星树法师]
 		'''
 	DisplayName: 星树纹饰头盔
 }
 
 IllurianWarriorHelm: {
 	DisplayName: 星树捍卫者之盔
-	Tooltip: 尼伊维最喜欢在巨星树旁俯视整个世界~这头盔背面写着这么一行字
+	Tooltip:
+		'''
+		尼伊维最喜欢在巨星树旁俯视整个世界~
+		这头盔背面写着这么一行字
+		[c/00FFB3:掉落自丛林深处星树箱（地下紫色结构）处的星树守卫]
+		'''
 }
 
 IllurineScale: {
@@ -6335,7 +6535,7 @@ VeilBanner2i: {
 }
 
 CompletionIdol: {
-	DisplayName: 陨神之像
+	DisplayName: 殒神之像
 	Tooltip: 高塔中的圣典与高等存在的残物铸成的塑像
 }
 
@@ -6508,7 +6708,7 @@ IllurianBroochA: {
 		增加奔跑速度与灵活性！
 		减少防御...
 		星树与你同在
-		[c/00FFB3:击败世纪之花后在星树（地图右侧天空中的巨树）的宝箱中获得]
+		[c/00FFB3:击败世纪之花后在星树箱（丛林紫色结构）中获得]
 		'''
 }
 
@@ -6607,6 +6807,7 @@ IllurianLoveLocket: {
 		'''
 		召唤一圈强力的星星保护你！
 		据说其中存有尼伊维的一丝爱意
+		[c/00FFB3:击败世纪之花后在星树箱（丛林紫色结构）中获得]
 		'''
 }
 
@@ -6616,6 +6817,7 @@ AlcaliteMask: {
 		'''
 		+8%魔法与召唤伤害
 		+1随从栏
+		[c/00FFB3:击败世纪之花后在星树箱（丛林紫色结构）中获得]
 		'''
 }
 
@@ -6625,6 +6827,7 @@ AlcaliteRobe: {
 		'''
 		+12%魔法与召唤伤害
 		+2随从栏
+		[c/00FFB3:击败世纪之花后在星树箱（丛林紫色结构）中获得]
 		'''
 }
 
@@ -6635,6 +6838,7 @@ AlcaliteTrunks: {
 		提升移动速度与加速度
 		+4%魔法与召唤伤害
 		+1随从栏
+		[c/00FFB3:击败世纪之花后在星树箱（丛林紫色结构）中获得]
 		'''
 }
 
@@ -6872,7 +7076,11 @@ RavestBlast: {
 
 MsFreeze: {
 	DisplayName: 霜冷女王
-	Tooltip: 快速发射冰冷的激光！
+	Tooltip:
+		'''
+		快速发射冰冷的激光！
+		[c/00FFB3:击败世纪之花后在星树箱（丛林紫色结构）中获得]
+		'''
 }
 
 MintyBlast: {
@@ -6958,6 +7166,7 @@ SrTetanus: {
 		'''
 		双弹齐发，锈蚀剧毒，交织成死亡之舞
 		中者哀嚎，你绝不愿尝此苦果
+		[c/00FFB3:在歌维赫堡中找到]
 		'''
 }
 
@@ -6968,12 +7177,20 @@ TheReaving: {
 
 TempleKeyMold: {
 	DisplayName: 神庙钥匙模具
-	Tooltip: 神庙钥匙制作中不可或缺的一部分
+	Tooltip:
+		'''
+		神庙钥匙制作中不可或缺的一部分
+		[c/00FFB3:掉落自世纪之花]
+		'''
 }
 
 TempleKeyPart: {
 	DisplayName: 神庙钥匙部件
-	Tooltip: 看来厄莉什基迦勒把神庙钥匙拆成了几部分，还交给奇点保管.真残酷.
+	Tooltip:
+		'''
+		看来厄莉什基迦勒把神庙钥匙拆成了几部分，还交给奇点保管.真残酷.
+		[c/00FFB3:掉落自破碎超新星]
+		'''
 }
 
 M38F30: {
@@ -7006,7 +7223,7 @@ RadiantsparkBoots: {
 		+30最大生命值！
 		足下生花，免疫岩浆！
 		+15%暴击率
-		+5%伤害！[c/ff0000:【乘算】]
+		+5%伤害！[c/ff0000:「乘算」]
 		它会是你未来战斗中的有力帮助
 		'''
 	DisplayName: 辉光烁影靴
@@ -7278,18 +7495,27 @@ MardenthMask: {
 	Tooltip:
 		'''
 		+10最大生命值
-		-10%伤害！[c/ff0000:【乘算】]
+		-10%伤害！[c/ff0000:「乘算」]
+		[c/00FFB3:击败代达斯后在玛登斯处出售]
 		'''
 }
 
 MardenthPants: {
 	DisplayName: 玛登斯的超级护腿
-	Tooltip: +5%移动速度
+	Tooltip:
+		'''
+		+5%移动速度
+		[c/00FFB3:击败代达斯后在玛登斯处出售]
+		'''
 }
 
 MardenthRobe: {
 	DisplayName: 玛登斯的超级战袍
-	Tooltip: +20最大生命值，而且很帅！
+	Tooltip:
+		'''
+		+20最大生命值，而且很帅！
+		[c/00FFB3:击败代达斯后在玛登斯处出售]
+		'''
 }
 
 NiiviBossRel: {
@@ -7307,7 +7533,11 @@ ManifestedAnxiety: {
 }
 
 SigfriedsPhotoAlbum: {
-	Tooltip: 里面收藏了齐格飞的所有照片，由远古魔法紧紧固定，你用尽浑身解数也翻不开它.
+	Tooltip:
+		'''
+		里面收藏了齐格飞的所有照片，由远古魔法紧紧固定，你用尽浑身解数也翻不开它.
+		[c/00FFB3:与奥丁对话概率获得]
+		'''
 	DisplayName: 齐格飞的相片册
 }
 
@@ -7385,7 +7615,7 @@ FoxMark: {
 		可以戴在头上，虽然那样并不会增加属性值
 		+30%移动速度!
 		+30最大生命值
-		+5%伤害[c/ff0000:【乘算】]
+		+5%伤害[c/ff0000:「乘算」]
 		与我签订契约，成为魔法狐娘吧！
 		"她会治愈我的..."
 		[c/00FFB3:掉落自绯琦]
@@ -7646,7 +7876,7 @@ FiveAdvance: {
 	Tooltip:
 		'''
 		+5%移动速度
-		+5%伤害[c/ff0000:【乘算】]
+		+5%伤害[c/ff0000:「乘算」]
 		+5%伤害减免
 		+5生命再生
 		+5最大生命值
@@ -7672,12 +7902,17 @@ IllurineBrew: {
 		'''
 		在太空中复原重力
 		轻微增加移动速度与加速度
+		[c/00FFB3:售卖于安魅凯拉]
 		'''
 }
 
 IllurianBible: {
 	DisplayName: 星树圣经
-	Tooltip: 召唤出虹彩彗星，它们会自动追踪并轰击你的敌人！
+	Tooltip:
+		'''
+		召唤出虹彩彗星，它们会自动追踪并轰击你的敌人！
+		[c/00FFB3:击败世纪之花后在星树箱（丛林紫色结构）中获得]
+		'''
 }
 
 SupernovaBag: {
@@ -7768,7 +8003,7 @@ JianxinCoat: {
 	Tooltip:
 		'''
 		+10盔甲穿透
-		+10%伤害[c/ff0000:【乘算】]
+		+10%伤害[c/ff0000:「乘算」]
 		+20%暴击率
 		'''
 }
@@ -7778,7 +8013,7 @@ JianxinMask: {
 	Tooltip:
 		'''
 		+10盔甲穿透
-		+10%伤害[c/ff0000:【乘算】]
+		+10%伤害[c/ff0000:「乘算」]
 		'''
 }
 
@@ -7787,7 +8022,7 @@ JianxinPants: {
 	Tooltip:
 		'''
 		+10盔甲穿透
-		+10%伤害[c/ff0000:【乘算】]
+		+10%伤害[c/ff0000:「乘算」]
 		+3随从栏
 		'''
 }
@@ -7797,7 +8032,7 @@ IllurineHoops: {
 	Tooltip:
 		'''
 		月亮敌人被守护者降下天雷霹雳，血量减半
-		+10%魔法伤害[c/ff0000:【乘算】]
+		+10%魔法伤害[c/ff0000:「乘算」]
 		增加魔力再生，减少魔力消耗
 		'''
 }
@@ -7809,6 +8044,7 @@ IridineNecklace: {
 		死亡时复活并立即回满生命！
 		具有5分钟冷却
 		最高阶的星树牧师才会戴上它
+		[c/00FFB3:在尼伊维仅存不足1%血时不攻击等待它离去]
 		'''
 }
 

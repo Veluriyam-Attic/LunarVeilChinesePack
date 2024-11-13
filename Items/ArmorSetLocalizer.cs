@@ -47,7 +47,7 @@ public class ArmorSetLocalizer : ModSystem
             { "Enemies are less likely to target you!" +
                 "\nGovheil blades will come to defend you!" +
                 "\nEvery few seconds you'll gain a major increase to Magic and Summon damage" +
-                "\n+2 Summons!", "降低仇恨\n歌维赫之刃将会保护你\n每过几秒会大幅提高你的魔法和召唤伤害\n+2随从上限" }, // GovheilHelmet
+                "\n+2 Summons!", "降低仇恨\n歌维赫之刃将会保护你\n每过几秒会大幅提高你的远程和近战伤害\n+2随从上限" }, // GovheilHelmet
             { "Enemies are less likely to target you!" +
                 "\nMagical Govheil bows will come to your aid!!" +
                 "\nEvery few seconds you'll gain a major increase to Magic and Summon damage" +
