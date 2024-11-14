@@ -565,20 +565,12 @@ MorrowRocks: {
 
 Morrowshroom: {
 	DisplayName: 古谕蘑菇
-	Tooltip:
-		'''
-		蘑菇小侠
-		[c/00FFB3:完成蕊的三个任务后开始售卖]
-		'''
+	Tooltip: 蘑菇小侠
 }
 
 MorrowVine: {
 	DisplayName: 春蔓
-	Tooltip:
-		'''
-		它如地下蔓延的藤蔓，无声无息，却遍布世界，展现生命的力量
-		[c/00FFB3:掉落自地下的藤蔓]
-		'''
+	Tooltip: 它如地下蔓延的藤蔓，无声无息，却遍布世界，展现生命的力量
 }
 
 Mushroom: {
@@ -593,7 +585,6 @@ Stick: {
 		这根棒子由林间嫩枝精制而成，虽然它在美学上堪称艺术品
 		但在实战中却显得有些力不从心，它或许更适合在你成为传奇英雄的传记中，作为一段有趣的开始
 		提醒你即便是最不起眼的起点，也可能预示着伟大的冒险旅程
-		[c/00FFB3:掉落自僵尸、秃鹰或蚁狮]
 		'''
 }
 
@@ -603,18 +594,16 @@ ViolinStick: {
 		'''
 		哼，这玩意儿有何用途？
 		最佳的武器与音乐的结合！
-		[c/00FFB3:将远古地表符文交给吉娅后概率得到]
 		'''
 }
 
 EmptyMoonflameLantern: {
-	DisplayName: 暗淡的月辉提灯
+	DisplayName: 暗淡的月之提灯
 	Tooltip:
 		'''
 		地狱深处的烈火将它燃起
 		霜与月的精华融入火焰中
 		皎月当空之时，于仪巅邀其共舞
-		[c/00FFB3:在薇莉娅月华圣坛附近宝箱获得]
 		'''
 }
 
@@ -634,7 +623,6 @@ Medal: {
 		'''
 		一枚勋章，看起来十分古老
 		把它放在你的物品栏中，可以吸引某人，双重意义上的...
-		[c/00FFB3:从镶金宝袋中开出]
 		'''
 }
 
@@ -664,8 +652,6 @@ PearlescentScrap: {
 		'''
 		月华洒落，晶片闪烁夜的低语
 		星辰共舞，旋律回荡天际的诗篇
-		[c/00FFB3:掉落自薇莉娅]
-		[c/00FFB3:击败薇莉娅后再梅瑞娜处出售]
 		'''
 }
 
@@ -748,11 +734,7 @@ Bench: {
 
 BroochesTableI: {
 	DisplayName: 符饰雕琢台
-	Tooltip:
-		'''
-		在这里制作精美的饰符与符文吧！
-		[c/00FFB3:售卖于玄铁军官]
-		'''
+	Tooltip: 在这里制作精美的饰符与符文吧！
 }
 
 CathediteBlock: {
@@ -847,11 +829,7 @@ MorrowChesti: {
 
 MorrowChestKey: {
 	DisplayName: 古谕秘钥
-	Tooltip:
-		'''
-		深夜降临，古谕秘钥在手，各地神秘宝箱，一触即开，奇珍异宝等你探索！
-		[c/00FFB3:售卖于波尔杜克或掉落自所有古谕遗境的敌方]
-		'''
+	Tooltip: 深夜降临，古谕秘钥在手，各地神秘宝箱，一触即开，奇珍异宝等你探索！
 }
 
 MorrowDeath: {
@@ -1022,11 +1000,7 @@ WCIgniter: {
 
 Bongos: {
 	DisplayName: 星镀鼓王
-	Tooltip:
-		'''
-		在光标处，嘭嘭嘭，奏响鼓乐
-		[c/00FFB3:售卖于玄铁军官]
-		'''
+	Tooltip: 在光标处，嘭嘭嘭，奏响鼓乐
 }
 
 CocoSpark: {
@@ -1503,7 +1477,7 @@ SwordsOfRevengence: {
 		我心永恒，爱意不灭！
 		召唤一把卡里斯汀之剑，唤醒薇莉娅小剑的生命力！
 		仅在敌人近身时激活
-		激发薇莉娅饰符效果！
+		激发薇莉娅胸针效果！
 		（魔力提升50，防御加5，击中时有密集雪花！）
 		'''
 	DisplayName: 复仇之剑
@@ -1721,7 +1695,7 @@ GoldCrossbow: {
 	Tooltip:
 		'''
 		蓄力后一次性射出大量箭矢
-		箭头镶嵌了红玉！
+		箭头更是镶嵌了红玉！
 		'''
 }
 
@@ -1730,7 +1704,7 @@ PlatinumCrossbow: {
 	Tooltip:
 		'''
 		蓄力后一次性射出大量箭矢
-		箭头镶嵌了红玉！
+		箭头更是镶嵌了红玉！
 		'''
 }
 
@@ -1739,7 +1713,7 @@ SilverCrossbow: {
 	Tooltip:
 		'''
 		蓄力后一次性射出大量箭矢
-		箭头镶嵌了蓝玉！
+		箭头更是镶嵌了蓝玉！
 		'''
 }
 
@@ -1748,7 +1722,7 @@ TungstenCrossbow: {
 	Tooltip:
 		'''
 		蓄力后一次性射出大量箭矢
-		箭头镶嵌了蓝玉！
+		箭头更是镶嵌了蓝玉！
 		'''
 }
 
@@ -1767,7 +1741,6 @@ DustedSilk: {
 		'''
 		从蜘蛛收集来的特别材料
 		用于制作各种织物与绳子类物品！
-		[c/00FFB3:售卖于吉娅或掉落自蜘蛛]
 		'''
 }
 
@@ -2311,8 +2284,8 @@ SunStalkerBag: {
 }
 
 VoidLantern: {
-	DisplayName: 虚冥之灯
-	Tooltip: "[c/00FFB3:掉落自破碎超新星]"
+	DisplayName: 净月奇点之灯
+	Tooltip: ""
 }
 
 WanderingEssence: {
@@ -2331,12 +2304,8 @@ ArncharChunk: {
 }
 
 BlankRune: {
-	DisplayName: 未加工的符文
-	Tooltip:
-		'''
-		看起来仅凭它本身发挥不了什么作用
-		[c/00FFB3:售卖于伊瑞蒂安或戴尔格林]
-		'''
+	DisplayName: 空白符文
+	Tooltip: 看起来仅凭它本身发挥不了什么作用
 }
 
 ConvulgingMater: {
@@ -2346,29 +2315,17 @@ ConvulgingMater: {
 
 DarkEssence: {
 	DisplayName: 暗之精华
-	Tooltip:
-		'''
-		纯粹的阴影，由极度暗黑的存在唤出
-		[c/00FFB3:掉落自克苏鲁之眼、恐惧鹦鹉螺或暗影史莱姆]
-		'''
+	Tooltip: 纯粹的阴影，由极度暗黑的存在唤出
 }
 
 DreadFoil: {
 	DisplayName: 恐惧布箔
-	Tooltip:
-		'''
-		绛渊恶巫身上的箔质！
-		[c/00FFB3:掉落自绛渊恶巫]
-		'''
+	Tooltip: 绛渊恶巫身上的箔质！
 }
 
 EldritchSoul: {
 	DisplayName: 幽古之魂
-	Tooltip:
-		'''
-		深渊生物的精华
-		[c/00FFB3:击败血肉墙后在雪原地下的匿影刷怪获得]
-		'''
+	Tooltip: 深渊生物的精华
 }
 
 Ivythorn: {
@@ -2397,36 +2354,22 @@ SpacialDistortionFragments: {
 		'''
 		这些漆黑的碎片涌动着能量，扭曲着四周的时空...
 		等等，那你是怎么把它拿在手里的？？
-		[c/00FFB3:在雪原地下的匿影刷怪获得]
 		'''
 }
 
 ArmorDrive: {
 	DisplayName: 盔甲驱动装置
-	Tooltip:
-		'''
-		打造科技装甲的核心部件！
-		[c/00FFB3:售卖于伊瑞蒂安或戴尔格林]
-		'''
+	Tooltip: 打造科技装甲的核心部件！
 }
 
 BrokenTech: {
 	DisplayName: 破损零件
-	Tooltip:
-		'''
-		注入星星点点魔力的零件，正在休眠状态中.可被重构成更好的物件
-		[c/00FFB3:掉落自地下机械系列敌方]
-		'''
+	Tooltip: 注入星星点点魔力的零件，正在休眠状态中.可被重构成更好的物件
 }
 
 DriveConstruct: {
 	DisplayName: 构造驱动器
-	Tooltip:
-		'''
-		旅者们鲜有耳闻的神奇物件，内涵了旧世界古老机械的精髓
-		[c/00FFB3:售卖于伊瑞蒂安或戴尔格林]
-		[c/00FFB3:完成蕊的六个任务后开始售卖]
-		'''
+	Tooltip: 旅者们鲜有耳闻的神奇物件，内涵了旧世界古老机械的精髓
 }
 
 MetallicOmniSource: {
@@ -2441,38 +2384,22 @@ UnknownCircuitry: {
 
 TerrorFragments: {
 	DisplayName: 恐惧碎片
-	Tooltip:
-		'''
-		可怕！
-		[c/00FFB3:掉落自血月期间的敌方]
-		'''
+	Tooltip: 可怕！
 }
 
 VirulentPlating: {
 	DisplayName: 辐染镀层
-	Tooltip:
-		'''
-		泄露着酸雾与毒素
-		[c/00FFB3:掉落自瘴煞地的敌方]
-		'''
+	Tooltip: 泄露着酸雾与毒素
 }
 
 WanderingFlame: {
 	DisplayName: 漂浪火苗
-	Tooltip:
-		'''
-		杰克的意志使其燃烧！
-		[c/00FFB3:掉落自灯笼杰克]
-		'''
+	Tooltip: 杰克的意志使其燃烧！
 }
 
 WinterbornShard: {
 	DisplayName: 寒冬碎片
-	Tooltip:
-		'''
-		冻得坚硬 :P
-		[c/00FFB3:掉落自雪原的新敌方]
-		'''
+	Tooltip: 冻得坚硬 :P
 }
 
 RunicTablel: {
@@ -2521,8 +2448,6 @@ Aneuriliac: {
 		'''
 		迅速吐出一些神秘的投射物！
 		我完全不知道这是什么，别问我！
-
-		[c/00FFB3:掉落自绛渊恶巫]
 		'''
 }
 
@@ -2538,7 +2463,6 @@ FungalFlace: {
 		释放核能花朵的力量！
 		等等，它们真的是核能的吗？
 		不管怎样，它们还是会爆炸
-		[c/00FFB3:]
 		'''
 }
 
@@ -2558,7 +2482,7 @@ Pericarditis: {
 }
 
 ShadeHandTome: {
-	DisplayName: 挠痒痒！
+	DisplayName: 影手秘典
 	Tooltip: 巧笑手，化敌为友的魔力触碰
 }
 
@@ -2813,7 +2737,7 @@ LAZER: {
 }
 
 RustlockPistol: {
-	DisplayName: 锈发枪
+	DisplayName: 锈铐手枪
 	Tooltip: 射击空处，效果绝佳！
 }
 
@@ -2950,7 +2874,7 @@ Cactius: {
 }
 
 GreyBricks: {
-	DisplayName: 以德服人
+	DisplayName: 灰砖
 	Tooltip: 没错，最佳武器，一块砖
 }
 
@@ -3213,7 +3137,7 @@ AurelusBlightBroochA: {
 	Tooltip:
 		'''
 		光越亮，影越浓...
-		[c/00FFB3:在匿影的宝箱中获得]
+		[c/00FFB3:掉落自破碎奇点]
 		'''
 }
 
@@ -3575,11 +3499,7 @@ StarbloomDirtBlock: {
 
 FurihaMKIII: {
 	DisplayName: 旋律光炮MKIII
-	Tooltip:
-		'''
-		随性绽放激光，编织出一场时尚的光影乐章，让战斗成为一场视觉的盛宴
-		[c/00FFB3:掉落自星爆者]
-		'''
+	Tooltip: 随性绽放激光，编织出一场时尚的光影乐章，让战斗成为一场视觉的盛宴
 }
 
 M61X: {
@@ -3604,7 +3524,7 @@ ShadegraveStaff: {
 
 BasicGunParts: {
 	DisplayName: 基础枪械部件
-	Tooltip: "[c/00FFB3:售卖于军火商]"
+	Tooltip: ""
 }
 
 AuroreanStarI: {
@@ -3666,20 +3586,12 @@ IgniterCardsMKII: {
 
 DesertRuneI: {
 	DisplayName: 远古沙漠符文
-	Tooltip:
-		'''
-		也许吉娅会想要它？
-		[c/00FFB3:在沙漠概率刷新]
-		'''
+	Tooltip: 也许吉娅会想要它？
 }
 
 OverworldRuneI: {
 	DisplayName: 远古地表符文
-	Tooltip:
-		'''
-		也许吉娅会想要它？
-		[c/00FFB3:在地表概率刷新]
-		'''
+	Tooltip: 也许吉娅会想要它？
 }
 
 ThrowingCardsMKII: {
@@ -3688,11 +3600,7 @@ ThrowingCardsMKII: {
 }
 
 JungleRuneI: {
-	Tooltip:
-		'''
-		也许吉娅会想要它？
-		[c/00FFB3:在丛林概率刷新]
-		'''
+	Tooltip: 也许吉娅会想要它？
 	DisplayName: 远古丛林符文
 }
 
@@ -3802,12 +3710,7 @@ StoniaBroochA: {
 
 AlcaricMush: {
 	DisplayName: 阿尔卡迪亚混溶质
-	Tooltip:
-		'''
-		一种奇怪的魔法溶胶，受皇室首都的控制
-		[c/00FFB3:掉落于绯琦或星爆者以及皇都（地图左边天空）附近的敌方]
-		[c/00FFB3:售卖于梅瑞娜，在制作终极魔导书后出售]
-		'''
+	Tooltip: 一种奇怪的魔法溶胶，受皇室首都的控制
 }
 
 Blackwhip: {
@@ -3851,11 +3754,7 @@ AlsisMask: {
 
 WickofSorcery: {
 	DisplayName: 魔咒烛心
-	Tooltip:
-		'''
-		有史以来最好的棍子，但也仅仅只是一个棍子.
-		[c/00FFB3:售卖于梅瑞娜，在制作终极魔导书后出售]
-		'''
+	Tooltip: 有史以来最好的棍子，但也仅仅只是一个棍子.当你完成梅瑞娜的任务线后获得此物
 }
 
 Voyager: {
@@ -3954,11 +3853,7 @@ Give100DustBagsC: {
 
 KillVerlia: {
 	DisplayName: 任务：击败薇莉娅
-	Tooltip:
-		'''
-		她在仪殿之巅！
-		[c/00FFB3:右边天空穹月仪殿处]
-		'''
+	Tooltip: 她在仪殿之巅！
 }
 
 KillVerliaC: {
@@ -3991,11 +3886,7 @@ MakeUltimateScroll: {
 
 OldCarianTome: {
 	DisplayName: 卡里亚古籍
-	Tooltip:
-		'''
-		其中涌出无尽的知识
-		[c/00FFB3:通过卡里亚书页指引获得]
-		'''
+	Tooltip: 其中涌出无尽的知识
 }
 
 OrbOfTheMorrow: {
@@ -4005,11 +3896,7 @@ OrbOfTheMorrow: {
 
 StolenMagicTome: {
 	DisplayName: 失窃的魔法书
-	Tooltip:
-		'''
-		从皇家首都而来
-		[c/00FFB3:掉落自薇莉娅]
-		'''
+	Tooltip: 从皇家首都而来
 }
 
 TomeOfInfiniteSorcery: {
@@ -4024,11 +3911,7 @@ AlcadThrowingCards: {
 
 OceanRuneI: {
 	DisplayName: 远古海洋符文
-	Tooltip:
-		'''
-		也许吉娅会想要它？
-		[c/00FFB3:在海洋概率刷新]
-		'''
+	Tooltip: 也许吉娅会想要它？
 }
 
 Starvast: {
@@ -4066,11 +3949,7 @@ VampireCharm: {
 }
 
 BlossomingScissor: {
-	Tooltip:
-		'''
-		本应是裁剪花海的艺术家，却悲催地成为了一柄穿越万难的利器
-		[c/00FFB3:上交100个粉尘袋后梅瑞娜开始出售]
-		'''
+	Tooltip: 本应是裁剪花海的艺术家，却悲催地成为了一柄穿越万难的利器
 	DisplayName: 绽花裁者
 }
 
@@ -4174,11 +4053,7 @@ ArtisanBar: {
 
 KaleidoscopicInk: {
 	DisplayName: 虹彩幻墨
-	Tooltip:
-		'''
-		神奇且烈性的艺匠墨水，还含有一丝迷幻剂...
-		[c/00FFB3:打开沉沦、机关、燃烬宝藏盒获得]
-		'''
+	Tooltip: 神奇且烈性的艺匠墨水，还含有一丝迷幻剂...
 }
 
 ArtistsHeart: {
@@ -4310,11 +4185,7 @@ MiracleHead: {
 
 MiracleThread: {
 	DisplayName: 奇迹针线
-	Tooltip:
-		'''
-		它所缝织的，乃是现实本身...
-		[c/00FFB3:掉落自塞莉亚]
-		'''
+	Tooltip: 它所缝织的，乃是现实本身...
 }
 
 MiracleWings: {
@@ -4387,11 +4258,7 @@ SeavathanBlock: {
 
 OldWeddingRing: {
 	DisplayName: 暗淡的婚戒
-	Tooltip:
-		'''
-		肯定有人会喜欢这个的
-		[c/00FFB3:掉落自珍珠之金]
-		'''
+	Tooltip: 肯定有人会喜欢这个的
 }
 
 GrailBar: {
@@ -4413,11 +4280,7 @@ CelestiasWeddingRing: {
 
 STARCORE: {
 	DisplayName: 星爆之核
-	Tooltip:
-		'''
-		由最具毁灭性的轰炸机械掉落
-		[c/00FFB3:掉落自绯琦或星爆者]
-		'''
+	Tooltip: 由最具毁灭性的轰炸机械掉落
 }
 
 BottleOfGrail: {
@@ -4792,11 +4655,7 @@ CatacombsSummoni: {
 
 GraftedSoul: {
 	DisplayName: 辐染之魂
-	Tooltip:
-		'''
-		根植感染的精华..
-		[c/00FFB3:击败血肉墙后在丛林地表的瘴煞刷怪获得]
-		'''
+	Tooltip: 根植感染的精华..
 }
 
 GoldenHeartBalls: {
@@ -5358,11 +5217,7 @@ PerfectionStaff: {
 
 XixianFlask: {
 	DisplayName: 希克斯之瓶
-	Tooltip:
-		'''
-		由蕊与圣巫们传承下来的宝物！需要召唤瓶内容物来灌满才能使用！
-		[c/00FFB3:新手礼包获得]
-		'''
+	Tooltip: 由蕊与圣巫们传承下来的宝物！需要召唤瓶内容物来灌满才能使用！
 }
 
 VitalityInsource: {
@@ -5372,7 +5227,7 @@ VitalityInsource: {
 		回复102生命与魔力
 		给予蜂蜜增益！
 		'''
-	DisplayName: 活力魔能
+	DisplayName: 活力
 }
 
 HealthyInsource: {
@@ -5380,7 +5235,6 @@ HealthyInsource: {
 		'''
 		40秒钟冷却！
 		回复35生命
-		[c/00FFB3:新手礼包获得]
 		'''
 	DisplayName: 生命魔能
 }
@@ -5471,8 +5325,6 @@ AlcadBomb: {
 		'''
 		引导可控黑洞，吞噬一切
 		敌人无处遁形，尽数被吸入无尽深渊
-
-		[c/00FFB3:探索古谕村落后梅瑞娜开始出售]
 		'''
 }
 
@@ -5488,11 +5340,7 @@ EmptyFlowerBag: {
 
 BurnedCarianTome: {
 	DisplayName: 焦黑星咒书
-	Tooltip:
-		'''
-		施放猛烈追踪敌人并猛烈攻击的黑色星辰！
-		[c/00FFB3:售卖于梅瑞娜]
-		'''
+	Tooltip: 施放猛烈追踪敌人并猛烈攻击的黑色星辰！
 }
 
 EmptyCollectorsBag: {
@@ -5552,11 +5400,7 @@ IceClimbers: {
 
 MoltenScrap: {
 	DisplayName: 熔火碎片
-	Tooltip:
-		'''
-		在那片地底深处的烬土默默燃烧
-		[c/00FFB3:在地狱上方的烬火之地]
-		'''
+	Tooltip: 在那片地底深处的烬土默默燃烧
 }
 
 VehementRhapsody: {
@@ -5881,11 +5725,7 @@ ElectricCrystal: {
 
 SkyRuneI: {
 	DisplayName: 远古天空符文
-	Tooltip:
-		'''
-		也许吉娅会想要它？
-		[c/00FFB3:在天空概率刷新]
-		'''
+	Tooltip: 也许吉娅会想要它？
 }
 
 EelInfinite: {
@@ -5923,11 +5763,7 @@ Swingaling: {
 }
 
 TornCarianPage: {
-	Tooltip:
-		'''
-		地下深处一神秘巨著的一页.可引导你找到它
-		[c/00FFB3:完成蕊的二十个任务后开始售卖]
-		'''
+	Tooltip: 地下深处一神秘巨著的一页.可引导你找到它
 	DisplayName: 卡里亚书页
 }
 
@@ -5977,11 +5813,7 @@ FocalCrystalWater: {
 
 FocusingCrystal: {
 	DisplayName: 聚焦水晶
-	Tooltip:
-		'''
-		向其中融入不同的材料，制成的水晶能将你带到不同的地方...
-		[c/00FFB3:完成蕊的三十个任务后开始售卖]
-		'''
+	Tooltip: 向其中融入不同的材料，制成的水晶能将你带到不同的地方...
 }
 
 ScrappyLegs: {
@@ -6136,11 +5968,7 @@ VillagersBroochA: {
 
 RadianuiBar: {
 	DisplayName: 辉光锭
-	Tooltip:
-		'''
-		蕊的光芒与幸福跃然其间！
-		[c/00FFB3:掉落自蕊]
-		'''
+	Tooltip: 蕊的光芒与幸福跃然其间！
 }
 
 RadianuiWings: {
@@ -6247,11 +6075,7 @@ LuminullSpiritFragments: {
 }
 
 IceRuneI: {
-	Tooltip:
-		'''
-		也许吉娅会想要它？
-		[c/00FFB3:在雪原概率刷新]
-		'''
+	Tooltip: 也许吉娅会想要它？
 	DisplayName: 远古雪原符文
 }
 
@@ -6349,38 +6173,22 @@ Voltenstein: {
 
 BlankBrooch: {
 	DisplayName: 未加工的饰符
-	Tooltip:
-		'''
-		拥有无限潜能的模板，用于制作某种物品！
-		[c/00FFB3:售卖于伊瑞蒂安或戴尔格林]
-		'''
+	Tooltip: 拥有无限潜能的模板，用于制作某种物品！
 }
 
 BlankCard: {
 	DisplayName: 未加工的符牌
-	Tooltip:
-		'''
-		拥有无限潜能的模板，用于制作某种物品！
-		[c/00FFB3:售卖于伊瑞蒂安或戴尔格林]
-		'''
+	Tooltip: 拥有无限潜能的模板，用于制作某种物品！
 }
 
 BlankCrossbow: {
 	DisplayName: 未加工的弩
-	Tooltip:
-		'''
-		拥有无限潜能的模板，用于制作某种物品！
-		[c/00FFB3:售卖于伊瑞蒂安或戴尔格林]
-		'''
+	Tooltip: 拥有无限潜能的模板，用于制作某种物品！
 }
 
 BlankSafunai: {
 	DisplayName: 未加工的鞭刃
-	Tooltip:
-		'''
-		拥有无限潜能的模板，用于制作某种物品！
-		[c/00FFB3:售卖于伊瑞蒂安或戴尔格林]
-		'''
+	Tooltip: 拥有无限潜能的模板，用于制作某种物品！
 }
 
 Hultinstein: {
@@ -6409,11 +6217,7 @@ AuroreanStarball: {
 
 BlankOrb: {
 	DisplayName: 未加工的球体
-	Tooltip:
-		'''
-		拥有无限潜能的模板，用于制作某种物品！
-		[c/00FFB3:售卖于伊瑞蒂安或戴尔格林]
-		'''
+	Tooltip: 拥有无限潜能的模板，用于制作某种物品！
 }
 
 Mardenstein: {
@@ -6537,11 +6341,8 @@ SirestiasToken: {
 		'''
 		为希丝忒莉亚完成目标后获赠的感恩谢礼
 		使用它在分子转换器处转换武器的职业！
-		[c/00FFB3:限量，很少，慎用]
+		[c/00FFB3:限量8个]
 		[c/00FFB3:仅在击败殒神之像对应的Boss后并将其给予希丝忒莉亚才能获得]
-		[c/00FFB3:转换后的武器一旦被重铸则恢复为原职业]
-		[c/00FFB3:转换后的武器面板可能将发生变化]
-		[c/00FFB3:在分子转换器处使用，分子转换器在戴尔格林旁]
 		'''
 	DisplayName: 希丝忒莉亚的宝珠
 }
@@ -6617,12 +6418,7 @@ IllurianWarriorHelm: {
 
 IllurineScale: {
 	DisplayName: 星树亮鳞
-	Tooltip:
-		'''
-		散发着尼伊维的寰宇能量！
-		[c/00FFB3:掉落自丛林深处星树箱（地下紫色结构）处的星树守卫或星树法师以及尼伊维]
-		[c/00FFB3:在丛林地下的星树箱中开出]
-		'''
+	Tooltip: 散发着尼伊维的寰宇能量！
 }
 
 PureHeart: {
@@ -6632,7 +6428,6 @@ PureHeart: {
 		世界守护者的心...
 		充盈着她的博爱和寰宇之力...
 		但你为了一己私欲，竟心狠手辣将她杀死 :(
-		[c/00FFB3:击杀尼伊维]
 		'''
 }
 
@@ -7002,7 +6797,6 @@ ManifestedLove: {
 		'''
 		歌瑟梵的灵魂之核心，具现化于此.
 		腐化退散，她的爱意散布至世界各处，安抚着一切非分.再见，歌瑟梵.
-		[c/00FFB3:掉落自歌瑟梵]
 		'''
 	DisplayName: 爱意具现
 }
@@ -7115,7 +6909,6 @@ ManifestedBravery: {
 		'''
 		薇莉娅的灵魂之核心，具现化于此.
 		她最终选择对抗绯琦和你，来拯救她的村庄，她的姐妹.
-		[c/00FFB3:掉落自薇莉娅]
 		'''
 	DisplayName: 勇气具现
 }
@@ -7126,7 +6919,6 @@ FrameStaff: {
 		'''
 		挥动星织法杖，你能在世界任意角落召唤神秘节点
 		再将它们以激光相连，编织出一张光的网，既美丽又致命
-		[c/00FFB3:掉落自丛林深处星树箱（地下紫色结构）处的星树法师]
 		'''
 }
 
@@ -7151,7 +6943,6 @@ IshtarCandle: {
 		冥后厄莉什基迦勒给你的礼物..
 		装备它来驱散狂渊中的黑暗
 		这被诅咒的火苗中，燃烧着齐格飞的疯狂...
-		[c/00FFB3:掉落自潜行者]
 		'''
 }
 
@@ -7408,11 +7199,7 @@ M38F30: {
 }
 
 StarSilk: {
-	Tooltip:
-		'''
-		神话级的丝绸，以纯粹的星之能量编织而成
-		[c/00FFB3:掉落自星爆者]
-		'''
+	Tooltip: 神话级的丝绸，以纯粹的星之能量编织而成
 	DisplayName: 繁星丝绸
 }
 
@@ -7477,7 +7264,6 @@ ManifestedCommitment: {
 		'''
 		伊瑞蒂安的灵魂之核心，具现化于此.
 		伊瑞蒂安内心仅有此一志：维护城堡，等待薇莉娅与歌瑟梵归来.
-		[c/00FFB3:掉落自伊瑞蒂安]
 		'''
 }
 
@@ -7619,7 +7405,6 @@ DreadFragment: {
 		'''
 		内含绛渊恶巫的一丝力量
 		再收集几片，也许就会激怒她...
-		[c/00FFB3:掉落自地图左中右天空中的恐怖巨石]
 		'''
 }
 
@@ -7743,7 +7528,6 @@ ManifestedAnxiety: {
 		'''
 		绛渊恶巫的灵魂之核心，具现化于此.
 		绛渊恶巫散布的惊怖与担忧已然随她的倒下而散去，但对她的恐惧依旧.
-		[c/00FFB3:掉落自绛渊恶巫]
 		'''
 	DisplayName: 忧惧具现
 }
@@ -8197,11 +7981,7 @@ VoidalPassageway: {
 
 BlackEye: {
 	DisplayName: 暗夜燎望
-	Tooltip:
-		'''
-		召唤莱克之眼，洞悉并制裁周围敌人！
-		[c/00FFB3:售卖于奥丁]
-		'''
+	Tooltip: 召唤莱克之眼，洞悉并制裁周围敌人！
 }
 
 VulcanBreaker: {
@@ -8214,11 +7994,7 @@ VulcanBreaker: {
 }
 
 Superfragment: {
-	Tooltip:
-		'''
-		天上繁星与其间深邃虚空结合的精华
-		[c/00FFB3:掉落自破碎超新星]
-		'''
+	Tooltip: 天上繁星与其间深邃虚空结合的精华
 	DisplayName: 超新星残片
 }
 
