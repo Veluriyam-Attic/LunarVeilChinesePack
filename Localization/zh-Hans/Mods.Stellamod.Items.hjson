@@ -3338,7 +3338,11 @@ GreekLantern: {
 }
 
 LanternOfAFallen: {
+<<<<<<< HEAD
 	DisplayName: 坠落者的明灯 
+=======
+	DisplayName: 坠落者的明灯
+>>>>>>> parent of bc41f2a (Update Mods.Stellamod.Items.hjson)
 	Tooltip: 清理单个敌人的好手
 }
 
