@@ -3338,7 +3338,7 @@ GreekLantern: {
 }
 
 LanternOfAFallen: {
-	DisplayName: 坠落者的明灯
+	DisplayName: 坠落者的明灯 
 	Tooltip: 清理单个敌人的好手
 }
 
