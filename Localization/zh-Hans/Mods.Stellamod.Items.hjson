@@ -4977,7 +4977,7 @@ ComicalTrident: {
 
 MetalAlloy: {
 	DisplayName: 合金锭
-	Tooltip: 
+	Tooltip:
 		'''
 		板砖——德国特产版
 		它不是材料！
