@@ -142,9 +142,9 @@ SandWalkerNPC: {
 
 THEGREATDEVOURER.DisplayName: 伟大吞噬者
 FlamingWitch.DisplayName: 火焰巫女
-CinderCrawlerTail.DisplayName: 灰烬爬行者尾部
-CinderCrawlerHead.DisplayName: 灰烬爬行者头部
-CinderCrawlerBody.DisplayName: 灰烬爬行者身躯
+CinderCrawlerTail.DisplayName: 灰烬爬行者
+CinderCrawlerHead.DisplayName: 灰烬爬行者
+CinderCrawlerBody.DisplayName: 灰烬爬行者
 CharredSoul.DisplayName: 焦黑之魂
 CharredSkulls.DisplayName: 焦黑头骨
 BottomFeeder.DisplayName: 地底觅食者
@@ -194,9 +194,9 @@ UnderworldRift: {
 	Button: 扰动裂隙
 }
 
-VoidWormTail.DisplayName: 虚空虫尾
-VoidWormHead.DisplayName: 虚空虫头
-VoidWormBody.DisplayName: 虚空虫体
+VoidWormTail.DisplayName: 虚空虫
+VoidWormHead.DisplayName: 虚空虫
+VoidWormBody.DisplayName: 虚空虫
 SunStalkerRayLightBig.DisplayName: 猎日游隼大射线
 SunStalkerRayLight.DisplayName: 猎日游隼射线
 SunStalkerPreSpawn.DisplayName: 猎日游隼
@@ -221,7 +221,7 @@ STARBOMBERLASERWARN.DisplayName: 星爆者激光警告
 STARBOMBER: {
 	DisplayName: 星爆者
 	BossChecklistIntegration.SpawnInfo: 极光星雨之中，它们会随机从天而降.
-	Bestiary: 毁灭是此物唯一的使命.绯琦可能是在黑市买到的它们，见到它一定要悉数摧毁.
+	Bestiary: 毁灭是此机械唯一的使命.绯琦可能是在黑市买到的它们，见到一定要悉数摧毁.
 }
 
 Voidling.DisplayName: 虚无灵体
@@ -259,7 +259,7 @@ IrradiatedNest: {
 	Bestiary2: 辐射巢穴
 }
 
-IrradiatedCreeper.DisplayName: 辐射爬行者
+IrradiatedCreeper.DisplayName: 辐射飞眼怪
 IRNDeathBomb.DisplayName: 辐射巢穴死亡炸弹
 IrradieagleSurvent.DisplayName: 辐射侦察机
 Irradieagle.DisplayName: 辐射护巢鹰
@@ -406,7 +406,7 @@ Cogwork: {
 BlazingSerpentHead: {
 	DisplayName: 烈焰长蛇
 	BossChecklistIntegration.SpawnInfo: 在烈火墓穴中使用[i:Stellamod/CursedShard]，它也许会现身...
-	Bestiary: 我想是在燃烧着自己的芳华吧.
+	Bestiary: 热情地燃烧着.
 }
 
 StarrVeriplant: {
@@ -709,7 +709,7 @@ Ginztel: {
 	}
 
 	Census.SpawnCondition: 击败金戈亚指挥官
-	Bestiary: 这名已退休的玄铁军官被你的力量大为震惊，他决定来看看...以及蹭个住处.
+	Bestiary: 这名已退休的玄铁军官被你的力量所震撼，他决定来看看...以及蹭个住处.
 	Basic1: 嘿嘿，那个爆破专家不错，他有好多炸弹...
 	Basic2: 俺只是来看看...或者在这住一小会.
 	Basic3: 俺的那帮人好弱啊.真是给你添麻烦了.
@@ -727,14 +727,14 @@ Merena: {
 	Basic1: 说起来，服装商经常来这里买我们的魔法丝绸和布.
 	Basic2: 你最近有见过我的妹妹赛利亚吗？她跑哪去了...
 	Basic3: 我要成为史上最强的魔法师！
-	Basic4: 绯琦真是理想中的皇后！她给了我们一切！
+	Basic4: 绯琦真是最理想的皇后！她给了我们一切！
 	Basic5: 这地方太安静了，我不喜欢，但能够站在绯琦身边，这点小事不算什么.
 	Basic6: 安魅凯拉很棒哎.她最近来这里寻找饰符来着.
 	Basic7: 呃..你能稍微帮我个忙吗？会有回报的！
 	Basic8: 我一生的梦想就是成为最强的女巫！但我总是被人超越，尤其是我的姐妹.
 	Basic9: 哪天我见到我妹妹了，一定要当场打败她！
 	Basic10: 奇怪，这里的经济怎么这么像...共产主义？
-	Basic11: 里的东西都好棒啊！
+	Basic11: 这里的东西都好棒啊！
 	Basic12: 毫无争议，绯琦才是这片大陆上最强的女巫.可能比神圣的光之巫女还强.我恨那家伙.
 	Basic13: 哈，我还记得那个薇莉娅.脑袋一根筋，但力量还挺强.她因为从皇都偷了魔法书而被流放.我可能还需要那本书.
 	Special1: 别光站着，去干掉薇莉娅！她从皇都偷了一本书，我需要它！
@@ -1100,13 +1100,13 @@ StartGoth: {
 }
 
 RekSnakeIdle.DisplayName: 莱克
-CentipedeTail.DisplayName: 蜈蚣尾部
-CentipedeHead.DisplayName: 蜈蚣头部
-CentipedeBody.DisplayName: 蜈蚣身体
+CentipedeTail.DisplayName: 蜈蚣
+CentipedeHead.DisplayName: 蜈蚣
+CentipedeBody.DisplayName: 蜈蚣
 IrravheilSlime.DisplayName: 灾疫史莱姆
-IrravheilLandwormTail.DisplayName: 灾疫蠕虫尾
-IrravheilLandwormHead.DisplayName: 灾疫蠕虫头
-IrravheilLandwormBody.DisplayName: 灾疫蠕虫身体
+IrravheilLandwormTail.DisplayName: 灾疫蠕虫
+IrravheilLandwormHead.DisplayName: 灾疫蠕虫
+IrravheilLandwormBody.DisplayName: 灾疫蠕虫
 
 IrravheilSprayer: {
 	DisplayName: 灾疫喷射者
@@ -1152,5 +1152,5 @@ GraveSeeker.DisplayName: 墓地探寻者
 
 Azurerin: {
 	DisplayName: 艾祖瑞霖
-	Bestiary: 一只稻草人，被漂浪火焰中的热情唤醒.
+	Bestiary: 占位符
 }
