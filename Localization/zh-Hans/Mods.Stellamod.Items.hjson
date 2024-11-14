@@ -168,7 +168,7 @@ SapContainer: {
 }
 
 WoodenShield: {
-	DisplayName: 木制冲击盾牌
+	DisplayName: 木制盾牌
 	Tooltip:
 		'''
 		真棒，一面木盾？
@@ -186,7 +186,7 @@ Steali: {
 		增加生命再生
 		冲刺过程中不能攻击
 		某穿着黑色披风的白色小骑士觉得很赞
-		[c/00FFB3:掉落自克苏鲁之眼或从波尔杜克或赌徒处售卖]
+		[c/00FFB3:掉落自克苏鲁之眼或从波尔杜克或赌徒处购买]
 		'''
 }
 
@@ -552,9 +552,8 @@ FlowerBatch: {
 	Tooltip:
 		'''
 		"野芳发而幽香"
-		从某处收获来的花束
+		从地下的巨大花朵收获来的花束
 		最适合用于制作植物相关物品！
-		[c/00FFB3:掉落自地藏百花或地藏红花]
 		'''
 }
 
@@ -579,7 +578,7 @@ Mushroom: {
 }
 
 Stick: {
-	DisplayName: 木灵棒
+	DisplayName: 木棒
 	Tooltip:
 		'''
 		这根棒子由林间嫩枝精制而成，虽然它在美学上堪称艺术品
@@ -829,7 +828,7 @@ MorrowChesti: {
 
 MorrowChestKey: {
 	DisplayName: 古谕秘钥
-	Tooltip: 深夜降临，古谕秘钥在手，各地神秘宝箱，一触即开，奇珍异宝等你探索！
+	Tooltip: 深夜降临之时，各地神秘宝箱，一触即开，找寻奇珍异宝！
 }
 
 MorrowDeath: {
@@ -912,7 +911,7 @@ BonePicklerCard: {
 	Tooltip:
 		'''
 		以神秘粉末标记敌方
-		挥动“骨尘引爆符牌”，长按攻击，连锁爆炸席卷战场，敌方瞬间化为尘埃
+		长按攻击，连锁爆炸席卷战场，敌方瞬间化为尘埃
 		'''
 }
 
@@ -930,7 +929,7 @@ EYIgniter: {
 	Tooltip:
 		'''
 		以神秘粉末标记敌方
-		长按攻击按钮，释放出毁灭性的能量，让敌人无处遁形
+		长按攻击，释放出毁灭性的能量，让敌人无处遁形
 		'''
 }
 
@@ -939,7 +938,7 @@ FrostCard: {
 	Tooltip:
 		'''
 		以神秘粉末标记敌方
-		长按攻击按钮，释放霜冻能量，引爆标记，让敌人在冰霜中颤抖，化为寒霜之下的尘埃
+		长按攻击，释放霜冻能量，引爆标记，让敌人在冰霜中颤抖，化为寒霜之下的尘埃
 		'''
 }
 
@@ -1310,9 +1309,9 @@ BloodLamp: {
 	DisplayName: 血怒圣灯
 	Tooltip:
 		'''
-		攻击敌人，使你的召唤兽狂怒，标记血红印记！
+		攻击敌人，使你的召唤物狂怒，标记血红印记！
 		召唤红色爆裂晶石，痛击对手！
-		连带召唤兽都染上嗜血之径，战力飙升！
+		连带召唤物都染上嗜血之径，战力飙升！
 		'''
 }
 
@@ -1343,7 +1342,6 @@ MorrowWhipI: {
 		'''
 		召唤伙伴，锁定敌人，伤害加倍
 		攻击敌人后，使你的防御降低
-		战斗中，小心别死
 		标记敌人，要慎之又慎，生死一念间
 		'''
 }
@@ -1357,7 +1355,7 @@ GardenWrecker: {
 	Tooltip:
 		'''
 		头骨子弹一旦发射，若不幸击中，后果不堪设想！
-		没错，他们把我心爱的花园破坏得面目全非！我一直都是科研团队中的一员！
+		没错，他们把我心爱的花园破坏得面目全非！
 		'''
 	DisplayName: 翠破焰炮
 }
@@ -1466,7 +1464,6 @@ VerliaBroochA: {
 		攻击敌人时有概率释放强力伤害雪花！
 		+50最大魔力值！
 		+5防御！
-		[c/00FFB3:掉落自皎寒之月，薇莉娅]
 		'''
 	DisplayName: 薇莉娅的蕴魔饰符
 }
@@ -1695,7 +1692,7 @@ GoldCrossbow: {
 	Tooltip:
 		'''
 		蓄力后一次性射出大量箭矢
-		箭头更是镶嵌了红玉！
+		箭头镶嵌了红玉！
 		'''
 }
 
@@ -1704,7 +1701,7 @@ PlatinumCrossbow: {
 	Tooltip:
 		'''
 		蓄力后一次性射出大量箭矢
-		箭头更是镶嵌了红玉！
+		箭头镶嵌了红玉！
 		'''
 }
 
@@ -1713,7 +1710,7 @@ SilverCrossbow: {
 	Tooltip:
 		'''
 		蓄力后一次性射出大量箭矢
-		箭头更是镶嵌了蓝玉！
+		箭头镶嵌了蓝玉！
 		'''
 }
 
@@ -1722,7 +1719,7 @@ TungstenCrossbow: {
 	Tooltip:
 		'''
 		蓄力后一次性射出大量箭矢
-		箭头更是镶嵌了蓝玉！
+		箭头镶嵌了蓝玉！
 		'''
 }
 
@@ -2332,10 +2329,10 @@ Ivythorn: {
 	DisplayName: 荆棘常春藤
 	Tooltip:
 		'''
-		这就像一种毒藤。
-		它悄无声息地在生物间蔓延，用它的枝蔓编织出一片绿意。
+		一种毒藤
+		它悄无声息地在生物间蔓延，用它的枝蔓编织出一片绿意
 		但这份绿意却藏着剧毒，美丽外表下隐藏着致命的陷阱
-		[c/00FFB3:击杀地表史莱姆或者开宝箱获得]
+		[c/00FFB3:击杀刺藤史莱姆或者开宝箱获得]
 		'''
 }
 
@@ -2619,7 +2616,7 @@ StalkersTallon: {
 
 TheIrradiaspear: {
 	DisplayName: 辐射之矛
-	Tooltip: 蓄力，松开后射出带有酸性的幻影
+	Tooltip: 蓄力，松开后射出酸性的幻影刺击
 }
 
 StarKeeper: {
@@ -2737,7 +2734,7 @@ LAZER: {
 }
 
 RustlockPistol: {
-	DisplayName: 锈铐手枪
+	DisplayName: 锈发手枪
 	Tooltip: 射击空处，效果绝佳！
 }
 
@@ -3338,7 +3335,7 @@ GreekLantern: {
 }
 
 LanternOfAFallen: {
-	DisplayName: 坠落者的明灯
+	DisplayName: 堕落者的明灯
 	Tooltip: 清理单个敌人的好手
 }
 
@@ -3459,7 +3456,7 @@ DaedusBossRel: {
 
 DreadBossRel: {
 	DisplayName: 绛渊恶巫圣物
-	Tooltip: 一般人会迷失自我.她就是那个不一般的人.
+	Tooltip: 一般人会在如此力量中迷失自我.她就是那个不一般的人.
 }
 
 GintzeBossRel: {
@@ -3483,7 +3480,7 @@ SunsBossRel: {
 }
 
 VerliBossRel: {
-	DisplayName: 皎寒之月，薇莉娅圣物
+	DisplayName: 薇莉娅圣物
 	Tooltip: ""
 }
 
@@ -3509,7 +3506,7 @@ M61X: {
 
 MushroomStave: {
 	DisplayName: 蘑菇杖
-	Tooltip: 摆脱纠缠，给我退下！
+	Tooltip: 别缠着我了！
 }
 
 StarbloomTempleBlock: {
@@ -3754,7 +3751,7 @@ AlsisMask: {
 
 WickofSorcery: {
 	DisplayName: 魔咒烛心
-	Tooltip: 有史以来最好的棍子，但也仅仅只是一个棍子.当你完成梅瑞娜的任务线后获得此物
+	Tooltip: 有史以来最好的棍子，但也仅仅只是一个棍子.当你完成梅瑞娜的全部任务后可在她的商店中买到此物
 }
 
 Voyager: {
@@ -3769,7 +3766,7 @@ Hyua: {
 
 Poya: {
 	DisplayName: 阿卡里亚之唤
-	Tooltip: 召唤阿卡里亚混溶体进入现实，将敌人撕裂
+	Tooltip: 召唤阿卡里亚混溶体，将敌人撕裂
 }
 
 FireflyStaff: {
@@ -4134,7 +4131,7 @@ BridgetII: {
 
 BlackWallBlock: {
 	DisplayName: 黑
-	Tooltip: 铁粉都是黑的:)
+	Tooltip: 真tm的黑啊
 }
 
 MossyStones: {
@@ -4205,7 +4202,7 @@ Lacerator: {
 		'''
 		{$CommonItemTooltip.SummonTagDamage}
 		{$CommonItemTooltip.Whips}
-		这武器打中敌人后，敌人就像被切成两半，血量和防御都只剩下一半
+		这武器打中敌人后，敌人会被切成两半，血量和防御都只剩下一半
 		真是切片切丁，爽快极了！
 		（对boss无效）
 		'''
@@ -4215,7 +4212,7 @@ PotOfGreed: {
 	DisplayName: 贪欲之壶
 	Tooltip:
 		'''
-		接近此壶，它会欢笑，为你的手下创造最多10个影子分身
+		接近此壶，它会欢笑，为你的召唤物创造最多10个影子分身
 		这些影子虽不持久，但能造成伤害，只是略逊于本体
 		这神奇的壶，战场上仅此一个，独特无双
 		'''
@@ -4567,7 +4564,7 @@ TheButcher: {
 
 BookOfSkullsII: {
 	DisplayName: 颅骨秘典II
-	Tooltip: 哇哦，妈妈，这是第二版了！
+	Tooltip: 哇哦，这是第二版了！
 }
 
 DreadGauntlets: {
@@ -4577,7 +4574,7 @@ DreadGauntlets: {
 
 ScytheOfSouls: {
 	DisplayName: 灵魂收割者
-	Tooltip: 随心所欲地驾驭这些复仇的灵魂吧，它们的行径可是出人意料的酷炫！
+	Tooltip: 随心所欲地驾驭这些复仇的灵魂吧，出人意料的酷炫！
 }
 
 BubbleBlasher: {
@@ -4620,12 +4617,12 @@ Photobomb: {
 }
 
 CatacombAquaStoneBlock: {
-	DisplayName: 水之墓穴石块
+	DisplayName: 浸水墓穴石块
 	Tooltip: ""
 }
 
 CatacombHeatStoneBlock: {
-	DisplayName: 狱之墓穴石块
+	DisplayName: 烈火墓穴石块
 	Tooltip: ""
 }
 
@@ -4820,7 +4817,6 @@ TreasureBoxFire: {
 		'''
 		{$CommonItemTooltip.RightClickToOpen}
 		你一定刚刚被烧了个半死吧
-		[c/00FFB3:击败烈火墓穴中的迷你Boss获得]
 		'''
 }
 
@@ -4830,7 +4826,6 @@ TreasureBoxTrap: {
 		'''
 		{$CommonItemTooltip.RightClickToOpen}
 		恩~我保证它上面没有陷阱呢~ ;)
-		[c/00FFB3:击败机关墓穴中的迷你Boss获得]
 		'''
 }
 
@@ -4840,7 +4835,6 @@ TreasureBoxWater: {
 		'''
 		{$CommonItemTooltip.RightClickToOpen}
 		好多...水...
-		[c/00FFB3:击败浸水墓穴中的迷你Boss获得]
 		'''
 }
 
@@ -4912,7 +4906,7 @@ IcarusFeather: {
 		'''
 		即使飞行时间耗尽也可以继续飞行！
 		...但如果你这么做，你的翅膀会起火，灼烧生命并降低灵活性
-		（伊卡洛斯，古希腊神话人物，大发明家代达罗斯之子.两人用代达罗斯造出的翅膀逃离监狱时，伊卡洛斯固定翅膀用的蜡被太阳融化，坠入海洋身亡）
+		（伊卡洛斯，古希腊神话人物，大发明家代达罗斯之子.两人用代达罗斯造出的机械翅膀逃离监狱时，伊卡洛斯固定翅膀用的蜡被太阳融化，坠入海洋身亡）
 		[c/00FFB3:从击败烈火墓穴中的迷你Boss掉落的燃烬宝藏盒中开出]
 		'''
 }
@@ -4978,7 +4972,11 @@ ComicalTrident: {
 
 MetalAlloy: {
 	DisplayName: 合金锭
-	Tooltip: 虽非材料，但在德国就不一定了
+	Tooltip: 
+		'''
+		板砖——德国特产版
+		它不是材料！
+		'''
 }
 
 Ragsaw: {
@@ -5197,7 +5195,7 @@ VampiricVine: {
 	Tooltip:
 		'''
 		终于要上场了？
-		随机射出吸血箭，一箭阵中，你便得愈
+		随机射出吸血箭
 		'''
 }
 
@@ -5227,7 +5225,7 @@ VitalityInsource: {
 		回复102生命与魔力
 		给予蜂蜜增益！
 		'''
-	DisplayName: 活力
+	DisplayName: 活力魔能
 }
 
 HealthyInsource: {
@@ -5330,7 +5328,7 @@ AlcadBomb: {
 
 CompletedFlowerBag: {
 	DisplayName: 装满的花卉袋
-	Tooltip: 把这个拿给蕊，领取你的奖励吧！
+	Tooltip: 把这个交给蕊，领取你的奖励吧！
 }
 
 EmptyFlowerBag: {
@@ -5773,11 +5771,11 @@ Scatterbombs: {
 		造成极高伤害，而且它其实并不是散弹，嘿嘿~
 		（Zemmie企业不承担伤害或副作用责任，你也没机会活下来告状.）
 		'''
-	DisplayName: 散弹爆破
+	DisplayName: 散爆弹
 }
 
 VacuumDrill: {
-	Tooltip: 如驱鬼者般，锁定敌人，给予比老妈揍我还狠的打击
+	Tooltip: 驱鬼神器，锁定敌人，给予比老妈揍我还狠的打击
 	DisplayName: 幽能钻吸
 }
 
@@ -5798,7 +5796,7 @@ LaboratoryBlock: {
 
 FocalCrystalFire: {
 	DisplayName: 烧焦的聚焦水晶
-	Tooltip: 右键将其放入实验室水晶来开启通往狱之墓穴的传送门！
+	Tooltip: 右键将其放入实验室水晶来开启通往烈火墓穴的传送门！
 }
 
 FocalCrystalTrap: {
@@ -5808,7 +5806,7 @@ FocalCrystalTrap: {
 
 FocalCrystalWater: {
 	DisplayName: 浸湿的聚焦水晶
-	Tooltip: 右键将其放入实验室水晶来开启通往水之墓穴的传送门！
+	Tooltip: 右键将其放入实验室水晶来开启通往浸水墓穴的传送门！
 }
 
 FocusingCrystal: {
@@ -5876,7 +5874,6 @@ ShopNote: {
 	Tooltip:
 		'''
 		我看出你很有能力，从现在开始我的商店对你完全开放啦！
-		[c/00FFB3:掉落自蕊]
 		'''
 }
 
@@ -6070,7 +6067,7 @@ Shredder: {
 }
 
 LuminullSpiritFragments: {
-	Tooltip: 科兹米尔体内的卢玫气息
+	Tooltip: 已删除
 	DisplayName: 黯光残魂
 }
 
@@ -6341,7 +6338,7 @@ SirestiasToken: {
 		'''
 		为希丝忒莉亚完成目标后获赠的感恩谢礼
 		使用它在分子转换器处转换武器的职业！
-		[c/00FFB3:限量8个]
+		[c/00FFB3:限量，慎用]
 		[c/00FFB3:仅在击败殒神之像对应的Boss后并将其给予希丝忒莉亚才能获得]
 		'''
 	DisplayName: 希丝忒莉亚的宝珠
@@ -6569,7 +6566,6 @@ VeiledScriptureAzurerin: {
 	Tooltip:
 		'''
 		左键阅读
-		可被铸成塑像，在击败对应Boss后来与希丝忒莉亚兑换奖励
 		'''
 	DisplayName: 天纱圣典·艾祖瑞霖
 	Content:
@@ -6634,7 +6630,6 @@ VeiledScriptureSigfried: {
 	Tooltip:
 		'''
 		左键阅读
-		可被铸成塑像，在击败对应Boss后来与希丝忒莉亚兑换奖励
 		'''
 }
 
@@ -6786,7 +6781,6 @@ Friedstein: {
 		轻触屏幕，化身为光，冲向敌人，光芒四射
 		击中敌人，额外伤害，片刻免疫，胜者之赏.
 		中敌，下一次攻击快如闪电；失手，等待时间更长.
-
 		攻速惊人，击中后加速，但若失手，等待更漫长.
 		'''
 	DisplayName: 仙辉笼手
@@ -7055,7 +7049,7 @@ GunHolster: {
 	Tooltip:
 		'''
 		允许你同时使用两把“枪套”类武器.
-		右键以使用你的另一把枪.
+		左键右键可装备两把不同武器，且可同时使用！
 		'''
 }
 
@@ -7156,7 +7150,7 @@ MeredaX: {
 	Tooltip:
 		'''
 		这是唯一能让你双手同时握持的枪械，如同舞动双刃的战神，既灵活又致命
-		仿佛痴恋的狂渊巫女，厄莉什基迦勒赋予了你暗夜的力量，每一发子弹，都是对敌人命运的静默宣判
+		狂渊巫女厄莉什基迦勒赋予了你暗夜的力量，每一发子弹，都是对敌人命运的静默宣判
 		'''
 }
 
@@ -7238,7 +7232,6 @@ ZuiBomb: {
 	Tooltip:
 		'''
 		击中敌人时召唤蕊的力量，爆炸并造成大量伤害！
-		[c/00FFB3:掉落自蕊]
 		'''
 	DisplayName: 蕊之辉光
 }
@@ -7457,7 +7450,7 @@ RibbonStaff: {
 	Tooltip:
 		'''
 		按住左键在敌人身上系上漂亮的蝴蝶结，并一定程度上阻碍其行动！
-		松开时将炸成彩纸与彩带！
+		松开时将炸成彩纸与丝带！
 		'''
 }
 
@@ -7585,7 +7578,6 @@ GothiviaBossRel: {
 	Tooltip:
 		'''
 		烈阳终有落下之时......
-		明月必将升起之刻......
 		'''
 }
 
@@ -7618,7 +7610,6 @@ FoxMark: {
 		+5%伤害[c/ff0000:「乘算」]
 		与我签订契约，成为魔法狐娘吧！
 		"她会治愈我的..."
-		[c/00FFB3:掉落自绯琦]
 		'''
 }
 
@@ -7769,7 +7760,7 @@ VeiledScriptureMiner9: {
 
 		真倒霉，回地表的路上碰到一只大水母.
 		要是绯琦知道我们有触手玩，她肯定嫉妒坏了.
-		...看来只能绕路回到皇室首都了.
+		...看来只能绕路回到皇都了.
 
 		我们已经弹尽粮绝.冰邦被我装在手推车里.他晕过去了.
 		可能是那块花岗岩给他砸脑震荡了，或者就是蝙蝠吵的.
@@ -7839,7 +7830,7 @@ VeiledScriptureLumi: {
 }
 
 RekBossRel: {
-	Tooltip: 绿阳炽龙的圣物
+	Tooltip: 琉阳炽龙的圣物
 	DisplayName: 莱克圣物
 }
 
@@ -7901,7 +7892,7 @@ IllurineBrew: {
 	Tooltip:
 		'''
 		在太空中复原重力
-		轻微增加移动速度与加速度
+		略微增加移动速度与加速度
 		[c/00FFB3:售卖于安魅凯拉]
 		'''
 }
@@ -7988,7 +7979,7 @@ VulcanBreaker: {
 	DisplayName: 炎君破晓
 	Tooltip:
 		'''
-		挥舞一把熔岩之锤，它在敌人体内爆发！
+		挥舞一把熔岩之锤，击中敌人内爆发！
 		鲜焰四溅：P	
 		'''
 }
@@ -8268,7 +8259,7 @@ SetBonus: {
 		+30%投掷速度
 		大幅增加投掷武器的击退
 		'''
-	WinterbornHead: 冰锥会出现在你身边保护你，最多三只
+	WinterbornHead: 冰块会出现在你身边保护你，最多三块
 	WitchenHat:
 		'''
 		你对社会做出了巨大的贡献！女巫们会尊重你！
