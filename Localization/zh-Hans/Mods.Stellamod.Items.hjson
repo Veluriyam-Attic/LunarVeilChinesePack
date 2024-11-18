@@ -6176,22 +6176,38 @@ Voltenstein: {
 
 BlankBrooch: {
 	DisplayName: 未加工的饰符
-	Tooltip: 拥有无限潜能的模板，用于制作某种物品！
+	Tooltip: 
+		'''
+		拥有无限潜能的模板，用于制作某种物品！
+		[c/00FFB3:售卖于戴尔格林]
+		'''
 }
 
 BlankCard: {
 	DisplayName: 未加工的符牌
-	Tooltip: 拥有无限潜能的模板，用于制作某种物品！
+	Tooltip: 
+		'''
+		拥有无限潜能的模板，用于制作某种物品！
+		[c/00FFB3:售卖于戴尔格林]
+		'''
 }
 
 BlankCrossbow: {
 	DisplayName: 未加工的弩
-	Tooltip: 拥有无限潜能的模板，用于制作某种物品！
+	Tooltip: 
+		'''
+		拥有无限潜能的模板，用于制作某种物品！
+		[c/00FFB3:售卖于戴尔格林]
+		'''
 }
 
 BlankSafunai: {
 	DisplayName: 未加工的鞭刃
-	Tooltip: 拥有无限潜能的模板，用于制作某种物品！
+	Tooltip: 
+		'''
+		拥有无限潜能的模板，用于制作某种物品！
+		[c/00FFB3:售卖于戴尔格林]
+		'''
 }
 
 Hultinstein: {
@@ -6220,7 +6236,11 @@ AuroreanStarball: {
 
 BlankOrb: {
 	DisplayName: 未加工的球体
-	Tooltip: 拥有无限潜能的模板，用于制作某种物品！
+	Tooltip: 
+		'''
+		拥有无限潜能的模板，用于制作某种物品！
+		[c/00FFB3:售卖于戴尔格林]
+		'''
 }
 
 Mardenstein: {
