@@ -19,7 +19,7 @@ namespace LunarVeilChinesePack.BossChecklist
             });
             #endregion
 
-            #region DoJackIntegration(灯笼杰克)
+            #region DoJackIntegration(南瓜杰克)
             ForceLocalizeSystem.LocalizeByTypeName("ModIntegrationsSystem", "DoJackIntegration", new() {
                 { "Use a [i:","在夜晚进入古谕遗境并使用[i:" },
                 {"] at a post in the Fabled Castle to the right at night.","]以召唤." }

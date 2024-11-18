@@ -44,12 +44,12 @@ public class MiscTileLocalizer : ModSystem
         #endregion
         #region JackPost
         ForceLocalizeSystem.LocalizeByType(typeof(JackPost), nameof(JackPost.RightClick), new() {
-            { "Jack has awoken!", "灯笼杰克已苏醒！" },
+            { "Jack has awoken!", "南瓜杰克已苏醒！" },
             { "...", "..." },
             { "Only a wandering essence can allude my precense, only for you Gothivia! :)", "带上漂浪焰华来，全部献给歌瑟梵——" },
         });
         ForceLocalizeSystem.LocalizeByType(typeof(JackPost), nameof(JackPost.MouseOver), new() {
-            { "Jack's Shrine", "灯笼杰克" },
+            { "Jack's Shrine", "南瓜杰克" },
         });
         #endregion
         #region RestingGrounds

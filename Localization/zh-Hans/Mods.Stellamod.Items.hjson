@@ -2258,7 +2258,7 @@ EDR: {
 }
 
 JackoBag: {
-	DisplayName: 宝藏袋（灯笼杰克）
+	DisplayName: 宝藏袋（南瓜杰克）
 	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 }
 
@@ -2913,7 +2913,7 @@ HeatGlider: {
 }
 
 JPost: {
-	DisplayName: 灯笼杰克稻草人
+	DisplayName: 南瓜杰克稻草人
 	Tooltip: ""
 }
 
@@ -3467,7 +3467,7 @@ GintzeBossRel: {
 }
 
 JackBossRel: {
-	DisplayName: 灯笼杰克圣物
+	DisplayName: 南瓜杰克圣物
 	Tooltip: 在宁静之处独自挺立.对稻草人来说再好不过了.
 }
 
@@ -4378,7 +4378,7 @@ TomedDustingFlames: {
 	Tooltip:
 		'''
 		引爆某些魔法粉尘时产生火焰爆破
-		[c/00FFB3:掉落自灯笼杰克]
+		[c/00FFB3:掉落自南瓜杰克]
 		'''
 }
 
@@ -6176,7 +6176,7 @@ Voltenstein: {
 
 BlankBrooch: {
 	DisplayName: 未加工的饰符
-	Tooltip: 
+	Tooltip:
 		'''
 		拥有无限潜能的模板，用于制作某种物品！
 		[c/00FFB3:售卖于戴尔格林]
@@ -6185,7 +6185,7 @@ BlankBrooch: {
 
 BlankCard: {
 	DisplayName: 未加工的符牌
-	Tooltip: 
+	Tooltip:
 		'''
 		拥有无限潜能的模板，用于制作某种物品！
 		[c/00FFB3:售卖于戴尔格林]
@@ -6194,7 +6194,7 @@ BlankCard: {
 
 BlankCrossbow: {
 	DisplayName: 未加工的弩
-	Tooltip: 
+	Tooltip:
 		'''
 		拥有无限潜能的模板，用于制作某种物品！
 		[c/00FFB3:售卖于戴尔格林]
@@ -6203,7 +6203,7 @@ BlankCrossbow: {
 
 BlankSafunai: {
 	DisplayName: 未加工的鞭刃
-	Tooltip: 
+	Tooltip:
 		'''
 		拥有无限潜能的模板，用于制作某种物品！
 		[c/00FFB3:售卖于戴尔格林]
@@ -6236,7 +6236,7 @@ AuroreanStarball: {
 
 BlankOrb: {
 	DisplayName: 未加工的球体
-	Tooltip: 
+	Tooltip:
 		'''
 		拥有无限潜能的模板，用于制作某种物品！
 		[c/00FFB3:售卖于戴尔格林]
