@@ -3136,7 +3136,7 @@ AurelusBlightBroochA: {
 	Tooltip:
 		'''
 		光越亮，影越浓...
-		[c/00FFB3:掉落自破碎奇点]
+		[c/00FFB3:在匿影中打开宝箱获得]
 		'''
 }
 
@@ -6421,7 +6421,11 @@ IllurianWarriorHelm: {
 
 IllurineScale: {
 	DisplayName: 星树亮鳞
-	Tooltip: 散发着尼伊维的寰宇能量！
+	Tooltip:
+		'''
+		散发着尼伊维的寰宇能量！
+		[c/00FFB3:在丛林深处星树箱（地下紫色结构）中获得或者在攻击尼伊维时获得]
+		'''
 }
 
 PureHeart: {
@@ -6799,6 +6803,7 @@ ManifestedLove: {
 		'''
 		歌瑟梵的灵魂之核心，具现化于此.
 		腐化退散，她的爱意散布至世界各处，安抚着一切非分.再见，歌瑟梵.
+		[c/00FFB3:可能在你的猪猪存钱罐里]
 		'''
 	DisplayName: 爱意具现
 }
@@ -6911,6 +6916,7 @@ ManifestedBravery: {
 		'''
 		薇莉娅的灵魂之核心，具现化于此.
 		她最终选择对抗绯琦和你，来拯救她的村庄，她的姐妹.
+		[c/00FFB3:可能在你的猪猪存钱罐里]
 		'''
 	DisplayName: 勇气具现
 }
@@ -7266,6 +7272,7 @@ ManifestedCommitment: {
 		'''
 		伊瑞蒂安的灵魂之核心，具现化于此.
 		伊瑞蒂安内心仅有此一志：维护城堡，等待薇莉娅与歌瑟梵归来.
+		[c/00FFB3:可能在你的猪猪存钱罐里]
 		'''
 }
 
@@ -7530,6 +7537,7 @@ ManifestedAnxiety: {
 		'''
 		绛渊恶巫的灵魂之核心，具现化于此.
 		绛渊恶巫散布的惊怖与担忧已然随她的倒下而散去，但对她的恐惧依旧.
+		[c/00FFB3:可能在你的猪猪存钱罐里]
 		'''
 	DisplayName: 忧惧具现
 }
@@ -7563,7 +7571,7 @@ Vixyl: {
 }
 
 ManifestedHumility: {
-	Tooltip: ""
+	Tooltip: "[c/00FFB3:可能在你的猪猪存钱罐里]"
 	DisplayName: 谦逊具现
 }
 
