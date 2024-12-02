@@ -12,7 +12,7 @@ namespace LunarVeilChinesePack.BossChecklist
         public override void Load()
         {
             //[i:别删 开头的[ 别删
-            #region DoSunStalkerIntegration(烈日游隼)
+            #region DoSunStalkerIntegration(猎日游隼)
             ForceLocalizeSystem.LocalizeByTypeName("ModIntegrationsSystem", "DoSunStalkerIntegration", new() {
                 { "Use a [i:","在沙漠的祭坛上使用[i:" },
                 {"] at an altar in the desert.","]以召唤." }
@@ -26,7 +26,7 @@ namespace LunarVeilChinesePack.BossChecklist
             });
             #endregion
 
-            #region DoDaedusIntegration(世遗者代达斯)
+            #region DoDaedusIntegration(遗世者代达斯)
             ForceLocalizeSystem.LocalizeByTypeName("ModIntegrationsSystem", "DoDaedusIntegration", new() {
                 { "Disturb with the ruined tablet deep within the morrow.","扰动幽曦地下深处的遗迹石碑" },
             });
