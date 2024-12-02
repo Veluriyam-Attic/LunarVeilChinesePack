@@ -30,7 +30,7 @@ public class ItemTooltipLocalizer : ModSystem
             { "Greatsword Weapon Type", "武器类型：巨剑" },
             { "(A) Very High Damage Scaling with frost explosions!", "(A)很高的冰霜爆炸伤害！" },
             { "(A) Very High Damage Scaling with knives!", "(A)很高的飞刀伤害！" },
-            { "Stein Weapon Type", "武器类型：冲击拳套" },
+            { "Stein Weapon Type", "武器类型：笼手" },
             { "The sorrowing souls within are crying", "聆听那灵魂的哀嚎..." },
             { "This weapon is bound by Fenix", "绯琦的力量缠绕于其上" },
             { "(S) Explosion damage is out of this world!", "(S)超神的爆炸伤害！" },
