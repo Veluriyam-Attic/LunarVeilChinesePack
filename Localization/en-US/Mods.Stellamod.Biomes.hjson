@@ -44,7 +44,7 @@ FableBiome: {
 }
 
 EngineerShop: {
-	TownNPCDialogueName: The Engineer Shop
+	TownNPCDialogueName: the Engineer Shop
 	DisplayName: Engineer Shop
 }
 
@@ -99,8 +99,8 @@ AbyssBiome: {
 }
 
 Laboratory: {
-	DisplayName: Laboratory
 	TownNPCDialogueName: the Laboratory
+	DisplayName: Laboratory
 }
 
 IlluriaBiome: {
@@ -116,4 +116,34 @@ IshtarBiome: {
 VeilBiome: {
 	TownNPCDialogueName: the Veil Biome
 	DisplayName: Veil Biome
+}
+
+BloodCathedral: {
+	TownNPCDialogueName: the Blood Cathedral
+	DisplayName: Blood Cathedral
+}
+
+AshotiTemple: {
+	TownNPCDialogueName: the Ashoti Temple
+	DisplayName: Ashoti Temple
+}
+
+MineshaftBiome: {
+	TownNPCDialogueName: the Mineshaft Biome
+	DisplayName: Mineshaft Biome
+}
+
+Colosseum: {
+	TownNPCDialogueName: the Colosseum
+	DisplayName: Colosseum
+}
+
+SpringHillsBiome: {
+	TownNPCDialogueName: the Spring Hills Biome
+	DisplayName: Spring Hills
+}
+
+RainforestBiome: {
+	DisplayName: Rainforest Biome
+	TownNPCDialogueName: the Rainforest Biome
 }

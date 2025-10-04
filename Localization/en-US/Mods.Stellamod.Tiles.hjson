@@ -1,8 +1,40 @@
+SunAlter.MapEntry: Sun Alter
+UnstableRift.MapEntry: Unstable Rift
+RestingGrounds.MapEntry: Resting Grounds
+JackPost.MapEntry: Jack Post
+Gothiv.MapEntry: Gothiv
+LostScrapT.MapEntry: Lost Scrap T
+DiminishedMetal.MapEntry: Diminished Metal
+CoreGemT.MapEntry: Core Gem T
+CellConverter.MapEntry: Cell Converter
+CatacombsSummon.MapEntry: Catacombs Summon
+AstrasilkOreTile.MapEntry: Astrasilk Ore Tile
+SoulOre.MapEntry: Soul Ore
+LabCrystal.MapEntry: Lab Crystal
+IshtarDoorClosed.MapEntry: Ishtar Door Closed
+AurelusTempleDiscTile.MapEntry: Aurelus Temple Disc Tile
+RainforestTreeSapling.MapEntry: Rainforest Tree Sapling
+RainforestTreeBase.MapEntry: Rainforest Tree Base
+RainforestTree.MapEntry: Rainforest Tree
+MothlightSpawnerBrick.MapEntry: Mothlight Spawner Brick
+MothlightMushroom.MapEntry: Mothlight Mushroom
+MothlightGrass.MapEntry: Mothlight Grass
+MothlightBrick.MapEntry: Mothlight Brick
+StarrVeriplantBarrierBlock.MapEntry: Starr Veriplant Barrier Block
+FogSpawnerTile.MapEntry: Fog Spawner Tile
+BossBarrierBlock.MapEntry: Boss Barrier Block
 VeriplantGrass.MapEntry: Veriplant Grass
 VeriplantDirt.MapEntry: Veriplant Dirt
 VerianoreTile.MapEntry: Verianore Tile
 VeilScripture.MapEntry: Veil Scripture
-SunAlter.MapEntry: Sun Alter
+VeilBanner2.MapEntry: Veil Banner2
+VeilBanner1.MapEntry: Veil Banner1
+SigfriedPainting.MapEntry: Sigfried Painting
+LunarPot.MapEntry: Lunar Pot
+LumiPainting.MapEntry: Lumi Painting
+GothiviaPainting.MapEntry: Gothivia Painting
+CozmirePainting.MapEntry: Cozmire Painting
+AzurerinPainting.MapEntry: Azurerin Painting
 wall7.MapEntry: wall7
 wall6.MapEntry: wall6
 wall5.MapEntry: wall5
@@ -10,7 +42,6 @@ wall4.MapEntry: wall4
 wall3.MapEntry: wall3
 wall2.MapEntry: wall2
 wall1.MapEntry: wall1
-UnstableRift.MapEntry: Unstable Rift
 StoneChest.MapEntry: Stone Chest
 stand.MapEntry: stand
 SpikeS.MapEntry: Spike S
@@ -35,16 +66,13 @@ BarS.MapEntry: Bar S
 Zebi.MapEntry: Zebi
 VheilCurtainRight.MapEntry: Vheil Curtain Right
 VheilCurtainLeft.MapEntry: Vheil Curtain Left
-RestingGrounds.MapEntry: Resting Grounds
 MasistRight.MapEntry: Masist Right
 MasistLeft.MapEntry: Masist Left
-JackPost.MapEntry: Jack Post
 GovheilWei.MapEntry: Govheil Wei
 GovheilWall.MapEntry: Govheil Wall
 GovheilHall.MapEntry: Govheil Hall
 GovheilBore.MapEntry: Govheil Bore
 GothivDoorClosed.MapEntry: Gothiv Door Closed
-Gothiv.MapEntry: Gothiv
 CurtainRight.MapEntry: Curtain Right
 CurtainLeft.MapEntry: Curtain Left
 StarbloomDirt.MapEntry: Starbloom Dirt
@@ -66,24 +94,40 @@ AowerTop.MapEntry: Aower Top
 AowerBottom.MapEntry: Aower Bottom
 Alcite.MapEntry: Alcite
 MossyStone.MapEntry: Mossy Stone
-LostScrapT.MapEntry: Lost Scrap T
+SpiderIdol.MapEntry: Spider Idol
+Robic.MapEntry: Robic
+IshtarWeb4.MapEntry: Ishtar Web4
+IshtarWeb3.MapEntry: Ishtar Web3
+IshtarWeb2.MapEntry: Ishtar Web2
+IshtarWeb1.MapEntry: Ishtar Web1
+IshtarMoss.MapEntry: Ishtar Moss
+IshtarChest.MapEntry: Ishtar Chest
+IshtarCandles.MapEntry: Ishtar Candles
+BushyWebss.MapEntry: Bushy Webss
+BushySticks.MapEntry: Bushy Sticks
+BushyEyes.MapEntry: Bushy Eyes
+IlluriaLeafTile.MapEntry: Illuria Leaf Tile
+IlluriaTreesmall.MapEntry: Illuria Treesmall
+IlluriaTreeBig.MapEntry: Illuria Tree Big
+IlluriaChest.MapEntry: Illuria Chest
+IlluriaBranch.MapEntry: Illuria Branch
 HuntiacTile.MapEntry: Huntiac Tile
 GovheilTile.MapEntry: Govheil Tile
+GlisteningOreTile.MapEntry: Glistening Ore Tile
 FrileOreTile.MapEntry: Frile Ore Tile
+SmallVeilPot.MapEntry: Small Veil Pot
 MechanicS.MapEntry: Mechanic S
+LabsS.MapEntry: Labs S
 DrakonSileS.MapEntry: Drakon Sile S
 DrakonHallS.MapEntry: Drakon Hall S
 DrakonCageS.MapEntry: Drakon Cage S
-DiminishedMetal.MapEntry: Diminished Metal
-CoreGemT.MapEntry: Core Gem T
 CinderChest.MapEntry: Cinder Chest
 ChiseledStone.MapEntry: Chiseled Stone
-CellConverter.MapEntry: Cell Converter
-CatacombsSummon.MapEntry: Catacombs Summon
+CauldronTile.MapEntry: Cauldron Tile
 CatacombsDoorClosed.MapEntry: Catacombs Door Closed
 BroochesTable.MapEntry: Brooches Table
-AstrasilkOreTile.MapEntry: Astrasilk Ore Tile
 Arnchar.MapEntry: Arnchar
+TreeOver3.MapEntry: Tree Over3
 TreeOver2.MapEntry: Tree Over2
 TreeOver1.MapEntry: Tree Over1
 Stalagmite4.MapEntry: Stalagmite4
@@ -93,6 +137,9 @@ Stalagmite1.MapEntry: Stalagmite1
 OwlTrunck3.MapEntry: Owl Trunck3
 OwlTrunck2.MapEntry: Owl Trunck2
 OwlTrunck1.MapEntry: Owl Trunck1
+Mushroom3.MapEntry: Mushroom3
+Mushroom2.MapEntry: Mushroom2
+Mushroom1.MapEntry: Mushroom1
 BigRock4.MapEntry: Big Rock4
 BigRock3.MapEntry: Big Rock3
 BigRock2.MapEntry: Big Rock2
@@ -110,7 +157,6 @@ AcidBrick.MapEntry: Acid Brick
 TealBulb3.MapEntry: Teal Bulb3
 TealBulb2.MapEntry: Teal Bulb2
 TealBulb.MapEntry: Teal Bulb
-SoulOre.MapEntry: Soul Ore
 Rallad.MapEntry: Rallad
 BlueFlower2.MapEntry: Blue Flower2
 BlueFlower.MapEntry: Blue Flower
@@ -120,36 +166,9 @@ AurelusDoorClosed.MapEntry: Aurelus Door Closed
 AurelusChest.MapEntry: Aurelus Chest
 AurelusBorderS.MapEntry: Aurelus Border S
 AbyssalStone.MapEntry: Abyssal Stone
-LabCrystal.MapEntry: Lab Crystal
-LabsS.MapEntry: Labs S
-IlluriaLeafTile.MapEntry: Illuria Leaf Tile
-IlluriaTreesmall.MapEntry: Illuria Treesmall
-IlluriaTreeBig.MapEntry: Illuria Tree Big
-IlluriaBranch.MapEntry: Illuria Branch
-IlluriaChest.MapEntry: Illuria Chest
-Mushroom1.MapEntry: Mushroom1
-Mushroom2.MapEntry: Mushroom2
-Mushroom3.MapEntry: Mushroom3
-AzurerinPainting.MapEntry: Azurerin Painting
-GothiviaPainting.MapEntry: Gothivia Painting
-LunarPot.MapEntry: Lunar Pot
-SigfriedPainting.MapEntry: Sigfried Painting
-VeilBanner1.MapEntry: Veil Banner1
-VeilBanner2.MapEntry: Veil Banner2
-CozmirePainting.MapEntry: Cozmire Painting
-IshtarChest.MapEntry: Ishtar Chest
-IshtarCandles.MapEntry: Ishtar Candles
-BushyWebss.MapEntry: Bushy Webss
-BushySticks.MapEntry: Bushy Sticks
-BushyEyes.MapEntry: Bushy Eyes
-IshtarDoorClosed.MapEntry: Ishtar Door Closed
-IshtarMoss.MapEntry: Ishtar Moss
-IshtarWeb1.MapEntry: Ishtar Web1
-IshtarWeb2.MapEntry: Ishtar Web2
-IshtarWeb3.MapEntry: Ishtar Web3
-IshtarWeb4.MapEntry: Ishtar Web4
-Robic.MapEntry: Robic
-SpiderIdol.MapEntry: Spider Idol
-TreeOver3.MapEntry: Tree Over3
-SmallVeilPot.MapEntry: Small Veil Pot
-LumiPainting.MapEntry: Lumi Painting
+XixianFlaskCollectible.MapEntry: Xixian Flask Collectible
+StaminaFlaskCollectible.MapEntry: Stamina Flask Collectible
+SpringHillsInnerMapCollectible.MapEntry: Spring Hills Inner Map Collectible
+WarriorsDoorCollectible.MapEntry: Warriors Door Collectible
+WitchTownMapCollectible.MapEntry: Witch Town Map Collectible
+LivingrootOreTile.MapEntry: Livingroot Ore Tile
