@@ -1,0 +1,8 @@
+displayName = Lunar Veil穹月天纱汉化
+author = 玲珑汉化组
+version = 1.0.0.0
+modReferences = Stellamod
+translationMod = true
+side = Client
+hideResources = true
+hideCode = true
